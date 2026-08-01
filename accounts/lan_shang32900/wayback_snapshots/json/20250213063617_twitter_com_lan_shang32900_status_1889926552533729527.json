@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1889401576793792975",
+    "created_at": "2025-02-13T06:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T07:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889926552533729527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666010240725450752",
+          "start": 0,
+          "username": "amedesu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889926552533729527",
+    "in_reply_to_user_id": "1666010240725450752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889401576793792975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amedesu01 我也想玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1889401576793792975",
+        "created_at": "2025-02-13T06:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T07:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889926552533729527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666010240725450752",
+              "start": 0,
+              "username": "amedesu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889926552533729527",
+        "in_reply_to_user_id": "1666010240725450752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889401576793792975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amedesu01 我也想玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666010240725450752",
+        "conversation_id": "1889401576793792975",
+        "created_at": "2025-02-11T19:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T20:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889401576793792975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889401576793792975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4386,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我建了一个聊天群谁想进？？女生直接私聊我玩拉你，男生需要过一个聊天门槛进哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 649,
+          "like_count": 29593,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 6642
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩 不互关，会回关喜欢的人",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1880574028521652420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879522383276724224/Kc7TjXfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8526,
+          "following_count": 276,
+          "like_count": 8509,
+          "listed_count": 17,
+          "media_count": 510,
+          "tweet_count": 4113
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

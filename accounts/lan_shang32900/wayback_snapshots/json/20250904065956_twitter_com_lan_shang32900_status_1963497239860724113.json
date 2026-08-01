@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963243101872611556",
+    "created_at": "2025-09-04T06:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T07:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963497239860724113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963497239860724113",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963243101872611556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 真是奇妙的规律呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963243101872611556",
+        "created_at": "2025-09-04T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963497239860724113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963497239860724113",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963243101872611556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 真是奇妙的规律呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1963243101872611556",
+        "created_at": "2025-09-03T14:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963243101872611556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963243101872611556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "笑死，班主任也好，我爸妈也好都觉得高中班里前三名都是诅咒\n理由如下\n1.能力魔咒：画画都很好\n2.心理疾病魔咒：都有不同程度的抑郁症或者双相\n3.休学魔咒：第一和第二名休学，休学之后我变成第一名……我面前读完高考，但是大三我也休学了\n4.长相魔咒：都长得不高而且皮肤很白\n\n真的，我感觉这就是个坑诅咒一样"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 833,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死，班主任也好，我爸妈也好都觉得高中班里前三名都是诅咒\n理由如下\n1.能力魔咒：画画都很好\n2.心理疾病魔咒：都有不同程度的抑郁症或者双相\n3.休学魔咒：第一和第二名休学，休学之后我变成第一名……我面前读完高考，但是大三我也休学了\n4.长相魔咒：都长得不高而且皮肤很白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 711,
+          "like_count": 36556,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 9275
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨🚪55r仅闲聊丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 73,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 50,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1962367776431165729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40706,
+          "following_count": 1080,
+          "like_count": 23690,
+          "listed_count": 49,
+          "media_count": 2626,
+          "tweet_count": 30035
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

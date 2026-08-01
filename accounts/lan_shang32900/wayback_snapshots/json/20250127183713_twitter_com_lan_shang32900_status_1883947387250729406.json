@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883947384432123904"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1883947387250729406",
+    "created_at": "2025-01-27T18:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T19:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883947387250729406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sPsR2qsS27",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1883947387250729406/photo/1",
+          "media_key": "3_1883947384432123904",
+          "start": 0,
+          "url": "https://t.co/sPsR2qsS27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883947387250729406",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sPsR2qsS27"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883947387250729406].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883947387250729406",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883947387250729406"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_1883947384432123904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiUgKiCaYAAgdV2.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 638,
+          "like_count": 29452,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 6585
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

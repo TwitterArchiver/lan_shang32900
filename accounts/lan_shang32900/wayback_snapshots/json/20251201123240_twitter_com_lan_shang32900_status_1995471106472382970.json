@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1995114874104353041",
+    "created_at": "2025-12-01T12:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995471106472382970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780620789211152384",
+          "start": 0,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995471106472382970",
+    "in_reply_to_user_id": "1780620789211152384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995114874104353041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maque478728 小雀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1995114874104353041",
+        "created_at": "2025-12-01T12:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995471106472382970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780620789211152384",
+              "start": 0,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995471106472382970",
+        "in_reply_to_user_id": "1780620789211152384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995114874104353041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maque478728 小雀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780620789211152384",
+        "conversation_id": "1995114874104353041",
+        "created_at": "2025-11-30T12:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995114874104353041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995114874104353041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 727,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雀是一只年老的雀，但年轻时的经历仍然让它对每一只新生的雀唠叨，只是无人在意它那些陈年旧事更别说它那愈发混乱的记忆.但愿寒风别将我冻死在这个寒夜，雀想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 760,
+          "like_count": 39396,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 10145
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "可以称呼我小麻雀.目前在流浪中，希望门槛哥多多🚪价位是168/368/520/1314...一阶门槛解锁视频/语音全天陪聊入门后可加福利群不定时发送群主色图入二阶门槛可时不时找博主裸聊",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "pinned_tweet_id": "1981048694645674429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 124,
+          "like_count": 568,
+          "listed_count": 9,
+          "media_count": 272,
+          "tweet_count": 1675
+        },
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

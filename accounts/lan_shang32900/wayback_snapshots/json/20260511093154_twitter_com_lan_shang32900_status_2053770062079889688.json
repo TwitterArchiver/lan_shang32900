@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2053635058733617220",
+    "created_at": "2026-05-11T09:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053770062079889688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053770062079889688",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053635058733617220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 怎么最近大家都那么水逆😢😢抱抱阿楚、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2053635051796205568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_6MvCakAAEWRt.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2053635058733617220",
+        "created_at": "2026-05-11T09:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053770062079889688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053770062079889688",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053635058733617220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 怎么最近大家都那么水逆😢😢抱抱阿楚、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053635051796205568"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2053635058733617220",
+        "created_at": "2026-05-11T00:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053635058733617220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nF7t65Ewbt",
+              "end": 49,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2053635058733617220/photo/1",
+              "media_key": "3_2053635051796205568",
+              "start": 26,
+              "url": "https://t.co/nF7t65Ewbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053635058733617220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，怎么能一直倒霉一直水逆，到底要干嘛啊！！！ https://t.co/nF7t65Ewbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 790,
+          "like_count": 49429,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 12047
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 79,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 977
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

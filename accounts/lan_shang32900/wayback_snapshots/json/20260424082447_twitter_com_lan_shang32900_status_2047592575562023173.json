@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2045339738408923551",
+    "created_at": "2026-04-24T08:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047592575562023173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "AquaSerinda17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047592575562023173",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047590260285321688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AquaSerinda17 😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2045339738408923551",
+        "created_at": "2026-04-24T08:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047592575562023173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "AquaSerinda17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047592575562023173",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047590260285321688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AquaSerinda17 😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2045339738408923551",
+        "created_at": "2026-04-24T08:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047590260285321688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047590260285321688",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045339738408923551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 对，，这种感觉好奇怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 793,
+          "like_count": 46753,
+          "listed_count": 3,
+          "media_count": 791,
+          "tweet_count": 11600
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水🩵请详细阅读我的简介和置顶\n主要发NSFW和碎碎念以及转贴\n❌不加联系别发私信不免费陪聊\n05/170/104🚪88➕v好友位\n⚠️bpd | ADHD | oder\n欢迎自伤和药物滥用者互fo交友",
+        "id": "2029585628074262528",
+        "location": "无爱之森",
+        "name": "水色歌",
+        "pinned_tweet_id": "2046496372447498378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 79,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 600
+        },
+        "username": "AquaSerinda17",
+        "verified": false
+      }
+    ]
+  }
+}

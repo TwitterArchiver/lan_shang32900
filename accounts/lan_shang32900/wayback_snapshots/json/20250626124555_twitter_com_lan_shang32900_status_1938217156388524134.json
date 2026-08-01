@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1938090030913990899",
+    "created_at": "2025-06-26T12:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T13:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938217156388524134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938217156388524134",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938090030913990899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot ！图1是什么看上去好好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_1938090018901471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV6mo9aMAAb3Mr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1630,
+        "media_key": "3_1938090018880557058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV6mo4bEAIDxSB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938090018914111491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV6mpAbEAMgGag.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938090018951860230",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV6mpJbEAYIA5L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1938090030913990899",
+        "created_at": "2025-06-26T12:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938217156388524134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938217156388524134",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938090030913990899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot ！图1是什么看上去好好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938090018901471232",
+            "3_1938090018880557058",
+            "3_1938090018914111491",
+            "3_1938090018951860230"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938090030913990899",
+        "created_at": "2025-06-26T04:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938090030913990899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uvy5rBzJKH",
+              "end": 31,
+              "expanded_url": "https://x.com/Glagagapot/status/1938090030913990899/photo/1",
+              "media_key": "3_1938090018901471232",
+              "start": 8,
+              "url": "https://t.co/Uvy5rBzJKH"
+            },
+            {
+              "display_url": "pic.x.com/Uvy5rBzJKH",
+              "end": 31,
+              "expanded_url": "https://x.com/Glagagapot/status/1938090030913990899/photo/1",
+              "media_key": "3_1938090018880557058",
+              "start": 8,
+              "url": "https://t.co/Uvy5rBzJKH"
+            },
+            {
+              "display_url": "pic.x.com/Uvy5rBzJKH",
+              "end": 31,
+              "expanded_url": "https://x.com/Glagagapot/status/1938090030913990899/photo/1",
+              "media_key": "3_1938090018914111491",
+              "start": 8,
+              "url": "https://t.co/Uvy5rBzJKH"
+            },
+            {
+              "display_url": "pic.x.com/Uvy5rBzJKH",
+              "end": 31,
+              "expanded_url": "https://x.com/Glagagapot/status/1938090030913990899/photo/1",
+              "media_key": "3_1938090018951860230",
+              "start": 8,
+              "url": "https://t.co/Uvy5rBzJKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938090030913990899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1174,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃得我咪飞扔炸 https://t.co/Uvy5rBzJKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 654,
+          "like_count": 32134,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 7670
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎国公民🇨🇦｜猎奇｜逆弯嘎",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936371039803752450/lRRmVBIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1098,
+          "like_count": 64705,
+          "listed_count": 4,
+          "media_count": 1771,
+          "tweet_count": 21832
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

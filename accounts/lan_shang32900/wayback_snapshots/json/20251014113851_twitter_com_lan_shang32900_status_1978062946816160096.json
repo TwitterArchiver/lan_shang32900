@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1977957981338910848",
+    "created_at": "2025-10-14T11:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T12:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978062946816160096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924364001267576832",
+          "start": 0,
+          "username": "Meow_Bellaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978062946816160096",
+    "in_reply_to_user_id": "1924364001267576832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977957981338910848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow_Bellaaa 萌死了筷子……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977957971108966400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MeS4iaMAAUfyR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1977957981338910848",
+        "created_at": "2025-10-14T11:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978062946816160096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924364001267576832",
+              "start": 0,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978062946816160096",
+        "in_reply_to_user_id": "1924364001267576832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977957981338910848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Bellaaa 萌死了筷子……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977957971108966400"
+          ]
+        },
+        "author_id": "1924364001267576832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977957981338910848",
+        "created_at": "2025-10-14T04:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977957981338910848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dctp5LpfTM",
+              "end": 31,
+              "expanded_url": "https://x.com/Meow_Bellaaa/status/1977957981338910848/photo/1",
+              "media_key": "3_1977957971108966400",
+              "start": 8,
+              "url": "https://t.co/dctp5LpfTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977957981338910848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小咪今天吃什么 https://t.co/dctp5LpfTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 775,
+          "like_count": 39247,
+          "listed_count": 4,
+          "media_count": 726,
+          "tweet_count": 10076
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T07:18:42.000Z",
+        "description": "ENFJ-A天秤日记本📓｜活人感🧩掉落｜随你怎么说 也请随我怎么说🤫｜世界就是个巨大的心想事成 只想追求内心的平静｜不要给我分类和贴标签 惹我会触发愤怒咪请三思｜可以叫我小咪 谢谢你关注我🫶🏻｜咪有一个岁月静好的社群｜Brain Is The New Sexy.🧠｜如果我一直在玩请催我做课题🤲🏻",
+        "id": "1924364001267576832",
+        "location": "咪之幸福乌托邦",
+        "name": "小咪殿下萬歲萬歲萬萬歲（勇闯科研版）",
+        "pinned_tweet_id": "1925852097314001194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967238990878461952/e0w_WQXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 154,
+          "like_count": 14236,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 4205
+        },
+        "username": "Meow_Bellaaa",
+        "verified": false
+      }
+    ]
+  }
+}

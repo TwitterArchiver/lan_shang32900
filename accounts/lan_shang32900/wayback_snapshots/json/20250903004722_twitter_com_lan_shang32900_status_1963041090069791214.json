@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962870147888410944",
+    "created_at": "2025-09-03T00:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T01:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963041090069791214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963041090069791214",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962870147888410944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura2333owo 我是天生雄壮胳膊体质啊啊其实很想减肌肉来着（（）属于只有爆发力那种，很多时候拍照只能凹角度……好羡慕夏夏的胳膊呜呜呜(ᐡ т  ̫ т ᐡ)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962870068389519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7W6aoAA0iU8.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962870068418957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7XBb0AATqU_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962870068381175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7W4bUAAjpra.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962870147888410944",
+        "created_at": "2025-09-03T00:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T01:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963041090069791214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963041090069791214",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962870147888410944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 我是天生雄壮胳膊体质啊啊其实很想减肌肉来着（（）属于只有爆发力那种，很多时候拍照只能凹角度……好羡慕夏夏的胳膊呜呜呜(ᐡ т  ̫ т ᐡ)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962870068389519360",
+            "3_1962870068418957312",
+            "3_1962870068381175808"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962870147888410944",
+        "created_at": "2025-09-02T13:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962870147888410944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068389519360",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            },
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068418957312",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            },
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068381175808",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962870147888410944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1247,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/OSPZSR2cPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 711,
+          "like_count": 36432,
+          "listed_count": 4,
+          "media_count": 684,
+          "tweet_count": 9214
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34689,
+          "following_count": 280,
+          "like_count": 7318,
+          "listed_count": 67,
+          "media_count": 1119,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

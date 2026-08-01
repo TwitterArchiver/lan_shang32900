@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2044334716707618922",
+    "created_at": "2026-04-15T08:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044334716707618922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2043695138355179834",
+          "start": 132,
+          "url": "https://t.co/dEVd8vxWO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044334716707618922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043695138355179834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然不是很相关但插个题外话，舞蹈类和体育竞技类这种从小就需要用身体素质来高强度训练的，青春期身体发育起来的话是怎么办啊、长个子或者女生月经，这种对运动的影响要怎么办，一定只能靠吃药物控制身体不发育才可以吗……难道对于这种激素反而才是小孩子可以用合法遵医嘱使用的吗 https://t.co/dEVd8vxWO5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043695126544060417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyp477bEAEIh6w.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043695125604528128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyp44ba8AA6rPv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2044334716707618922",
+        "created_at": "2026-04-15T08:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044334716707618922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2043695138355179834",
+              "start": 132,
+              "url": "https://t.co/dEVd8vxWO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044334716707618922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043695138355179834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然不是很相关但插个题外话，舞蹈类和体育竞技类这种从小就需要用身体素质来高强度训练的，青春期身体发育起来的话是怎么办啊、长个子或者女生月经，这种对运动的影响要怎么办，一定只能靠吃药物控制身体不发育才可以吗……难道对于这种激素反而才是小孩子可以用合法遵医嘱使用的吗 https://t.co/dEVd8vxWO5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043695126544060417",
+            "3_2043695125604528128"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043695138355179834",
+        "created_at": "2026-04-13T14:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043695138355179834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jJMbLgftX",
+              "end": 48,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+              "media_key": "3_2043695126544060417",
+              "start": 25,
+              "url": "https://t.co/3jJMbLgftX"
+            },
+            {
+              "display_url": "pic.x.com/3jJMbLgftX",
+              "end": 48,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+              "media_key": "3_2043695125604528128",
+              "start": 25,
+              "url": "https://t.co/3jJMbLgftX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043695138355179834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 528270,
+          "like_count": 1261,
+          "quote_count": 3,
+          "reply_count": 226,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "不是抖音你他妈卖什么呢？这玩意都能摆到明面上了？ https://t.co/3jJMbLgftX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 794,
+          "like_count": 44681,
+          "listed_count": 3,
+          "media_count": 784,
+          "tweet_count": 11232
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2044206594536419798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 2914,
+          "like_count": 22559,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 5896
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

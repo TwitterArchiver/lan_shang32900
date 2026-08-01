@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2042793163933237447",
+    "created_at": "2026-04-11T09:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042890910984475042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        },
+        {
+          "end": 24,
+          "id": "1989517742127652866",
+          "start": 15,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042890910984475042",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042793163933237447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 @AGNK_553 你猜怎么着，afab从小也有这种体验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2042793163933237447",
+        "created_at": "2026-04-11T09:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042890910984475042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            },
+            {
+              "end": 24,
+              "id": "1989517742127652866",
+              "start": 15,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042890910984475042",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793163933237447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 @AGNK_553 你猜怎么着，afab从小也有这种体验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042793163933237447",
+        "created_at": "2026-04-11T02:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042793163933237447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042793163933237447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可是我从小到大就没被人哄过只听过...\n《大男子汉哭什么哭》\n《别哭了，再哭gun出去》\n《再哭一声没有饭吃》\n《再哭就打电话给你家长带回家哭》\n《有什么好委屈的》\n《谁叫你当初不听我的》\n《这孩子怎么跟我不亲呢》\n《这孩子怎么现在不喜欢说话了呢》\n《你这孩子怎么这么矫情》\n《把眼泪给我憋回去》\n《哭什么哭，吃饭》\n《我看你是找揍了》\n《gun出来吃饭，闹什么脾气》\n《我就说了你几句怎么还哭上了》\n《大男子汉的能不能坚强点》\n《有这时间哭说不定事情早就解决了》\n《我怎么生了你这么一个小孩》"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6964,
+          "like_count": 182,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "可是我从小到大就没被人哄过只听过...\n《大男子汉哭什么哭》\n《别哭了，再哭gun出去》\n《再哭一声没有饭吃》\n《再哭就打电话给你家长带回家哭》\n《有什么好委屈的》\n《谁叫你当初不听我的》\n《这孩子怎么跟我不亲呢》\n《这孩子怎么现在不喜欢说话了呢》\n《你这孩子怎么这么矫情》\n《把眼泪给我憋回去》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 797,
+          "like_count": 43402,
+          "listed_count": 3,
+          "media_count": 777,
+          "tweet_count": 10948
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 279,
+          "like_count": 5418,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 809
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 可以叫我553\n09 MTX？\n简繁中/EN ok\n大多数时候图文无关qwq\n求聊天什么都行\n查成分回fo 没回是没看到可以评论咪\n看黄男&粉红勿扰\n🚫NSFW 关注通过暂时严一点w\n简介编辑中…\nご主人様～@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/I1BmnnGQJV"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "半夜大概在VRC",
+        "name": "AG553⭐️互fo喵～",
+        "pinned_tweet_id": "2025915693078901021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1440,
+          "like_count": 29937,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/I1BmnnGQJV",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

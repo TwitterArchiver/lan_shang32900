@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1923760006635323411",
+    "created_at": "2025-05-17T15:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923760006635323411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuna_liii/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yuna_liii/status/1923705581954793538",
+          "start": 22,
+          "url": "https://t.co/nZ20D6oKFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923760006635323411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923705581954793538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我应该也算白幼瘦吧 白痴 幼稚 受不了一切 https://t.co/nZ20D6oKFv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1923760006635323411",
+        "created_at": "2025-05-17T15:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923760006635323411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuna_liii/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yuna_liii/status/1923705581954793538",
+              "start": 22,
+              "url": "https://t.co/nZ20D6oKFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923760006635323411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923705581954793538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该也算白幼瘦吧 白痴 幼稚 受不了一切 https://t.co/nZ20D6oKFv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3020862781",
+        "conversation_id": "1923705581954793538",
+        "created_at": "2025-05-17T11:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923705581954793538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923705581954793538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该也算白幼瘦吧 白痴 幼稚 受不了一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 653,
+          "like_count": 31845,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 7374
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-15T08:48:00.000Z",
+        "description": "无性别/低浮上/离我远点 永爱@osakana_yui030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "osakana_yui030"
+              }
+            ]
+          }
+        },
+        "id": "3020862781",
+        "location": "楼顶天台",
+        "name": "yuna",
+        "pinned_tweet_id": "1866140162604007559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911653391895310336/0UyP0pi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 186,
+          "like_count": 5875,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1659
+        },
+        "username": "yuna_liii",
+        "verified": false
+      }
+    ]
+  }
+}

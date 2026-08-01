@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1955531114229235938",
+    "created_at": "2025-08-13T08:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955551102927335867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "xEndlEssyAm1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955551102927335867",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955532027463340355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xEndlEssyAm1x 蹦蹦跳跳發出玩耍邀請）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1955531114229235938",
+        "created_at": "2025-08-13T08:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955551102927335867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "xEndlEssyAm1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955551102927335867",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955532027463340355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xEndlEssyAm1x 蹦蹦跳跳發出玩耍邀請）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1955531114229235938",
+        "created_at": "2025-08-13T07:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955532027463340355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955532027463340355",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955531114229235938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 尾巴蓬蓬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 689,
+          "like_count": 34869,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 8658
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "连/连接︱OD/自傷︱無言フォロー︱絵垢@xsA1sE1x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "xsA1sE1x"
+              }
+            ]
+          }
+        },
+        "id": "1821916949456285696",
+        "location": "为什么要看我？",
+        "name": "笑（）笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 68,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 573
+        },
+        "username": "xEndlEssyAm1x",
+        "verified": false
+      }
+    ]
+  }
+}

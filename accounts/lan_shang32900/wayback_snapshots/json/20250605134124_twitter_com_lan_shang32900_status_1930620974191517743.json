@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1930613584838746505",
+    "created_at": "2025-06-05T13:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930620974191517743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "minamitwo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930620974191517743",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930613584838746505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minamitwo2 这素什么！石塑黏土吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1930613581995028480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrq0vFbsAAxGjw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1930613584838746505",
+        "created_at": "2025-06-05T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930620974191517743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "minamitwo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930620974191517743",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930613584838746505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minamitwo2 这素什么！石塑黏土吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930613581995028480"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "1930613584838746505",
+        "created_at": "2025-06-05T13:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930613584838746505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nHo4n57RJ",
+              "end": 26,
+              "expanded_url": "https://x.com/minamitwo2/status/1930613584838746505/photo/1",
+              "media_key": "3_1930613581995028480",
+              "start": 3,
+              "url": "https://t.co/2nHo4n57RJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930613584838746505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好 https://t.co/2nHo4n57RJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（接线下）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 647,
+          "like_count": 32296,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 7525
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "我是小南  喜欢二次元 小动物 做手工",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "🍀南南南南南南",
+        "pinned_tweet_id": "1913006347765137642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930327158171545602/3so043ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 947,
+          "like_count": 57232,
+          "listed_count": 6,
+          "media_count": 545,
+          "tweet_count": 11581
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "minamitwo2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1932979028459467099",
+    "created_at": "2025-06-12T14:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933170170387988539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933170170387988539",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932979028459467099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1932979028459467099",
+        "created_at": "2025-06-12T14:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933170170387988539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933170170387988539",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932979028459467099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1932979028459467099",
+        "created_at": "2025-06-12T01:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T02:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932979028459467099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KillerBeeSweet…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/KillerBeeSweety/status/1932854651151610207",
+              "start": 48,
+              "url": "https://t.co/ZBwHcYB53O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932979028459467099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1377,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932854651151610207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更极端一点我甚至想把我粉丝列表里的人全清了只剩下玩ff14的\n然后在这群狒批里也清掉一半魔怔人 https://t.co/ZBwHcYB53O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（接线下）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 646,
+          "like_count": 32303,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 7557
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1929051226844397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932847399321612288/JYF_Qc8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16824,
+          "following_count": 1711,
+          "like_count": 29554,
+          "listed_count": 21,
+          "media_count": 2506,
+          "tweet_count": 20528
+        },
+        "username": "KillerBeeSweety",
+        "verified": true
+      }
+    ]
+  }
+}

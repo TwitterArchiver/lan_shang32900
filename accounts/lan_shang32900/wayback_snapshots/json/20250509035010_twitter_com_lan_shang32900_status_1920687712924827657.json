@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920687712924827657",
+    "created_at": "2025-05-09T03:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T04:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920687712924827657"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920687712924827657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在上吐下泻中焦虑促使我无法入眠……梦里自己回到小孩子总有伙伴拉着我到处去玩，抓萤火虫，去游乐园，最后像流浪猫一样缩成一团睡着了。在很喧嚣的世界里有安静的天地、明明是那么好的梦境啊，可是和现实一点关系都没有\n\n我不想再睡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920687712924827657",
+        "created_at": "2025-05-09T03:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T04:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920687712924827657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920687712924827657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在上吐下泻中焦虑促使我无法入眠……梦里自己回到小孩子总有伙伴拉着我到处去玩，抓萤火虫，去游乐园，最后像流浪猫一样缩成一团睡着了。在很喧嚣的世界里有安静的天地、明明是那么好的梦境啊，可是和现实一点关系都没有\n\n我不想再睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 649,
+          "like_count": 31401,
+          "listed_count": 0,
+          "media_count": 554,
+          "tweet_count": 7260
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1975426642291159238",
+    "created_at": "2025-10-07T06:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T07:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975448372225188065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1604758401548185600",
+          "start": 0,
+          "username": "Whiztsoi"
+        },
+        {
+          "end": 25,
+          "id": "1530699087133421568",
+          "start": 10,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975448372225188065",
+    "in_reply_to_user_id": "1604758401548185600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975441975529918958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whiztsoi @SpicyspacEmk16 好厲害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1975426642291159238",
+        "created_at": "2025-10-07T06:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975448372225188065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1604758401548185600",
+              "start": 0,
+              "username": "Whiztsoi"
+            },
+            {
+              "end": 25,
+              "id": "1530699087133421568",
+              "start": 10,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975448372225188065",
+        "in_reply_to_user_id": "1604758401548185600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975441975529918958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whiztsoi @SpicyspacEmk16 好厲害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604758401548185600",
+        "conversation_id": "1975426642291159238",
+        "created_at": "2025-10-07T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975441975529918958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975441975529918958",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975426642291159238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 之前加过一个地域群,整天都有六个以上人在连麦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 764,
+          "like_count": 39025,
+          "listed_count": 4,
+          "media_count": 721,
+          "tweet_count": 10014
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T08:40:09.000Z",
+        "description": "痛苦从不改变,改变的是希望",
+        "id": "1604758401548185600",
+        "name": "亚热带没有春天",
+        "pinned_tweet_id": "1954410788996685906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967211412142583808/VNnW5xMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 233,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 326
+        },
+        "username": "Whiztsoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 1282,
+          "like_count": 86513,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 8022
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

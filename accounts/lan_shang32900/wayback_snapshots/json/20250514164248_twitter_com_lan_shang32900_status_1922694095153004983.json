@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922565084275990538",
+    "created_at": "2025-05-14T16:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922694095153004983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922694095153004983",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922565084275990538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 想起自己以前也是有合唱比赛的……好像化妆还因为太多粉尘过敏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922565074125983744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq5Sv6zaEAA0JTR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922565084275990538",
+        "created_at": "2025-05-14T16:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922694095153004983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922694095153004983",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922565084275990538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 想起自己以前也是有合唱比赛的……好像化妆还因为太多粉尘过敏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922565074125983744"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1922565084275990538",
+        "created_at": "2025-05-14T08:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922565084275990538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cH4ZHU16Vw",
+              "end": 36,
+              "expanded_url": "https://x.com/bai57248/status/1922565084275990538/photo/1",
+              "media_key": "3_1922565074125983744",
+              "start": 13,
+              "url": "https://t.co/cH4ZHU16Vw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922565084275990538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天合唱比赛的图，忘发了 https://t.co/cH4ZHU16Vw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 652,
+          "like_count": 31673,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 7337
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话//恋人：@YunxMu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "YunxMu"
+              }
+            ]
+          }
+        },
+        "id": "1677530479782768641",
+        "name": "OverQuan Wiki",
+        "pinned_tweet_id": "1914713326560616476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842627624369106944/PT5HoBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6085,
+          "following_count": 755,
+          "like_count": 35397,
+          "listed_count": 8,
+          "media_count": 1536,
+          "tweet_count": 9179
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

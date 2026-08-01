@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2052013067060535604",
+    "created_at": "2026-05-07T07:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052291869728756096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1828405015159173120",
+          "start": 0,
+          "username": "nya_souta"
+        },
+        {
+          "end": 23,
+          "id": "1683100206",
+          "start": 11,
+          "username": "Tentsuinani"
+        },
+        {
+          "end": 33,
+          "id": "1507426536487542789",
+          "start": 24,
+          "username": "5DtbP2Hd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052291869728756096",
+    "in_reply_to_user_id": "1828405015159173120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052013067060535604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_souta @Tentsuinani @5DtbP2Hd 品鉴高雅艺术中（？）真的很美啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052013067060535604].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052013067060535604",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052013067060535604"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2052013067060535604",
+        "created_at": "2026-05-07T07:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052291869728756096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1828405015159173120",
+              "start": 0,
+              "username": "nya_souta"
+            },
+            {
+              "end": 23,
+              "id": "1683100206",
+              "start": 11,
+              "username": "Tentsuinani"
+            },
+            {
+              "end": 33,
+              "id": "1507426536487542789",
+              "start": 24,
+              "username": "5DtbP2Hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052291869728756096",
+        "in_reply_to_user_id": "1828405015159173120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052013067060535604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_souta @Tentsuinani @5DtbP2Hd 品鉴高雅艺术中（？）真的很美啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 794,
+          "like_count": 48778,
+          "listed_count": 5,
+          "media_count": 801,
+          "tweet_count": 11983
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T12:11:49.000Z",
+        "description": "@nya_korii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nya_korii"
+              }
+            ]
+          }
+        },
+        "id": "1828405015159173120",
+        "location": "Sydney, New South Wales",
+        "name": "宮本颯太🐧",
+        "pinned_tweet_id": "1828437704939577726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004934596404928512/XVb1XHRk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 897,
+          "like_count": 29944,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 6507
+        },
+        "username": "nya_souta",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-19T12:21:31.000Z",
+        "description": "積極的に英語勉強中｜通訳初心者｜日々自惭形秽｜スタレ(穹|丹穹推し)｜✈️🚄｜目指せ筋肉｜ムーミン｜三国志｜英雄伝説：朱海空零碧閃創黎界｜ペルソナ｜Fate｜アニソン｜擬人化♂｜おかしい日本語（English）はご容赦を",
+        "id": "1683100206",
+        "name": "てつあに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485435022408847360/whJzN0aV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 354,
+          "like_count": 25317,
+          "listed_count": 1,
+          "media_count": 1100,
+          "tweet_count": 7332
+        },
+        "username": "Tentsuinani",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T18:37:51.000Z",
+        "description": "Independência ou Morte!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@kristaleask",
+                "end": 23,
+                "expanded_url": "https://substack.com/@kristaleask",
+                "start": 0,
+                "url": "https://t.co/VOS9yku2rS"
+              }
+            ]
+          }
+        },
+        "id": "1507426536487542789",
+        "location": "Krikkit",
+        "name": "鍵ノ書",
+        "pinned_tweet_id": "1798077624109203761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665020259408166912/uu4zrOpB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1860,
+          "like_count": 8034,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/VOS9yku2rS",
+        "username": "5DtbP2Hd",
+        "verified": false
+      }
+    ]
+  }
+}

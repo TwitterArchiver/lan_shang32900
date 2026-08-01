@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959955899885535232"
+      ],
+      "media_source_tweet_id": [
+        "1959955924606759241"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1964538068897321476",
+    "created_at": "2025-09-07T03:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964538068897321476"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1208445210700599296",
+          "start": 3,
+          "username": "tyababa_tuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KsvHxV6Fz",
+          "end": 53,
+          "expanded_url": "https://x.com/tyababa_tuki/status/1959955924606759241/photo/1",
+          "media_key": "3_1959955899885535232",
+          "start": 30,
+          "url": "https://t.co/2KsvHxV6Fz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964538068897321476",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 572
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959955924606759241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyababa_tuki: #arcaea_art https://t.co/2KsvHxV6Fz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2226,
+        "media_key": "3_1959955899885535232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMpgbQbwAAKIKE.jpg",
+        "width": 1509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959955899885535232"
+          ],
+          "media_source_tweet_id": [
+            "1959955924606759241"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1964538068897321476",
+        "created_at": "2025-09-07T03:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964538068897321476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1208445210700599296",
+              "start": 3,
+              "username": "tyababa_tuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KsvHxV6Fz",
+              "end": 53,
+              "expanded_url": "https://x.com/tyababa_tuki/status/1959955924606759241/photo/1",
+              "media_key": "3_1959955899885535232",
+              "start": 30,
+              "url": "https://t.co/2KsvHxV6Fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964538068897321476",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 572
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959955924606759241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyababa_tuki: #arcaea_art https://t.co/2KsvHxV6Fz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959955899885535232"
+          ]
+        },
+        "author_id": "1208445210700599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1959955924606759241",
+        "created_at": "2025-08-25T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959955924606759241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KsvHxV6Fz",
+              "end": 35,
+              "expanded_url": "https://x.com/tyababa_tuki/status/1959955924606759241/photo/1",
+              "media_key": "3_1959955899885535232",
+              "start": 12,
+              "url": "https://t.co/2KsvHxV6Fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959955924606759241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 64979,
+          "like_count": 3547,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 572
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea_art https://t.co/2KsvHxV6Fz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 717,
+          "like_count": 36872,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9361
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-21T17:53:50.000Z",
+        "description": "■好き勝手やってます。たまに絵を描きます。 ■FGO（主に妖精國）メインに音ゲー(Arcaea/Lanota/Rotaeno/CHUNITHM他)、時々遊戯王。  ■イラストの無断使用禁止(許可も出せません)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/tyababa_tuki",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/tyababa_tuki",
+                "start": 0,
+                "url": "https://t.co/64pg21Jy4i"
+              }
+            ]
+          }
+        },
+        "id": "1208445210700599296",
+        "location": "フォロー前ツイプロ必読",
+        "name": "ちゃばつき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933006484312064/Tgg_csWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7812,
+          "following_count": 66,
+          "like_count": 1027,
+          "listed_count": 62,
+          "media_count": 255,
+          "tweet_count": 8277
+        },
+        "url": "https://t.co/64pg21Jy4i",
+        "username": "tyababa_tuki",
+        "verified": false
+      }
+    ]
+  }
+}

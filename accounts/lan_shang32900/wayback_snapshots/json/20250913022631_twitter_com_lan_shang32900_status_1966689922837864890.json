@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966333322398937444",
+    "created_at": "2025-09-13T02:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966689922837864890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583798816909582338",
+          "start": 0,
+          "username": "Valery_Chekalov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966689922837864890",
+    "in_reply_to_user_id": "1583798816909582338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966333322398937444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valery_Chekalov 我想成为一个男……算了我是性别火箭炮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966333322398937444",
+        "created_at": "2025-09-13T02:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966689922837864890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583798816909582338",
+              "start": 0,
+              "username": "Valery_Chekalov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966689922837864890",
+        "in_reply_to_user_id": "1583798816909582338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966333322398937444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valery_Chekalov 我想成为一个男……算了我是性别火箭炮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583798816909582338",
+        "conversation_id": "1966333322398937444",
+        "created_at": "2025-09-12T02:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966333322398937444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Line_XII/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Line_XII/status/1965975896357220431",
+              "start": 20,
+              "url": "https://t.co/P0hq2cXW93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966333322398937444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21688,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965975896357220431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一个中推人一生要经历的三件事.jpg https://t.co/P0hq2cXW93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 731,
+          "like_count": 37575,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9603
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T12:34:06.000Z",
+        "description": "时日曷丧，予及汝皆亡。",
+        "id": "1583798816909582338",
+        "location": "距离你4.2光年",
+        "name": "November Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926983182106165248/nLmd6eXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 847,
+          "like_count": 5331,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 3503
+        },
+        "username": "Valery_Chekalov",
+        "verified": false
+      }
+    ]
+  }
+}

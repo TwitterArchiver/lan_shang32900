@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2043999261147443499",
+    "created_at": "2026-04-14T19:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044141480806363551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039445108718710784",
+          "start": 0,
+          "username": "Zyr_Res2ge"
+        },
+        {
+          "end": 21,
+          "id": "1472219833261772801",
+          "start": 12,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044141480806363551",
+    "in_reply_to_user_id": "2039445108718710784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044071029400895734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zyr_Res2ge @xxx_jjkk 🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2043999261147443499",
+        "created_at": "2026-04-14T19:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044141480806363551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039445108718710784",
+              "start": 0,
+              "username": "Zyr_Res2ge"
+            },
+            {
+              "end": 21,
+              "id": "1472219833261772801",
+              "start": 12,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044141480806363551",
+        "in_reply_to_user_id": "2039445108718710784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044071029400895734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zyr_Res2ge @xxx_jjkk 🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039445108718710784",
+        "conversation_id": "2043999261147443499",
+        "created_at": "2026-04-14T15:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044071029400895734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            },
+            {
+              "end": 25,
+              "id": "1472219833261772801",
+              "start": 16,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044071029400895734",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1018,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044038767867244732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 @xxx_jjkk 很难，非常难。只要玩互联网并作为自己的社交方式之一，在国内大环境下想开一个普通人无非就是掏多少钱的问题。“降低被选中的可能”远比“被选中后如何脱身”轻松得多。——也就是让别人觉得你不值得被花价钱开盒。虽然有些不好听，但当下戾气横生的互联网环境里的确是这样……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 796,
+          "like_count": 44370,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 11173
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T20:49:46.000Z",
+        "description": "哇你好！这里是 恣！🐉\n重度龙控 & 兽人爱好者 🌈\n正在创作自己的龙设中！🖌️\n自设/日常分享🥰\nHey ! I'm Zyr !🐉\nDragon & Furry lover | LGBTQ+ 🌈\nWorking on my dragon OC ✨\nOC commissions & Daily life🥰",
+        "id": "2039445108718710784",
+        "name": "恣Res2ge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040912637547225088/o8rhUG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 68,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "Zyr_Res2ge",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 420,
+          "like_count": 10258,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

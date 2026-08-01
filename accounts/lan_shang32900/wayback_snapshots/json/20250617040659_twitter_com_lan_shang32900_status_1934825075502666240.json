@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1934549170796597461",
+    "created_at": "2025-06-17T04:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934825075502666240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934825075502666240",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934549170796597461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem 死亡会带走所有羁绊。\n一直会害怕自己有羁绊也一直害怕无羁绊，所以在反复连接又反复断开\n遗憾是留给活着的人的，死者不能诉说任何事情。生前的一切都成为过去，这时总会有人说曾经与你如何，但生前的事无法留到死后。\n死了就是死了，肉体如何与死者已经没关系了，与安置无关\n\n不忘却已经是一种送行。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_1934549161392967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjmNm1bkAAnXIb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1934549170796597461",
+        "created_at": "2025-06-17T04:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934825075502666240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934825075502666240",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934549170796597461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizon_tem 死亡会带走所有羁绊。\n一直会害怕自己有羁绊也一直害怕无羁绊，所以在反复连接又反复断开\n遗憾是留给活着的人的，死者不能诉说任何事情。生前的一切都成为过去，这时总会有人说曾经与你如何，但生前的事无法留到死后。\n死了就是死了，肉体如何与死者已经没关系了，与安置无关\n\n不忘却已经是一种送行。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934549161392967680"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1934549170796597461",
+        "created_at": "2025-06-16T09:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934549170796597461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qac5h5jxTr",
+              "end": 53,
+              "expanded_url": "https://x.com/horizon_tem/status/1934549170796597461/photo/1",
+              "media_key": "3_1934549161392967680",
+              "start": 30,
+              "url": "https://t.co/qac5h5jxTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934549170796597461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 88791,
+          "like_count": 824,
+          "quote_count": 21,
+          "reply_count": 467,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "你可以在这个帖子下面发表你对于\n死亡\n认真的，严肃的观点。 https://t.co/qac5h5jxTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 649,
+          "like_count": 32360,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 7593
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1934549170796597461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1928,
+          "like_count": 23583,
+          "listed_count": 6,
+          "media_count": 410,
+          "tweet_count": 9100
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1975602863742329119",
+    "created_at": "2025-10-07T16:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975602863742329119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975602863742329119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到底應該怎麼對第三人發表對共友的誇獎……我真的可以做到嗎，無論誇獎別人還是被別人誇獎，這對我來說是比「喜歡」「愛」更不可思議的語言系統，對於誇獎除了疑惑出神之外還有一絲奇怪的敵意，即便看上去可能欲哈又止"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1975602863742329119",
+        "created_at": "2025-10-07T16:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975602863742329119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975602863742329119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底應該怎麼對第三人發表對共友的誇獎……我真的可以做到嗎，無論誇獎別人還是被別人誇獎，這對我來說是比「喜歡」「愛」更不可思議的語言系統，對於誇獎除了疑惑出神之外還有一絲奇怪的敵意，即便看上去可能欲哈又止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 765,
+          "like_count": 39055,
+          "listed_count": 4,
+          "media_count": 721,
+          "tweet_count": 10026
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

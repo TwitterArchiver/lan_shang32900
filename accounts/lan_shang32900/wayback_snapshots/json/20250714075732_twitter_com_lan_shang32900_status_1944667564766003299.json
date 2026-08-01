@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1944352660666364365",
+    "created_at": "2025-07-14T07:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944667564766003299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685708044741771264",
+          "start": 0,
+          "username": "xiao_jiu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944667564766003299",
+    "in_reply_to_user_id": "1685708044741771264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944391220584673471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_jiu1 好猎奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1944352660666364365",
+        "created_at": "2025-07-14T07:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944667564766003299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685708044741771264",
+              "start": 0,
+              "username": "xiao_jiu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944667564766003299",
+        "in_reply_to_user_id": "1685708044741771264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944391220584673471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_jiu1 好猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685708044741771264",
+        "conversation_id": "1944352660666364365",
+        "created_at": "2025-07-13T13:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944391220584673471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944391220584673471",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944352660666364365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 656,
+          "like_count": 33174,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 7994
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T17:45:00.000Z",
+        "description": "les H🌈 ，我不要放手",
+        "id": "1685708044741771264",
+        "location": "서울",
+        "name": "柑",
+        "pinned_tweet_id": "1901469594541588917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934254619779366912/XR9SgWGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 513,
+          "like_count": 35813,
+          "listed_count": 4,
+          "media_count": 1024,
+          "tweet_count": 7767
+        },
+        "username": "xiao_jiu1",
+        "verified": false
+      }
+    ]
+  }
+}

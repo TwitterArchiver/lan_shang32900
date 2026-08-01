@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1995829515596247519",
+    "created_at": "2025-12-03T05:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T06:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996089603565228177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817120099528265728",
+          "start": 0,
+          "username": "hX61zi4Jk332357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996089603565228177",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995829515596247519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hX61zi4Jk332357 妈咪……好美的意境"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995829485082738688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KcV6KbgAA8qnB.jpg",
+        "width": 1898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1995829515596247519",
+        "created_at": "2025-12-03T05:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996089603565228177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996089603565228177",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995829515596247519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 妈咪……好美的意境"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995829485082738688"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1995829515596247519",
+        "created_at": "2025-12-02T12:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995829515596247519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2c4Ae9SF7",
+              "end": 25,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1995829515596247519/photo/1",
+              "media_key": "3_1995829485082738688",
+              "start": 2,
+              "url": "https://t.co/Q2c4Ae9SF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995829515596247519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刺 https://t.co/Q2c4Ae9SF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 764,
+          "like_count": 39504,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 10157
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9893,
+          "following_count": 84,
+          "like_count": 2007,
+          "listed_count": 23,
+          "media_count": 400,
+          "tweet_count": 2018
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966681288368165079",
+    "created_at": "2025-09-13T01:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T02:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966681288368165079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/langheying/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/langheying/status/1966325923948703891",
+          "start": 27,
+          "url": "https://t.co/zvLDnWDV1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966681288368165079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966325923948703891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我家真的一直让我们喝海马汤，结果小孩10岁来月经了 https://t.co/zvLDnWDV1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_1966325921360879616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nLAedboAAZuZY.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966681288368165079",
+        "created_at": "2025-09-13T01:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T02:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966681288368165079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/langheying/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/langheying/status/1966325923948703891",
+              "start": 27,
+              "url": "https://t.co/zvLDnWDV1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966681288368165079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966325923948703891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我家真的一直让我们喝海马汤，结果小孩10岁来月经了 https://t.co/zvLDnWDV1F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966325921360879616"
+          ]
+        },
+        "author_id": "1706612962168070144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966325923948703891",
+        "created_at": "2025-09-12T02:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966325923948703891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toi3Iigdkv",
+              "end": 31,
+              "expanded_url": "https://x.com/langheying/status/1966325923948703891/photo/1",
+              "media_key": "3_1966325921360879616",
+              "start": 8,
+              "url": "https://t.co/toi3Iigdkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966325923948703891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 191939,
+          "like_count": 741,
+          "quote_count": 12,
+          "reply_count": 66,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "增高变增睾了👁 https://t.co/toi3Iigdkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 731,
+          "like_count": 37507,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9586
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1959130278301245635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1097,
+          "like_count": 3004,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 1647
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

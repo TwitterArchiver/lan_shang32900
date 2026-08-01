@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051941920025509888"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2051941922886054059",
+    "created_at": "2026-05-06T08:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051941922886054059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033228136180219904",
+          "start": 2,
+          "username": "Chu_Echooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBN9Uef0mg",
+          "end": 92,
+          "expanded_url": "https://x.com/lan_shang32900/status/2051941922886054059/photo/1",
+          "media_key": "3_2051941920025509888",
+          "start": 69,
+          "url": "https://t.co/sBN9Uef0mg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051941922886054059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是@Chu_Echooo 给我的！！真的好漂亮好优雅🥹🥹特别喜欢这首歌\n字超漂亮、逐字临摹中（）\n૮꒰ྀི∩´  ᵕ  `∩꒱ྀིა♡ https://t.co/sBN9Uef0mg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2051941920025509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn2TfragAAKiEG.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051941920025509888"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2051941922886054059",
+        "created_at": "2026-05-06T08:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051941922886054059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033228136180219904",
+              "start": 2,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBN9Uef0mg",
+              "end": 92,
+              "expanded_url": "https://x.com/lan_shang32900/status/2051941922886054059/photo/1",
+              "media_key": "3_2051941920025509888",
+              "start": 69,
+              "url": "https://t.co/sBN9Uef0mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051941922886054059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是@Chu_Echooo 给我的！！真的好漂亮好优雅🥹🥹特别喜欢这首歌\n字超漂亮、逐字临摹中（）\n૮꒰ྀི∩´  ᵕ  `∩꒱ྀིა♡ https://t.co/sBN9Uef0mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 794,
+          "like_count": 48732,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 11972
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 71,
+          "like_count": 3677,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 937
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935629496344059904"
+      ],
+      "media_source_tweet_id": [
+        "1935629499200348542"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1947610625024397659",
+    "created_at": "2025-07-22T10:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T11:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947610625024397659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654908701772496896",
+          "start": 3,
+          "username": "Arpeggio514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MtnJfDnsw",
+          "end": 46,
+          "expanded_url": "https://x.com/Arpeggio514/status/1935629499200348542/photo/1",
+          "media_key": "3_1935629496344059904",
+          "start": 23,
+          "url": "https://t.co/5MtnJfDnsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947610625024397659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935629499200348542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arpeggio514: 那很性感了 https://t.co/5MtnJfDnsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935629496344059904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty8xYJbIAA8O9U.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935629496344059904"
+          ],
+          "media_source_tweet_id": [
+            "1935629499200348542"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1947610625024397659",
+        "created_at": "2025-07-22T10:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947610625024397659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654908701772496896",
+              "start": 3,
+              "username": "Arpeggio514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MtnJfDnsw",
+              "end": 46,
+              "expanded_url": "https://x.com/Arpeggio514/status/1935629499200348542/photo/1",
+              "media_key": "3_1935629496344059904",
+              "start": 23,
+              "url": "https://t.co/5MtnJfDnsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947610625024397659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935629499200348542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arpeggio514: 那很性感了 https://t.co/5MtnJfDnsw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935629496344059904"
+          ]
+        },
+        "author_id": "1654908701772496896",
+        "conversation_id": "1935629499200348542",
+        "created_at": "2025-06-19T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935629499200348542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MtnJfDnsw",
+              "end": 29,
+              "expanded_url": "https://x.com/Arpeggio514/status/1935629499200348542/photo/1",
+              "media_key": "3_1935629496344059904",
+              "start": 6,
+              "url": "https://t.co/5MtnJfDnsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935629499200348542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3229,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那很性感了 https://t.co/5MtnJfDnsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 667,
+          "like_count": 33719,
+          "listed_count": 0,
+          "media_count": 639,
+          "tweet_count": 8208
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "如你所见 这里什么都没有",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Arpeggio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926356005346070528/GzeRZ3sC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 1161,
+          "like_count": 20247,
+          "listed_count": 8,
+          "media_count": 245,
+          "tweet_count": 3518
+        },
+        "username": "Arpeggio514",
+        "verified": false
+      }
+    ]
+  }
+}

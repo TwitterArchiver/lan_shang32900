@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943587020867051936",
+    "created_at": "2025-07-27T03:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T04:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949312097864839471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771559675865255936",
+          "start": 0,
+          "username": "AiharaShizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949312097864839471",
+    "in_reply_to_user_id": "1771559675865255936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943587020867051936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiharaShizuku 怎麼長成我的理想身材"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943587001141227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkCFHkW8AAfPO9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943587020867051936",
+        "created_at": "2025-07-27T03:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949312097864839471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771559675865255936",
+              "start": 0,
+              "username": "AiharaShizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949312097864839471",
+        "in_reply_to_user_id": "1771559675865255936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943587020867051936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiharaShizuku 怎麼長成我的理想身材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943587001141227520"
+          ]
+        },
+        "author_id": "1771559675865255936",
+        "conversation_id": "1943587020867051936",
+        "created_at": "2025-07-11T08:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943587020867051936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtzgyBGura",
+              "end": 125,
+              "expanded_url": "https://x.com/AiharaShizuku/status/1943587020867051936/photo/1",
+              "media_key": "3_1943587001141227520",
+              "start": 102,
+              "url": "https://t.co/vtzgyBGura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943587020867051936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9258,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "记录现阶段身材\n目前176cm60kg 胸腰臀84/67/90 腿围52/34.5 正宗5比5小短腿😥\n很难想象这个人是从180斤瘦下来的……\n接下来一段时间的目标是把屁股和奶子找回来😭加油啊水滴鱼大王 https://t.co/vtzgyBGura"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 671,
+          "like_count": 34139,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 8342
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:28:42.000Z",
+        "description": "水滴💧｜生理性别男｜hrt2024.5.27｜176cm60kg｜男友：@YhYhlu18🐟 闺蜜：@Ayanamixing_fly✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "YhYhlu18"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "Ayanamixing_fly"
+              }
+            ]
+          }
+        },
+        "id": "1771559675865255936",
+        "location": "ヨルシカ",
+        "name": "藍原雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942398197734735872/pmBJUcRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 584,
+          "like_count": 10045,
+          "listed_count": 19,
+          "media_count": 22,
+          "tweet_count": 1594
+        },
+        "username": "AiharaShizuku",
+        "verified": false
+      }
+    ]
+  }
+}

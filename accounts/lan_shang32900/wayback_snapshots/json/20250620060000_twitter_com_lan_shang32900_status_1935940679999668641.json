@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1935874667027599863",
+    "created_at": "2025-06-20T06:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T07:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935940679999668641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1575798272643321857",
+          "start": 0,
+          "username": "Sejuedaocuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935940679999668641",
+    "in_reply_to_user_id": "1575798272643321857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935874667027599863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sejuedaocuo 这个什么效果来着🤔好耳熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935874648064823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt2bvFeWkAAo-vP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1935874667027599863",
+        "created_at": "2025-06-20T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935940679999668641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1575798272643321857",
+              "start": 0,
+              "username": "Sejuedaocuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935940679999668641",
+        "in_reply_to_user_id": "1575798272643321857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935874667027599863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sejuedaocuo 这个什么效果来着🤔好耳熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935874648064823296"
+          ]
+        },
+        "author_id": "1575798272643321857",
+        "conversation_id": "1935874667027599863",
+        "created_at": "2025-06-20T01:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T02:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935874667027599863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nODy5yowp",
+              "end": 38,
+              "expanded_url": "https://x.com/Sejuedaocuo/status/1935874667027599863/photo/1",
+              "media_key": "3_1935874648064823296",
+              "start": 15,
+              "url": "https://t.co/4nODy5yowp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935874667027599863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了一堆养胃药，吃完就养胃。 https://t.co/4nODy5yowp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 648,
+          "like_count": 32159,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 7613
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T10:42:54.000Z",
+        "description": "中文🍀using a translator🌿\n❗不允许拿我的画练AI❌",
+        "id": "1575798272643321857",
+        "name": "死胎",
+        "pinned_tweet_id": "1759237227081760782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866470457341612033/r_0TdcDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 489,
+          "like_count": 23785,
+          "listed_count": 2,
+          "media_count": 605,
+          "tweet_count": 3196
+        },
+        "username": "Sejuedaocuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937009591327350784"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937009594360041808",
+    "created_at": "2025-06-23T04:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T05:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937009594360041808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YV71mXuoxU",
+          "end": 55,
+          "expanded_url": "https://x.com/lan_shang32900/status/1937009594360041808/photo/1",
+          "media_key": "3_1937009591327350784",
+          "start": 32,
+          "url": "https://t.co/YV71mXuoxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937009594360041808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个材质猫怎么那么喜欢，衣服就没有没猫毛的时候，碰到就上去踩奶 https://t.co/YV71mXuoxU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937009594360041808].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937009594360041808",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937009594360041808"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937009591327350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGj9emXYAAj07l.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 649,
+          "like_count": 32267,
+          "listed_count": 0,
+          "media_count": 603,
+          "tweet_count": 7637
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

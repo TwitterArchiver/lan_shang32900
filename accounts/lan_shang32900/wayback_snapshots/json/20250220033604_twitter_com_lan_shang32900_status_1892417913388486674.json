@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892417902902435840",
+        "3_1892417910540238848"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1892417913388486674",
+    "created_at": "2025-02-20T03:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T04:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892417913388486674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "门槛"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "过门"
+        },
+        {
+          "end": 16,
+          "start": 9,
+          "tag": "パパ活初心者"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "面基"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "缺钱"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "一日女友"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "神待ち"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "陪聊"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0EOnPpPcz",
+          "end": 65,
+          "expanded_url": "https://x.com/lan_shang32900/status/1892417913388486674/photo/1",
+          "media_key": "3_1892417902902435840",
+          "start": 42,
+          "url": "https://t.co/S0EOnPpPcz"
+        },
+        {
+          "display_url": "pic.x.com/S0EOnPpPcz",
+          "end": 65,
+          "expanded_url": "https://x.com/lan_shang32900/status/1892417913388486674/photo/1",
+          "media_key": "3_1892417910540238848",
+          "start": 42,
+          "url": "https://t.co/S0EOnPpPcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892417913388486674",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛  ＃过门 #パパ活初心者 ＃面基 #缺钱  #一日女友  #神待ち #陪聊 https://t.co/S0EOnPpPcz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892417913388486674].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892417913388486674",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892417913388486674"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892417902902435840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkM4DmUW4AAN_A9.jpg",
+        "width": 1464
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1892417910540238848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkM4ECxWgAAdWNo.jpg",
+        "width": 1837
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 647,
+          "like_count": 29613,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 6645
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

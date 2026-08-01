@@ -1,0 +1,707 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948311075935645696"
+      ],
+      "media_source_tweet_id": [
+        "1948311083606999257"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1964539272951976038",
+    "created_at": "2025-09-07T04:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964539272951976038"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Lilly Arcaea",
+          "probability": 0.4198,
+          "start": 12,
+          "type": "Person"
+        },
+        {
+          "end": 48,
+          "normalized_text": "Lilly",
+          "probability": 0.7364,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 87,
+          "tag": "arcaea"
+        },
+        {
+          "end": 107,
+          "start": 96,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1161125657746669569",
+          "start": 3,
+          "username": "isd_ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xTo0ZdJuf",
+          "end": 131,
+          "expanded_url": "https://x.com/isd_ss/status/1948311083606999257/photo/1",
+          "media_key": "3_1948311075935645696",
+          "start": 108,
+          "url": "https://t.co/8xTo0ZdJuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964539272951976038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948311083606999257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isd_ss: Lilly\n\nArcaeaよりJuggernaut. 様の楽曲『Lilly』のジャケットイラストを描かせていただきました！\nよろしくお願いします🌟\n\n#arcaea  #arcaea_art https://t.co/8xTo0ZdJuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_1948311075935645696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnKmdkacAA344B.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948311075935645696"
+          ],
+          "media_source_tweet_id": [
+            "1948311083606999257"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1964539272951976038",
+        "created_at": "2025-09-07T04:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964539272951976038"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Lilly Arcaea",
+              "probability": 0.4198,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Lilly",
+              "probability": 0.7364,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "arcaea"
+            },
+            {
+              "end": 107,
+              "start": 96,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161125657746669569",
+              "start": 3,
+              "username": "isd_ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xTo0ZdJuf",
+              "end": 131,
+              "expanded_url": "https://x.com/isd_ss/status/1948311083606999257/photo/1",
+              "media_key": "3_1948311075935645696",
+              "start": 108,
+              "url": "https://t.co/8xTo0ZdJuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964539272951976038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948311083606999257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isd_ss: Lilly\n\nArcaeaよりJuggernaut. 様の楽曲『Lilly』のジャケットイラストを描かせていただきました！\nよろしくお願いします🌟\n\n#arcaea  #arcaea_art https://t.co/8xTo0ZdJuf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948311075935645696"
+          ]
+        },
+        "author_id": "1161125657746669569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1948311083606999257",
+        "created_at": "2025-07-24T09:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948311083606999257"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Lilly Arcaea",
+              "probability": 0.496,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Lilly",
+              "probability": 0.7653,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "arcaea"
+            },
+            {
+              "end": 95,
+              "start": 84,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xTo0ZdJuf",
+              "end": 119,
+              "expanded_url": "https://x.com/isd_ss/status/1948311083606999257/photo/1",
+              "media_key": "3_1948311075935645696",
+              "start": 96,
+              "url": "https://t.co/8xTo0ZdJuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948311083606999257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 63226,
+          "like_count": 1847,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "Lilly\n\nArcaeaよりJuggernaut. 様の楽曲『Lilly』のジャケットイラストを描かせていただきました！\nよろしくお願いします🌟\n\n#arcaea  #arcaea_art https://t.co/8xTo0ZdJuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 717,
+          "like_count": 36874,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9363
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T04:01:44.000Z",
+        "description": "2025年10月中旬以降着手のお仕事募集中です→◆Contact - https://t.co/HBZrd8A1k4 ◆https://t.co/aJQk17tPVO◆作編曲家/イラストレーター◆無断転載、AI学習によるLoRAモデルの作成などはご遠慮ください",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/Y7dp8",
+                "end": 58,
+                "expanded_url": "https://x.gd/Y7dp8",
+                "start": 35,
+                "url": "https://t.co/HBZrd8A1k4"
+              },
+              {
+                "display_url": "isdss.myportfolio.com",
+                "end": 83,
+                "expanded_url": "http://isdss.myportfolio.com",
+                "start": 60,
+                "url": "https://t.co/aJQk17tPVO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53766161",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53766161",
+                "start": 0,
+                "url": "https://t.co/qFFlH7L9Jf"
+              }
+            ]
+          }
+        },
+        "id": "1161125657746669569",
+        "location": "JPN",
+        "name": "イシダタツキ",
+        "pinned_tweet_id": "1770810549053358216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544624601053167616/M-BXJRnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8139,
+          "following_count": 888,
+          "like_count": 5877,
+          "listed_count": 84,
+          "media_count": 152,
+          "tweet_count": 2554
+        },
+        "url": "https://t.co/qFFlH7L9Jf",
+        "username": "isd_ss",
+        "verified": false
+      }
+    ]
+  }
+}

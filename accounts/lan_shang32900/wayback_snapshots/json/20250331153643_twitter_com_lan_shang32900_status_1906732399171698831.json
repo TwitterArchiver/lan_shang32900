@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1906732399171698831",
+    "created_at": "2025-03-31T15:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T16:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906732399171698831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1167211366761009152",
+          "start": 3,
+          "username": "2511ziyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906732399171698831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906717604250874194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2511ziyao: 心里怨恨，倒不是后悔，只是觉得去年休学浪费太多时间了，明明有那么多时间可以看书的，都被我拿去嗑药了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1906732399171698831",
+        "created_at": "2025-03-31T15:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T16:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906732399171698831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1167211366761009152",
+              "start": 3,
+              "username": "2511ziyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906732399171698831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906717604250874194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2511ziyao: 心里怨恨，倒不是后悔，只是觉得去年休学浪费太多时间了，明明有那么多时间可以看书的，都被我拿去嗑药了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "1906717604250874194",
+        "created_at": "2025-03-31T14:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906717604250874194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906717604250874194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心里怨恨，倒不是后悔，只是觉得去年休学浪费太多时间了，明明有那么多时间可以看书的，都被我拿去嗑药了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 656,
+          "like_count": 31562,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 7141
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "看那充满盛情而温暖的光芒，我们别无选择。",
+        "id": "1167211366761009152",
+        "location": "Post-Ego-Com🚩🏴🏳️‍⚧️🏳️‍🌈",
+        "name": "紫瑶叫：🗯️",
+        "pinned_tweet_id": "1904895916823417201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777895574970462208/7vcO3K0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 231,
+          "like_count": 7728,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3112
+        },
+        "username": "2511ziyao",
+        "verified": false
+      }
+    ]
+  }
+}

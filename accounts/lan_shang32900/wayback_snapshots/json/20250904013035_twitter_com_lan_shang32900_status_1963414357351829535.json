@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963138873837703657",
+    "created_at": "2025-09-04T01:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963414357351829535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963414357351829535",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963138873837703657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 是的，痛苦没办法用来衡量，也没办法借以歌颂，因为痛苦就是痛苦本身，只有受难者才能明白它对其的意义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_1963138870067019776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz54ZrMbQAAH_7u.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963138873837703657",
+        "created_at": "2025-09-04T01:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963414357351829535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963414357351829535",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963138873837703657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 是的，痛苦没办法用来衡量，也没办法借以歌颂，因为痛苦就是痛苦本身，只有受难者才能明白它对其的意义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963138870067019776"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1963138873837703657",
+        "created_at": "2025-09-03T07:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963138873837703657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZwWQasHZm",
+              "end": 139,
+              "expanded_url": "https://x.com/KBDYD555/status/1963138873837703657/photo/1",
+              "media_key": "3_1963138870067019776",
+              "start": 116,
+              "url": "https://t.co/BZwWQasHZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963138873837703657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道现在这个圈子怎么样了，但我记得之前好多人特别仇恨留学的特别仇富，比谁割的更深经历更惨年纪更小，今天在小红书看到一个帖子下的一句评论我很喜欢，也是我一直不评价别人生活的原因。我觉得不管是谁都有觉得痛苦的权利，即使是幸福的人。 https://t.co/BZwWQasHZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 710,
+          "like_count": 36468,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 9248
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 270,
+          "like_count": 1713,
+          "listed_count": 5,
+          "media_count": 605,
+          "tweet_count": 2019
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

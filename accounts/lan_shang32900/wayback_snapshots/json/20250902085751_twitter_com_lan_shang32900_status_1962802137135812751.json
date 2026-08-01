@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962747429109014530"
+      ],
+      "media_source_tweet_id": [
+        "1962747433957630351"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962802137135812751",
+    "created_at": "2025-09-02T08:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962802137135812751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "391813945",
+          "start": 3,
+          "username": "buizu_miki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBfsKugEnj",
+          "end": 42,
+          "expanded_url": "https://x.com/buizu_miki/status/1962747433957630351/photo/1",
+          "media_key": "3_1962747429109014530",
+          "start": 19,
+          "url": "https://t.co/WBfsKugEnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962802137135812751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962747433957630351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @buizu_miki: ブイ https://t.co/WBfsKugEnj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_1962747429109014530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0UYz_aoAIT7uH.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962747429109014530"
+          ],
+          "media_source_tweet_id": [
+            "1962747433957630351"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962802137135812751",
+        "created_at": "2025-09-02T08:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962802137135812751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "391813945",
+              "start": 3,
+              "username": "buizu_miki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBfsKugEnj",
+              "end": 42,
+              "expanded_url": "https://x.com/buizu_miki/status/1962747433957630351/photo/1",
+              "media_key": "3_1962747429109014530",
+              "start": 19,
+              "url": "https://t.co/WBfsKugEnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962802137135812751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962747433957630351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @buizu_miki: ブイ https://t.co/WBfsKugEnj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962747429109014530"
+          ]
+        },
+        "author_id": "391813945",
+        "conversation_id": "1962747433957630351",
+        "created_at": "2025-09-02T05:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962747433957630351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBfsKugEnj",
+              "end": 26,
+              "expanded_url": "https://x.com/buizu_miki/status/1962747433957630351/photo/1",
+              "media_key": "3_1962747429109014530",
+              "start": 3,
+              "url": "https://t.co/WBfsKugEnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962747433957630351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 12312,
+          "like_count": 1126,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "reply_settings": "following",
+        "text": "ブイ https://t.co/WBfsKugEnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 711,
+          "like_count": 36390,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9198
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-16T04:20:49.000Z",
+        "description": "◼︎みきとです◼︎ポケモンとディズニーは人生 ■無許可の絵の使用は禁止です。■ don't use illustration ◆skeb→https://t.co/nsF29tsr7G ヘッダーは友人達から！！！見て！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@buizu_miki",
+                "end": 92,
+                "expanded_url": "https://skeb.jp/@buizu_miki",
+                "start": 69,
+                "url": "https://t.co/nsF29tsr7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/buizu-miki",
+                "end": 23,
+                "expanded_url": "https://potofu.me/buizu-miki",
+                "start": 0,
+                "url": "https://t.co/BvV7yF6jDi"
+              }
+            ]
+          }
+        },
+        "id": "391813945",
+        "location": "数ある星のひとつ",
+        "name": "mkt",
+        "pinned_tweet_id": "1778267114971041952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770306298481176576/KxVkR2Xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20699,
+          "following_count": 213,
+          "like_count": 37960,
+          "listed_count": 171,
+          "media_count": 19917,
+          "tweet_count": 217927
+        },
+        "url": "https://t.co/BvV7yF6jDi",
+        "username": "buizu_miki",
+        "verified": false
+      }
+    ]
+  }
+}

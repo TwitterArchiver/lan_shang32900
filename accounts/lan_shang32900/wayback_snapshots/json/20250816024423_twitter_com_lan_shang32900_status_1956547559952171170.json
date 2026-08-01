@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956366193771909520",
+    "created_at": "2025-08-16T02:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T03:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956547559952171170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956547559952171170",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956366193771909520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 天吶感覺像某種皮疹、我之前的增生還長黑頭了啊啊（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956366173593108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZoq2ubgAAK_jy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956366193771909520",
+        "created_at": "2025-08-16T02:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956547559952171170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956547559952171170",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956366193771909520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 天吶感覺像某種皮疹、我之前的增生還長黑頭了啊啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956366173593108480"
+          ]
+        },
+        "author_id": "1576673750870675456",
+        "conversation_id": "1956366193771909520",
+        "created_at": "2025-08-15T14:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956366193771909520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/081Ou7bf37",
+              "end": 68,
+              "expanded_url": "https://x.com/didi07392064/status/1956366193771909520/photo/1",
+              "media_key": "3_1956366173593108480",
+              "start": 45,
+              "url": "https://t.co/081Ou7bf37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956366193771909520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们有人知道为什么增生这块会长小点点吗 我之前一直以为蚊子咬的 但是这次比上一次多了好多 https://t.co/081Ou7bf37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 694,
+          "like_count": 34986,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8713
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "我是丢丢 这是我吐黑泥地",
+        "id": "1576673750870675456",
+        "name": "心情是一摊呕吐物",
+        "pinned_tweet_id": "1950434308415770978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904400450243440640/dO2nVaPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 295,
+          "like_count": 11434,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 6645
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

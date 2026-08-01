@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960721376844611704",
+    "created_at": "2025-08-28T01:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T02:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960878404758331419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956493742602584064",
+          "start": 0,
+          "username": "nya_korii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960878404758331419",
+    "in_reply_to_user_id": "1956493742602584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960721376844611704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_korii 你是谁？请支持百日战纪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960721376844611704",
+        "created_at": "2025-08-28T01:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960878404758331419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956493742602584064",
+              "start": 0,
+              "username": "nya_korii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960878404758331419",
+        "in_reply_to_user_id": "1956493742602584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960721376844611704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_korii 你是谁？请支持百日战纪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956493742602584064",
+        "conversation_id": "1960721376844611704",
+        "created_at": "2025-08-27T15:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960721376844611704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960721376844611704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是谁？请支持百日战记！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 706,
+          "like_count": 35950,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9044
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T23:10:41.000Z",
+        "description": "黑丝基督教 41211 🩸💉🧬🫀：@nya_souta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nya_souta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "horiotoi.mn",
+                "end": 23,
+                "expanded_url": "http://horiotoi.mn",
+                "start": 0,
+                "url": "https://t.co/8BXOuOpLZq"
+              }
+            ]
+          }
+        },
+        "id": "1956493742602584064",
+        "location": "ulaanbaatar",
+        "name": "伊織伊織言❄️",
+        "pinned_tweet_id": "1959191225984024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957428730176942081/xSsPrPaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 122,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/8BXOuOpLZq",
+        "username": "nya_korii",
+        "verified": false
+      }
+    ]
+  }
+}

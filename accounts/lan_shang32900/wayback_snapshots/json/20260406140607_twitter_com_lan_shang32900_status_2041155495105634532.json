@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041131809149526514",
+    "created_at": "2026-04-06T14:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041155495105634532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1534188810623340544",
+          "start": 0,
+          "username": "Uutudo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041155495105634532",
+    "in_reply_to_user_id": "1534188810623340544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041131809149526514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uutudo4 没事可以控制不说话的（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041131809149526514",
+        "created_at": "2026-04-06T14:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041155495105634532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1534188810623340544",
+              "start": 0,
+              "username": "Uutudo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041155495105634532",
+        "in_reply_to_user_id": "1534188810623340544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041131809149526514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uutudo4 没事可以控制不说话的（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534188810623340544",
+        "conversation_id": "2041131809149526514",
+        "created_at": "2026-04-06T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041131809149526514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041131809149526514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次有人开sps我很想进去玩但是不敢🌚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 794,
+          "like_count": 42674,
+          "listed_count": 3,
+          "media_count": 769,
+          "tweet_count": 10793
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T15:01:48.000Z",
+        "description": "滚 看你妈逼看",
+        "id": "1534188810623340544",
+        "name": "牙",
+        "pinned_tweet_id": "1965386014228361713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017498187939123204/aCUmHeRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4055,
+          "following_count": 305,
+          "like_count": 4579,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 13946
+        },
+        "username": "Uutudo4",
+        "verified": false
+      }
+    ]
+  }
+}

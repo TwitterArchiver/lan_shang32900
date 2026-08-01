@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1895818664651403650",
+    "created_at": "2025-03-01T12:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895818664651403650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/scutigera_8964…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/scutigera_8964/status/1895816176951054598",
+          "start": 8,
+          "url": "https://t.co/9Jk75dXpb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895818664651403650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895816176951054598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要秽土重生了 https://t.co/9Jk75dXpb4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1895818664651403650",
+        "created_at": "2025-03-01T12:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895818664651403650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scutigera_8964…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/scutigera_8964/status/1895816176951054598",
+              "start": 8,
+              "url": "https://t.co/9Jk75dXpb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895818664651403650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895816176951054598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要秽土重生了 https://t.co/9Jk75dXpb4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1895786439264354410",
+        "created_at": "2025-03-01T12:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895816176951054598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895816176951054598",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895803994637025606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 几百万嗑药逼里莫名其妙被晶哥逮住学籍没了家庭关系没了的老霉逼你们好啊，我是小蝙蝠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 649,
+          "like_count": 30351,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 6810
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "对不起kuma是路怒症，一隅安宁于@noiiiineet 无言follow致歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "noiiiineet"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "kira荆棘chicken吉他后藤威可丝藻实验室",
+        "pinned_tweet_id": "1813833802982273302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894964984808951808/CfqkP_4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 2588,
+          "like_count": 30828,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 6398
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

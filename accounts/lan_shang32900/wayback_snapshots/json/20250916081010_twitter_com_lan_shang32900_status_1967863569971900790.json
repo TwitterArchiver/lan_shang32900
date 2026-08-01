@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967550857756741632"
+      ],
+      "media_source_tweet_id": [
+        "1967550860726349955"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967863569971900790",
+    "created_at": "2025-09-16T08:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967863569971900790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFZB8qAsw7",
+          "end": 45,
+          "expanded_url": "https://x.com/overdose_six/status/1967550860726349955/photo/1",
+          "media_key": "3_1967550857756741632",
+          "start": 22,
+          "url": "https://t.co/lFZB8qAsw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967863569971900790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967550860726349955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 谁想吃 https://t.co/lFZB8qAsw7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_1967550857756741632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04lFKIbEAAnLxd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967550857756741632"
+          ],
+          "media_source_tweet_id": [
+            "1967550860726349955"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967863569971900790",
+        "created_at": "2025-09-16T08:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967863569971900790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFZB8qAsw7",
+              "end": 45,
+              "expanded_url": "https://x.com/overdose_six/status/1967550860726349955/photo/1",
+              "media_key": "3_1967550857756741632",
+              "start": 22,
+              "url": "https://t.co/lFZB8qAsw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967863569971900790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967550860726349955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 谁想吃 https://t.co/lFZB8qAsw7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967550857756741632"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967550860726349955",
+        "created_at": "2025-09-15T11:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T12:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967550860726349955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFZB8qAsw7",
+              "end": 27,
+              "expanded_url": "https://x.com/overdose_six/status/1967550860726349955/photo/1",
+              "media_key": "3_1967550857756741632",
+              "start": 4,
+              "url": "https://t.co/lFZB8qAsw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967550860726349955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2320,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "谁想吃 https://t.co/lFZB8qAsw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 741,
+          "like_count": 37947,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 9726
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "科普账号请看@overdose_dxm 提问箱https://t.co/b5c8bbntR6百科:https://t.co/BlAoDIjZjK里推@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "overdose_dxm"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 46,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 23,
+                "url": "https://t.co/b5c8bbntR6"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 72,
+                "expanded_url": "http://overdose.day",
+                "start": 49,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "参宿四",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965430796367679488/C1QbG9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 184,
+          "like_count": 6770,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

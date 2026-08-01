@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922617251686969438",
+    "created_at": "2025-05-14T16:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922693805490204938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167211366761009152",
+          "start": 0,
+          "username": "2511ziyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922693805490204938",
+    "in_reply_to_user_id": "1167211366761009152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922617251686969438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2511ziyao 我也想，好朋友和写信都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922617251686969438",
+        "created_at": "2025-05-14T16:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922693805490204938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167211366761009152",
+              "start": 0,
+              "username": "2511ziyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922693805490204938",
+        "in_reply_to_user_id": "1167211366761009152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922617251686969438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2511ziyao 我也想，好朋友和写信都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "1922617251686969438",
+        "created_at": "2025-05-14T11:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T12:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922617251686969438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922617251686969438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要给好朋友写信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 652,
+          "like_count": 31671,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 7336
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "看那充满盛情而温暖的光芒，我们别无选择。                            \n好朋友@maque478728\n观点号@ziyao2511",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "maque478728"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "ziyao2511"
+              }
+            ]
+          }
+        },
+        "id": "1167211366761009152",
+        "location": "😚🌈🐁",
+        "name": "紫瑶叫：普瑞戒断第0天",
+        "pinned_tweet_id": "1921519496168165610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777895574970462208/7vcO3K0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 268,
+          "like_count": 8747,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 3870
+        },
+        "username": "2511ziyao",
+        "verified": false
+      }
+    ]
+  }
+}

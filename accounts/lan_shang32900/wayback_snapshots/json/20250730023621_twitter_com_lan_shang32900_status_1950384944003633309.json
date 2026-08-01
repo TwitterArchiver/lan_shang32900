@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950240706662191108"
+      ],
+      "media_source_tweet_id": [
+        "1950240755382964454"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1950384944003633309",
+    "created_at": "2025-07-30T02:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T03:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950384944003633309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1893694956524777472",
+          "start": 3,
+          "username": "lanmeiguojiu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hyNn7dgueq",
+          "end": 66,
+          "expanded_url": "https://x.com/lanmeiguojiu_/status/1950240755382964454/photo/1",
+          "media_key": "3_1950240706662191108",
+          "start": 43,
+          "url": "https://t.co/hyNn7dgueq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950384944003633309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950240755382964454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanmeiguojiu_: 我觉得这张超级萌 但是我朋友说我这张拍的好蠢😭 https://t.co/hyNn7dgueq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1950240706662191108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCllwMbUAQnsk-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950240706662191108"
+          ],
+          "media_source_tweet_id": [
+            "1950240755382964454"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1950384944003633309",
+        "created_at": "2025-07-30T02:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950384944003633309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1893694956524777472",
+              "start": 3,
+              "username": "lanmeiguojiu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyNn7dgueq",
+              "end": 66,
+              "expanded_url": "https://x.com/lanmeiguojiu_/status/1950240755382964454/photo/1",
+              "media_key": "3_1950240706662191108",
+              "start": 43,
+              "url": "https://t.co/hyNn7dgueq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950384944003633309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950240755382964454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lanmeiguojiu_: 我觉得这张超级萌 但是我朋友说我这张拍的好蠢😭 https://t.co/hyNn7dgueq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950240706662191108"
+          ]
+        },
+        "author_id": "1893694956524777472",
+        "conversation_id": "1950240755382964454",
+        "created_at": "2025-07-29T17:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950240755382964454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyNn7dgueq",
+              "end": 47,
+              "expanded_url": "https://x.com/lanmeiguojiu_/status/1950240755382964454/photo/1",
+              "media_key": "3_1950240706662191108",
+              "start": 24,
+              "url": "https://t.co/hyNn7dgueq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950240755382964454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4628,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这张超级萌 但是我朋友说我这张拍的好蠢😭 https://t.co/hyNn7dgueq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 672,
+          "like_count": 34415,
+          "listed_count": 0,
+          "media_count": 650,
+          "tweet_count": 8413
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T16:10:52.000Z",
+        "description": "夨夨日记",
+        "id": "1893694956524777472",
+        "location": "男的骚扰我去死",
+        "name": "INEEDICECREAM",
+        "pinned_tweet_id": "1947277719210692925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939138143812247553/oirIhvpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 181,
+          "like_count": 1300,
+          "listed_count": 7,
+          "media_count": 164,
+          "tweet_count": 886
+        },
+        "username": "lanmeiguojiu_",
+        "verified": false
+      }
+    ]
+  }
+}

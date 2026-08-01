@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1967944775740604893",
+    "created_at": "2025-09-16T13:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967944775740604893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967944775740604893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我和别人出门约会会出现:\n\n1.拉衣角\n2.不敢对视，偷瞄并很快移开\n3.喜欢找角落蜷缩\n4.偷偷尝试拉手\n5.各种莫名其妙的地方害羞\n6.等待期间多种待机姿势随机切换\n7.对方占据主导位的时候反应有点人机\n8.紧张会结巴说话打结然后肢体语言丰富\n9.熟悉而放松的状态下，会有夸张的动作\n10.尽可能遮住自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1967944775740604893",
+        "created_at": "2025-09-16T13:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967944775740604893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967944775740604893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我和别人出门约会会出现:\n\n1.拉衣角\n2.不敢对视，偷瞄并很快移开\n3.喜欢找角落蜷缩\n4.偷偷尝试拉手\n5.各种莫名其妙的地方害羞\n6.等待期间多种待机姿势随机切换\n7.对方占据主导位的时候反应有点人机\n8.紧张会结巴说话打结然后肢体语言丰富\n9.熟悉而放松的状态下，会有夸张的动作\n10.尽可能遮住自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 740,
+          "like_count": 37996,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 9741
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939905502571634984",
+    "created_at": "2025-07-02T10:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T11:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940351307820507585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1156981009763540992",
+          "start": 0,
+          "username": "AuraWithCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940351307820507585",
+    "in_reply_to_user_id": "1156981009763540992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939905502571634984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuraWithCat What a sassy little kitty! Chubby but tough—she knows how to hold her own./ᐠ. ｡.ᐟ\\ᵐᵉᵒʷˎˊ˗ &lt;3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12233,
+        "height": 1280,
+        "media_key": "13_1939905430391545856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939905430391545856/img/9mygaT6whOffY0Ei.jpg",
+        "public_metrics": {
+          "view_count": 172801
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939905430391545856/vid/avc1/320x568/vPRQ0g5pEYi6TBTA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939905430391545856/vid/avc1/480x852/vUt8qTHHK6_sL_08.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939905430391545856/vid/avc1/720x1280/6OdvmPgl9hO0mPhE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939905430391545856/pl/sNJYEEQmZgZ4KSq6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939905502571634984",
+        "created_at": "2025-07-02T10:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T11:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940351307820507585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1156981009763540992",
+              "start": 0,
+              "username": "AuraWithCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940351307820507585",
+        "in_reply_to_user_id": "1156981009763540992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939905502571634984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuraWithCat What a sassy little kitty! Chubby but tough—she knows how to hold her own./ᐠ. ｡.ᐟ\\ᵐᵉᵒʷˎˊ˗ &lt;3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939905430391545856"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1939905502571634984",
+        "created_at": "2025-07-01T04:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939905502571634984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBp8PGImfi",
+              "end": 23,
+              "expanded_url": "https://x.com/AuraWithCat/status/1939905502571634984/video/1",
+              "media_key": "13_1939905430391545856",
+              "start": 0,
+              "url": "https://t.co/MBp8PGImfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939905502571634984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 788,
+          "impression_count": 373765,
+          "like_count": 7262,
+          "quote_count": 102,
+          "reply_count": 61,
+          "retweet_count": 886
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MBp8PGImfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 657,
+          "like_count": 32620,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 7794
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "pinned_tweet_id": "1939998189999870051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903404281807724544/b7vyyYC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460252,
+          "following_count": 2,
+          "like_count": 115,
+          "listed_count": 1095,
+          "media_count": 27590,
+          "tweet_count": 28276
+        },
+        "username": "AuraWithCat",
+        "verified": true
+      }
+    ]
+  }
+}

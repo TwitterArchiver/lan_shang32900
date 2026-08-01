@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965746498567798828",
+    "created_at": "2025-09-11T03:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T04:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965974591400214778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1213804423962476544",
+          "start": 0,
+          "username": "DJM46475015"
+        },
+        {
+          "end": 25,
+          "id": "1780620789211152384",
+          "start": 13,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965974591400214778",
+    "in_reply_to_user_id": "1213804423962476544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965812210720297272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DJM46475015 @maque478728 嫌贵自己打手冲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965746498567798828",
+        "created_at": "2025-09-11T03:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965974591400214778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1213804423962476544",
+              "start": 0,
+              "username": "DJM46475015"
+            },
+            {
+              "end": 25,
+              "id": "1780620789211152384",
+              "start": 13,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965974591400214778",
+        "in_reply_to_user_id": "1213804423962476544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965812210720297272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DJM46475015 @maque478728 嫌贵自己打手冲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213804423962476544",
+        "conversation_id": "1965746498567798828",
+        "created_at": "2025-09-10T16:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T17:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965812210720297272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780620789211152384",
+              "start": 0,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965812210720297272",
+        "in_reply_to_user_id": "1780620789211152384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965746498567798828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maque478728 你好贵我消费不起😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 727,
+          "like_count": 37277,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 9500
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-05T12:48:29.000Z",
+        "description": "南山北海，星汉灿烂",
+        "id": "1213804423962476544",
+        "name": "爱笑的斑瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213831952836358145/EiTUYR1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 195
+        },
+        "username": "DJM46475015",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "可以称呼我为小麻雀.目前在计划自杀当然也不一定会真的自杀只是不太想活着罢了.🚪价位是168/368/520/1314...一阶门槛解锁视频/语音全天陪聊入门后可加福利群不定时发送群主色图入二阶门槛可时不时找博主裸聊",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 110,
+          "like_count": 507,
+          "listed_count": 9,
+          "media_count": 212,
+          "tweet_count": 1280
+        },
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

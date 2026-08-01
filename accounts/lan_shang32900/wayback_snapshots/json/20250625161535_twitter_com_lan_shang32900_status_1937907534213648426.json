@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937907534213648426",
+    "created_at": "2025-06-25T16:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T17:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937907534213648426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937907534213648426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么每次服用胶囊类药品都会在喉咙里旋转并且75%可能性卡住、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937907534213648426",
+        "created_at": "2025-06-25T16:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937907534213648426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937907534213648426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么每次服用胶囊类药品都会在喉咙里旋转并且75%可能性卡住、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 651,
+          "like_count": 32129,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 7662
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

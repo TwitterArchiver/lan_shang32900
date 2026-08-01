@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1954550040384454872",
+    "created_at": "2025-08-10T15:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T16:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954568288127578127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "xEndlEssyAm1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954568288127578127",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954550040384454872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xEndlEssyAm1x 期待！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1954550040384454872",
+        "created_at": "2025-08-10T15:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954568288127578127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "xEndlEssyAm1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954568288127578127",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954550040384454872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xEndlEssyAm1x 期待！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1954550040384454872",
+        "created_at": "2025-08-10T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954550040384454872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954550040384454872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下周末会接一只小猫回来😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 686,
+          "like_count": 34620,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 8578
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "连/连接︱OD/自傷︱無言フォロー︱絵垢@xsA1sE1x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "xsA1sE1x"
+              }
+            ]
+          }
+        },
+        "id": "1821916949456285696",
+        "location": "为什么要看我？",
+        "name": "笑（）笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 67,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 544
+        },
+        "username": "xEndlEssyAm1x",
+        "verified": false
+      }
+    ]
+  }
+}

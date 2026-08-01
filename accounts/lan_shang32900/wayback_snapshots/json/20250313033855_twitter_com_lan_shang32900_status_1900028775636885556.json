@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1900028775636885556",
+    "created_at": "2025-03-13T03:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T04:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900028775636885556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_Y/status/…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/8964_Y/status/1899764460723884328",
+          "start": 112,
+          "url": "https://t.co/pvKvxIwWTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900028775636885556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899764460723884328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "餐券妹太好笑了每次出了啥事都是“没我长得好看”“我粉丝比你多”“在网上喜欢我的人很多”作为攻击点，这时候只需要说一句我不需要磕药和自残来获得幸福和快感就可以让对方破防。对了，我已经一个多月没磕愈美了也决定戒掉这个和自残了😙 https://t.co/pvKvxIwWTy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1900028775636885556",
+        "created_at": "2025-03-13T03:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T04:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900028775636885556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/8964_Y/status/1899764460723884328",
+              "start": 112,
+              "url": "https://t.co/pvKvxIwWTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900028775636885556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899764460723884328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "餐券妹太好笑了每次出了啥事都是“没我长得好看”“我粉丝比你多”“在网上喜欢我的人很多”作为攻击点，这时候只需要说一句我不需要磕药和自残来获得幸福和快感就可以让对方破防。对了，我已经一个多月没磕愈美了也决定戒掉这个和自残了😙 https://t.co/pvKvxIwWTy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1899764460723884328",
+        "created_at": "2025-03-12T10:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T11:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899764460723884328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899764460723884328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5451,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餐券妹太好笑了每次出了啥事都是“没我长得好看”“我粉丝比你多”“在网上喜欢我的人很多”作为攻击点，这时候只需要说一句我不需要磕药和自残来获得幸福和快感就可以让对方破防。对了，我已经一个多月没磕愈美了也决定戒掉这个和自残了😙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（量子纠缠版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 654,
+          "like_count": 31017,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 6976
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898791193091493888/CTfFpR04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5002,
+          "following_count": 921,
+          "like_count": 10515,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 8071
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

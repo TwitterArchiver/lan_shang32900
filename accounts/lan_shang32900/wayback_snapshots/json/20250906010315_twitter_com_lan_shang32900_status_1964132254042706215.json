@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963922777930715515",
+    "created_at": "2025-09-06T01:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964132254042706215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        },
+        {
+          "end": 29,
+          "id": "1389509705999949829",
+          "start": 13,
+          "username": "EmoPoppyRequiem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964132254042706215",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963926037114564680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 @EmoPoppyRequiem 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963922777930715515",
+        "created_at": "2025-09-06T01:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964132254042706215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            },
+            {
+              "end": 29,
+              "id": "1389509705999949829",
+              "start": 13,
+              "username": "EmoPoppyRequiem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964132254042706215",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963926037114564680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 @EmoPoppyRequiem 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1963922777930715515",
+        "created_at": "2025-09-05T11:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963926037114564680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            },
+            {
+              "end": 39,
+              "id": "1389509705999949829",
+              "start": 23,
+              "username": "EmoPoppyRequiem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963926037114564680",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963922777930715515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 这个人能喝光 @EmoPoppyRequiem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 714,
+          "like_count": 36696,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9311
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "顶着橘子假装自己是橘猫的黑猫 | 实际上是一只经常会饿的野猪精 | 男的 | 超级brat",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3517,
+          "following_count": 807,
+          "like_count": 134070,
+          "listed_count": 13,
+          "media_count": 1107,
+          "tweet_count": 18357
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ 群号438106587 提问箱https://t.co/uKFsGxnPM4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinkule",
+                "end": 50,
+                "expanded_url": "https://ngl.link/xinkule",
+                "start": 27,
+                "url": "https://t.co/uKFsGxnPM4"
+              }
+            ]
+          }
+        },
+        "id": "1389509705999949829",
+        "location": "还君明珠双泪垂 恨不相逢未嫁时",
+        "name": "薇可絲✂",
+        "pinned_tweet_id": "1938529064136098059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926579688215830528/dkgSOySf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 2859,
+          "like_count": 122183,
+          "listed_count": 3,
+          "media_count": 6808,
+          "tweet_count": 66596
+        },
+        "username": "EmoPoppyRequiem",
+        "verified": false
+      }
+    ]
+  }
+}

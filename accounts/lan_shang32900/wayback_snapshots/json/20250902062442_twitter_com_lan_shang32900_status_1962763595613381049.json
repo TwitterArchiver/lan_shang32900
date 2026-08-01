@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962574029065462167",
+    "created_at": "2025-09-02T06:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962763595613381049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627206611617058816",
+          "start": 0,
+          "username": "zhg492979261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962763595613381049",
+    "in_reply_to_user_id": "1627206611617058816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962574029065462167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhg492979261 我也想拥有这样的朋友……明明小时候我记得还是有朋友的，不知何时起我就又变成一个人了，真奇怪……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962574025722576896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzx2raCaQAA-ySR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962574029065462167",
+        "created_at": "2025-09-02T06:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962763595613381049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627206611617058816",
+              "start": 0,
+              "username": "zhg492979261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962763595613381049",
+        "in_reply_to_user_id": "1627206611617058816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962574029065462167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhg492979261 我也想拥有这样的朋友……明明小时候我记得还是有朋友的，不知何时起我就又变成一个人了，真奇怪……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962574025722576896"
+          ]
+        },
+        "author_id": "1627206611617058816",
+        "conversation_id": "1962574029065462167",
+        "created_at": "2025-09-01T17:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962574029065462167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yd4lDOHgg4",
+              "end": 160,
+              "expanded_url": "https://x.com/zhg492979261/status/1962574029065462167/photo/1",
+              "media_key": "3_1962574025722576896",
+              "start": 137,
+              "url": "https://t.co/yd4lDOHgg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962574029065462167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢这种昏暗时刻，好朋友的房间，小小的香香的，干净整洁好有安全感，两个人就这样躺在床上有一搭没一搭地聊天，无比小，无比幼稚的事情都可以和她分享，这般可爱的女孩子时刻是我童年梦寐以求的，我感觉现在其他朋友的心态对于我来说都太“大人”了，只有和她我才觉得自己像个没长大的孩子 https://t.co/yd4lDOHgg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 708,
+          "like_count": 36336,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9171
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T07:21:33.000Z",
+        "description": "叫我枳子或者桎梏都可以\n\n06女高/中抑中焦/被害妄想症倾向/杂圈/热爱有生命力的绘画和文字/傻逼蝻给我润出去 /日常推（偶尔血图不预警）\n\n防爆小号@ZhiZi5655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ZhiZi5655"
+              }
+            ]
+          }
+        },
+        "id": "1627206611617058816",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "桎梏🦋🕸",
+        "pinned_tweet_id": "1755643466250678589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873763177537970176/HmYHy3Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 401,
+          "like_count": 21900,
+          "listed_count": 6,
+          "media_count": 921,
+          "tweet_count": 8290
+        },
+        "username": "zhg492979261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1957458721942245637",
+    "created_at": "2025-08-23T01:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T02:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959064194055381364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938829666703527936",
+          "start": 0,
+          "username": "BBBing1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959064194055381364",
+    "in_reply_to_user_id": "1938829666703527936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957458721942245637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBing1207 其实我是为了追星和画画……谁记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1957458721942245637",
+        "created_at": "2025-08-23T01:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T02:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959064194055381364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938829666703527936",
+              "start": 0,
+              "username": "BBBing1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959064194055381364",
+        "in_reply_to_user_id": "1938829666703527936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957458721942245637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBing1207 其实我是为了追星和画画……谁记得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938829666703527936",
+        "conversation_id": "1957458721942245637",
+        "created_at": "2025-08-18T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957458721942245637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957458721942245637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 266624,
+          "like_count": 843,
+          "quote_count": 49,
+          "reply_count": 986,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你们最开始都为了什么玩推特的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 702,
+          "like_count": 35396,
+          "listed_count": 4,
+          "media_count": 673,
+          "tweet_count": 8859
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:20:16.000Z",
+        "description": "ISFJ♏ | 可以叫我鱿鱼或者饼饼 | 这是我的自由小天地 | 什么都发 | 不约不线下不闲聊 | 私信会回有礼貌的 | 闲聊过🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mouse87426",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mouse87426",
+                "start": 0,
+                "url": "https://t.co/XeCnBoA6nS"
+              }
+            ]
+          }
+        },
+        "id": "1938829666703527936",
+        "location": "纯绿🚪88/188",
+        "name": "动了谁的蛋糕",
+        "pinned_tweet_id": "1957448798806122682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957976985508118528/CtHTlZcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 152,
+          "like_count": 3006,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/XeCnBoA6nS",
+        "username": "BBBing1207",
+        "verified": false
+      }
+    ]
+  }
+}

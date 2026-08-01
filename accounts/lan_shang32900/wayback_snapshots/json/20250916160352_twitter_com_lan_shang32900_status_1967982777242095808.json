@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1967949365160632761",
+    "created_at": "2025-09-16T16:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967982777242095808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967982777242095808",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967949365160632761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 失去头盖骨……怎么会这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967949355362758657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-PgxZbMAEeZAp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1967949355324997633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-PgxQbAAEZTab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1967949365160632761",
+        "created_at": "2025-09-16T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967982777242095808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967982777242095808",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967949365160632761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 失去头盖骨……怎么会这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967949355362758657",
+            "3_1967949355324997633"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1967949365160632761",
+        "created_at": "2025-09-16T13:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967949365160632761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnnGFTzY1v",
+              "end": 102,
+              "expanded_url": "https://x.com/04177_realname/status/1967949365160632761/photo/1",
+              "media_key": "3_1967949355362758657",
+              "start": 79,
+              "url": "https://t.co/tnnGFTzY1v"
+            },
+            {
+              "display_url": "pic.x.com/tnnGFTzY1v",
+              "end": 102,
+              "expanded_url": "https://x.com/04177_realname/status/1967949365160632761/photo/1",
+              "media_key": "3_1967949355324997633",
+              "start": 79,
+              "url": "https://t.co/tnnGFTzY1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967949365160632761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1371,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真名14-16岁天天抱着莱斯礼小姐睡觉 100%骨感美人 后来莱斯礼小姐失去了她的头盖骨 不再是一个完整的人类了 真名也失去了和她一起睡的兴趣 于是束之高阁 https://t.co/tnnGFTzY1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 740,
+          "like_count": 38019,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 9746
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "工作号/接聊天、陪玩、心理咨询、asd新奇思路解答世间万物/生活号：@04177_truth（来互fo）/🚪20/高考生真名在线时间6:00-7:00 22:00-23:00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "04177_truth"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1966339608981250168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11004,
+          "following_count": 6059,
+          "like_count": 65690,
+          "listed_count": 34,
+          "media_count": 2757,
+          "tweet_count": 19842
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

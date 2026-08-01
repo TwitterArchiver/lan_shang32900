@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956975998135865692",
+    "created_at": "2025-08-17T08:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956994310014144601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807349006508691456",
+          "start": 0,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956994310014144601",
+    "in_reply_to_user_id": "1807349006508691456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956975998135865692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangzixingfu 信息差吧，墻內搬出去墻外搬進來，都覺得是沒見過的新奇玩意兒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956975998135865692",
+        "created_at": "2025-08-17T08:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956994310014144601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807349006508691456",
+              "start": 0,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956994310014144601",
+        "in_reply_to_user_id": "1807349006508691456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956975998135865692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangzixingfu 信息差吧，墻內搬出去墻外搬進來，都覺得是沒見過的新奇玩意兒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807349006508691456",
+        "conversation_id": "1956975998135865692",
+        "created_at": "2025-08-17T07:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956975998135865692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956975998135865692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉抖人有个特别搞笑的事就是为什么喜欢搬运外网的照片？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 695,
+          "like_count": 35199,
+          "listed_count": 3,
+          "media_count": 668,
+          "tweet_count": 8772
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "骂我死妈",
+        "id": "1807349006508691456",
+        "location": "无福利不聊骚",
+        "name": "uau",
+        "pinned_tweet_id": "1930924577733140698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152446478344193/g7fFYmPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6991,
+          "following_count": 204,
+          "like_count": 3087,
+          "listed_count": 11,
+          "media_count": 228,
+          "tweet_count": 1681
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

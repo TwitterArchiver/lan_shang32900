@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960245414348910938",
+    "created_at": "2025-08-26T09:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T10:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960269623791628776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893694956524777472",
+          "start": 0,
+          "username": "lanmeiguojiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960269623791628776",
+    "in_reply_to_user_id": "1893694956524777472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960245414348910938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanmeiguojiu_ 我们体操服就是最萌的……！我们夨夨就是最萌的！！😻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960245390529499136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQwy_8bkAAIUV8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960245390516813824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQwy_5aAAA7J6F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960245414348910938",
+        "created_at": "2025-08-26T09:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960269623791628776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893694956524777472",
+              "start": 0,
+              "username": "lanmeiguojiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960269623791628776",
+        "in_reply_to_user_id": "1893694956524777472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960245414348910938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanmeiguojiu_ 我们体操服就是最萌的……！我们夨夨就是最萌的！！😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960245390529499136",
+            "3_1960245390516813824"
+          ]
+        },
+        "author_id": "1893694956524777472",
+        "conversation_id": "1960245414348910938",
+        "created_at": "2025-08-26T07:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960245414348910938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1TDeYYKrn",
+              "end": 37,
+              "expanded_url": "https://x.com/lanmeiguojiu_/status/1960245414348910938/photo/1",
+              "media_key": "3_1960245390529499136",
+              "start": 14,
+              "url": "https://t.co/e1TDeYYKrn"
+            },
+            {
+              "display_url": "pic.x.com/e1TDeYYKrn",
+              "end": 37,
+              "expanded_url": "https://x.com/lanmeiguojiu_/status/1960245414348910938/photo/1",
+              "media_key": "3_1960245390516813824",
+              "start": 14,
+              "url": "https://t.co/e1TDeYYKrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960245414348910938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 272,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "下课我们去喝蓝莓果酒好不好 https://t.co/e1TDeYYKrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 703,
+          "like_count": 35740,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 8977
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T16:10:52.000Z",
+        "description": "夨夨日记",
+        "id": "1893694956524777472",
+        "location": "已婚不加男不要骚扰我",
+        "name": "干员只用超大杯",
+        "pinned_tweet_id": "1957535955386245493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939138143812247553/oirIhvpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4853,
+          "following_count": 186,
+          "like_count": 1510,
+          "listed_count": 10,
+          "media_count": 226,
+          "tweet_count": 1264
+        },
+        "username": "lanmeiguojiu_",
+        "verified": false
+      }
+    ]
+  }
+}

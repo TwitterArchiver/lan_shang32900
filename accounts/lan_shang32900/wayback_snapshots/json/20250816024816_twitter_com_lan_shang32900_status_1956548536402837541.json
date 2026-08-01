@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956312531326386549",
+    "created_at": "2025-08-16T02:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T03:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956548536402837541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167211366761009152",
+          "start": 0,
+          "username": "2511ziyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956548536402837541",
+    "in_reply_to_user_id": "1167211366761009152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956312531326386549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2511ziyao 是真的把購物軟件都卸載了就好了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956312531326386549",
+        "created_at": "2025-08-16T02:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956548536402837541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167211366761009152",
+              "start": 0,
+              "username": "2511ziyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956548536402837541",
+        "in_reply_to_user_id": "1167211366761009152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956312531326386549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2511ziyao 是真的把購物軟件都卸載了就好了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "1956312531326386549",
+        "created_at": "2025-08-15T11:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956312531326386549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956312531326386549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不gd的原因是淘宝看少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 694,
+          "like_count": 35008,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8716
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "看那充满盛情而温暖的光芒，我们别无选择。\n日子人/非二次元，平底锅性向/仓鼠始祖鸟/观点号@ziyao2511",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "ziyao2511"
+              }
+            ]
+          }
+        },
+        "id": "1167211366761009152",
+        "location": "😚🌈🐁",
+        "name": "怪诞艾多美M2",
+        "pinned_tweet_id": "1921519496168165610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777895574970462208/7vcO3K0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 275,
+          "like_count": 9294,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 4308
+        },
+        "username": "2511ziyao",
+        "verified": false
+      }
+    ]
+  }
+}

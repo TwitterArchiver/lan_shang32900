@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946791010362626052",
+    "created_at": "2025-07-20T07:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946839510287032782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "dogneco2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946839510287032782",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946805284623851659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogneco2020 想尝试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946791010362626052",
+        "created_at": "2025-07-20T07:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946839510287032782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "dogneco2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946839510287032782",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946805284623851659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogneco2020 想尝试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "conversation_id": "1946791010362626052",
+        "created_at": "2025-07-20T05:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946805284623851659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946805284623851659",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946791010362626052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 想尝试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 664,
+          "like_count": 33546,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 8120
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "2歳⬆️♂ 推し＠8rWFraqry022027 @nanimoez_uwu裏@necodog2222 バウンティ 意味わからへんぐらいリプ早いよ 苦しいから犬やってます マシュマロ https://t.co/0UO0FdhPst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "8rWFraqry022027"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "nanimoez_uwu"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "necodog2222"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "end": 115,
+                "expanded_url": "https://marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "start": 92,
+                "url": "https://t.co/0UO0FdhPst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dogneco2020/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dogneco2020/",
+                "start": 0,
+                "url": "https://t.co/qJyjyubvEB"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "オンボロ犬小屋",
+        "name": "d🐶社蓄oチワワ🐕g",
+        "pinned_tweet_id": "1942736065703600342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946572442333290496/DHSsAyIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 759,
+          "like_count": 87998,
+          "listed_count": 3,
+          "media_count": 2184,
+          "tweet_count": 36718
+        },
+        "url": "https://t.co/qJyjyubvEB",
+        "username": "dogneco2020",
+        "verified": false
+      }
+    ]
+  }
+}

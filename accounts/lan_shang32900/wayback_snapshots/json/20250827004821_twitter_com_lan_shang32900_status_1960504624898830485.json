@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960501452708962370",
+    "created_at": "2025-08-27T00:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T01:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960504624898830485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1644336219751583747",
+          "start": 0,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960504624898830485",
+    "in_reply_to_user_id": "1644336219751583747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960501452708962370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banban4444886 和我交流ꉂ૮ o̴̶̷᷄ ·̫ᕳᕲა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960501452708962370",
+        "created_at": "2025-08-27T00:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960504624898830485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1644336219751583747",
+              "start": 0,
+              "username": "banban4444886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960504624898830485",
+        "in_reply_to_user_id": "1644336219751583747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960501452708962370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banban4444886 和我交流ꉂ૮ o̴̶̷᷄ ·̫ᕳᕲა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644336219751583747",
+        "conversation_id": "1960501452708962370",
+        "created_at": "2025-08-27T00:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960501452708962370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960501452708962370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想成为和人交流没有任何顾虑的那种小宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 704,
+          "like_count": 35787,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 8997
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "",
+        "id": "1644336219751583747",
+        "name": "日本继女",
+        "pinned_tweet_id": "1960290483365908688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921456139570761728/9PBrLxNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

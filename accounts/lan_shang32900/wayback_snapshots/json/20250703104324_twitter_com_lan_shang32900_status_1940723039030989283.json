@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1940023341001449571",
+    "created_at": "2025-07-03T10:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940723039030989283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863041923604180992",
+          "start": 0,
+          "username": "leow_0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940723039030989283",
+    "in_reply_to_user_id": "1863041923604180992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940023341001449571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leow_0508 那是用牙线吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1940023341001449571",
+        "created_at": "2025-07-03T10:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940723039030989283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863041923604180992",
+              "start": 0,
+              "username": "leow_0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940723039030989283",
+        "in_reply_to_user_id": "1863041923604180992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940023341001449571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leow_0508 那是用牙线吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863041923604180992",
+        "conversation_id": "1940023341001449571",
+        "created_at": "2025-07-01T12:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940023341001449571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940023341001449571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 353127,
+          "like_count": 1547,
+          "quote_count": 20,
+          "reply_count": 330,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人给蟑螂用炮机啊。。。😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 657,
+          "like_count": 32686,
+          "listed_count": 0,
+          "media_count": 614,
+          "tweet_count": 7828
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "师范在读，高中生初中生有什么需要帮助的可以直接私信我， 来这里主要想找人聊天或交朋友，心情好会发红包 小号 @kikikiw0320 🤓☝️互关可以来。性别男，爱好女，男的找我请过🚪，我是直男，过🚪了也不陪你聊天🌚不给我打钱还骚扰我的男同领取毕业旅行大礼包🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kikikiw0320"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "天天开心",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892661925818810369/BSDA1LEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 1401,
+          "like_count": 16896,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 2870
+        },
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

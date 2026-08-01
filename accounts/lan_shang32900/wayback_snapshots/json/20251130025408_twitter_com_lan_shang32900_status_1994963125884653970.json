@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1994963125884653970",
+    "created_at": "2025-11-30T02:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994963125884653970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994963125884653970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993496112796516448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiheyaokanwo: 一直以来玩推特受到很多女孩子照顾\n很感谢大家\n所以抽一条毛绒心跳的裙子传递下最近的幸福(ᐢ⸝⸝ᴖ ·̫ ᴖ⸝⸝ᐢ)\n点赞转发➕关注参加➕12🈷️1号晚8点开！\n你喜欢的话可以换同等价位其他衣服、感谢大家的照顾-3-♥ https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994963125884653970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994963125884653970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994963125884653970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1993496106605613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pSJZ9aEAAFv3D.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993496106605613056"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "1993496112796516448",
+        "created_at": "2025-11-26T01:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993496112796516448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKrhcGyEzf",
+              "end": 132,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1993496112796516448/photo/1",
+              "media_key": "3_1993496106605613056",
+              "start": 109,
+              "url": "https://t.co/EKrhcGyEzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993496112796516448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25927,
+          "like_count": 275,
+          "quote_count": 7,
+          "reply_count": 54,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "一直以来玩推特受到很多女孩子照顾\n很感谢大家\n所以抽一条毛绒心跳的裙子传递下最近的幸福(ᐢ⸝⸝ᴖ ·̫ ᴖ⸝⸝ᐢ)\n点赞转发➕关注参加➕12🈷️1号晚8点开！\n你喜欢的话可以换同等价位其他衣服、感谢大家的照顾-3-♥ https://t.co/EKrhcGyEzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 760,
+          "like_count": 39267,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 10131
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ/ダメ女 早春不过一棵树 提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 48,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 25,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990250273076600832/GZMeL-dW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 605,
+          "like_count": 1373,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 2499
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

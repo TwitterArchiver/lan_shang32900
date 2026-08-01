@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1977985710075285691",
+    "created_at": "2025-10-16T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978669322273689910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        },
+        {
+          "end": 27,
+          "id": "1924482734396997632",
+          "start": 11,
+          "username": "Christina357853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978669322273689910",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978668762439036945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c @Christina357853 ！！好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978668755522895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wkv-0bQAAR4_g.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978668755527114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wkv-1boAAc8VI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1977985710075285691",
+        "created_at": "2025-10-16T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978669322273689910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            },
+            {
+              "end": 27,
+              "id": "1924482734396997632",
+              "start": 11,
+              "username": "Christina357853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978669322273689910",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978668762439036945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c @Christina357853 ！！好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978668755522895872",
+            "3_1978668755527114752"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1977985710075285691",
+        "created_at": "2025-10-16T03:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978668762439036945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            },
+            {
+              "end": 32,
+              "id": "1924482734396997632",
+              "start": 16,
+              "username": "Christina357853"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SCewt4IOD",
+              "end": 77,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1978668762439036945/photo/1",
+              "media_key": "3_1978668755522895872",
+              "start": 54,
+              "url": "https://t.co/2SCewt4IOD"
+            },
+            {
+              "display_url": "pic.x.com/2SCewt4IOD",
+              "end": 77,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1978668762439036945/photo/1",
+              "media_key": "3_1978668755527114752",
+              "start": 54,
+              "url": "https://t.co/2SCewt4IOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978668762439036945",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978668422918447591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 @Christina357853 宝，我找到个网站可以讲药物联用哪个危害大 https://t.co/2SCewt4IOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 775,
+          "like_count": 39298,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 10091
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 3113,
+          "like_count": 24841,
+          "listed_count": 5,
+          "media_count": 1629,
+          "tweet_count": 23830
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 188,
+          "like_count": 9486,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 170
+        },
+        "username": "Christina357853",
+        "verified": false
+      }
+    ]
+  }
+}

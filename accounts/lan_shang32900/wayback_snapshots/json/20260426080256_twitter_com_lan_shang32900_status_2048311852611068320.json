@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2048309456027726222",
+    "created_at": "2026-04-26T08:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048311852611068320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "464973118",
+          "start": 0,
+          "username": "kinoko525525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048311852611068320",
+    "in_reply_to_user_id": "464973118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048309456027726222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinoko525525 那会是某些感觉吗、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048309453179822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0OmGLboAAl4Db.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048309453418795008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0OmHEaEAANpXg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2048309456027726222",
+        "created_at": "2026-04-26T08:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048311852611068320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "464973118",
+              "start": 0,
+              "username": "kinoko525525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048311852611068320",
+        "in_reply_to_user_id": "464973118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048309456027726222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko525525 那会是某些感觉吗、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048309453179822080",
+            "3_2048309453418795008"
+          ]
+        },
+        "author_id": "464973118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048309456027726222",
+        "created_at": "2026-04-26T07:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048309456027726222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4sd25SCHi",
+              "end": 42,
+              "expanded_url": "https://x.com/kinoko525525/status/2048309456027726222/photo/1",
+              "media_key": "3_2048309453179822080",
+              "start": 19,
+              "url": "https://t.co/W4sd25SCHi"
+            },
+            {
+              "display_url": "pic.x.com/W4sd25SCHi",
+              "end": 42,
+              "expanded_url": "https://x.com/kinoko525525/status/2048309456027726222/photo/1",
+              "media_key": "3_2048309453418795008",
+              "start": 19,
+              "url": "https://t.co/W4sd25SCHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048309456027726222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么感觉流出去的不是血液…… https://t.co/W4sd25SCHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 798,
+          "like_count": 47205,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 11686
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "自娱自乐",
+        "id": "464973118",
+        "name": "我想成为正常人",
+        "pinned_tweet_id": "2025679319075295299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047012339837472768/QuTBc1EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 91,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 409
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

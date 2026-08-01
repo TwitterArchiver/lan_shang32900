@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963498000283832612",
+    "created_at": "2025-09-04T07:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T08:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963498000283832612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963498000283832612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963471643499794936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: 你们玩乙游搞纸片人的不许说自己有恋丑癖，我们顺直女才是恋丑癖的主要人群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963498000283832612",
+        "created_at": "2025-09-04T07:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963498000283832612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963498000283832612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963471643499794936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: 你们玩乙游搞纸片人的不许说自己有恋丑癖，我们顺直女才是恋丑癖的主要人群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1963471643499794936",
+        "created_at": "2025-09-04T05:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963471643499794936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963471643499794936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩乙游搞纸片人的不许说自己有恋丑癖，我们顺直女才是恋丑癖的主要人群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 711,
+          "like_count": 36564,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 9278
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*障害者手帳持っている人｜我活不起了🚪99/198/520，可以陪你聊天和你玩游戏给你唱歌跳舞画画😚😚😚｜成分复杂｜粉红勿扰｜接纯绿线下请先过门",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34460,
+          "following_count": 787,
+          "like_count": 7258,
+          "listed_count": 42,
+          "media_count": 220,
+          "tweet_count": 2556
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1924337362865447149",
+    "created_at": "2025-05-19T05:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T06:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924337362865447149"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924337362865447149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我记得你总说「不要这样，人生最可怕就是你本可以」\n对你来说你是经常后悔的人吧，可是我并不是。重新人生选择的话对于每个选择的代价，一开始就选择后悔的你还可以拥有不后悔的选项吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1924337362865447149",
+        "created_at": "2025-05-19T05:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T06:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924337362865447149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924337362865447149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得你总说「不要这样，人生最可怕就是你本可以」\n对你来说你是经常后悔的人吧，可是我并不是。重新人生选择的话对于每个选择的代价，一开始就选择后悔的你还可以拥有不后悔的选项吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 652,
+          "like_count": 31855,
+          "listed_count": 0,
+          "media_count": 566,
+          "tweet_count": 7381
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

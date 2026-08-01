@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1903384878789673030",
+    "created_at": "2025-03-22T09:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T10:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903384878789673030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vir_coconut/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/vir_coconut/status/1903090706614194230",
+          "start": 45,
+          "url": "https://t.co/XhOlg7Di64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903384878789673030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903090706614194230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直用冷水洗澡 热胀冷缩你懂吧？我只跟我真爱粉说 多用冷水洗逼逼可以变紧老公会更爱你💅 https://t.co/XhOlg7Di64"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1903384878789673030",
+        "created_at": "2025-03-22T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903384878789673030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vir_coconut/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/vir_coconut/status/1903090706614194230",
+              "start": 45,
+              "url": "https://t.co/XhOlg7Di64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903384878789673030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903090706614194230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直用冷水洗澡 热胀冷缩你懂吧？我只跟我真爱粉说 多用冷水洗逼逼可以变紧老公会更爱你💅 https://t.co/XhOlg7Di64"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1903090706614194230",
+        "created_at": "2025-03-21T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903090706614194230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903090706614194230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7347,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直用冷水洗澡 热胀冷缩你懂吧？我只跟我真爱粉说 多用冷水洗逼逼可以变紧老公会更爱你💅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 661,
+          "like_count": 31460,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 7087
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "",
+        "id": "2596381225",
+        "location": "🚪188/520/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759508567826434/YKreL3Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11041,
+          "following_count": 215,
+          "like_count": 2949,
+          "listed_count": 24,
+          "media_count": 35,
+          "tweet_count": 1552
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

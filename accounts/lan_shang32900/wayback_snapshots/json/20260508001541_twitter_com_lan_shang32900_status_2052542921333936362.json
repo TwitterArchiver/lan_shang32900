@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2052508749454365076",
+    "created_at": "2026-05-08T00:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T01:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052542921333936362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985648276046315520",
+          "start": 0,
+          "username": "0o_170o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052542921333936362",
+    "in_reply_to_user_id": "1985648276046315520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052508749454365076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0o_170o 摸摸摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2052508738733629440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHv50r6aYAAvhXE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2052508749454365076",
+        "created_at": "2026-05-08T00:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052542921333936362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985648276046315520",
+              "start": 0,
+              "username": "0o_170o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052542921333936362",
+        "in_reply_to_user_id": "1985648276046315520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052508749454365076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0o_170o 摸摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052508738733629440"
+          ]
+        },
+        "author_id": "1985648276046315520",
+        "conversation_id": "2052508749454365076",
+        "created_at": "2026-05-07T21:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052508749454365076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppytoFk4Ui",
+              "end": 34,
+              "expanded_url": "https://x.com/0o_170o/status/2052508749454365076/photo/1",
+              "media_key": "3_2052508738733629440",
+              "start": 11,
+              "url": "https://t.co/ppytoFk4Ui"
+            },
+            {
+              "display_url": "x.com/lan_shang32900…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/lan_shang32900/status/2052394204706578582",
+              "start": 35,
+              "url": "https://t.co/t4KlCFWzBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052508749454365076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052394204706578582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了啊啊啊啊啊😭⁉️ https://t.co/ppytoFk4Ui https://t.co/t4KlCFWzBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 799,
+          "like_count": 48877,
+          "listed_count": 5,
+          "media_count": 802,
+          "tweet_count": 11994
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T10:00:24.000Z",
+        "description": "20↑ 雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/minmin425",
+                "end": 23,
+                "expanded_url": "http://paypal.me/minmin425",
+                "start": 0,
+                "url": "https://t.co/83N8HlkAri"
+              }
+            ]
+          }
+        },
+        "id": "1985648276046315520",
+        "location": "吵死了",
+        "name": "四月一日★",
+        "pinned_tweet_id": "2039776366128926882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648241718480896/WtDM7fXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 491,
+          "like_count": 4851,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/83N8HlkAri",
+        "username": "0o_170o",
+        "verified": false
+      }
+    ]
+  }
+}

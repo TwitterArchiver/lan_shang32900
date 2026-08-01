@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1949529963222409699",
+    "created_at": "2025-07-27T17:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949529963222409699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shudesu00/stat…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/shudesu00/status/1949214777278140741",
+          "start": 80,
+          "url": "https://t.co/iXjDoN7p1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949529963222409699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949214777278140741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/iXjDoN7p1u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1949529963222409699",
+        "created_at": "2025-07-27T17:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949529963222409699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/shudesu00/status/1949214777278140741",
+              "start": 80,
+              "url": "https://t.co/iXjDoN7p1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949529963222409699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949214777278140741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/iXjDoN7p1u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1949214777278140741",
+        "created_at": "2025-07-26T21:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T22:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949214777278140741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tyumen1871/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/tyumen1871/status/1947188374726643916",
+              "start": 80,
+              "url": "https://t.co/VwffyP8Si1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949214777278140741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 776,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947188374726643916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/VwffyP8Si1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 671,
+          "like_count": 34216,
+          "listed_count": 0,
+          "media_count": 645,
+          "tweet_count": 8371
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🌲Ftx_习惯性点赞✚各类一次性飞雾小黑条鸭嘴兽等齐全。悦刻五代180六代200「正品」or其他杆子150-180♦悦刻原装果味弹75冰熊75💰买杆又买蛋优惠20。「私信请说明需要的产品（高品质有售后，放心购买，诚信第一）",
+        "id": "1339446920511569920",
+        "name": "小树（电子烟代/外烟纸烟）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4083,
+          "following_count": 2189,
+          "like_count": 119504,
+          "listed_count": 6,
+          "media_count": 1600,
+          "tweet_count": 16911
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938643601296367624"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1938643613925486912",
+    "created_at": "2025-06-27T17:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938643613925486912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQPkulKxrx",
+          "end": 29,
+          "expanded_url": "https://x.com/lan_shang32900/status/1938643613925486912/photo/1",
+          "media_key": "3_1938643601296367624",
+          "start": 6,
+          "url": "https://t.co/oQPkulKxrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938643613925486912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天妇罗猫猫 https://t.co/oQPkulKxrx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938643613925486912].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938643613925486912",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938643613925486912"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938643601296367624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudyFYFaoAgD_VV.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 655,
+          "like_count": 32210,
+          "listed_count": 0,
+          "media_count": 607,
+          "tweet_count": 7679
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

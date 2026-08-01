@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2056249421231505419",
+    "created_at": "2026-05-18T10:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056321403113361890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056321403113361890",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056249421231505419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在调整状态尽量每个赞都私信、但私信没开或者私信有要求的我没办法发\n\n然后就是状态也不太好、能表达出来的比较困难，没有OD不良影响的意思，纯精神症状的外幻内幻表达可能慢一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2056249421231505419",
+        "created_at": "2026-05-18T10:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056321403113361890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056321403113361890",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056249421231505419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在调整状态尽量每个赞都私信、但私信没开或者私信有要求的我没办法发\n\n然后就是状态也不太好、能表达出来的比较困难，没有OD不良影响的意思，纯精神症状的外幻内幻表达可能慢一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2056249421231505419",
+        "created_at": "2026-05-18T05:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056249421231505419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056249421231505419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人想听我的幻觉吗，纯精神症状不含药物成分的外幻，点赞我去讲（）\n最近经期精神状态很差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 795,
+          "like_count": 49973,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 12091
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

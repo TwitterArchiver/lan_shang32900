@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1950758246173782353",
+    "created_at": "2025-08-01T09:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951217096886550844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951217096886550844",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950758246173782353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 我也很想知道，所以一直在探索。每个时期都有在迷茫的人，人类因为思考到自身有更多美好的需求但现实又远远没办法达到所以迷茫，幸福一直都是一个伪命题。因为那是一个主观词汇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1950758246173782353",
+        "created_at": "2025-08-01T09:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951217096886550844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951217096886550844",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950758246173782353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 我也很想知道，所以一直在探索。每个时期都有在迷茫的人，人类因为思考到自身有更多美好的需求但现实又远远没办法达到所以迷茫，幸福一直都是一个伪命题。因为那是一个主观词汇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1950758246173782353",
+        "created_at": "2025-07-31T03:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950758246173782353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950758246173782353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45626,
+          "like_count": 501,
+          "quote_count": 11,
+          "reply_count": 93,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我发现一个问题\n年轻的时候可以吃糖，搞男人去做药娘，男同\n但是到了老了之后呢，人老珠黄之后要何去何从\nLGBQ不只是那些十几岁光鲜亮丽的少年少女，还有那些三十多四十多的红姐\n到那时真的会有人接纳吗\n很多人喜欢的其实只是年轻漂亮的\n但当时间吹过，我们还能留下什么\n就像一朵艳奇的昙花\n美丽但短命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 674,
+          "like_count": 34311,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 8430
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔🎫",
+        "pinned_tweet_id": "1949533337917509801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 6241,
+          "like_count": 44721,
+          "listed_count": 4,
+          "media_count": 623,
+          "tweet_count": 18439
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

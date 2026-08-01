@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960145480593391726",
+    "created_at": "2025-08-26T01:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T02:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960147471587492276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "dogneco2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960147471587492276",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960145480593391726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogneco2020 チワワ！૮₍°□°₎ა"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_1960145476537536512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPV7PUb0AAO52D.jpg",
+        "width": 351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960145480593391726",
+        "created_at": "2025-08-26T01:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960147471587492276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "dogneco2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960147471587492276",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960145480593391726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogneco2020 チワワ！૮₍°□°₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960145476537536512"
+          ]
+        },
+        "author_id": "1750134402464788481",
+        "conversation_id": "1960145480593391726",
+        "created_at": "2025-08-26T01:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960145480593391726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "新しいプロフィール画像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04R0RjPf64",
+              "end": 36,
+              "expanded_url": "https://x.com/dogneco2020/status/1960145480593391726/photo/1",
+              "media_key": "3_1960145476537536512",
+              "start": 13,
+              "url": "https://t.co/04R0RjPf64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960145480593391726",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新しいプロフィール画像 https://t.co/04R0RjPf64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 703,
+          "like_count": 35680,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 8950
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "チワワだよ2歳⬆️♂裏@necodog2222 #バウンティ 即リプ https://t.co/0UO0Fdini1 バウンティ 社畜 チワワ★",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "バウンティ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "necodog2222"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "end": 58,
+                "expanded_url": "https://marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "start": 35,
+                "url": "https://t.co/0UO0Fdini1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dogneco2020/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dogneco2020/",
+                "start": 0,
+                "url": "https://t.co/qJyjyuc3u9"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "オンボロ犬小屋18年住み",
+        "name": "チワァ",
+        "pinned_tweet_id": "1948005849898815517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145461832216576/t-ztIkjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 809,
+          "like_count": 102348,
+          "listed_count": 2,
+          "media_count": 2355,
+          "tweet_count": 44287
+        },
+        "url": "https://t.co/qJyjyuc3u9",
+        "username": "dogneco2020",
+        "verified": false
+      }
+    ]
+  }
+}

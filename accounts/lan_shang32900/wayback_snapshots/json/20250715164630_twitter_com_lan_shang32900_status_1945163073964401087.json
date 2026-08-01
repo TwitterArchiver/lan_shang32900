@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1945130298275950893",
+    "created_at": "2025-07-15T16:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T17:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945163073964401087"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "恭喜",
+          "probability": 0.5036,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945163073964401087",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945130298275950893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety 恭喜！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945130298275950893].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945130298275950893",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945130298275950893"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1945130298275950893",
+        "created_at": "2025-07-15T16:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T17:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945163073964401087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "恭喜",
+              "probability": 0.5036,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945163073964401087",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945130298275950893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety 恭喜！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 659,
+          "like_count": 33262,
+          "listed_count": 0,
+          "media_count": 628,
+          "tweet_count": 8017
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "里垢\n随时清互关，被清了是你的问题\n\nNGL∶https://t.co/wyQ8zstbDb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 46,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 23,
+                "url": "https://t.co/wyQ8zstbDb"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1933834878157799925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16715,
+          "following_count": 1737,
+          "like_count": 30203,
+          "listed_count": 21,
+          "media_count": 2576,
+          "tweet_count": 20973
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      }
+    ]
+  }
+}

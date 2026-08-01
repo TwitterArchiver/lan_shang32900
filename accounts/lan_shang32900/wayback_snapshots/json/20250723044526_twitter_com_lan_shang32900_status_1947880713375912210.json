@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1947880713375912210",
+    "created_at": "2025-07-23T04:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T05:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947880713375912210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TEA_beta4/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/TEA_beta4/status/1947191775606792675",
+          "start": 15,
+          "url": "https://t.co/ULHEzK6pFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947880713375912210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947191775606792675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "輕鬆變成恐怖分子了，有這好事 https://t.co/ULHEzK6pFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_1947191766957850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXQmGsWgAAZyd4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 601,
+        "media_key": "3_1947191773303816192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXQmeVWQAALoxx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1947880713375912210",
+        "created_at": "2025-07-23T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947880713375912210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TEA_beta4/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/TEA_beta4/status/1947191775606792675",
+              "start": 15,
+              "url": "https://t.co/ULHEzK6pFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947880713375912210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947191775606792675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "輕鬆變成恐怖分子了，有這好事 https://t.co/ULHEzK6pFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947191766957850624",
+            "3_1947191773303816192"
+          ]
+        },
+        "author_id": "1567894869707825158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947191775606792675",
+        "created_at": "2025-07-21T07:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947191775606792675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6pbkA8KI2",
+              "end": 25,
+              "expanded_url": "https://x.com/TEA_beta4/status/1947191775606792675/photo/1",
+              "media_key": "3_1947191766957850624",
+              "start": 2,
+              "url": "https://t.co/Y6pbkA8KI2"
+            },
+            {
+              "display_url": "pic.x.com/Y6pbkA8KI2",
+              "end": 25,
+              "expanded_url": "https://x.com/TEA_beta4/status/1947191775606792675/photo/1",
+              "media_key": "3_1947191773303816192",
+              "start": 2,
+              "url": "https://t.co/Y6pbkA8KI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947191775606792675",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 231890,
+          "like_count": 1889,
+          "quote_count": 28,
+          "reply_count": 101,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "😄 https://t.co/Y6pbkA8KI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 667,
+          "like_count": 33732,
+          "listed_count": 0,
+          "media_count": 639,
+          "tweet_count": 8211
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:17:33.000Z",
+        "description": "DLC",
+        "id": "1567894869707825158",
+        "name": "T-Alpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945149030667051009/fPFRr6L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 810,
+          "like_count": 3646,
+          "listed_count": 7,
+          "media_count": 780,
+          "tweet_count": 8051
+        },
+        "username": "TEA_beta4",
+        "verified": false
+      }
+    ]
+  }
+}

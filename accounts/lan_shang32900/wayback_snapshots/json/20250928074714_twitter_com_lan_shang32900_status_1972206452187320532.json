@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971932471555248132"
+      ],
+      "media_source_tweet_id": [
+        "1971932483014050013"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1972206452187320532",
+    "created_at": "2025-09-28T07:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T08:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972206452187320532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1692136120027320320",
+          "start": 3,
+          "username": "AlbertIsCypress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xiBtEsCaN",
+          "end": 44,
+          "expanded_url": "https://x.com/AlbertIsCypress/status/1971932483014050013/photo/1",
+          "media_key": "3_1971932471555248132",
+          "start": 21,
+          "url": "https://t.co/5xiBtEsCaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972206452187320532",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971932483014050013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlbertIsCypress: https://t.co/5xiBtEsCaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_1971932471555248132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G122Ipgb0AQBg6O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971932471555248132"
+          ],
+          "media_source_tweet_id": [
+            "1971932483014050013"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1972206452187320532",
+        "created_at": "2025-09-28T07:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T08:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972206452187320532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1692136120027320320",
+              "start": 3,
+              "username": "AlbertIsCypress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xiBtEsCaN",
+              "end": 44,
+              "expanded_url": "https://x.com/AlbertIsCypress/status/1971932483014050013/photo/1",
+              "media_key": "3_1971932471555248132",
+              "start": 21,
+              "url": "https://t.co/5xiBtEsCaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972206452187320532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971932483014050013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlbertIsCypress: https://t.co/5xiBtEsCaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971932471555248132"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1971932483014050013",
+        "created_at": "2025-09-27T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971932483014050013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xiBtEsCaN",
+              "end": 23,
+              "expanded_url": "https://x.com/AlbertIsCypress/status/1971932483014050013/photo/1",
+              "media_key": "3_1971932471555248132",
+              "start": 0,
+              "url": "https://t.co/5xiBtEsCaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971932483014050013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5xiBtEsCaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 749,
+          "like_count": 38593,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 9902
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|接伤口定制 请私信@kanbenshiteyo0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "kanbenshiteyo0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1178,
+          "like_count": 33576,
+          "listed_count": 7,
+          "media_count": 1457,
+          "tweet_count": 9877
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

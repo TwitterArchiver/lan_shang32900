@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920118611110453547",
+    "created_at": "2025-05-07T14:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920118611110453547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571735057332592640",
+          "start": 3,
+          "username": "rchngbngd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920118611110453547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919977622362050576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rchngbngd1: 我因为太仁善搭理了好多看起来不是傻逼的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920118611110453547",
+        "created_at": "2025-05-07T14:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920118611110453547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571735057332592640",
+              "start": 3,
+              "username": "rchngbngd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920118611110453547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919977622362050576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rchngbngd1: 我因为太仁善搭理了好多看起来不是傻逼的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571735057332592640",
+        "conversation_id": "1919977622362050576",
+        "created_at": "2025-05-07T04:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919977622362050576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919977622362050576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我因为太仁善搭理了好多看起来不是傻逼的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 649,
+          "like_count": 31392,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 7252
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "百亿补贴/",
+        "id": "1571735057332592640",
+        "location": "我的饭呢",
+        "name": "放松下",
+        "pinned_tweet_id": "1907806848998322655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915669045631922176/4DRAnNoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 415,
+          "like_count": 2578,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1272
+        },
+        "username": "rchngbngd1",
+        "verified": false
+      }
+    ]
+  }
+}

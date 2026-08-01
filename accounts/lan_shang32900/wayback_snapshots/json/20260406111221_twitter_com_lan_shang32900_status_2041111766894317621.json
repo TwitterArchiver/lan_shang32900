@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041111766894317621",
+    "created_at": "2026-04-06T11:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041111766894317621"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041111766894317621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实特别喜欢歌爱雪的声线、但一旦绑定歌姬形象小孩子就变得很怪（（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041111766894317621",
+        "created_at": "2026-04-06T11:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041111766894317621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041111766894317621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实特别喜欢歌爱雪的声线、但一旦绑定歌姬形象小孩子就变得很怪（（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 792,
+          "like_count": 42627,
+          "listed_count": 3,
+          "media_count": 768,
+          "tweet_count": 10781
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

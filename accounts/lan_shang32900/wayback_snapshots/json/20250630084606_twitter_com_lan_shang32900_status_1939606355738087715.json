@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1938511588547514478",
+    "created_at": "2025-06-30T08:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939606355738087715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735938952731693056",
+          "start": 0,
+          "username": "IWantMyLilDoggy"
+        },
+        {
+          "end": 30,
+          "id": "1692136120027320320",
+          "start": 17,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939606355738087715",
+    "in_reply_to_user_id": "1735938952731693056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939488553911882099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IWantMyLilDoggy @Cypress_7593 会的，子宫高潮很明显比自己冲舒服（（）我自己冲外面要两个小时左右高潮，但是有第一次高潮之后非常容易高潮怎么样都会（（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939488553911882099].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939488553911882099",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939488553911882099"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1938511588547514478",
+        "created_at": "2025-06-30T08:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939606355738087715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735938952731693056",
+              "start": 0,
+              "username": "IWantMyLilDoggy"
+            },
+            {
+              "end": 30,
+              "id": "1692136120027320320",
+              "start": 17,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939606355738087715",
+        "in_reply_to_user_id": "1735938952731693056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939488553911882099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IWantMyLilDoggy @Cypress_7593 会的，子宫高潮很明显比自己冲舒服（（）我自己冲外面要两个小时左右高潮，但是有第一次高潮之后非常容易高潮怎么样都会（（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 654,
+          "like_count": 32386,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7714
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T08:24:56.000Z",
+        "description": "但是我不爱我自己。 会在某天突然变成悲叹之种 请回关我我想和你聊天（也可以不回）大号是@FTMiaoX 这个号含有：#drugstwt #drugtwt #shtwt 有些时候会发不开评论的自言自语负能推 但请来和我交朋友求你了🥺🥺🥺 我从未试图隐藏我自己。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 58,
+                "tag": "drugstwt"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "FTMiaoX"
+              }
+            ]
+          }
+        },
+        "id": "1735938952731693056",
+        "name": "🏳️‍⚧️魔法少猫饭团喵🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 383,
+          "like_count": 4666,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2274
+        },
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 125,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 841,
+          "like_count": 15857,
+          "listed_count": 2,
+          "media_count": 603,
+          "tweet_count": 4285
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

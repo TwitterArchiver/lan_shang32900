@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960874789863875048",
+    "created_at": "2025-08-28T01:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T02:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960874789863875048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960874789863875048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的骨骼为什么不能长得很修长，为什么不能和我的脸长得匹配，为什么我的手像两个猪蹄好讨厌啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960874789863875048",
+        "created_at": "2025-08-28T01:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960874789863875048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960874789863875048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的骨骼为什么不能长得很修长，为什么不能和我的脸长得匹配，为什么我的手像两个猪蹄好讨厌啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 706,
+          "like_count": 35891,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9037
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

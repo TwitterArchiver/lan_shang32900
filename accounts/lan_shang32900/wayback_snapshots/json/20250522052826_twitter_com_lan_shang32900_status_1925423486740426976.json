@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925423484131573760"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1925308114284552534",
+    "created_at": "2025-05-22T05:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T06:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925423486740426976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1IBDWUHH1",
+          "end": 55,
+          "expanded_url": "https://x.com/lan_shang32900/status/1925423486740426976/photo/1",
+          "media_key": "3_1925423484131573760",
+          "start": 32,
+          "url": "https://t.co/t1IBDWUHH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925423486740426976",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925308114284552534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 宝宝可以用小胡子emoji或者这种（？） https://t.co/t1IBDWUHH1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925423486740426976].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925423486740426976",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925423486740426976"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1925423484131573760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh6dR3bgAAxFmf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925308100246216704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrgRhDZboAA6sVo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925308100267188225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrgRhDeboAE4z1E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925308100246216704",
+            "3_1925308100267188225"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1925308114284552534",
+        "created_at": "2025-05-21T21:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T22:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925308114284552534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jH0lA8v341",
+              "end": 31,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1925308114284552534/photo/1",
+              "media_key": "3_1925308100246216704",
+              "start": 8,
+              "url": "https://t.co/jH0lA8v341"
+            },
+            {
+              "display_url": "pic.x.com/jH0lA8v341",
+              "end": 31,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1925308114284552534/photo/1",
+              "media_key": "3_1925308100267188225",
+              "start": 8,
+              "url": "https://t.co/jH0lA8v341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925308114284552534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么新鲜事？ https://t.co/jH0lA8v341"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 652,
+          "like_count": 32038,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 7431
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3017,
+          "like_count": 23093,
+          "listed_count": 3,
+          "media_count": 1402,
+          "tweet_count": 22116
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

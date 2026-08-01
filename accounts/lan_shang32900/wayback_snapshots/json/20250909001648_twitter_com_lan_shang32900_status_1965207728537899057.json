@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965067238517694711",
+    "created_at": "2025-09-09T00:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T01:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965207728537899057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965207728537899057",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965067238517694711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 从小到大根本没有好朋友好闺蜜好兄弟（）但是身边同学知道我有精神疾病都是父母说着什么为你好实际上就是传出去了草。现在我妹的朋友也是，一直被我妈抓着问她最近怎么样多关心关心她她有精神病，导致我和我妹都没有朋友了。蠢人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965067238517694711",
+        "created_at": "2025-09-09T00:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T01:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965207728537899057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965207728537899057",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965067238517694711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 从小到大根本没有好朋友好闺蜜好兄弟（）但是身边同学知道我有精神疾病都是父母说着什么为你好实际上就是传出去了草。现在我妹的朋友也是，一直被我妈抓着问她最近怎么样多关心关心她她有精神病，导致我和我妹都没有朋友了。蠢人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1965067238517694711",
+        "created_at": "2025-09-08T14:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965067238517694711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965067238517694711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯反正你身上的精神疾病\n哪怕只是一点点心情不好的紫餐\n或者一些社会所认为的错误的事情\n都不要让你的好朋友好闺蜜好兄弟知道\n哈哈哈哈哈哈哈哈哈哈哈哈哈\n反正我真的认栽了，我输了我投降了\n行，别的不说，你给你妹带来了什么呢\n你关心过她的心理状况吗？\n你说我拉拢你妹妹，那你倒是看她手机看她聊天记录，看我到底有没有拉拢\n搞笑，你妹妹小学想画画\n是我送她两百多块的彩铅吧\n你妹妹中学后想画画\n是我送的iPad和原装笔吧我从来就不求回报啊，我只是希望你没妹这样同年和我如此相似的人能过得开心一点，现在倒好，你到拿这点作为攻击我的武器。\n好吧，好吧，好吧好姐姐。\n你给了她什么呢哦你可可以说你给了她爱\n好，你认为爱值钱那就给，都可以给\n反正对你来我就是一个带坏你妹妹的一个被你否定掉的朋友罢了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯反正你身上的精神疾病\n哪怕只是一点点心情不好的紫餐\n或者一些社会所认为的错误的事情\n都不要让你的好朋友好闺蜜好兄弟知道\n哈哈哈哈哈哈哈哈哈哈哈哈哈\n反正我真的认栽了，我输了我投降了\n行，别的不说，你给你妹带来了什么呢\n你关心过她的心理状况吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 720,
+          "like_count": 36901,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 9381
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 65,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 42,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1964292254874685845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40582,
+          "following_count": 1081,
+          "like_count": 23710,
+          "listed_count": 49,
+          "media_count": 2635,
+          "tweet_count": 30104
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

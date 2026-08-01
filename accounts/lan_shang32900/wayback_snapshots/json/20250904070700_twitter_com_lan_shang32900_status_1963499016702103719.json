@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963137513801081162",
+    "created_at": "2025-09-04T07:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T08:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963499016702103719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "CypressAlbert18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963499016702103719",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963137513801081162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert18 这个质感是用什么材料什么技法做的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963137487951572992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz53JOabMAA78pT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1963137494742102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz53JntacAA9bDi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963137513801081162",
+        "created_at": "2025-09-04T07:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963499016702103719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "CypressAlbert18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963499016702103719",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963137513801081162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert18 这个质感是用什么材料什么技法做的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963137487951572992",
+            "3_1963137494742102016"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1963137513801081162",
+        "created_at": "2025-09-03T07:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963137513801081162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhJ1qZATS8",
+              "end": 34,
+              "expanded_url": "https://x.com/CypressAlbert18/status/1963137513801081162/photo/1",
+              "media_key": "3_1963137487951572992",
+              "start": 11,
+              "url": "https://t.co/KhJ1qZATS8"
+            },
+            {
+              "display_url": "pic.x.com/KhJ1qZATS8",
+              "end": 34,
+              "expanded_url": "https://x.com/CypressAlbert18/status/1963137513801081162/photo/1",
+              "media_key": "3_1963137494742102016",
+              "start": 11,
+              "url": "https://t.co/KhJ1qZATS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963137513801081162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实话实说我有点绷不住 https://t.co/KhJ1qZATS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 711,
+          "like_count": 36575,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 9281
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "不是人类不说人话精神状态是量子叠加态|成分复杂关注请谨慎|INFJ 5w6（经常化身TP人形态）|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|🩸@theLostCypress ✝️@Kashiwagi_7593",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "theLostCypress"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Kashiwagi_7593"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1958549106378617305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962043921133076480/C58e2bLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1127,
+          "like_count": 29876,
+          "listed_count": 7,
+          "media_count": 1251,
+          "tweet_count": 8703
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "CypressAlbert18",
+        "verified": true
+      }
+    ]
+  }
+}

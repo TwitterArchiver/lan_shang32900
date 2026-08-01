@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920421511803847108",
+    "created_at": "2025-05-09T07:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920741537366901149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876779131503013888",
+          "start": 0,
+          "username": "d3vilsadvocate3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920741537366901149",
+    "in_reply_to_user_id": "1876779131503013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920421511803847108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d3vilsadvocate3 治疗抑郁的药物有一个有聪明效果吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_1920421508163227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqa1L9UW0AAeQi2.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920421511803847108",
+        "created_at": "2025-05-09T07:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920741537366901149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876779131503013888",
+              "start": 0,
+              "username": "d3vilsadvocate3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920741537366901149",
+        "in_reply_to_user_id": "1876779131503013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920421511803847108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d3vilsadvocate3 治疗抑郁的药物有一个有聪明效果吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920421508163227648"
+          ]
+        },
+        "author_id": "1876779131503013888",
+        "conversation_id": "1920421511803847108",
+        "created_at": "2025-05-08T10:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920421511803847108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pldj6eQTH",
+              "end": 31,
+              "expanded_url": "https://x.com/d3vilsadvocate3/status/1920421511803847108/photo/1",
+              "media_key": "3_1920421508163227648",
+              "start": 8,
+              "url": "https://t.co/0pldj6eQTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920421511803847108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥你找错人了 https://t.co/0pldj6eQTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 650,
+          "like_count": 31443,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 7273
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T23:53:18.000Z",
+        "description": "重加工｜中文/EN｜🔮占卜dm｜匿名askbox https://t.co/sN1Iy0tEX8｜喜欢请关注我拜托｜查成分回fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d3vilsadvocate3",
+                "end": 48,
+                "expanded_url": "https://ngl.link/d3vilsadvocate3",
+                "start": 25,
+                "url": "https://t.co/sN1Iy0tEX8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/d3vilsadvocate3",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/d3vilsadvocate3",
+                "start": 0,
+                "url": "https://t.co/3vTyrdiU63"
+              }
+            ]
+          }
+        },
+        "id": "1876779131503013888",
+        "location": "kofi link help me pay my bills",
+        "name": "哭給妳一條河",
+        "pinned_tweet_id": "1914704684004135207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920427314040504320/54vzORrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 85,
+          "like_count": 2652,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/3vTyrdiU63",
+        "username": "d3vilsadvocate3",
+        "verified": false
+      }
+    ]
+  }
+}

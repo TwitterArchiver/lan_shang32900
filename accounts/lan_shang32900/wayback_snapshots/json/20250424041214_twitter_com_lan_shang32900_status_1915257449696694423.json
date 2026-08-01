@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915257440796655616"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1915097028981576064",
+    "created_at": "2025-04-24T04:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915257449696694423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGfu3nAdwa",
+          "end": 44,
+          "expanded_url": "https://x.com/lan_shang32900/status/1915257449696694423/photo/1",
+          "media_key": "3_1915257440796655616",
+          "start": 21,
+          "url": "https://t.co/jGfu3nAdwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915257449696694423",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915097028981576064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 袭来！ https://t.co/jGfu3nAdwa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915257449696694423].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915257449696694423",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915257449696694423"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915257440796655616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRcfrQbwAACIWq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1915097028981576064",
+        "created_at": "2025-04-23T17:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915097028981576064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915097028981576064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 747,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要画OC\n或者你文字描述头发眼睛颜色\n然后淘宝找一套衣服画出来都行\n我太闲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 647,
+          "like_count": 31415,
+          "listed_count": 0,
+          "media_count": 540,
+          "tweet_count": 7168
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆关注我加入爱礼教/碎碎念和画画推/非常喜欢猫咪丨🚪门槛30r有且只有闲聊丨🦜嘤鹉：@SENDOH214丨🪜自用梯：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 58,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1913554227307454970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41374,
+          "following_count": 1003,
+          "like_count": 22732,
+          "listed_count": 47,
+          "media_count": 2089,
+          "tweet_count": 26265
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

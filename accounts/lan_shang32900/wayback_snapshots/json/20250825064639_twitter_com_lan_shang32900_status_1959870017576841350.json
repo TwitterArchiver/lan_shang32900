@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959391825938276507",
+    "created_at": "2025-08-25T06:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959870017576841350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782080401575702528",
+          "start": 0,
+          "username": "__shilapi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959870017576841350",
+    "in_reply_to_user_id": "1782080401575702528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959391825938276507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__shilapi__ 最炫压抑的时候我看CP贴贴也能精神高潮然后手冲（（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959391825938276507",
+        "created_at": "2025-08-25T06:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959870017576841350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782080401575702528",
+              "start": 0,
+              "username": "__shilapi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959870017576841350",
+        "in_reply_to_user_id": "1782080401575702528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959391825938276507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__shilapi__ 最炫压抑的时候我看CP贴贴也能精神高潮然后手冲（（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782080401575702528",
+        "conversation_id": "1959391825938276507",
+        "created_at": "2025-08-23T23:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T00:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959391825938276507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959391825938276507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6580,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "呃我就是想问一下，男的手冲的时候会需要实例化出一个具体的对象吗？还是说可以就…这么…直接调用基类？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 704,
+          "like_count": 35624,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 8930
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T16:14:18.000Z",
+        "description": "🏳️‍⚧️ Pride for myself / ❤️🪵👉🏻@SDRAM_DIMTH / Guess who I am ( ´▽｀)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "SDRAM_DIMTH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapiw.icu",
+                "end": 23,
+                "expanded_url": "http://lapiw.icu",
+                "start": 0,
+                "url": "https://t.co/sovFzVUuc1"
+              }
+            ]
+          }
+        },
+        "id": "1782080401575702528",
+        "location": "London, England",
+        "name": "Shilapi Nya~",
+        "pinned_tweet_id": "1936166464219939007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867011803735273472/PSw9n9L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 408,
+          "like_count": 9217,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/sovFzVUuc1",
+        "username": "__shilapi__",
+        "verified": false
+      }
+    ]
+  }
+}

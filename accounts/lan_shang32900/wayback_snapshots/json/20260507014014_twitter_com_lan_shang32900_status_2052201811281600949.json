@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2051911568443707478",
+    "created_at": "2026-05-07T01:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052201811281600949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1738035209755664384",
+          "start": 0,
+          "username": "chemy_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052201811281600949",
+    "in_reply_to_user_id": "1738035209755664384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051911568443707478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chemy_05 居然这么少吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051911564882837504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnasl9bgAApQN_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2051911568443707478",
+        "created_at": "2026-05-07T01:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052201811281600949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1738035209755664384",
+              "start": 0,
+              "username": "chemy_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052201811281600949",
+        "in_reply_to_user_id": "1738035209755664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051911568443707478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chemy_05 居然这么少吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051911564882837504"
+          ]
+        },
+        "author_id": "1738035209755664384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051911568443707478",
+        "created_at": "2026-05-06T06:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051911568443707478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/YczwzhvNRa"
+            },
+            {
+              "display_url": "pic.x.com/kqphJhOstF",
+              "end": 64,
+              "expanded_url": "https://x.com/chemy_05/status/2051911568443707478/photo/1",
+              "media_key": "3_2051911564882837504",
+              "start": 41,
+              "url": "https://t.co/kqphJhOstF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051911568443707478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/YczwzhvNRa https://t.co/kqphJhOstF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 793,
+          "like_count": 48735,
+          "listed_count": 5,
+          "media_count": 801,
+          "tweet_count": 11980
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:14:28.000Z",
+        "description": "坐标上海 05 友跨   玩音游fps  可以找我打游戏 焦虑症重度患者 双相 ENGLISH/日本語勉強中\n老婆@koizumi7723",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "koizumi7723"
+              }
+            ]
+          }
+        },
+        "id": "1738035209755664384",
+        "location": "上海",
+        "name": "Chemy",
+        "pinned_tweet_id": "1952405865903874268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754779854984331264/OY5mjMgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 63,
+          "like_count": 16475,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2510
+        },
+        "url": "",
+        "username": "chemy_05",
+        "verified": false
+      }
+    ]
+  }
+}

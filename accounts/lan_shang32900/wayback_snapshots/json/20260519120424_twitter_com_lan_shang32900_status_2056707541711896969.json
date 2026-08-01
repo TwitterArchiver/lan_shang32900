@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2056699585779933423",
+    "created_at": "2026-05-19T12:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056707541711896969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "sisiisablackcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056707541711896969",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056699585779933423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisiisablackcat 是好肆，比起ai直接创作应该让ai做出更多创作工具和方式才对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 45,
+        "media_key": "3_2056699578725089281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrdXreawAE7SP9.jpg",
+        "width": 52
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2056699585779933423",
+        "created_at": "2026-05-19T12:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056707541711896969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "sisiisablackcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056707541711896969",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056699585779933423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisiisablackcat 是好肆，比起ai直接创作应该让ai做出更多创作工具和方式才对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056699578725089281"
+          ]
+        },
+        "author_id": "1520156802368753664",
+        "conversation_id": "2056699585779933423",
+        "created_at": "2026-05-19T11:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056699585779933423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdWRIaL6dF",
+              "end": 51,
+              "expanded_url": "https://x.com/sisiisablackcat/status/2056699585779933423/photo/1",
+              "media_key": "3_2056699578725089281",
+              "start": 28,
+              "url": "https://t.co/TdWRIaL6dF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056699585779933423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到现在还是对有AI成分的作品有抵触心理\n肆是不是老登啊 https://t.co/TdWRIaL6dF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 794,
+          "like_count": 50062,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 12117
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053307854237716480/O5ctYh6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 317,
+          "like_count": 27081,
+          "listed_count": 8,
+          "media_count": 6802,
+          "tweet_count": 21058
+        },
+        "username": "sisiisablackcat",
+        "verified": false
+      }
+    ]
+  }
+}

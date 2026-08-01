@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1964531876087128476",
+    "created_at": "2025-09-07T03:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964531876087128476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690948132979515392",
+          "start": 3,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964531876087128476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964325378811711591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ahixnming: 中元節晚上女孩子別帶胸罩，寓意沒有凶兆，自拍發給我檢查。男孩子別穿褲頭，寓意沒有苦頭，不需要給我檢查，不准發來，發來就報警"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1964531876087128476",
+        "created_at": "2025-09-07T03:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964531876087128476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690948132979515392",
+              "start": 3,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964531876087128476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964325378811711591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ahixnming: 中元節晚上女孩子別帶胸罩，寓意沒有凶兆，自拍發給我檢查。男孩子別穿褲頭，寓意沒有苦頭，不需要給我檢查，不准發來，發來就報警"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1964325378811711591",
+        "created_at": "2025-09-06T13:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964325378811711591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964325378811711591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中元節晚上女孩子別帶胸罩，寓意沒有凶兆，自拍發給我檢查。男孩子別穿褲頭，寓意沒有苦頭，不需要給我檢查，不准發來，發來就報警"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 714,
+          "like_count": 36842,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9359
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@twelvedaystodie @annannanngle ♡²",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "twelvedaystodie"
+              },
+              {
+                "end": 30,
+                "start": 17,
+                "username": "annannanngle"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "文字垢",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1905939111183257609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 564,
+          "like_count": 29809,
+          "listed_count": 3,
+          "media_count": 1135,
+          "tweet_count": 23345
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

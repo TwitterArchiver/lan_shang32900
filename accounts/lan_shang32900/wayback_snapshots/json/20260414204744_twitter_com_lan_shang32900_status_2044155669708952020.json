@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2044143576540688430",
+    "created_at": "2026-04-14T20:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T21:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044155669708952020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1115069049409425409",
+          "start": 0,
+          "username": "molidakeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044155669708952020",
+    "in_reply_to_user_id": "1115069049409425409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044153455363928156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@molidakeai 😠再说我的脸要像这个emoji一样红温了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2044143576540688430",
+        "created_at": "2026-04-14T20:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044155669708952020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1115069049409425409",
+              "start": 0,
+              "username": "molidakeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044155669708952020",
+        "in_reply_to_user_id": "1115069049409425409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044153455363928156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@molidakeai 😠再说我的脸要像这个emoji一样红温了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115069049409425409",
+        "conversation_id": "2044143576540688430",
+        "created_at": "2026-04-14T20:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044153455363928156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044153455363928156",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044152750993473605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 😌火鸡面不辣啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 796,
+          "like_count": 44377,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 11176
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:49:13.000Z",
+        "description": "我是男娘哦别认为错了，之前的照片也有#男娘 看错了的话对不起",
+        "id": "1115069049409425409",
+        "location": "上海",
+        "name": "蛇水瑶",
+        "pinned_tweet_id": "2036313690308501697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044066762401165312/ZIhS18yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12492,
+          "following_count": 133,
+          "like_count": 9994,
+          "listed_count": 57,
+          "media_count": 1615,
+          "tweet_count": 6052
+        },
+        "username": "molidakeai",
+        "verified": false
+      }
+    ]
+  }
+}

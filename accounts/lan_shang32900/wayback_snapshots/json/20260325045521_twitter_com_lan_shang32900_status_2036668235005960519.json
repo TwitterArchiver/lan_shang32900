@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036668229825990656"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2036668235005960519",
+    "created_at": "2026-03-25T04:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036668235005960519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfGBVuyuw1",
+          "end": 26,
+          "expanded_url": "https://x.com/lan_shang32900/status/2036668235005960519/photo/1",
+          "media_key": "3_2036668229825990656",
+          "start": 3,
+          "url": "https://t.co/PfGBVuyuw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036668235005960519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海浪 https://t.co/PfGBVuyuw1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036668235005960519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036668235005960519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036668235005960519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_2036668229825990656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOy9twaEAA8A5n.jpg",
+        "width": 1861
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 752,
+          "like_count": 39729,
+          "listed_count": 3,
+          "media_count": 744,
+          "tweet_count": 10258
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925047453415546880"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1925047461149892617",
+    "created_at": "2025-05-21T04:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925047461149892617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIAbo0QQnL",
+          "end": 58,
+          "expanded_url": "https://x.com/lan_shang32900/status/1925047461149892617/photo/1",
+          "media_key": "3_1925047453415546880",
+          "start": 35,
+          "url": "https://t.co/LIAbo0QQnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925047461149892617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "古早的巧克力伞🌂\n口感比想象中硬并且tree tree的，非常绵密！ https://t.co/LIAbo0QQnL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925047461149892617].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925047461149892617",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925047461149892617"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925047453415546880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrckdaSaoAAX1ed.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 653,
+          "like_count": 31971,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 7410
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

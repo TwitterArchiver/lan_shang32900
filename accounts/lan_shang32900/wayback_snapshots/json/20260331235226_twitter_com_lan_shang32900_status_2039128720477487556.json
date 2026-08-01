@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2039005692217197024",
+    "created_at": "2026-03-31T23:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T00:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039128720477487556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1687769634286510080",
+          "start": 0,
+          "username": "hanserdddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039128720477487556",
+    "in_reply_to_user_id": "1687769634286510080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039019075582767570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanserdddd 那叫视奸！（不是）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039019075582767570].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039019075582767570",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039019075582767570"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2039005692217197024",
+        "created_at": "2026-03-31T23:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T00:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039128720477487556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687769634286510080",
+              "start": 0,
+              "username": "hanserdddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039128720477487556",
+        "in_reply_to_user_id": "1687769634286510080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039019075582767570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanserdddd 那叫视奸！（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 782,
+          "like_count": 40645,
+          "listed_count": 3,
+          "media_count": 756,
+          "tweet_count": 10468
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T10:18:47.000Z",
+        "description": "陪伴渴望",
+        "id": "1687769634286510080",
+        "location": "卷心菜大棚",
+        "name": "🍍🍍🍍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794686545943003136/7qsyU9ym_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 165,
+          "like_count": 43976,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1629
+        },
+        "username": "hanserdddd",
+        "verified": false
+      }
+    ]
+  }
+}

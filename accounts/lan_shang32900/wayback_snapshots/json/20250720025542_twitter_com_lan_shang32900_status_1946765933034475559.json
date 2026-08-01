@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946472739638050827",
+    "created_at": "2025-07-20T02:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946765933034475559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1453076731783368706",
+          "start": 0,
+          "username": "abei233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946765933034475559",
+    "in_reply_to_user_id": "1453076731783368706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946472739638050827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abei233 阿杯不要在意那些人，他们再说胡话就一巴掌打死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946472739638050827",
+        "created_at": "2025-07-20T02:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946765933034475559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1453076731783368706",
+              "start": 0,
+              "username": "abei233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946765933034475559",
+        "in_reply_to_user_id": "1453076731783368706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946472739638050827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abei233 阿杯不要在意那些人，他们再说胡话就一巴掌打死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453076731783368706",
+        "conversation_id": "1946472739638050827",
+        "created_at": "2025-07-19T07:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946472739638050827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946472739638050827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊！！我要忍住！！！我究竟做了什么啊！！我只是不喜欢别人说中华小当家男主死的好！！因为做了一个食物……！结果！！又莫名其妙攻击到了别人………我，，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 664,
+          "like_count": 33469,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 8093
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T19:11:13.000Z",
+        "description": "我喜欢芮克酱和逆转的大家，無言フォロー失礼します…",
+        "id": "1453076731783368706",
+        "name": "杯…",
+        "pinned_tweet_id": "1895755177833218534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943457345167675392/Q8i3uI0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 262,
+          "like_count": 19199,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 3098
+        },
+        "username": "abei233",
+        "verified": false
+      }
+    ]
+  }
+}

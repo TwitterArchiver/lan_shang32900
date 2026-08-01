@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1918239192699768918",
+    "created_at": "2025-05-02T15:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T16:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918322964455669766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918322964455669766",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918239192699768918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 帅气！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918239180062375939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp70XvnawAMnoLr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918239180339236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp70XwpbUAAMQoR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918239180070813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp70XvpbgAA2fFT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 959,
+        "media_key": "3_1918239180079153152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp70XvrawAAokkK.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1918239192699768918",
+        "created_at": "2025-05-02T15:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918322964455669766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918322964455669766",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918239192699768918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 帅气！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918239180062375939",
+            "3_1918239180339236864",
+            "3_1918239180070813696",
+            "3_1918239180079153152"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1918239192699768918",
+        "created_at": "2025-05-02T09:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918239192699768918"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "squidgame2",
+              "probability": 0.899,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Player230",
+              "probability": 0.508,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "TTTOP",
+              "probability": 0.7108,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 28,
+              "tag": "squidgame2"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "Player230"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "TTTOP"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "Nails"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhpUgwLylU",
+              "end": 88,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1918239192699768918/photo/1",
+              "media_key": "3_1918239180062375939",
+              "start": 65,
+              "url": "https://t.co/MhpUgwLylU"
+            },
+            {
+              "display_url": "pic.x.com/MhpUgwLylU",
+              "end": 88,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1918239192699768918/photo/1",
+              "media_key": "3_1918239180339236864",
+              "start": 65,
+              "url": "https://t.co/MhpUgwLylU"
+            },
+            {
+              "display_url": "pic.x.com/MhpUgwLylU",
+              "end": 88,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1918239192699768918/photo/1",
+              "media_key": "3_1918239180070813696",
+              "start": 65,
+              "url": "https://t.co/MhpUgwLylU"
+            },
+            {
+              "display_url": "pic.x.com/MhpUgwLylU",
+              "end": 88,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1918239192699768918/photo/1",
+              "media_key": "3_1918239180079153152",
+              "start": 65,
+              "url": "https://t.co/MhpUgwLylU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918239192699768918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hey!230💊check out my nails\n\n#squidgame2 #Player230 #TTTOP #Nails https://t.co/MhpUgwLylU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 647,
+          "like_count": 31151,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 7189
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3011,
+          "like_count": 22790,
+          "listed_count": 3,
+          "media_count": 1370,
+          "tweet_count": 21831
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

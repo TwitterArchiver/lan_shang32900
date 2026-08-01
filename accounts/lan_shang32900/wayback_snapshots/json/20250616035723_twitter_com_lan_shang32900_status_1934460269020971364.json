@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934460265871077376",
+        "3_1934460266164715520"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1934460269020971364",
+    "created_at": "2025-06-16T03:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T04:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934460269020971364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ztySUqWTM",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1934460269020971364/photo/1",
+          "media_key": "3_1934460265871077376",
+          "start": 0,
+          "url": "https://t.co/4ztySUqWTM"
+        },
+        {
+          "display_url": "pic.x.com/4ztySUqWTM",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1934460269020971364/photo/1",
+          "media_key": "3_1934460266164715520",
+          "start": 0,
+          "url": "https://t.co/4ztySUqWTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934460269020971364",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4ztySUqWTM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934460269020971364].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934460269020971364",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934460269020971364"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1934460265871077376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiVXNNacAABRU1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1708,
+        "media_key": "3_1934460266164715520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiVXOTbAAA6_oG.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 647,
+          "like_count": 32320,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 7577
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

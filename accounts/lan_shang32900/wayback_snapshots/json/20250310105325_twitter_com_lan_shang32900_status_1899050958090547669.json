@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899050954739306496"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1899050958090547669",
+    "created_at": "2025-03-10T10:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T11:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899050958090547669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QmVgMyvrrj",
+          "end": 75,
+          "expanded_url": "https://x.com/lan_shang32900/status/1899050958090547669/photo/1",
+          "media_key": "3_1899050954739306496",
+          "start": 52,
+          "url": "https://t.co/QmVgMyvrrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899050958090547669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗澡的时候 我主动帮你搓背 你只需要说一声\"谢谢\"\n而不是\"你是谁\"\"你怎么进来的\"这种不知道感恩的话 https://t.co/QmVgMyvrrj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899050958090547669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899050958090547669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899050958090547669"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899050954739306496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrIyB-aUAAd5th.jpg",
+        "width": 2046
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（量子纠缠版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 656,
+          "like_count": 30854,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 6936
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1934599945790836812",
+    "created_at": "2025-06-16T13:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T14:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934601238135628036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934601238135628036",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934599945790836812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 我也喜欢这首！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1934599942502514688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkUZdNagAAE6zL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1934599945790836812",
+        "created_at": "2025-06-16T13:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934601238135628036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934601238135628036",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934599945790836812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 我也喜欢这首！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934599942502514688"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1934599945790836812",
+        "created_at": "2025-06-16T13:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934599945790836812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgjqIno9Na",
+              "end": 34,
+              "expanded_url": "https://x.com/nemurikamisama/status/1934599945790836812/photo/1",
+              "media_key": "3_1934599942502514688",
+              "start": 11,
+              "url": "https://t.co/EgjqIno9Na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934599945790836812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 我喜歡的歌火了 https://t.co/EgjqIno9Na"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 647,
+          "like_count": 32337,
+          "listed_count": 0,
+          "media_count": 598,
+          "tweet_count": 7582
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸....人類殲滅計劃進行中...!",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918932702184849409/nSDxNyot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14132,
+          "following_count": 34,
+          "like_count": 7009,
+          "listed_count": 19,
+          "media_count": 335,
+          "tweet_count": 3534
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

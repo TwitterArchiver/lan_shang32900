@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2033930804884304022",
+    "created_at": "2026-03-18T09:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034200563412529409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1593550131114090496",
+          "start": 0,
+          "username": "bakaTATq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034200563412529409",
+    "in_reply_to_user_id": "1593550131114090496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033930804884304022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakaTATq 可以和二次元谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2033930804884304022",
+        "created_at": "2026-03-18T09:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034200563412529409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1593550131114090496",
+              "start": 0,
+              "username": "bakaTATq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034200563412529409",
+        "in_reply_to_user_id": "1593550131114090496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033930804884304022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakaTATq 可以和二次元谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593550131114090496",
+        "conversation_id": "2033930804884304022",
+        "created_at": "2026-03-17T15:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033930804884304022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033930804884304022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想谈恋爱不喜欢女同性恋除了二次元美少女百合男的接受不了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 757,
+          "like_count": 39379,
+          "listed_count": 3,
+          "media_count": 740,
+          "tweet_count": 10208
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:22:35.000Z",
+        "description": "不欢迎您来",
+        "id": "1593550131114090496",
+        "name": "Xavière",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033415811843641344/wI-I47fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 464,
+          "like_count": 5228,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1976
+        },
+        "username": "bakaTATq",
+        "verified": false
+      }
+    ]
+  }
+}

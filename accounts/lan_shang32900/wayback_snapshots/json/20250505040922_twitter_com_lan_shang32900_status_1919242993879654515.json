@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1919092598700155030",
+    "created_at": "2025-05-05T04:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T05:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919242993879654515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571735057332592640",
+          "start": 0,
+          "username": "rchngbngd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919242993879654515",
+    "in_reply_to_user_id": "1571735057332592640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919092598700155030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rchngbngd1 三眼皮怎么说（（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1919092598700155030",
+        "created_at": "2025-05-05T04:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T05:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919242993879654515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571735057332592640",
+              "start": 0,
+              "username": "rchngbngd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919242993879654515",
+        "in_reply_to_user_id": "1571735057332592640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919092598700155030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rchngbngd1 三眼皮怎么说（（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571735057332592640",
+        "conversation_id": "1919092598700155030",
+        "created_at": "2025-05-04T18:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T19:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919092598700155030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919092598700155030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以你们🥵xp是什么😁 我喜欢双眼皮😋没有双眼皮的话😩想硬😜都硬不起来😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 648,
+          "like_count": 31260,
+          "listed_count": 0,
+          "media_count": 550,
+          "tweet_count": 7219
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "百亿补贴/",
+        "id": "1571735057332592640",
+        "location": "我的饭呢",
+        "name": "放松下",
+        "pinned_tweet_id": "1907806848998322655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915669045631922176/4DRAnNoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 402,
+          "like_count": 2270,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1145
+        },
+        "username": "rchngbngd1",
+        "verified": false
+      }
+    ]
+  }
+}

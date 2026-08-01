@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986919742956052488"
+      ],
+      "media_source_tweet_id": [
+        "1986919745527099616"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1987045997948903565",
+    "created_at": "2025-11-08T06:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T07:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987045997948903565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "464973118",
+          "start": 3,
+          "username": "kinoko525525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SG7gnL72cx",
+          "end": 63,
+          "expanded_url": "https://x.com/kinoko525525/status/1986919745527099616/photo/1",
+          "media_key": "3_1986919742956052488",
+          "start": 40,
+          "url": "https://t.co/SG7gnL72cx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987045997948903565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986919745527099616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kinoko525525: 药快没有了……有没有好心人助力我买药。。。 https://t.co/SG7gnL72cx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_1986919742956052488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5L0-qQbIAg-QC8.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986919742956052488"
+          ],
+          "media_source_tweet_id": [
+            "1986919745527099616"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1987045997948903565",
+        "created_at": "2025-11-08T06:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987045997948903565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "464973118",
+              "start": 3,
+              "username": "kinoko525525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SG7gnL72cx",
+              "end": 63,
+              "expanded_url": "https://x.com/kinoko525525/status/1986919745527099616/photo/1",
+              "media_key": "3_1986919742956052488",
+              "start": 40,
+              "url": "https://t.co/SG7gnL72cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987045997948903565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986919745527099616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kinoko525525: 药快没有了……有没有好心人助力我买药。。。 https://t.co/SG7gnL72cx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986919742956052488"
+          ]
+        },
+        "author_id": "464973118",
+        "conversation_id": "1986919745527099616",
+        "created_at": "2025-11-07T22:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T23:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986919745527099616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SG7gnL72cx",
+              "end": 45,
+              "expanded_url": "https://x.com/kinoko525525/status/1986919745527099616/photo/1",
+              "media_key": "3_1986919742956052488",
+              "start": 22,
+              "url": "https://t.co/SG7gnL72cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986919745527099616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药快没有了……有没有好心人助力我买药。。。 https://t.co/SG7gnL72cx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 770,
+          "like_count": 39368,
+          "listed_count": 4,
+          "media_count": 734,
+          "tweet_count": 10128
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "我想结束痛苦，而不是生命\n欢迎找我玩，我一直很孤单\n占卜20/1",
+        "id": "464973118",
+        "name": "思诺思",
+        "pinned_tweet_id": "1985735837129253251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986323230223966208/7BjaUFHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 99,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 194
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

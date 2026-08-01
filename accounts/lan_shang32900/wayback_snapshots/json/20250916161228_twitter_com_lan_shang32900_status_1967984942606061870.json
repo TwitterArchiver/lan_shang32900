@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967975801133076481"
+      ],
+      "media_source_tweet_id": [
+        "1967975811170046050"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967984942606061870",
+    "created_at": "2025-09-16T16:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967984942606061870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892216240313368576",
+          "start": 3,
+          "username": "Siori_210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENmb2SRIhp",
+          "end": 38,
+          "expanded_url": "https://x.com/Siori_210/status/1967975811170046050/photo/1",
+          "media_key": "3_1967975801133076481",
+          "start": 15,
+          "url": "https://t.co/ENmb2SRIhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967984942606061870",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967975811170046050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Siori_210: https://t.co/ENmb2SRIhp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967975801133076481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-nkHkaEAEaRWr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967975801133076481"
+          ],
+          "media_source_tweet_id": [
+            "1967975811170046050"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967984942606061870",
+        "created_at": "2025-09-16T16:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967984942606061870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892216240313368576",
+              "start": 3,
+              "username": "Siori_210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENmb2SRIhp",
+              "end": 38,
+              "expanded_url": "https://x.com/Siori_210/status/1967975811170046050/photo/1",
+              "media_key": "3_1967975801133076481",
+              "start": 15,
+              "url": "https://t.co/ENmb2SRIhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967984942606061870",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967975811170046050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Siori_210: https://t.co/ENmb2SRIhp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967975801133076481"
+          ]
+        },
+        "author_id": "1892216240313368576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967975811170046050",
+        "created_at": "2025-09-16T15:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967975811170046050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENmb2SRIhp",
+              "end": 23,
+              "expanded_url": "https://x.com/Siori_210/status/1967975811170046050/photo/1",
+              "media_key": "3_1967975801133076481",
+              "start": 0,
+              "url": "https://t.co/ENmb2SRIhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967975811170046050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 471,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ENmb2SRIhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 741,
+          "like_count": 38031,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 9749
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T14:14:57.000Z",
+        "description": "我從打心底覺得要是我沒有出生就好了",
+        "id": "1892216240313368576",
+        "location": "给我点钱 谢谢",
+        "name": "Siori",
+        "pinned_tweet_id": "1927870116047237270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933166824457478144/EF5KExi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 243,
+          "like_count": 627,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 246
+        },
+        "username": "Siori_210",
+        "verified": false
+      }
+    ]
+  }
+}

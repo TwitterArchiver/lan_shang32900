@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1893651500334747654",
+    "created_at": "2025-02-24T01:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T02:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893838619552485679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        },
+        {
+          "end": 19,
+          "id": "1893209290921672704",
+          "start": 9,
+          "username": "guagua_me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893838619552485679",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893651500334747654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ @guagua_me (´o̴̶̷̤𖥦o̴̶̷̤`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_1893651491216637952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkeZ_45bQAAC-Aa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1893651500334747654",
+        "created_at": "2025-02-24T01:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T02:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893838619552485679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            },
+            {
+              "end": 19,
+              "id": "1893209290921672704",
+              "start": 9,
+              "username": "guagua_me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893838619552485679",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893651500334747654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ @guagua_me (´o̴̶̷̤𖥦o̴̶̷̤`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893651491216637952"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1893651500334747654",
+        "created_at": "2025-02-23T13:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893651500334747654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893209290921672704",
+              "start": 3,
+              "username": "guagua_me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6zCl8cyVe",
+              "end": 128,
+              "expanded_url": "https://x.com/CJing3_/status/1893651500334747654/photo/1",
+              "media_key": "3_1893651491216637952",
+              "start": 105,
+              "url": "https://t.co/Q6zCl8cyVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893651500334747654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 27558,
+          "like_count": 3083,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "关注 @guagua_me \n抽奖送主播同款图案定制只发给你一个人用途随意\n还有美术生要交作业可以联系我 我素描过国美初试速写过北服天美可以代画作业 \n\n过瓜瓜滴门可以看到瓜瓜发绝美神图瓜瓜有四万粉丝特别仙品 https://t.co/Q6zCl8cyVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "画性恋"
+              },
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 648,
+          "like_count": 29880,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 6695
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "みんな幸せになってほしいQʌQ\n@CJing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873334418095648768/ujJbwFFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7373,
+          "following_count": 522,
+          "like_count": 5775,
+          "listed_count": 13,
+          "media_count": 121,
+          "tweet_count": 361
+        },
+        "username": "CJing3_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "",
+        "id": "1893209290921672704",
+        "name": "瓜",
+        "pinned_tweet_id": "1893670257455243645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893486504237727744/kriRA7YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 7,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

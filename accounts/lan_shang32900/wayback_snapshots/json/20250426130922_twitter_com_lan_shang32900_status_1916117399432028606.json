@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1915403361609830411",
+    "created_at": "2025-04-26T13:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916117399432028606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "sisiisablackcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916117399432028606",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915403361609830411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisiisablackcat 小时候都是用洗脸盆打水然后整个脸浸进去憋气冒泡再用毛巾擦干啊，你说我南的北的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_1915403347622060035",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpThMkibYAMr8-Y.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1915403361609830411",
+        "created_at": "2025-04-26T13:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916117399432028606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "sisiisablackcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916117399432028606",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915403361609830411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisiisablackcat 小时候都是用洗脸盆打水然后整个脸浸进去憋气冒泡再用毛巾擦干啊，你说我南的北的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915403347622060035"
+          ]
+        },
+        "author_id": "1520156802368753664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1915403361609830411",
+        "created_at": "2025-04-24T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915403361609830411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdGxDX6A2z",
+              "end": 80,
+              "expanded_url": "https://x.com/sisiisablackcat/status/1915403361609830411/photo/1",
+              "media_key": "3_1915403347622060035",
+              "start": 57,
+              "url": "https://t.co/TdGxDX6A2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915403361609830411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 1204702,
+          "like_count": 2126,
+          "quote_count": 72,
+          "reply_count": 707,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚网上冲浪看到这个大吃一惊……\n问了一个南方的推油 证实了这个说法\n又吃一惊\n推上的南方朋友也是这样的吗……😭 https://t.co/TdGxDX6A2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 649,
+          "like_count": 31305,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 7189
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907154880600653824/6epW946x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 312,
+          "like_count": 17659,
+          "listed_count": 5,
+          "media_count": 4574,
+          "tweet_count": 13740
+        },
+        "username": "sisiisablackcat",
+        "verified": false
+      }
+    ]
+  }
+}

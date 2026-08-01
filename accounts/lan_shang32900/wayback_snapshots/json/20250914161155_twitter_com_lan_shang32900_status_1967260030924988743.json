@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967102448293617664",
+        "3_1967102448281038848"
+      ],
+      "media_source_tweet_id": [
+        "1967102475556864094",
+        "1967102475556864094"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967260030924988743",
+    "created_at": "2025-09-14T16:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967260030924988743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684492249416323072",
+          "start": 3,
+          "username": "hongdou_cici"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jN1EWbq6kZ",
+          "end": 45,
+          "expanded_url": "https://x.com/hongdou_cici/status/1967102475556864094/photo/1",
+          "media_key": "3_1967102448293617664",
+          "start": 22,
+          "url": "https://t.co/jN1EWbq6kZ"
+        },
+        {
+          "display_url": "pic.x.com/jN1EWbq6kZ",
+          "end": 45,
+          "expanded_url": "https://x.com/hongdou_cici/status/1967102475556864094/photo/1",
+          "media_key": "3_1967102448281038848",
+          "start": 22,
+          "url": "https://t.co/jN1EWbq6kZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967260030924988743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967102475556864094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdou_cici: 大峡谷 https://t.co/jN1EWbq6kZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967260030924988743].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967260030924988743",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967260030924988743"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_1967102448293617664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNQStXoAApb-N.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1604,
+        "media_key": "3_1967102448281038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNQSqXsAAsIHp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967102448293617664",
+            "3_1967102448281038848"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967102475556864094",
+        "created_at": "2025-09-14T05:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967102475556864094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jN1EWbq6kZ",
+              "end": 27,
+              "expanded_url": "https://x.com/hongdou_cici/status/1967102475556864094/photo/1",
+              "media_key": "3_1967102448293617664",
+              "start": 4,
+              "url": "https://t.co/jN1EWbq6kZ"
+            },
+            {
+              "display_url": "pic.x.com/jN1EWbq6kZ",
+              "end": 27,
+              "expanded_url": "https://x.com/hongdou_cici/status/1967102475556864094/photo/1",
+              "media_key": "3_1967102448281038848",
+              "start": 4,
+              "url": "https://t.co/jN1EWbq6kZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967102475556864094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 299,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大峡谷 https://t.co/jN1EWbq6kZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 734,
+          "like_count": 37805,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 9687
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "･̆⍛･̆| If my pics bother you, feel free to block me❌不喜欢我请自避雷❗️善用拉黑｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1963719965225243059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857343047714983936/slLcQZH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 231,
+          "like_count": 4494,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 2218
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

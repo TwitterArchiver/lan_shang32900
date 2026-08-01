@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943656783140020307",
+    "created_at": "2025-07-11T13:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T14:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943656783140020307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943656783140020307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直觉得心理学是相当傲慢的一个学科。包括国内的一部分心理疏导师。并不是说完全的理论没用，但用某些符合的症状去推测去判定一个人拥有怎样的家庭怎样的过去怎样的心路历程，即使对方不认同也觉得「是另一种表达方式」「伪装成xxx也是病症的一部分」一边表示出赞同的职业笑容一边抱着知识暗自定论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943656783140020307",
+        "created_at": "2025-07-11T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943656783140020307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943656783140020307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得心理学是相当傲慢的一个学科。包括国内的一部分心理疏导师。并不是说完全的理论没用，但用某些符合的症状去推测去判定一个人拥有怎样的家庭怎样的过去怎样的心路历程，即使对方不认同也觉得「是另一种表达方式」「伪装成xxx也是病症的一部分」一边表示出赞同的职业笑容一边抱着知识暗自定论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 655,
+          "like_count": 33031,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 7947
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

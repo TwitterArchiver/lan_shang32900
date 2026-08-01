@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1893909534101401942",
+    "created_at": "2025-02-24T06:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893909534101401942"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893909534101401942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想找一些以前的照片，然后发现以前自己好像根本不拍照🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1893909534101401942",
+        "created_at": "2025-02-24T06:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893909534101401942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893909534101401942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想找一些以前的照片，然后发现以前自己好像根本不拍照🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "画性恋"
+              },
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 649,
+          "like_count": 29978,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 6716
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

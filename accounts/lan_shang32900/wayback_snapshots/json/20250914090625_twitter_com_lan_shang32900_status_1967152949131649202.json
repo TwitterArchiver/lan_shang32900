@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1967080005776847288",
+    "created_at": "2025-09-14T09:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T10:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967152949131649202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1360161179310587904",
+          "start": 0,
+          "username": "Niggerplay4399"
+        },
+        {
+          "end": 25,
+          "id": "1248913476002537472",
+          "start": 16,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967152949131649202",
+    "in_reply_to_user_id": "1360161179310587904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967101695063892427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niggerplay4399 @PRCAngel 那是公司内部自己定价的，广东限定🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1967080005776847288",
+        "created_at": "2025-09-14T09:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967152949131649202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1360161179310587904",
+              "start": 0,
+              "username": "Niggerplay4399"
+            },
+            {
+              "end": 25,
+              "id": "1248913476002537472",
+              "start": 16,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967152949131649202",
+        "in_reply_to_user_id": "1360161179310587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967101695063892427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niggerplay4399 @PRCAngel 那是公司内部自己定价的，广东限定🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161179310587904",
+        "conversation_id": "1967080005776847288",
+        "created_at": "2025-09-14T05:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967101695063892427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967101695063892427",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967080005776847288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 他妈的广铁那么贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 735,
+          "like_count": 37748,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 9669
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:38:07.000Z",
+        "description": "小孩哭了找妈妈，大雄哭了找它，年少时在胖虎小夫的忽悠下诋毁它，现在读了《哆啦A梦》第五卷更加了解它。",
+        "id": "1360161179310587904",
+        "location": "能源城",
+        "name": "🍍急了哈气开启新形态🍍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932322930786205696/oDKE6KzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 304,
+          "like_count": 50188,
+          "listed_count": 11,
+          "media_count": 1475,
+          "tweet_count": 10108
+        },
+        "username": "Niggerplay4399",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "天使 / 𝘈𝘯𝘨𝘦𝘭 ｜Cosplay爱好者｜💙Blue Archive｜❤️明日方舟｜谷子经济研究中｜政治经济｜游戏影视｜日常生活｜欢迎同好扩列~｜健康生活方式研究中｜ #DontDie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "DontDie"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "长白山",
+        "name": "⁺✞A יהוה 的天使✞₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828293352359653376/f9B2wwli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 1163,
+          "like_count": 35018,
+          "listed_count": 26,
+          "media_count": 2434,
+          "tweet_count": 14607
+        },
+        "username": "PRCAngel",
+        "verified": true
+      }
+    ]
+  }
+}

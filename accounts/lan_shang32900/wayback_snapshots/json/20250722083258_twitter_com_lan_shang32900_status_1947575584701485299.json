@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1947575584701485299",
+    "created_at": "2025-07-22T08:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T09:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947575584701485299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850566498412318720",
+          "start": 3,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947575584701485299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947264123433079048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo4444: 从来没有男女对立，有的只是人类和类人的对立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1947575584701485299",
+        "created_at": "2025-07-22T08:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947575584701485299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850566498412318720",
+              "start": 3,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947575584701485299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947264123433079048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobo4444: 从来没有男女对立，有的只是人类和类人的对立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1947264123433079048",
+        "created_at": "2025-07-21T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947264123433079048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947264123433079048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 990,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有男女对立，有的只是人类和类人的对立"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 667,
+          "like_count": 33732,
+          "listed_count": 0,
+          "media_count": 639,
+          "tweet_count": 8210
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜INFP｜ ♏️｜高中生｜日本語学习中｜乌蒙dx｜随缘fo｜想认识我给我打钱｜188｜388｜520｜1314｜5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUSGw"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1944027746025525316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7291,
+          "following_count": 434,
+          "like_count": 3270,
+          "listed_count": 8,
+          "media_count": 405,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/6Vz4UqUSGw",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

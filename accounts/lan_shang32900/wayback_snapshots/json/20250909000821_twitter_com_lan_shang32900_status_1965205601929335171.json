@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965204764419084389",
+    "created_at": "2025-09-09T00:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T01:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965205601929335171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965205601929335171",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965204764419084389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "曾经我一度害怕着清醒，因为这个世界实在太恶心了，好像在酒醒之后躺在马桶里一样。但接下来的日子我会尽量和精神外幻以及压力相抗争，即便醒过来发现自己低人一等的愚蠢。我想好好看看这个世界，好好探索自己作为一名人类所能做的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965204764419084389",
+        "created_at": "2025-09-09T00:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T01:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965205601929335171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965205601929335171",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965204764419084389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾经我一度害怕着清醒，因为这个世界实在太恶心了，好像在酒醒之后躺在马桶里一样。但接下来的日子我会尽量和精神外幻以及压力相抗争，即便醒过来发现自己低人一等的愚蠢。我想好好看看这个世界，好好探索自己作为一名人类所能做的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965204764419084389",
+        "created_at": "2025-09-09T00:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T01:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965204764419084389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965204764419084389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使想过依赖别人、药物、自残、酒精、尼古丁、睡眠、食欲、性欲，实际上我都哪项也做不到，留给我的只有空虚和失望。我是没办法对任何事物成瘾的家伙，我的爱我的执着，又源自什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 721,
+          "like_count": 36881,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 9373
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

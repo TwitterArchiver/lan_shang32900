@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943372498071883776"
+      ],
+      "media_source_tweet_id": [
+        "1943372518938808440"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943506972768108853",
+    "created_at": "2025-07-11T03:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T04:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943506972768108853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIjDwaPAQa",
+          "end": 61,
+          "expanded_url": "https://x.com/Uni_btt/status/1943372518938808440/photo/1",
+          "media_key": "3_1943372498071883776",
+          "start": 38,
+          "url": "https://t.co/LIjDwaPAQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943506972768108853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943372518938808440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: 你们好呀我是小扁，可以过这个小女孩的门槛吗喵喵喵 https://t.co/LIjDwaPAQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943372498071883776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvg-_ZXWkAAGxDV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943372498071883776"
+          ],
+          "media_source_tweet_id": [
+            "1943372518938808440"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943506972768108853",
+        "created_at": "2025-07-11T03:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T04:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943506972768108853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIjDwaPAQa",
+              "end": 61,
+              "expanded_url": "https://x.com/Uni_btt/status/1943372518938808440/photo/1",
+              "media_key": "3_1943372498071883776",
+              "start": 38,
+              "url": "https://t.co/LIjDwaPAQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943506972768108853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943372518938808440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: 你们好呀我是小扁，可以过这个小女孩的门槛吗喵喵喵 https://t.co/LIjDwaPAQa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943372498071883776"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "1943372518938808440",
+        "created_at": "2025-07-10T18:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T19:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943372518938808440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIjDwaPAQa",
+              "end": 48,
+              "expanded_url": "https://x.com/Uni_btt/status/1943372518938808440/photo/1",
+              "media_key": "3_1943372498071883776",
+              "start": 25,
+              "url": "https://t.co/LIjDwaPAQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943372518938808440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2627,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀我是小扁，可以过这个小女孩的门槛吗喵喵喵 https://t.co/LIjDwaPAQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 655,
+          "like_count": 32997,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 7932
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年/双相/🚪100 /女朋友 @hitomi012000_  / 妈妈 @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "hitomi012000_"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918074856278769668/FqbFZYre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10381,
+          "following_count": 492,
+          "like_count": 11862,
+          "listed_count": 16,
+          "media_count": 1475,
+          "tweet_count": 11181
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

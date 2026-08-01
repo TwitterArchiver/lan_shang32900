@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2043648253464596695",
+    "created_at": "2026-04-14T01:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043869766604206233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484102911307042819",
+          "start": 0,
+          "username": "hateeveryonefku"
+        },
+        {
+          "end": 31,
+          "id": "1746487672598642688",
+          "start": 17,
+          "username": "mjzsswdcy8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043869766604206233",
+    "in_reply_to_user_id": "1484102911307042819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043775289130655776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateeveryonefku @mjzsswdcy8964 捕捉到关键词（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043775289130655776].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043775289130655776",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043775289130655776"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2043648253464596695",
+        "created_at": "2026-04-14T01:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043869766604206233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484102911307042819",
+              "start": 0,
+              "username": "hateeveryonefku"
+            },
+            {
+              "end": 31,
+              "id": "1746487672598642688",
+              "start": 17,
+              "username": "mjzsswdcy8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043869766604206233",
+        "in_reply_to_user_id": "1484102911307042819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043775289130655776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateeveryonefku @mjzsswdcy8964 捕捉到关键词（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 798,
+          "like_count": 44069,
+          "listed_count": 3,
+          "media_count": 780,
+          "tweet_count": 11081
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T09:58:21.000Z",
+        "description": "",
+        "id": "1484102911307042819",
+        "location": "nightfish",
+        "name": "生きたくない",
+        "pinned_tweet_id": "1868656147592548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031685542224756736/-87Whj7j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 374,
+          "like_count": 58980,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 8922
+        },
+        "username": "hateeveryonefku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T11:01:35.000Z",
+        "description": "你所说的曙光究竟是什么意思",
+        "id": "1746487672598642688",
+        "location": "🩵",
+        "name": "怜，下雨的时候我穿过你的火车",
+        "pinned_tweet_id": "2043736830542250073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992242898151108608/SKzGRXP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 914,
+          "like_count": 2884,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 2608
+        },
+        "username": "mjzsswdcy8964",
+        "verified": false
+      }
+    ]
+  }
+}

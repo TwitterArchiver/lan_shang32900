@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966680041783169179",
+    "created_at": "2025-09-13T01:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T02:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966680041783169179"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966680041783169179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实每次吵架都感觉像变了个人，吵完两个人互相揪着字眼一边生气一边问，其实这样是没意义的啊，明明大家都很委屈\n为什么总是下意识说出违心的气话、我不知道……遇到争执的时候，越是想靠近的情感、身体和言语越是反复推开，我不想再这样，但停止不下来、\n\n好像潜意识还在觉得自己不能有任何亲密关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966680041783169179",
+        "created_at": "2025-09-13T01:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T02:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966680041783169179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966680041783169179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实每次吵架都感觉像变了个人，吵完两个人互相揪着字眼一边生气一边问，其实这样是没意义的啊，明明大家都很委屈\n为什么总是下意识说出违心的气话、我不知道……遇到争执的时候，越是想靠近的情感、身体和言语越是反复推开，我不想再这样，但停止不下来、\n\n好像潜意识还在觉得自己不能有任何亲密关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 731,
+          "like_count": 37499,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9581
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

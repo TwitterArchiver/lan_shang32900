@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962422347992072514",
+    "created_at": "2025-09-02T07:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962774018823725221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "dogneco2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962774018823725221",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962773152007877088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogneco2020 (*ˊᗜˋ*)抱抱你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962422347992072514",
+        "created_at": "2025-09-02T07:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962774018823725221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "dogneco2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962774018823725221",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962773152007877088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogneco2020 (*ˊᗜˋ*)抱抱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "conversation_id": "1962422347992072514",
+        "created_at": "2025-09-02T07:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962773152007877088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962773152007877088",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962772265751453874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 完全不恐怖 这是经历过痛苦的证明 我也经历过 虽然不是大腿 但看起来很可爱 哈哈(ᐡ_  ̫ _ᐡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 711,
+          "like_count": 36354,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9182
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "チワワだよ2歳⬆️♂裏@necodog2222 #バウンティ 即リプ https://t.co/0UO0Fdini1 バウンティ名前 社畜 チワワ★",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "バウンティ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "necodog2222"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "end": 58,
+                "expanded_url": "https://marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "start": 35,
+                "url": "https://t.co/0UO0Fdini1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dogneco2020/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dogneco2020/",
+                "start": 0,
+                "url": "https://t.co/qJyjyuc3u9"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "オンボロ犬小屋18年住み",
+        "name": "チワァ",
+        "pinned_tweet_id": "1948005849898815517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145461832216576/t-ztIkjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 831,
+          "like_count": 105082,
+          "listed_count": 2,
+          "media_count": 2388,
+          "tweet_count": 45549
+        },
+        "url": "https://t.co/qJyjyuc3u9",
+        "username": "dogneco2020",
+        "verified": false
+      }
+    ]
+  }
+}

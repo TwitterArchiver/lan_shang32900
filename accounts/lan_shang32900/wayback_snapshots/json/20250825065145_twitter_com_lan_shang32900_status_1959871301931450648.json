@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959844891489689806",
+    "created_at": "2025-08-25T06:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959871301931450648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wk9LASj5zt76088"
+        },
+        {
+          "end": 29,
+          "id": "1747931023277502465",
+          "start": 17,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959871301931450648",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959855893891436573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wk9LASj5zt76088 @damatte8964 加油呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959844891489689806",
+        "created_at": "2025-08-25T06:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959871301931450648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wk9LASj5zt76088"
+            },
+            {
+              "end": 29,
+              "id": "1747931023277502465",
+              "start": 17,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959871301931450648",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959855893891436573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wk9LASj5zt76088 @damatte8964 加油呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "1959844891489689806",
+        "created_at": "2025-08-25T05:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959855893891436573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959855893891436573",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959855580899946803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 😭😭😭现在只有腹泻了！正在疯狂补充电解质与水分\n别人是病来如山倒、病去如抽丝。我倒成了病去“如瀑布”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 704,
+          "like_count": 35639,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 8935
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "每一个坏蛋说 世界上只能有我一个坏蛋",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "豹",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871946023029157888/Lkvt2FyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 57,
+          "like_count": 1539,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1415
+        },
+        "username": "wk9LASj5zt76088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*目前的身份是日本小瘤/オタク/精神障害者/无耻的门槛鸡，我需要钱所以🚪99/198/520谢谢你 我可以给你唱歌画画。 也在东京接纯绿线下，我有艾滋和梅毒所以不要想和我做爱的事情。",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34511,
+          "following_count": 771,
+          "like_count": 7104,
+          "listed_count": 42,
+          "media_count": 230,
+          "tweet_count": 2506
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

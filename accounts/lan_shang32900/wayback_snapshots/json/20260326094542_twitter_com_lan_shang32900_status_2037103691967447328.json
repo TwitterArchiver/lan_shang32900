@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037103689253740546"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2036788149960245752",
+    "created_at": "2026-03-26T09:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037103691967447328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942290305413480448",
+          "start": 0,
+          "username": "chichichibai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SorkRHaa5O",
+          "end": 45,
+          "expanded_url": "https://x.com/lan_shang32900/status/2037103691967447328/photo/1",
+          "media_key": "3_2037103689253740546",
+          "start": 22,
+          "url": "https://t.co/SorkRHaa5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037103691967447328",
+    "in_reply_to_user_id": "1942290305413480448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036788149960245752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chichichibai 刷到超美的吉他 https://t.co/SorkRHaa5O"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037103691967447328].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037103691967447328",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037103691967447328"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2037103689253740546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU_AyibYAI9buB.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942290305413480448",
+        "conversation_id": "2036788149960245752",
+        "created_at": "2026-03-25T12:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036788149960245752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036788149960245752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hello我好无聊你们谁来找我聊天或者跟我分享一点有意思的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 757,
+          "like_count": 39897,
+          "listed_count": 3,
+          "media_count": 750,
+          "tweet_count": 10296
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:31:25.000Z",
+        "description": "07//身心取向男/学历崇拜者/三次深柜/阴湿长发男/欢迎大家在下方链接提问/*待补充\n政治/歧视言论/绝大多数的辩经/无厚码墙内转发NG\n会默认看过置顶\n非空非纯看黄号无政治言论的号基本都会回关❤️欢迎大家找我玩ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%99%BD",
+                "start": 0,
+                "url": "https://t.co/ZzyV1q11Sp"
+              }
+            ]
+          }
+        },
+        "id": "1942290305413480448",
+        "name": "迟白",
+        "pinned_tweet_id": "2031031255014482261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961467345672757248/1rulkNwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 327,
+          "like_count": 7069,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/ZzyV1q11Sp",
+        "username": "chichichibai",
+        "verified": false
+      }
+    ]
+  }
+}

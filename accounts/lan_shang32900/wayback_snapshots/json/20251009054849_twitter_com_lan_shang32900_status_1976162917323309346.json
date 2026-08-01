@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976162913133133825",
+        "3_1976162913674199043"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1976162917323309346",
+    "created_at": "2025-10-09T05:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976162917323309346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cmmTLAsqBg",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1976162917323309346/photo/1",
+          "media_key": "3_1976162913133133825",
+          "start": 0,
+          "url": "https://t.co/cmmTLAsqBg"
+        },
+        {
+          "display_url": "pic.x.com/cmmTLAsqBg",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1976162917323309346/photo/1",
+          "media_key": "3_1976162913674199043",
+          "start": 0,
+          "url": "https://t.co/cmmTLAsqBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976162917323309346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cmmTLAsqBg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976162917323309346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976162917323309346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976162917323309346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976162913133133825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y9sweaAAE1fY4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976162913674199043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y9syfaAAMKVJ6.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 765,
+          "like_count": 39047,
+          "listed_count": 4,
+          "media_count": 722,
+          "tweet_count": 10030
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

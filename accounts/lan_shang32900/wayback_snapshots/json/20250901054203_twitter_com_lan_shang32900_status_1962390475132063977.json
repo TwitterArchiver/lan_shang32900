@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962390045715013912",
+    "created_at": "2025-09-01T05:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962390475132063977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "x4n1m0s1t1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962390475132063977",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962390045715013912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4n1m0s1t1x 真是没招了现在高中毕业打工能找到什么啊还不如读完大专……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962390045715013912",
+        "created_at": "2025-09-01T05:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962390475132063977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "x4n1m0s1t1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962390475132063977",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962390045715013912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4n1m0s1t1x 真是没招了现在高中毕业打工能找到什么啊还不如读完大专……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1962390045715013912",
+        "created_at": "2025-09-01T05:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962390045715013912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962390045715013912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖喱人放弃劝我去学校开始劝我去打工了啊哈哈🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 708,
+          "like_count": 36233,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 9139
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "Have I\ntruly become\na monster?",
+        "id": "1821916949456285696",
+        "location": "アポフェニア",
+        "name": "笑（）笑",
+        "pinned_tweet_id": "1958082309854491067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 75,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1174
+        },
+        "username": "x4n1m0s1t1x",
+        "verified": false
+      }
+    ]
+  }
+}

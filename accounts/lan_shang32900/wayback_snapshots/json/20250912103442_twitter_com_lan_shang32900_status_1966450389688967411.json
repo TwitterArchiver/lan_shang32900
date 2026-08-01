@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966450389688967411",
+    "created_at": "2025-09-12T10:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966450389688967411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966450389688967411",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我并不缺爱好，但是对每个爱好都很解离，对每个动作每句话每个场景都很难感受到哪部分是自己的想法和意愿……我一直在碎碎念也是一直想记录下来哪怕自己的一点主观意念，实际上更多时候都是在自言自语而已。可以是任何人在说，任何人在看，任何人在观测……或许我只是名为めふき群体的记录者。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966450389688967411",
+        "created_at": "2025-09-12T10:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966450389688967411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966450389688967411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我并不缺爱好，但是对每个爱好都很解离，对每个动作每句话每个场景都很难感受到哪部分是自己的想法和意愿……我一直在碎碎念也是一直想记录下来哪怕自己的一点主观意念，实际上更多时候都是在自言自语而已。可以是任何人在说，任何人在看，任何人在观测……或许我只是名为めふき群体的记录者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 728,
+          "like_count": 37423,
+          "listed_count": 4,
+          "media_count": 695,
+          "tweet_count": 9558
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

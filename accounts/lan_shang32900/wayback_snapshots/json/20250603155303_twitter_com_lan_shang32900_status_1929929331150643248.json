@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1929575255930032470",
+    "created_at": "2025-06-03T15:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929929331150643248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632372891378671617",
+          "start": 0,
+          "username": "FFfishwww2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929929331150643248",
+    "in_reply_to_user_id": "1632372891378671617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929575255930032470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFfishwww2 加入鼠鼠教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1929575255930032470",
+        "created_at": "2025-06-03T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929929331150643248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632372891378671617",
+              "start": 0,
+              "username": "FFfishwww2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929929331150643248",
+        "in_reply_to_user_id": "1632372891378671617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929575255930032470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFfishwww2 加入鼠鼠教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632372891378671617",
+        "conversation_id": "1929575255930032470",
+        "created_at": "2025-06-02T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929575255930032470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929575255930032470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1169,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰來阻止我養花枝鼠⋯⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 645,
+          "like_count": 32245,
+          "listed_count": 0,
+          "media_count": 584,
+          "tweet_count": 7501
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T13:30:15.000Z",
+        "description": "💗重M/✨無碼福利/💉地雷系/😈色色惡魔/🖤大好き @24Erika22 /❤︎課金連結👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "24Erika22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkgoods.com/fishkikuu",
+                "end": 23,
+                "expanded_url": "https://linkgoods.com/fishkikuu",
+                "start": 0,
+                "url": "https://t.co/xtvQuiiQcr"
+              }
+            ]
+          }
+        },
+        "id": "1632372891378671617",
+        "location": "Hong Kong",
+        "name": "✞fish✮2.0✮🔞工口系",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857444890076225536/29ZFroq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 415,
+          "like_count": 11873,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/xtvQuiiQcr",
+        "username": "FFfishwww2",
+        "verified": true
+      }
+    ]
+  }
+}

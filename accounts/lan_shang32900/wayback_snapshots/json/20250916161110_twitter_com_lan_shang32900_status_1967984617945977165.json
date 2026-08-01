@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967862917891776512"
+      ],
+      "media_source_tweet_id": [
+        "1967862927605878855"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1967984617945977165",
+    "created_at": "2025-09-16T16:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967984617945977165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "Yooeuh121590"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5Vu7PUy8m",
+          "end": 48,
+          "expanded_url": "https://x.com/Yooeuh121590/status/1967862927605878855/photo/1",
+          "media_key": "3_1967862917891776512",
+          "start": 25,
+          "url": "https://t.co/h5Vu7PUy8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967984617945977165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967862927605878855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yooeuh121590: 我没钱就这样 https://t.co/h5Vu7PUy8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1778,
+        "media_key": "3_1967862917891776512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09A5cuaYAAUR6v.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967862917891776512"
+          ],
+          "media_source_tweet_id": [
+            "1967862927605878855"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1967984617945977165",
+        "created_at": "2025-09-16T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967984617945977165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "Yooeuh121590"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5Vu7PUy8m",
+              "end": 48,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1967862927605878855/photo/1",
+              "media_key": "3_1967862917891776512",
+              "start": 25,
+              "url": "https://t.co/h5Vu7PUy8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967984617945977165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967862927605878855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yooeuh121590: 我没钱就这样 https://t.co/h5Vu7PUy8m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967862917891776512"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "1967862927605878855",
+        "created_at": "2025-09-16T08:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967862927605878855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5Vu7PUy8m",
+              "end": 30,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1967862927605878855/photo/1",
+              "media_key": "3_1967862917891776512",
+              "start": 7,
+              "url": "https://t.co/h5Vu7PUy8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967862927605878855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 30337,
+          "like_count": 520,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我没钱就这样 https://t.co/h5Vu7PUy8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 740,
+          "like_count": 38027,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 9748
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 眼熟的会回关（太多人找我互关频繁了！）",
+        "id": "1663516164306382852",
+        "location": "robot",
+        "name": "豆包",
+        "pinned_tweet_id": "1958182095974740215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 76,
+          "like_count": 2194,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1197
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

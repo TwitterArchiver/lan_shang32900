@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041908621840413013",
+    "created_at": "2026-04-09T15:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042257433402425646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042257433402425646",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041908621840413013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 我也好想有这样的同学教我……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2143,
+        "media_key": "3_2041908617780326402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZREcKa8AI0ugl.jpg",
+        "width": 1075
+      },
+      {
+        "height": 2223,
+        "media_key": "3_2041908618791170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZREf7bMAA1GCj.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2203,
+        "media_key": "3_2041908619227381760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZREhjbQAARpdH.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2151,
+        "media_key": "3_2041908619390967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZREiKbYAAbh5I.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041908621840413013",
+        "created_at": "2026-04-09T15:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042257433402425646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042257433402425646",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041908621840413013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 我也好想有这样的同学教我……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041908617780326402",
+            "3_2041908618791170048",
+            "3_2041908619227381760",
+            "3_2041908619390967808"
+          ]
+        },
+        "author_id": "2004977573332492288",
+        "conversation_id": "2041908621840413013",
+        "created_at": "2026-04-08T15:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041908621840413013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcnEsjJk6F",
+              "end": 47,
+              "expanded_url": "https://x.com/gzi1068795/status/2041908621840413013/photo/1",
+              "media_key": "3_2041908617780326402",
+              "start": 24,
+              "url": "https://t.co/RcnEsjJk6F"
+            },
+            {
+              "display_url": "pic.x.com/RcnEsjJk6F",
+              "end": 47,
+              "expanded_url": "https://x.com/gzi1068795/status/2041908621840413013/photo/1",
+              "media_key": "3_2041908618791170048",
+              "start": 24,
+              "url": "https://t.co/RcnEsjJk6F"
+            },
+            {
+              "display_url": "pic.x.com/RcnEsjJk6F",
+              "end": 47,
+              "expanded_url": "https://x.com/gzi1068795/status/2041908621840413013/photo/1",
+              "media_key": "3_2041908619227381760",
+              "start": 24,
+              "url": "https://t.co/RcnEsjJk6F"
+            },
+            {
+              "display_url": "pic.x.com/RcnEsjJk6F",
+              "end": 47,
+              "expanded_url": "https://x.com/gzi1068795/status/2041908621840413013/photo/1",
+              "media_key": "3_2041908619390967808",
+              "start": 24,
+              "url": "https://t.co/RcnEsjJk6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041908621840413013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起来那个恬静笑着会露出虎牙喜欢本兮的女孩子 https://t.co/RcnEsjJk6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 798,
+          "like_count": 43113,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 10899
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/没更新应该就是被举报封了/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 341,
+          "like_count": 17827,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 8654
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1976318625662603590",
+    "created_at": "2025-10-10T06:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976538414272086096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976538414272086096",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976318625662603590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 怎么这样、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1976318625662603590",
+        "created_at": "2025-10-10T06:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976538414272086096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976538414272086096",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976318625662603590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 怎么这样、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1976318625662603590",
+        "created_at": "2025-10-09T16:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976318625662603590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976318625662603590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我大学真的特别崩溃\n大一那会儿在住宿，然后认识了很多舍友\n结果我外宿了，和她们的关系就淡了不少\n之后大二分班，\n我在一班，5个舍友全部都在二班\n我一下子进入一个陌生的班级\n后来采风的时候，我记得那次我和4个舍友打算一起打车回酒店\n结果另一个舍友跑过来说要和她们一起回去\n然后让我去和我们班的人回酒店\n我很生气直接走了上了一辆出租车自己打车\n后来机缘巧合下我和我们班一个女孩子玩的好，玩得很好\n后面采风的时间都是我和她一起玩\n结果我休学了，和她的联系就淡了\n我复学又去新的班级，那种大二分班不适的感觉又来了\n像个黑色的幽灵一样飘荡在我身边\n我……哎……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6286,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我大学真的特别崩溃\n大一那会儿在住宿，然后认识了很多舍友\n结果我外宿了，和她们的关系就淡了不少\n之后大二分班，\n我在一班，5个舍友全部都在二班\n我一下子进入一个陌生的班级\n后来采风的时候，我记得那次我和4个舍友打算一起打车回酒店\n结果另一个舍友跑过来说要和她们一起回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 765,
+          "like_count": 39110,
+          "listed_count": 4,
+          "media_count": 722,
+          "tweet_count": 10049
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀是碎碎念推和猫猫推丨🦜嘤鹉：@SENDOH214丨🪜梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 29,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1965345418428252548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40406,
+          "following_count": 1080,
+          "like_count": 23833,
+          "listed_count": 49,
+          "media_count": 2740,
+          "tweet_count": 30909
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

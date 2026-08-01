@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1941108828235514323",
+    "created_at": "2025-07-05T05:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T06:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941373498498351363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941373498498351363",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941108828235514323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 淑女小南"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19186,
+        "height": 1280,
+        "media_key": "7_1941108673998151680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941108673998151680/pu/img/OiVweSZi9CTkB_5x.jpg",
+        "public_metrics": {
+          "view_count": 1034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941108673998151680/pu/vid/avc1/320x568/KrLHOpERFy3oO9ML.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941108673998151680/pu/vid/avc1/480x852/8zQaSpH_Cc5aK9mO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941108673998151680/pu/vid/avc1/720x1280/CrTAAQ1fxfmVY9HM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941108673998151680/pu/pl/29I--Y4AsrUnZ5-p.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1941108828235514323",
+        "created_at": "2025-07-05T05:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941373498498351363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941373498498351363",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941108828235514323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 淑女小南"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941108673998151680"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1941108828235514323",
+        "created_at": "2025-07-04T12:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T13:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941108828235514323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkXFV1Q5Qu",
+              "end": 30,
+              "expanded_url": "https://x.com/yusanyyy8/status/1941108828235514323/video/1",
+              "media_key": "7_1941108673998151680",
+              "start": 7,
+              "url": "https://t.co/SkXFV1Q5Qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941108828235514323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3139,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "就这样流眼泪 https://t.co/SkXFV1Q5Qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 655,
+          "like_count": 32708,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 7836
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "自恋心🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "南🍄",
+        "pinned_tweet_id": "1925361316891681221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 63,
+          "like_count": 2563,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1953353020525199625",
+    "created_at": "2025-08-07T11:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953419512302211470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1575798272643321857",
+          "start": 0,
+          "username": "Sejuedaocuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953419512302211470",
+    "in_reply_to_user_id": "1575798272643321857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953357079420281205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sejuedaocuo 抱抱你宝宝、、辛苦了哇😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1953353020525199625",
+        "created_at": "2025-08-07T11:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953419512302211470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1575798272643321857",
+              "start": 0,
+              "username": "Sejuedaocuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953419512302211470",
+        "in_reply_to_user_id": "1575798272643321857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953357079420281205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sejuedaocuo 抱抱你宝宝、、辛苦了哇😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575798272643321857",
+        "conversation_id": "1953353020525199625",
+        "created_at": "2025-08-07T07:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953357079420281205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953357079420281205",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953355804054098010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 药换了一次，新药不管用，没有之前开的药有用 我现在真的好累了，什么都没精力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 679,
+          "like_count": 34435,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 8528
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T10:42:54.000Z",
+        "description": "中文🍀using a translator🌿\n❗不允许拿我的画练AI❌🪄📕🕷️🐴",
+        "id": "1575798272643321857",
+        "name": "死胎",
+        "pinned_tweet_id": "1759237227081760782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866470457341612033/r_0TdcDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 492,
+          "like_count": 23898,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 3260
+        },
+        "username": "Sejuedaocuo",
+        "verified": false
+      }
+    ]
+  }
+}

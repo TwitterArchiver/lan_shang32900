@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1969980126453788867",
+    "created_at": "2025-09-22T07:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T08:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970032323975585804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066186101713395712",
+          "start": 0,
+          "username": "Summer4Night"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970032323975585804",
+    "in_reply_to_user_id": "1066186101713395712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970019345934991660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summer4Night 宝宝好久不见咪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1969980126453788867",
+        "created_at": "2025-09-22T07:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T08:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970032323975585804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066186101713395712",
+              "start": 0,
+              "username": "Summer4Night"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970032323975585804",
+        "in_reply_to_user_id": "1066186101713395712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970019345934991660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summer4Night 宝宝好久不见咪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066186101713395712",
+        "conversation_id": "1969980126453788867",
+        "created_at": "2025-09-22T06:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T07:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970019345934991660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970019345934991660",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969980126453788867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 746,
+          "like_count": 38412,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 9856
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-24T04:25:50.000Z",
+        "description": "只会一个形容词「草」的人型机器人/INFP?/会说些奇怪的呓语/回复我会很开心。骂我也没关系/随便私信，我不太会我聊天，希望不会冒犯你/推文有很多负能量的东西，希望不要在意。/『请不要问我性别，喊我哥哥姐姐都可以』/ 永远的18↑不要问我具体年龄https://t.co/1fZ4iGKnpb匿名提问箱！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/summer8night",
+                "end": 146,
+                "expanded_url": "https://ngl.link/summer8night",
+                "start": 123,
+                "url": "https://t.co/1fZ4iGKnpb"
+              }
+            ]
+          }
+        },
+        "id": "1066186101713395712",
+        "location": "♁不存于世间的天堂♁",
+        "name": "死了的夏夜",
+        "pinned_tweet_id": "1671473524836552704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455849269106184193/5dOsbHcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 654,
+          "like_count": 32588,
+          "listed_count": 9,
+          "media_count": 574,
+          "tweet_count": 10214
+        },
+        "username": "Summer4Night",
+        "verified": false
+      }
+    ]
+  }
+}

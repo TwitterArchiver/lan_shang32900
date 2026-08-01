@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849726864727867394"
+      ],
+      "media_source_tweet_id": [
+        "1849726869941436669"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2037167046170206243",
+    "created_at": "2026-03-26T13:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037167046170206243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "24482962",
+          "start": 3,
+          "username": "tukushiA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5bwY5cicKS",
+          "end": 40,
+          "expanded_url": "https://x.com/tukushiA/status/1849726869941436669/photo/1",
+          "media_key": "3_1849726864727867394",
+          "start": 17,
+          "url": "https://t.co/5bwY5cicKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037167046170206243",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 712
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849726869941436669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukushiA: ☺️ https://t.co/5bwY5cicKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1849726864727867394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GauMyH-aAAISNnN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849726864727867394"
+          ],
+          "media_source_tweet_id": [
+            "1849726869941436669"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2037167046170206243",
+        "created_at": "2026-03-26T13:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037167046170206243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "24482962",
+              "start": 3,
+              "username": "tukushiA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bwY5cicKS",
+              "end": 40,
+              "expanded_url": "https://x.com/tukushiA/status/1849726869941436669/photo/1",
+              "media_key": "3_1849726864727867394",
+              "start": 17,
+              "url": "https://t.co/5bwY5cicKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037167046170206243",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 712
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849726869941436669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukushiA: ☺️ https://t.co/5bwY5cicKS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849726864727867394"
+          ]
+        },
+        "author_id": "24482962",
+        "conversation_id": "1849726869941436669",
+        "created_at": "2024-10-25T08:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T09:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849726869941436669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bwY5cicKS",
+              "end": 26,
+              "expanded_url": "https://x.com/tukushiA/status/1849726869941436669/photo/1",
+              "media_key": "3_1849726864727867394",
+              "start": 3,
+              "url": "https://t.co/5bwY5cicKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849726869941436669",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 521,
+          "impression_count": 483173,
+          "like_count": 11362,
+          "quote_count": 51,
+          "reply_count": 41,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "☺️ https://t.co/5bwY5cicKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 757,
+          "like_count": 39934,
+          "listed_count": 3,
+          "media_count": 750,
+          "tweet_count": 10301
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-15T03:55:07.000Z",
+        "description": "辛いものだいすき。穴もぐりまんが「メイドインアビス」劇場シリーズアニメ第一弾「目覚める神秘」2026年公開でございます。 https://t.co/x5XpZnY34E まんが14巻でました。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miabyss.com",
+                "end": 84,
+                "expanded_url": "http://miabyss.com",
+                "start": 61,
+                "url": "https://t.co/x5XpZnY34E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "takecomic.jp/series/3f84645…",
+                "end": 23,
+                "expanded_url": "https://takecomic.jp/series/3f846451aff2d",
+                "start": 0,
+                "url": "https://t.co/SDPmSYFEGe"
+              }
+            ]
+          }
+        },
+        "id": "24482962",
+        "location": "相模大野",
+        "name": "つくしあきひと",
+        "pinned_tweet_id": "1950457122812223880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/843532233474375680/DsDrnXKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559805,
+          "following_count": 2329,
+          "like_count": 86238,
+          "listed_count": 3115,
+          "media_count": 1597,
+          "tweet_count": 55575
+        },
+        "url": "https://t.co/SDPmSYFEGe",
+        "username": "tukushiA",
+        "verified": true
+      }
+    ]
+  }
+}

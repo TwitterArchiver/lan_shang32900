@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1949049287922598218",
+    "created_at": "2025-07-26T17:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949165983106769347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1241396481757564928",
+          "start": 0,
+          "username": "catboy_qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949165983106769347",
+    "in_reply_to_user_id": "1241396481757564928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949049287922598218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catboy_qian 好像看到過類似的句子，從小就很喜歡然後記在本子上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1949049287922598218",
+        "created_at": "2025-07-26T17:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949165983106769347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241396481757564928",
+              "start": 0,
+              "username": "catboy_qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949165983106769347",
+        "in_reply_to_user_id": "1241396481757564928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949049287922598218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catboy_qian 好像看到過類似的句子，從小就很喜歡然後記在本子上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241396481757564928",
+        "conversation_id": "1949049287922598218",
+        "created_at": "2025-07-26T10:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949049287922598218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949049287922598218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「心会破碎，但却破碎地活着。」——拜伦，《恰尔德·哈洛尔德游记》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 671,
+          "like_count": 34141,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 8341
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T16:09:27.000Z",
+        "description": "沒把的男娘🏳️‍⚧️🌈 he/his｜dom/s top｜偏愛@ffffff__00|人~你好~我是龍（禮貌）@Thuban__Dragon｜幹話多｜不定時開台聊廢話｜#BDSM #ABDL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "BDSM"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "ABDL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ffffff__00"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "Thuban__Dragon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shireyishunjian.com/main/home.php?…",
+                "end": 23,
+                "expanded_url": "https://www.shireyishunjian.com/main/home.php?mod=space&uid=378990",
+                "start": 0,
+                "url": "https://t.co/LYvbcoautj"
+              }
+            ]
+          }
+        },
+        "id": "1241396481757564928",
+        "location": "Antarctica",
+        "name": "茜",
+        "pinned_tweet_id": "1948441520467849593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934668307208282112/sGfxciDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 54,
+          "like_count": 57120,
+          "listed_count": 8,
+          "media_count": 1453,
+          "tweet_count": 16278
+        },
+        "url": "https://t.co/LYvbcoautj",
+        "username": "catboy_qian",
+        "verified": false
+      }
+    ]
+  }
+}

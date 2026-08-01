@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922125332351504408",
+    "created_at": "2025-05-13T03:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922125332351504408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2596381225",
+          "start": 3,
+          "username": "vir_coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922125332351504408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921777471403266244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vir_coconut: 大家有空把礼物发我一下，520马上就要到了，我给大家准备了精美的地址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922125332351504408",
+        "created_at": "2025-05-13T03:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922125332351504408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2596381225",
+              "start": 3,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922125332351504408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921777471403266244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vir_coconut: 大家有空把礼物发我一下，520马上就要到了，我给大家准备了精美的地址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1921777471403266244",
+        "created_at": "2025-05-12T04:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T05:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921777471403266244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921777471403266244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9233,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家有空把礼物发我一下，520马上就要到了，我给大家准备了精美的地址"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 652,
+          "like_count": 31581,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 7311
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "超级坏小孩｜坐标杭州｜私信只回口令红包",
+        "id": "2596381225",
+        "location": "🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "1921714331961483341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922028742148554752/sFDxboaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22050,
+          "following_count": 286,
+          "like_count": 3394,
+          "listed_count": 39,
+          "media_count": 56,
+          "tweet_count": 1917
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

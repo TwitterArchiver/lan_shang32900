@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962760560229147063",
+    "created_at": "2025-09-02T06:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962760560229147063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962760560229147063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962717703413899664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: 好想养一个缺爱逼：只要稍微聊聊天就能获得一个忠心爱着自己的仆人，可以把所有钱都上供给我；每天给我提供情绪价值，不开心了还能把他当出气筒，他也不会离开我。最后玩腻了受不住这么沉重的爱了就稍微说一点过分的话，缺爱逼就自己在外面自杀了，不给我添一点麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962760560229147063",
+        "created_at": "2025-09-02T06:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962760560229147063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962760560229147063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962717703413899664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: 好想养一个缺爱逼：只要稍微聊聊天就能获得一个忠心爱着自己的仆人，可以把所有钱都上供给我；每天给我提供情绪价值，不开心了还能把他当出气筒，他也不会离开我。最后玩腻了受不住这么沉重的爱了就稍微说一点过分的话，缺爱逼就自己在外面自杀了，不给我添一点麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1962717703413899664",
+        "created_at": "2025-09-02T03:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962717703413899664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962717703413899664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1271,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想养一个缺爱逼：只要稍微聊聊天就能获得一个忠心爱着自己的仆人，可以把所有钱都上供给我；每天给我提供情绪价值，不开心了还能把他当出气筒，他也不会离开我。最后玩腻了受不住这么沉重的爱了就稍微说一点过分的话，缺爱逼就自己在外面自杀了，不给我添一点麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 708,
+          "like_count": 36315,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9167
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*障害者手帳持っている人｜我活不起了🚪99/198/520，可以陪你聊天和你玩游戏给你唱歌跳舞画画😚😚😚｜成分复杂｜粉红勿扰｜接纯绿线下请先过门",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34489,
+          "following_count": 783,
+          "like_count": 7246,
+          "listed_count": 42,
+          "media_count": 220,
+          "tweet_count": 2552
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

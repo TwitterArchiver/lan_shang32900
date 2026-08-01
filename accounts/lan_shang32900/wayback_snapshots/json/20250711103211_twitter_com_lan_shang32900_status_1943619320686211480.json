@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943559536880816232",
+    "created_at": "2025-07-11T10:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T11:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943619320686211480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798684142722281473",
+          "start": 0,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943619320686211480",
+    "in_reply_to_user_id": "1798684142722281473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943559536880816232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiguangji2019 希望大家都能好好的……宝宝你也是、😿抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943559527128846336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjpF65XUAA723P.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943559536880816232",
+        "created_at": "2025-07-11T10:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943619320686211480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943619320686211480",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943559536880816232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 希望大家都能好好的……宝宝你也是、😿抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943559527128846336"
+          ]
+        },
+        "author_id": "1798684142722281473",
+        "conversation_id": "1943559536880816232",
+        "created_at": "2025-07-11T06:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943559536880816232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0eRfSJISb",
+              "end": 34,
+              "expanded_url": "https://x.com/shiguangji2019/status/1943559536880816232/photo/1",
+              "media_key": "3_1943559527128846336",
+              "start": 11,
+              "url": "https://t.co/F0eRfSJISb"
+            },
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/drug_artist/status/1943538962775363975",
+              "start": 35,
+              "url": "https://t.co/xKXV5dn7K7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943559536880816232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 211,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943538962775363975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又死了一个互关好友😭 https://t.co/F0eRfSJISb https://t.co/xKXV5dn7K7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 655,
+          "like_count": 33033,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 7945
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年男娘，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1901,
+          "like_count": 78863,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 3973
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939707566658916413",
+    "created_at": "2025-06-30T15:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T16:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939710441246388338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807349006508691456",
+          "start": 0,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939710441246388338",
+    "in_reply_to_user_id": "1807349006508691456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939707566658916413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangzixingfu 喜欢你呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939707566658916413",
+        "created_at": "2025-06-30T15:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939710441246388338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807349006508691456",
+              "start": 0,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939710441246388338",
+        "in_reply_to_user_id": "1807349006508691456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939707566658916413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangzixingfu 喜欢你呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807349006508691456",
+        "conversation_id": "1939707566658916413",
+        "created_at": "2025-06-30T15:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939707566658916413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939707566658916413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界上还有没有在乎我的人了…。我好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 654,
+          "like_count": 32428,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7722
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "我惹你了吗？",
+        "id": "1807349006508691456",
+        "location": "🚪88",
+        "name": "我只是一个人类",
+        "pinned_tweet_id": "1932493069628187023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152446478344193/g7fFYmPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6573,
+          "following_count": 207,
+          "like_count": 3051,
+          "listed_count": 12,
+          "media_count": 201,
+          "tweet_count": 1533
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

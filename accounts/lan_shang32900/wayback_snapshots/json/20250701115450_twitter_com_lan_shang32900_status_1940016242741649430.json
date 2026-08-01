@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939952616118562968",
+    "created_at": "2025-07-01T11:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940016242741649430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 22,
+          "id": "1666599054917218305",
+          "start": 10,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940016242741649430",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939952616118562968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @kirakira4th 什么时候联动"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1939952604349399040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwYnYdXAAAZd_3.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939952616118562968",
+        "created_at": "2025-07-01T11:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940016242741649430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 22,
+              "id": "1666599054917218305",
+              "start": 10,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940016242741649430",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939952616118562968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @kirakira4th 什么时候联动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939952604349399040"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1939952616118562968",
+        "created_at": "2025-07-01T07:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939952616118562968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1666599054917218305",
+              "start": 5,
+              "username": "kirakira4th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUQJ1wmhe2",
+              "end": 98,
+              "expanded_url": "https://x.com/akui1121/status/1939952616118562968/photo/1",
+              "media_key": "3_1939952604349399040",
+              "start": 75,
+              "url": "https://t.co/XUQJ1wmhe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939952616118562968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想操井盖@kirakira4th ，我是真的想日她，怎么会有人长这么大的屁股身材这么好，我看到就能想到我后入她的时候那股臀浪，他妈的，让我魂牵梦绕 https://t.co/XUQJ1wmhe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 657,
+          "like_count": 32526,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 7755
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121 母🐶@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20117,
+          "following_count": 1100,
+          "like_count": 17297,
+          "listed_count": 54,
+          "media_count": 739,
+          "tweet_count": 9856
+        },
+        "username": "akui1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "一般路过顺直男",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939636462976131072/2i2vF74N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16332,
+          "following_count": 2772,
+          "like_count": 51971,
+          "listed_count": 23,
+          "media_count": 349,
+          "tweet_count": 16164
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

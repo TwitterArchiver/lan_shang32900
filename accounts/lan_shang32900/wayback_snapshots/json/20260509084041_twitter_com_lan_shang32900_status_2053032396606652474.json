@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2052983546193821740",
+    "created_at": "2026-05-09T08:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053032396606652474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1738035209755664384",
+          "start": 0,
+          "username": "chemy_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053032396606652474",
+    "in_reply_to_user_id": "1738035209755664384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052983546193821740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chemy_05 洗个澡吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2052983488752787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2pmxjaIAAhA-c.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2052983546193821740",
+        "created_at": "2026-05-09T08:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053032396606652474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1738035209755664384",
+              "start": 0,
+              "username": "chemy_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053032396606652474",
+        "in_reply_to_user_id": "1738035209755664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052983546193821740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chemy_05 洗个澡吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052983488752787456"
+          ]
+        },
+        "author_id": "1738035209755664384",
+        "conversation_id": "2052983546193821740",
+        "created_at": "2026-05-09T05:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052983546193821740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Fun7PUWsn",
+              "end": 34,
+              "expanded_url": "https://x.com/chemy_05/status/2052983546193821740/photo/1",
+              "media_key": "3_2052983488752787456",
+              "start": 11,
+              "url": "https://t.co/1Fun7PUWsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052983546193821740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想让自己皮质醇低一点 https://t.co/1Fun7PUWsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 797,
+          "like_count": 49077,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 12018
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:14:28.000Z",
+        "description": "坐标上海 05 友跨   玩音游fps  可以找我打游戏 焦虑症重度患者 双相 ENGLISH/日本語勉強中\n老婆@koizumi7723",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "koizumi7723"
+              }
+            ]
+          }
+        },
+        "id": "1738035209755664384",
+        "location": "上海",
+        "name": "Chemy",
+        "pinned_tweet_id": "1952405865903874268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754779854984331264/OY5mjMgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 63,
+          "like_count": 16462,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2512
+        },
+        "username": "chemy_05",
+        "verified": false
+      }
+    ]
+  }
+}

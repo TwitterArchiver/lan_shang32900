@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1945099723414892842",
+    "created_at": "2025-07-15T13:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945111162011390354"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "恭喜",
+          "probability": 0.5036,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1738035209755664384",
+          "start": 0,
+          "username": "chemy_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945111162011390354",
+    "in_reply_to_user_id": "1738035209755664384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945099723414892842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chemy_05 恭喜！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945099719681957890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5h47Ra4AIPn1Z.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1945099723414892842",
+        "created_at": "2025-07-15T13:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945111162011390354"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "恭喜",
+              "probability": 0.5036,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1738035209755664384",
+              "start": 0,
+              "username": "chemy_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945111162011390354",
+        "in_reply_to_user_id": "1738035209755664384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945099723414892842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chemy_05 恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945099719681957890"
+          ]
+        },
+        "author_id": "1738035209755664384",
+        "conversation_id": "1945099723414892842",
+        "created_at": "2025-07-15T12:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945099723414892842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3k5Cx8K3pC",
+              "end": 36,
+              "expanded_url": "https://x.com/chemy_05/status/1945099723414892842/photo/1",
+              "media_key": "3_1945099719681957890",
+              "start": 13,
+              "url": "https://t.co/3k5Cx8K3pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945099723414892842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20岁前拿下人生第一辆车 https://t.co/3k5Cx8K3pC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 659,
+          "like_count": 33269,
+          "listed_count": 0,
+          "media_count": 628,
+          "tweet_count": 8018
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:14:28.000Z",
+        "description": "坐标上海 05mtx非二元 友跨   玩音游fps  可以找我打游戏 焦虑症重度患者 双相 ENGLISH/日本語勉強中",
+        "id": "1738035209755664384",
+        "location": "上海",
+        "name": "Chemy",
+        "pinned_tweet_id": "1909654408784495005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754779854984331264/OY5mjMgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 728,
+          "like_count": 10629,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1881
+        },
+        "username": "chemy_05",
+        "verified": false
+      }
+    ]
+  }
+}

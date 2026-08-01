@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959266267703247157",
+    "created_at": "2025-08-24T05:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959488189649043588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        },
+        {
+          "end": 28,
+          "id": "1520335779062558721",
+          "start": 17,
+          "username": "jie2154291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959488189649043588",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959487952285045117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao @jie2154291 学校就是百般刁难生怕你在学校出事他们要担责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959266267703247157",
+        "created_at": "2025-08-24T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959488189649043588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            },
+            {
+              "end": 28,
+              "id": "1520335779062558721",
+              "start": 17,
+              "username": "jie2154291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959488189649043588",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959487952285045117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao @jie2154291 学校就是百般刁难生怕你在学校出事他们要担责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1959266267703247157",
+        "created_at": "2025-08-24T05:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959487952285045117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520335779062558721",
+              "start": 0,
+              "username": "jie2154291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959487952285045117",
+        "in_reply_to_user_id": "1520335779062558721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959431000322416753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie2154291 这个医生已经提供了，大概就是经过治疗已经可以学习+医院公章，我也交上去了，学校那边觉得还不够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 701,
+          "like_count": 35419,
+          "listed_count": 4,
+          "media_count": 673,
+          "tweet_count": 8867
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨嘤鹉：@SENDOH214丨🚪55r 丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 48,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1954923240574652614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41674,
+          "following_count": 1081,
+          "like_count": 23648,
+          "listed_count": 49,
+          "media_count": 2584,
+          "tweet_count": 29777
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T09:34:40.000Z",
+        "description": ".\n2067＊＊＊＊＊＊＊＊@qq.com，ISFJ，吞药，偶尔自残，日记（想起来就记，或者某时刻发牢骚），预计之后某化工厂的牛马？嗯……又加一条，无法早早的自主睡眠。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 14,
+                "username": "qq"
+              }
+            ]
+          }
+        },
+        "id": "1520335779062558721",
+        "name": "𝕬𝖟𝖗𝖆𝖊𝖑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833390084856655872/8X0UvNio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 6729,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 405
+        },
+        "username": "jie2154291",
+        "verified": false
+      }
+    ]
+  }
+}

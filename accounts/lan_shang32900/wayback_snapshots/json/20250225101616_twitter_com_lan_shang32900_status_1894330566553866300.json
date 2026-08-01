@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1894299423418527754",
+    "created_at": "2025-02-25T10:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T11:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894330566553866300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560523219924164610",
+          "start": 0,
+          "username": "kazimir____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894330566553866300",
+    "in_reply_to_user_id": "1560523219924164610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894299423418527754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazimir____ 抱紧紧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1894299423418527754",
+        "created_at": "2025-02-25T10:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894330566553866300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560523219924164610",
+              "start": 0,
+              "username": "kazimir____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894330566553866300",
+        "in_reply_to_user_id": "1560523219924164610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894299423418527754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazimir____ 抱紧紧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560523219924164610",
+        "conversation_id": "1894299423418527754",
+        "created_at": "2025-02-25T08:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894299423418527754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kazimir____/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kazimir____/status/1822529135014764647",
+              "start": 18,
+              "url": "https://t.co/G5TGvQskaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894299423418527754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 327,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822529135014764647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人感叹，\n现在可以抱一下我吗（？ https://t.co/G5TGvQskaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 647,
+          "like_count": 30057,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 6735
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:05:09.000Z",
+        "description": "@KarubonWaito",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KarubonWaito"
+              }
+            ]
+          }
+        },
+        "id": "1560523219924164610",
+        "name": "K.▲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894300665284866049/GCdwWeX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 4800,
+          "like_count": 23344,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 3993
+        },
+        "username": "kazimir____",
+        "verified": false
+      }
+    ]
+  }
+}

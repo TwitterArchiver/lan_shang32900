@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1940284926840250813",
+    "created_at": "2025-07-02T06:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T07:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940289384127111236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1453076731783368706",
+          "start": 0,
+          "username": "abei233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940289384127111236",
+    "in_reply_to_user_id": "1453076731783368706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940284926840250813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abei233 我的意思是觉得没办法接受也是正确的，因为这本来就不是什么好东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1940284926840250813",
+        "created_at": "2025-07-02T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940289384127111236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1453076731783368706",
+              "start": 0,
+              "username": "abei233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940289384127111236",
+        "in_reply_to_user_id": "1453076731783368706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940284926840250813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abei233 我的意思是觉得没办法接受也是正确的，因为这本来就不是什么好东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453076731783368706",
+        "conversation_id": "1940284926840250813",
+        "created_at": "2025-07-02T05:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940284926840250813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940284926840250813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的没法在这个社会活下去，因为我没法接受轻浮与玩笑，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 657,
+          "like_count": 32597,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 7782
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T19:11:13.000Z",
+        "description": "我没有任何雷点！我也尊重所有群体，我有时候情绪一上来不是别人能承受的，实在是对不起。無言フォロー失礼します…",
+        "id": "1453076731783368706",
+        "name": "杯…",
+        "pinned_tweet_id": "1895755177833218534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928930130736590849/WyjxHGBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 264,
+          "like_count": 19079,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 2905
+        },
+        "username": "abei233",
+        "verified": false
+      }
+    ]
+  }
+}

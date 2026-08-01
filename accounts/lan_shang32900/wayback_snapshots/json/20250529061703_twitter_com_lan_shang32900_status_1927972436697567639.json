@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1927972436697567639",
+    "created_at": "2025-05-29T06:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T07:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927972436697567639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927972436697567639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山葵酱真的比芥末要好吃很多！！一开始以为自己不会接受这种奇怪的辣味但是山葵意外的好吃……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1927972436697567639",
+        "created_at": "2025-05-29T06:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927972436697567639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927972436697567639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山葵酱真的比芥末要好吃很多！！一开始以为自己不会接受这种奇怪的辣味但是山葵意外的好吃……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 647,
+          "like_count": 32216,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 7483
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

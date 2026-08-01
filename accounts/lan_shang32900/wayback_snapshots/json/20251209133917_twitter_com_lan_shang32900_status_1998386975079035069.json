@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1998386975079035069",
+    "created_at": "2025-12-09T13:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998386975079035069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386157702787731459",
+          "start": 3,
+          "username": "kiss_o3o_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998386975079035069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998297051017412945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiss_o3o_: 我的子宫每个月自残七天，发血图不打码，还要逼我去厕所，必要时还要od布洛芬，我有理由怀疑我的子宫是厕妹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1998386975079035069",
+        "created_at": "2025-12-09T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998386975079035069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386157702787731459",
+              "start": 3,
+              "username": "kiss_o3o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998386975079035069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998297051017412945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiss_o3o_: 我的子宫每个月自残七天，发血图不打码，还要逼我去厕所，必要时还要od布洛芬，我有理由怀疑我的子宫是厕妹。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386157702787731459",
+        "conversation_id": "1998297051017412945",
+        "created_at": "2025-12-09T07:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998297051017412945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998297051017412945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9643,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我的子宫每个月自残七天，发血图不打码，还要逼我去厕所，必要时还要od布洛芬，我有理由怀疑我的子宫是厕妹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 769,
+          "like_count": 39575,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 10164
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-25T03:19:46.000Z",
+        "description": "盗图替我挡灾｜互关进@iam_miserable1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "iam_miserable1"
+              }
+            ]
+          }
+        },
+        "id": "1386157702787731459",
+        "location": "🚪纯绿188 喜欢我请打赏˃ ᵕ ˂",
+        "name": "🌲",
+        "pinned_tweet_id": "1991015985944670296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991933741170900992/xrD5OVqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4598,
+          "following_count": 371,
+          "like_count": 31558,
+          "listed_count": 9,
+          "media_count": 83,
+          "tweet_count": 9629
+        },
+        "username": "kiss_o3o_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946710504023699507",
+    "created_at": "2025-07-20T04:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T05:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946784596231606590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645004454725550080",
+          "start": 0,
+          "username": "linlin884148329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946784596231606590",
+    "in_reply_to_user_id": "1645004454725550080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946710504023699507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin884148329 超级放松ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946710504023699507",
+        "created_at": "2025-07-20T04:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946784596231606590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645004454725550080",
+              "start": 0,
+              "username": "linlin884148329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946784596231606590",
+        "in_reply_to_user_id": "1645004454725550080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946710504023699507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin884148329 超级放松ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645004454725550080",
+        "conversation_id": "1946710504023699507",
+        "created_at": "2025-07-19T23:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T00:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946710504023699507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946710504023699507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次吃完pr都会昏睡过去睡很久是怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 664,
+          "like_count": 33484,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 8101
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T10:03:35.000Z",
+        "description": "",
+        "id": "1645004454725550080",
+        "name": "🐀リンリン🐁",
+        "pinned_tweet_id": "1828866915588362315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645068178790420482/RQbWlNUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 147,
+          "like_count": 18868,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 4892
+        },
+        "username": "linlin884148329",
+        "verified": false
+      }
+    ]
+  }
+}

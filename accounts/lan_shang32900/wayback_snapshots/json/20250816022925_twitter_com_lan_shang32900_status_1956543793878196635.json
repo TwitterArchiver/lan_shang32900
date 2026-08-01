@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956533141017112697",
+    "created_at": "2025-08-16T02:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T03:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956543793878196635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956543793878196635",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956533141017112697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956533138102042624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycAhd_aQAAlIaU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956533137699430400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycAhcfa4AA40dw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956533136868966400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycAhZZbAAAWcFJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956533141017112697",
+        "created_at": "2025-08-16T02:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956543793878196635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956543793878196635",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956533141017112697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956533138102042624",
+            "3_1956533137699430400",
+            "3_1956533136868966400"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956533141017112697",
+        "created_at": "2025-08-16T01:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956533141017112697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yB3wuXg6DR",
+              "end": 44,
+              "expanded_url": "https://x.com/omo0903/status/1956533141017112697/photo/1",
+              "media_key": "3_1956533138102042624",
+              "start": 21,
+              "url": "https://t.co/yB3wuXg6DR"
+            },
+            {
+              "display_url": "pic.x.com/yB3wuXg6DR",
+              "end": 44,
+              "expanded_url": "https://x.com/omo0903/status/1956533141017112697/photo/1",
+              "media_key": "3_1956533137699430400",
+              "start": 21,
+              "url": "https://t.co/yB3wuXg6DR"
+            },
+            {
+              "display_url": "pic.x.com/yB3wuXg6DR",
+              "end": 44,
+              "expanded_url": "https://x.com/omo0903/status/1956533141017112697/photo/1",
+              "media_key": "3_1956533136868966400",
+              "start": 21,
+              "url": "https://t.co/yB3wuXg6DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956533141017112697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幫我選一下明天要穿哪套\n第一套已經拍過了 https://t.co/yB3wuXg6DR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 694,
+          "like_count": 34949,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8707
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂\n爸爸活無限期中止，純綠聊天300",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoegg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoegg",
+                "start": 0,
+                "url": "https://t.co/gR297pV0hN"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1933432968779083785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922830309684543489/dL8hFayq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 814,
+          "like_count": 47764,
+          "listed_count": 7,
+          "media_count": 519,
+          "tweet_count": 2433
+        },
+        "url": "https://t.co/gR297pV0hN",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

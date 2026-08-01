@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1925158828737548485",
+    "created_at": "2025-05-21T11:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T12:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925158828737548485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925158828737548485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浴衣到底为什么这样吸引猫猫……家里哪只都好喜欢在上面开始踩奶莫名其妙的呼噜，并且占住我的衣服不让穿，穿在身上就直接在我身上踩奶（（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1925158828737548485",
+        "created_at": "2025-05-21T11:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925158828737548485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925158828737548485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浴衣到底为什么这样吸引猫猫……家里哪只都好喜欢在上面开始踩奶莫名其妙的呼噜，并且占住我的衣服不让穿，穿在身上就直接在我身上踩奶（（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 653,
+          "like_count": 32006,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 7425
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

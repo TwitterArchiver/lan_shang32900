@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939581236596641896",
+    "created_at": "2025-06-30T07:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939581236596641896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WITIING43/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/WITIING43/status/1939309734500474975",
+          "start": 8,
+          "url": "https://t.co/82JDZXfzfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939581236596641896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939309734500474975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给大家表演一个 https://t.co/82JDZXfzfS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939581236596641896",
+        "created_at": "2025-06-30T07:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939581236596641896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WITIING43/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/WITIING43/status/1939309734500474975",
+              "start": 8,
+              "url": "https://t.co/82JDZXfzfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939581236596641896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939309734500474975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给大家表演一个 https://t.co/82JDZXfzfS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635139270653652993",
+        "conversation_id": "1939309734500474975",
+        "created_at": "2025-06-29T13:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939309734500474975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939309734500474975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 65043,
+          "like_count": 739,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "排卵期会喷射卵子这种起号文案我咋没想到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 654,
+          "like_count": 32335,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7702
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T04:43:09.000Z",
+        "description": "🍏涩涩/碎碎念/接游戏陪玩",
+        "id": "1635139270653652993",
+        "location": "口令回私信",
+        "name": "米糕糕",
+        "pinned_tweet_id": "1923313965196615998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934814529344753664/mTPLMYRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8603,
+          "following_count": 84,
+          "like_count": 9720,
+          "listed_count": 20,
+          "media_count": 37,
+          "tweet_count": 2360
+        },
+        "username": "WITIING43",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966400463009624567",
+    "created_at": "2025-09-13T02:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966691721858932878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "248647906",
+          "start": 0,
+          "username": "Jesoooor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966691721858932878",
+    "in_reply_to_user_id": "248647906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966400463009624567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jesoooor 好池核"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966400463009624567",
+        "created_at": "2025-09-13T02:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966691721858932878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "248647906",
+              "start": 0,
+              "username": "Jesoooor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966691721858932878",
+        "in_reply_to_user_id": "248647906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966400463009624567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jesoooor 好池核"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248647906",
+        "conversation_id": "1966400463009624567",
+        "created_at": "2025-09-12T07:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966400463009624567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/memories_plane…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/memories_planet/status/1966023731375231305",
+              "start": 35,
+              "url": "https://t.co/us2YUAfpSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966400463009624567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 747576,
+          "like_count": 2394,
+          "quote_count": 12,
+          "reply_count": 191,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966023731375231305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然不是第一次了，但看到东京连内涝的时候水竟然是透明的，还是会震惊。 https://t.co/us2YUAfpSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 732,
+          "like_count": 37594,
+          "listed_count": 4,
+          "media_count": 697,
+          "tweet_count": 9610
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19468,
+          "following_count": 696,
+          "like_count": 13719,
+          "listed_count": 131,
+          "media_count": 3806,
+          "tweet_count": 17517
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

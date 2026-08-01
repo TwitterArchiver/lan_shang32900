@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903721929841967104",
+        "3_1903721930966106112"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1903721945168068875",
+    "created_at": "2025-03-23T08:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T09:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903721945168068875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHzKRq9cDz",
+          "end": 39,
+          "expanded_url": "https://x.com/lan_shang32900/status/1903721945168068875/photo/1",
+          "media_key": "3_1903721929841967104",
+          "start": 16,
+          "url": "https://t.co/eHzKRq9cDz"
+        },
+        {
+          "display_url": "pic.x.com/eHzKRq9cDz",
+          "end": 39,
+          "expanded_url": "https://x.com/lan_shang32900/status/1903721945168068875/photo/1",
+          "media_key": "3_1903721930966106112",
+          "start": 16,
+          "url": "https://t.co/eHzKRq9cDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903721945168068875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好累啊，但这是一条没有如果的路 https://t.co/eHzKRq9cDz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903721945168068875].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903721945168068875",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903721945168068875"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903721929841967104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmthAkNaAAATdp4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903721930966106112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmthAoZbAAAiAeP.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 661,
+          "like_count": 31497,
+          "listed_count": 0,
+          "media_count": 523,
+          "tweet_count": 7095
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

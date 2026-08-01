@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1974502658871541917",
+    "created_at": "2025-10-04T15:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974502658871541917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KawaiiEru_/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/KawaiiEru_/status/1974344881805140105",
+          "start": 18,
+          "url": "https://t.co/Ie4AxDLeoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974502658871541917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974344881805140105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求放过小羊、、不要什么都扯小羊好吗 https://t.co/Ie4AxDLeoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1990,
+        "media_key": "3_1974344871520710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZIMzsbMAAKz5Q.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1974502658871541917",
+        "created_at": "2025-10-04T15:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974502658871541917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KawaiiEru_/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/KawaiiEru_/status/1974344881805140105",
+              "start": 18,
+              "url": "https://t.co/Ie4AxDLeoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974502658871541917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974344881805140105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求放过小羊、、不要什么都扯小羊好吗 https://t.co/Ie4AxDLeoR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974344871520710656"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "conversation_id": "1974344881805140105",
+        "created_at": "2025-10-04T05:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974344881805140105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVvEF37QGr",
+              "end": 23,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1974344881805140105/photo/1",
+              "media_key": "3_1974344871520710656",
+              "start": 0,
+              "url": "https://t.co/OVvEF37QGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974344881805140105",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 50451,
+          "like_count": 419,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OVvEF37QGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 759,
+          "like_count": 38938,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 9985
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964657202142314496/hQMvxFgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 338,
+          "like_count": 25806,
+          "listed_count": 11,
+          "media_count": 2486,
+          "tweet_count": 12215
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      }
+    ]
+  }
+}

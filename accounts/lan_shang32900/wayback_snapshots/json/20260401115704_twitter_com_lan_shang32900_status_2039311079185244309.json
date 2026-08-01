@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2039311032976539649"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2039311079185244309",
+    "created_at": "2026-04-01T11:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039311079185244309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhu7E9a9Fv",
+          "end": 30,
+          "expanded_url": "https://x.com/lan_shang32900/status/2039311079185244309/video/1",
+          "media_key": "7_2039311032976539649",
+          "start": 7,
+          "url": "https://t.co/fhu7E9a9Fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039311079185244309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里进青蛙了 https://t.co/fhu7E9a9Fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14400,
+        "height": 720,
+        "media_key": "7_2039311032976539649",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039311032976539649/pu/img/JZEGePxYokddzGoW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039311032976539649/pu/vid/avc1/480x270/oB7zw0Vb85uhdlKR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039311032976539649/pu/vid/avc1/640x360/K_tYVduBOFKnAorF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039311032976539649/pu/vid/avc1/1280x720/vnQbnzNfduh4qHj2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039311032976539649/pu/pl/eU4fanRP5hTKh9Id.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039311032976539649"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2039311079185244309",
+        "created_at": "2026-04-01T11:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039311079185244309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhu7E9a9Fv",
+              "end": 30,
+              "expanded_url": "https://x.com/lan_shang32900/status/2039311079185244309/video/1",
+              "media_key": "7_2039311032976539649",
+              "start": 7,
+              "url": "https://t.co/fhu7E9a9Fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039311079185244309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里进青蛙了 https://t.co/fhu7E9a9Fv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 788,
+          "like_count": 40981,
+          "listed_count": 3,
+          "media_count": 757,
+          "tweet_count": 10533
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

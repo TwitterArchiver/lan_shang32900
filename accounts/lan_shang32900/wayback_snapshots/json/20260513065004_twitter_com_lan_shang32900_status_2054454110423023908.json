@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2054326617363685810",
+    "created_at": "2026-05-13T06:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054454110423023908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054454110423023908",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054326617363685810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 干了我一直想干的事（（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14940,
+        "height": 1280,
+        "media_key": "7_2054326525051482114",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054326525051482114/pu/img/FHeaSW6QeJNDBS1z.jpg",
+        "public_metrics": {
+          "view_count": 213
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054326525051482114/pu/vid/avc1/320x568/19rcCe7DSS6v4X3Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054326525051482114/pu/vid/avc1/480x852/NLc13HBzpy-jvuFb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054326525051482114/pu/vid/avc1/720x1280/_MSoezSpj81vvm0n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054326525051482114/pu/pl/pbaRIbewS3Dukzfl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2054326617363685810",
+        "created_at": "2026-05-13T06:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054454110423023908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054454110423023908",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054326617363685810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 干了我一直想干的事（（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054326525051482114"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054326617363685810",
+        "created_at": "2026-05-12T22:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054326617363685810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaqYublYty",
+              "end": 36,
+              "expanded_url": "https://x.com/Aloevce/status/2054326617363685810/video/1",
+              "media_key": "7_2054326525051482114",
+              "start": 13,
+              "url": "https://t.co/GaqYublYty"
+            },
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/usagimm208/status/2054297221852762618",
+              "start": 37,
+              "url": "https://t.co/auvj7zBVmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054326617363685810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054297221852762618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❤️嘴👄歪🫤眼👀斜👟❤️ https://t.co/GaqYublYty https://t.co/auvj7zBVmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 797,
+          "like_count": 49675,
+          "listed_count": 4,
+          "media_count": 804,
+          "tweet_count": 12064
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18249,
+          "following_count": 1983,
+          "like_count": 55817,
+          "listed_count": 24,
+          "media_count": 6678,
+          "tweet_count": 23514
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

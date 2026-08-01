@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1999070926575726955",
+    "created_at": "2025-12-11T10:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999070926575726955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789528204207915008",
+          "start": 3,
+          "username": "Yukinyacat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999070926575726955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998989091812360561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yukinyacat: 谁tm许愿丑人都死光光的，刚刚圣诞老人追着我砍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1999070926575726955",
+        "created_at": "2025-12-11T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999070926575726955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789528204207915008",
+              "start": 3,
+              "username": "Yukinyacat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999070926575726955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998989091812360561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yukinyacat: 谁tm许愿丑人都死光光的，刚刚圣诞老人追着我砍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789528204207915008",
+        "conversation_id": "1998989091812360561",
+        "created_at": "2025-12-11T05:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998989091812360561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998989091812360561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1336,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁tm许愿丑人都死光光的，刚刚圣诞老人追着我砍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 768,
+          "like_count": 39031,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 10147
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "不安です",
+        "id": "1789528204207915008",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "𝒴𝓊𝓀𝒾❄️",
+        "pinned_tweet_id": "1996957790280314904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996593283091542016/mp5UT5l-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 119,
+          "like_count": 40550,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 127
+        },
+        "username": "Yukinyacat",
+        "verified": false
+      }
+    ]
+  }
+}

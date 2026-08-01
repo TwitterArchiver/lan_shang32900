@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1952940934687277414",
+    "created_at": "2025-08-06T04:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T05:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952944621006536973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952944621006536973",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952940934687277414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 🙀妈妈我要攒钱约你线下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1952940932355244032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxo9bkxawAA-Fp0.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1952940934687277414",
+        "created_at": "2025-08-06T04:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952944621006536973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952944621006536973",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952940934687277414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 🙀妈妈我要攒钱约你线下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952940932355244032"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1952940934687277414",
+        "created_at": "2025-08-06T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952940934687277414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwRG0KuDct",
+              "end": 32,
+              "expanded_url": "https://x.com/8964zhajipai/status/1952940934687277414/photo/1",
+              "media_key": "3_1952940932355244032",
+              "start": 9,
+              "url": "https://t.co/HwRG0KuDct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952940934687277414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请看置顶条⩌3⩌ https://t.co/HwRG0KuDct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 677,
+          "like_count": 34334,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 8502
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "写点什么好呢",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "1938912306689393036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 79,
+          "like_count": 257,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 391
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

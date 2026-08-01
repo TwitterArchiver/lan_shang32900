@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883177217649528832"
+      ],
+      "media_source_tweet_id": [
+        "1883177220229005560"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1883188526050906562",
+    "created_at": "2025-01-25T16:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883188526050906562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1725932482858827776",
+          "start": 3,
+          "username": "DEATH_zero_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxYsrrVKhL",
+          "end": 40,
+          "expanded_url": "https://x.com/DEATH_zero_/status/1883177220229005560/photo/1",
+          "media_key": "3_1883177217649528832",
+          "start": 17,
+          "url": "https://t.co/NxYsrrVKhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883188526050906562",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883177220229005560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEATH_zero_: https://t.co/NxYsrrVKhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883177217649528832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJjs7Mb0AAMxqJ.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883177217649528832"
+          ],
+          "media_source_tweet_id": [
+            "1883177220229005560"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1883188526050906562",
+        "created_at": "2025-01-25T16:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883188526050906562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1725932482858827776",
+              "start": 3,
+              "username": "DEATH_zero_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxYsrrVKhL",
+              "end": 40,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1883177220229005560/photo/1",
+              "media_key": "3_1883177217649528832",
+              "start": 17,
+              "url": "https://t.co/NxYsrrVKhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883188526050906562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883177220229005560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEATH_zero_: https://t.co/NxYsrrVKhL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883177217649528832"
+          ]
+        },
+        "author_id": "1725932482858827776",
+        "conversation_id": "1883177220229005560",
+        "created_at": "2025-01-25T15:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883177220229005560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxYsrrVKhL",
+              "end": 23,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1883177220229005560/photo/1",
+              "media_key": "3_1883177217649528832",
+              "start": 0,
+              "url": "https://t.co/NxYsrrVKhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883177220229005560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NxYsrrVKhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 638,
+          "like_count": 29519,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 6570
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T17:42:35.000Z",
+        "description": "發點日常，想好好地生活著，就這樣就好了，dark： @HATE_ME_END",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "HATE_ME_END"
+              }
+            ]
+          }
+        },
+        "id": "1725932482858827776",
+        "location": "🔞BLOODY、SELF-HARM、SEX 、GIRLS",
+        "name": "鼠奴",
+        "pinned_tweet_id": "1865658188554813632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845426686013341696/Zt8SX8Yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 167,
+          "like_count": 5478,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1535
+        },
+        "username": "DEATH_zero_",
+        "verified": false
+      }
+    ]
+  }
+}

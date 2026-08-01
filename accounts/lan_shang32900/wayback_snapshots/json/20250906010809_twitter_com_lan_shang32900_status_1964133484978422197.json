@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1960754438899163136"
+      ],
+      "media_source_tweet_id": [
+        "1960832202133909866"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1964133484978422197",
+    "created_at": "2025-09-06T01:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964133484978422197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066673709727895554",
+          "start": 3,
+          "username": "maichitmg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5FHyjLBLN",
+          "end": 41,
+          "expanded_url": "https://x.com/maichitmg/status/1960832202133909866/photo/1",
+          "media_key": "16_1960754438899163136",
+          "start": 18,
+          "url": "https://t.co/z5FHyjLBLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964133484978422197",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960832202133909866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @maichitmg: ∑🐰 https://t.co/z5FHyjLBLN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_1960754438899163136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzX_xg5a4AAYO6s.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzX_xg5a4AAYO6s.mp4"
+          }
+        ],
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960754438899163136"
+          ],
+          "media_source_tweet_id": [
+            "1960832202133909866"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1964133484978422197",
+        "created_at": "2025-09-06T01:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964133484978422197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066673709727895554",
+              "start": 3,
+              "username": "maichitmg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5FHyjLBLN",
+              "end": 41,
+              "expanded_url": "https://x.com/maichitmg/status/1960832202133909866/photo/1",
+              "media_key": "16_1960754438899163136",
+              "start": 18,
+              "url": "https://t.co/z5FHyjLBLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964133484978422197",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960832202133909866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @maichitmg: ∑🐰 https://t.co/z5FHyjLBLN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960754438899163136"
+          ]
+        },
+        "author_id": "1066673709727895554",
+        "conversation_id": "1960832202133909866",
+        "created_at": "2025-08-27T22:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T23:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960832202133909866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5FHyjLBLN",
+              "end": 26,
+              "expanded_url": "https://x.com/maichitmg/status/1960832202133909866/photo/1",
+              "media_key": "16_1960754438899163136",
+              "start": 3,
+              "url": "https://t.co/z5FHyjLBLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960832202133909866",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 34779,
+          "like_count": 2203,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "reply_settings": "following",
+        "text": "∑🐰 https://t.co/z5FHyjLBLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 715,
+          "like_count": 36700,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9315
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-25T12:43:25.000Z",
+        "description": "たまごっちは人生🥚︎︎┊︎かわいいもの好き┊︎🐰FA︎🐶┊︎ 平日中心にお絵描き┊︎\nAny use or reproduction of these illustrations is prohibited.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/S/sticker/2868…",
+                "end": 23,
+                "expanded_url": "https://line.me/S/sticker/28681293/?lang=ja&utm_source=gnsh_stickerDetail",
+                "start": 0,
+                "url": "https://t.co/DdYg1ohjoo"
+              }
+            ]
+          }
+        },
+        "id": "1066673709727895554",
+        "name": "まいち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870946529730818048/opFZmzln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3911,
+          "following_count": 127,
+          "like_count": 4238,
+          "listed_count": 28,
+          "media_count": 1237,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/DdYg1ohjoo",
+        "username": "maichitmg",
+        "verified": false
+      }
+    ]
+  }
+}

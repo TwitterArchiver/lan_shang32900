@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905198200665079808",
+        "3_1905198201701117952"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1905198214908973192",
+    "created_at": "2025-03-27T10:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T11:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905198214908973192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGdxoy3vNm",
+          "end": 67,
+          "expanded_url": "https://x.com/lan_shang32900/status/1905198214908973192/photo/1",
+          "media_key": "3_1905198200665079808",
+          "start": 44,
+          "url": "https://t.co/TGdxoy3vNm"
+        },
+        {
+          "display_url": "pic.x.com/TGdxoy3vNm",
+          "end": 67,
+          "expanded_url": "https://x.com/lan_shang32900/status/1905198214908973192/photo/1",
+          "media_key": "3_1905198201701117952",
+          "start": 44,
+          "url": "https://t.co/TGdxoy3vNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905198214908973192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有个小小的请求，可不可以让我摸一下你比较隐私的地方，就一下下……啊你钱包怎么是空的？！ https://t.co/TGdxoy3vNm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905198214908973192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905198214908973192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905198214908973192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905198200665079808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCfq1lbAAAHgOk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1905198201701117952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCfq5cbsAAC3rl.jpg",
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 659,
+          "like_count": 31465,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 7114
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

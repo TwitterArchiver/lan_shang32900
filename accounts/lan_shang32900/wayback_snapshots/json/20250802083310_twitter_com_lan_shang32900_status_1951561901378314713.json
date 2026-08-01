@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951561897633054720",
+        "3_1951561898530582528"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1951561901378314713",
+    "created_at": "2025-08-02T08:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T09:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951561901378314713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yc0CC3gVqa",
+          "end": 161,
+          "expanded_url": "https://x.com/lan_shang32900/status/1951561901378314713/photo/1",
+          "media_key": "3_1951561897633054720",
+          "start": 138,
+          "url": "https://t.co/Yc0CC3gVqa"
+        },
+        {
+          "display_url": "pic.x.com/Yc0CC3gVqa",
+          "end": 161,
+          "expanded_url": "https://x.com/lan_shang32900/status/1951561901378314713/photo/1",
+          "media_key": "3_1951561898530582528",
+          "start": 138,
+          "url": "https://t.co/Yc0CC3gVqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951561901378314713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我本来是上海人的，出差去南京的时候有个外地人，骗我喝了杯酸酸甜甜红色封杯的饮料。我当时喝完就觉得嗓子眼特别难受，然后他就笑着指着我说这是蜜雪冰城。听到后我恐惧极了不停扣嗓子眼，到站之后去当时医院洗了个胃。什么都晚了，养了十几年的星巴克胃都被毁了。结局就是我的上海户口被开除了 https://t.co/Yc0CC3gVqa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951561901378314713].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951561901378314713",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951561901378314713"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951561897633054720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVXNMGbAAA1UPy.jpg",
+        "width": 1515
+      },
+      {
+        "height": 1736,
+        "media_key": "3_1951561898530582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVXNPcaMAAPAS6.jpg",
+        "width": 1270
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 677,
+          "like_count": 34449,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 8467
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1976741069103808965",
+    "created_at": "2025-10-11T12:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976989449390363094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976989449390363094",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976741069103808965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 这么乖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976741061260460032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G27LhaFbwAAs3ln.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976741061252042752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G27LhaDbUAABwpt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1976741069103808965",
+        "created_at": "2025-10-11T12:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976989449390363094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976989449390363094",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976741069103808965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 这么乖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976741061260460032",
+            "3_1976741061252042752"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1976741069103808965",
+        "created_at": "2025-10-10T20:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976741069103808965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfg7Ff57Cs",
+              "end": 64,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1976741069103808965/photo/1",
+              "media_key": "3_1976741061260460032",
+              "start": 41,
+              "url": "https://t.co/gfg7Ff57Cs"
+            },
+            {
+              "display_url": "pic.x.com/gfg7Ff57Cs",
+              "end": 64,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1976741069103808965/photo/1",
+              "media_key": "3_1976741061252042752",
+              "start": 41,
+              "url": "https://t.co/gfg7Ff57Cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976741069103808965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 923,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱丽丝在我被子上睡觉！\n我说呢怎么迷迷糊糊感觉有一坨什么东西\n柴郡在窝里\n请看吧 https://t.co/gfg7Ff57Cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 773,
+          "like_count": 39186,
+          "listed_count": 4,
+          "media_count": 725,
+          "tweet_count": 10063
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀猫猫推丨🍚推广自辨丨🦜嘤鹉：@SENDOH214丨🪜梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 29,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1976589480468636097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40419,
+          "following_count": 1081,
+          "like_count": 23847,
+          "listed_count": 50,
+          "media_count": 2758,
+          "tweet_count": 31003
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

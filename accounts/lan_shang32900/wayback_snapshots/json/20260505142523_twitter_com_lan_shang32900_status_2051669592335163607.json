@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2051657600169906299",
+    "created_at": "2026-05-05T14:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051669592335163607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "Sprim20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051669592335163607",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051657600169906299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sprim20 摸摸你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2051657600169906299",
+        "created_at": "2026-05-05T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051669592335163607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "Sprim20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051669592335163607",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051657600169906299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sprim20 摸摸你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2051657600169906299",
+        "created_at": "2026-05-05T13:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051657600169906299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051657600169906299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实口口声声说着没朋友，但就算别人主动来找我了，我也不知道聊什么，就算说要交朋友，我也会害怕这的害怕那的，最终又自己躲在一边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 795,
+          "like_count": 48672,
+          "listed_count": 5,
+          "media_count": 799,
+          "tweet_count": 11958
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "你好？你好！（备考中。祝你一切安好）",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "感受第102次心跳",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 454,
+          "like_count": 5201,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 808
+        },
+        "username": "Sprim20",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2042187623800946964",
+    "created_at": "2026-04-09T12:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042220370883936504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        },
+        {
+          "end": 26,
+          "id": "1862933126466666496",
+          "start": 12,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042220370883936504",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042187623800946964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 @moremoreagain 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2042187615731122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdO0QhbAAA6Kzr.jpg",
+        "width": 1220
+      },
+      {
+        "height": 725,
+        "media_key": "3_2042187618398650368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdO0adaQAA2rst.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2042187623800946964",
+        "created_at": "2026-04-09T12:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042220370883936504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            },
+            {
+              "end": 26,
+              "id": "1862933126466666496",
+              "start": 12,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220370883936504",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042187623800946964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 @moremoreagain 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042187615731122176",
+            "3_2042187618398650368"
+          ]
+        },
+        "author_id": "2004977573332492288",
+        "conversation_id": "2042187623800946964",
+        "created_at": "2026-04-09T10:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042187623800946964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4kdFAyO97",
+              "end": 34,
+              "expanded_url": "https://x.com/gzi1068795/status/2042187623800946964/photo/1",
+              "media_key": "3_2042187615731122176",
+              "start": 11,
+              "url": "https://t.co/l4kdFAyO97"
+            },
+            {
+              "display_url": "pic.x.com/l4kdFAyO97",
+              "end": 34,
+              "expanded_url": "https://x.com/gzi1068795/status/2042187623800946964/photo/1",
+              "media_key": "3_2042187618398650368",
+              "start": 11,
+              "url": "https://t.co/l4kdFAyO97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042187623800946964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1792,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我错了π_π，别找我 https://t.co/l4kdFAyO97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 795,
+          "like_count": 43033,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 10886
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/没更新应该就是被举报封了/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 339,
+          "like_count": 17747,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 8606
+        },
+        "username": "gzi1068795",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜非自愿圣人",
+        "id": "1862933126466666496",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1080,
+          "like_count": 72815,
+          "listed_count": 5,
+          "media_count": 1537,
+          "tweet_count": 33983
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920394600960647314",
+    "created_at": "2025-05-09T07:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920739547509362913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920739547509362913",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920394600960647314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 小棉花糖出击"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14567,
+        "height": 720,
+        "media_key": "7_1920394550142521344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920394550142521344/pu/img/tZ_ezS6GDqg4keO0.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920394550142521344/pu/vid/avc1/480x270/t7hwyqXsj8aYSwmY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920394550142521344/pu/vid/avc1/640x360/Y4ORxxmco-9tQkuW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920394550142521344/pu/vid/avc1/1280x720/tFE2lBgRD-TonDKT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920394550142521344/pu/pl/5Hp6kNCiYrHtW-fk.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920394552839454720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqacq86XQAApV0K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920394600960647314",
+        "created_at": "2025-05-09T07:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920739547509362913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920739547509362913",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920394600960647314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 小棉花糖出击"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920394550142521344",
+            "3_1920394552839454720"
+          ]
+        },
+        "author_id": "1878356855975723008",
+        "conversation_id": "1920394600960647314",
+        "created_at": "2025-05-08T08:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T09:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920394600960647314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/akJveqW90M",
+              "end": 31,
+              "expanded_url": "https://x.com/ugglasquest/status/1920394600960647314/video/1",
+              "media_key": "7_1920394550142521344",
+              "start": 8,
+              "url": "https://t.co/akJveqW90M"
+            },
+            {
+              "display_url": "pic.x.com/akJveqW90M",
+              "end": 31,
+              "expanded_url": "https://x.com/ugglasquest/status/1920394600960647314/video/1",
+              "media_key": "3_1920394552839454720",
+              "start": 8,
+              "url": "https://t.co/akJveqW90M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920394600960647314",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "puppy🐶🐶 https://t.co/akJveqW90M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 650,
+          "like_count": 31433,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 7271
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  正在学习如何当一个人类  偶尔会发一些自己的绘画作品   抑郁/强迫/焦虑障碍/人际交往障碍/适应障碍/边缘型人格障碍/依赖型人格障碍  ₍˄·͈༝·͈˄*₎◞ ̑̑悲哀的女同性恋",
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugglas ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906541696726470656/FGjk3Zfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 67,
+          "like_count": 7196,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1096
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

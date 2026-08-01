@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038921636129460224"
+      ],
+      "media_source_tweet_id": [
+        "2038921645965119518"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "2039682164300865594",
+    "created_at": "2026-04-02T12:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039682164300865594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1331474151912005632",
+          "start": 3,
+          "username": "whois77bigking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGcIm8DJbF",
+          "end": 54,
+          "expanded_url": "https://x.com/whois77bigking/status/2038921645965119518/photo/1",
+          "media_key": "3_2038921636129460224",
+          "start": 31,
+          "url": "https://t.co/KGcIm8DJbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039682164300865594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038921645965119518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whois77bigking: 我哭诉belike: https://t.co/KGcIm8DJbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_2038921636129460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu0bOZa0AA13uF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038921636129460224"
+          ],
+          "media_source_tweet_id": [
+            "2038921645965119518"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2039682164300865594",
+        "created_at": "2026-04-02T12:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039682164300865594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1331474151912005632",
+              "start": 3,
+              "username": "whois77bigking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGcIm8DJbF",
+              "end": 54,
+              "expanded_url": "https://x.com/whois77bigking/status/2038921645965119518/photo/1",
+              "media_key": "3_2038921636129460224",
+              "start": 31,
+              "url": "https://t.co/KGcIm8DJbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039682164300865594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038921645965119518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whois77bigking: 我哭诉belike: https://t.co/KGcIm8DJbF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038921636129460224"
+          ]
+        },
+        "author_id": "1331474151912005632",
+        "conversation_id": "2038921645965119518",
+        "created_at": "2026-03-31T10:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038921645965119518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGcIm8DJbF",
+              "end": 34,
+              "expanded_url": "https://x.com/whois77bigking/status/2038921645965119518/photo/1",
+              "media_key": "3_2038921636129460224",
+              "start": 11,
+              "url": "https://t.co/KGcIm8DJbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038921645965119518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 175864,
+          "like_count": 4456,
+          "quote_count": 18,
+          "reply_count": 130,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "我哭诉belike: https://t.co/KGcIm8DJbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 794,
+          "like_count": 41291,
+          "listed_count": 3,
+          "media_count": 760,
+          "tweet_count": 10578
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T05:46:04.000Z",
+        "description": "正在准备回🇦🇺 | Good Luck, bb! ｜只是怕亲手将我的真心葬送",
+        "id": "1331474151912005632",
+        "location": "Saturn🪐",
+        "name": "77",
+        "pinned_tweet_id": "2019807042710724891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018431164525187072/gzkbWoJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 512,
+          "like_count": 39531,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 3316
+        },
+        "username": "whois77bigking",
+        "verified": false
+      }
+    ]
+  }
+}

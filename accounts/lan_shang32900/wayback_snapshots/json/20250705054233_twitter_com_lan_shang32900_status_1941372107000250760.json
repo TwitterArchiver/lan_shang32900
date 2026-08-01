@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941372104328507392"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1941372107000250760",
+    "created_at": "2025-07-05T05:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T06:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941372107000250760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6nITotldV6",
+          "end": 58,
+          "expanded_url": "https://x.com/lan_shang32900/status/1941372107000250760/photo/1",
+          "media_key": "3_1941372104328507392",
+          "start": 35,
+          "url": "https://t.co/6nITotldV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941372107000250760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你讨厌的并不是某种文化及文化符号，只是讨厌它们背后所代表着的某类人群 https://t.co/6nITotldV6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941372107000250760].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941372107000250760",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941372107000250760"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941372104328507392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvEjpJ9acAAuh7Y.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 655,
+          "like_count": 32700,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 7831
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939694095657775104"
+      ],
+      "media_source_tweet_id": [
+        "1939694104100868431"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939707551396041095",
+    "created_at": "2025-06-30T15:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T16:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939707551396041095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557450235621695488",
+          "start": 3,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UAmyvPmrYd",
+          "end": 47,
+          "expanded_url": "https://x.com/KBDYD555/status/1939694104100868431/photo/1",
+          "media_key": "3_1939694095657775104",
+          "start": 24,
+          "url": "https://t.co/UAmyvPmrYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939707551396041095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939694104100868431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBDYD555: 双彩虹🌈传递好运！ https://t.co/UAmyvPmrYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939694095657775104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GustgMiasAAcZDE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939694095657775104"
+          ],
+          "media_source_tweet_id": [
+            "1939694104100868431"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939707551396041095",
+        "created_at": "2025-06-30T15:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939707551396041095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557450235621695488",
+              "start": 3,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAmyvPmrYd",
+              "end": 47,
+              "expanded_url": "https://x.com/KBDYD555/status/1939694104100868431/photo/1",
+              "media_key": "3_1939694095657775104",
+              "start": 24,
+              "url": "https://t.co/UAmyvPmrYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939707551396041095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939694104100868431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KBDYD555: 双彩虹🌈传递好运！ https://t.co/UAmyvPmrYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939694095657775104"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1939694104100868431",
+        "created_at": "2025-06-30T14:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939694104100868431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAmyvPmrYd",
+              "end": 33,
+              "expanded_url": "https://x.com/KBDYD555/status/1939694104100868431/photo/1",
+              "media_key": "3_1939694095657775104",
+              "start": 10,
+              "url": "https://t.co/UAmyvPmrYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939694104100868431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "双彩虹🌈传递好运！ https://t.co/UAmyvPmrYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 655,
+          "like_count": 32441,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7726
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 215,
+          "like_count": 912,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 1214
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

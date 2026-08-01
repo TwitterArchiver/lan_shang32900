@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2047890455669731535",
+    "created_at": "2026-04-25T08:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047962853785878780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729529432254128128",
+          "start": 0,
+          "username": "huy13611X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047962853785878780",
+    "in_reply_to_user_id": "1729529432254128128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047917529113460907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huy13611X 什么一股味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2047890455669731535",
+        "created_at": "2026-04-25T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047962853785878780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729529432254128128",
+              "start": 0,
+              "username": "huy13611X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047962853785878780",
+        "in_reply_to_user_id": "1729529432254128128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047917529113460907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huy13611X 什么一股味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729529432254128128",
+        "conversation_id": "2047890455669731535",
+        "created_at": "2026-04-25T05:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047917529113460907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047917529113460907",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047890455669731535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 病弱地雷妹小豆芽：一股味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 794,
+          "like_count": 46889,
+          "listed_count": 3,
+          "media_count": 793,
+          "tweet_count": 11628
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T15:55:53.000Z",
+        "description": "正在寻找视奸对象中.....",
+        "id": "1729529432254128128",
+        "location": "江苏",
+        "name": "弧悠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941507363338428416/_eiAS0yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 705,
+          "like_count": 7651,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2042
+        },
+        "username": "huy13611X",
+        "verified": false
+      }
+    ]
+  }
+}

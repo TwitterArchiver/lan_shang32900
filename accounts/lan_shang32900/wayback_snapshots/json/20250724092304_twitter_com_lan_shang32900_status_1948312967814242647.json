@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1948309398960685204",
+    "created_at": "2025-07-24T09:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T10:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948312967814242647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678401663797714949",
+          "start": 0,
+          "username": "kumi_kumi_0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948312967814242647",
+    "in_reply_to_user_id": "1678401663797714949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948310487034462208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumi_kumi_0_0 太奇怪了……會有香味嗎，什麼樣的味道啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1948309398960685204",
+        "created_at": "2025-07-24T09:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948312967814242647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678401663797714949",
+              "start": 0,
+              "username": "kumi_kumi_0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948312967814242647",
+        "in_reply_to_user_id": "1678401663797714949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948310487034462208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumi_kumi_0_0 太奇怪了……會有香味嗎，什麼樣的味道啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678401663797714949",
+        "conversation_id": "1948309398960685204",
+        "created_at": "2025-07-24T09:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948310487034462208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948310487034462208",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948310214039437632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 他挺實用的www\n是香皂 但真的好好笑w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 669,
+          "like_count": 33912,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 8268
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T13:52:08.000Z",
+        "description": "這裡是くみ！想要在這裡認識很多萌妹紙( o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ) 純綠 ○ 座標📍台北、新北 (ू•‧̫•ू⑅) ⑅ 聊天皆需付費 門檻500 僅提供詢問 門檻不退 抖內當自願贈與",
+        "id": "1678401663797714949",
+        "location": "新北市, 台灣",
+        "name": "くみ。",
+        "pinned_tweet_id": "1915400743814906335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930944534399344640/3hiHpZPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 89,
+          "like_count": 4330,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1199
+        },
+        "username": "kumi_kumi_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

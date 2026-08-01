@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962175158288093275",
+    "created_at": "2025-08-31T15:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T16:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962175158288093275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1644336219751583747",
+          "start": 3,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962175158288093275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962047037861658839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banban4444886: 有钱的捧个钱场，没钱的去偷去抢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962175158288093275",
+        "created_at": "2025-08-31T15:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962175158288093275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1644336219751583747",
+              "start": 3,
+              "username": "banban4444886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962175158288093275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962047037861658839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @banban4444886: 有钱的捧个钱场，没钱的去偷去抢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644336219751583747",
+        "conversation_id": "1962047037861658839",
+        "created_at": "2025-08-31T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962047037861658839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962047037861658839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有钱的捧个钱场，没钱的去偷去抢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 708,
+          "like_count": 36204,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 9133
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "",
+        "id": "1644336219751583747",
+        "name": "日本继女",
+        "pinned_tweet_id": "1960290483365908688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960982728590950400/-cT_tdyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 73,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 202
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

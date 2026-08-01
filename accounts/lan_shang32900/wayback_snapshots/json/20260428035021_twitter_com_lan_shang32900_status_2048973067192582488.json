@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2048825215229321453",
+    "created_at": "2026-04-28T03:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048973067192582488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827754267551395840",
+          "start": 0,
+          "username": "MosaicIceRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048973067192582488",
+    "in_reply_to_user_id": "1827754267551395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048825215229321453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosaicIceRoll 像那种豆沙色的小甜点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048825206538743808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7jq5KbsAAS75Y.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2048825215229321453",
+        "created_at": "2026-04-28T03:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048973067192582488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827754267551395840",
+              "start": 0,
+              "username": "MosaicIceRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048973067192582488",
+        "in_reply_to_user_id": "1827754267551395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048825215229321453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosaicIceRoll 像那种豆沙色的小甜点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048825206538743808"
+          ]
+        },
+        "author_id": "1827754267551395840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048825215229321453",
+        "created_at": "2026-04-27T18:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048825215229321453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bF4W3QZCc",
+              "end": 75,
+              "expanded_url": "https://x.com/MosaicIceRoll/status/2048825215229321453/photo/1",
+              "media_key": "3_2048825206538743808",
+              "start": 52,
+              "url": "https://t.co/3bF4W3QZCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048825215229321453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特效化妆，假的，没有人受伤，没有人的血是灰色的，骗人的，吓人用的，健康的内容，影视剧妆容，假的假的假的 https://t.co/3bF4W3QZCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 795,
+          "like_count": 47458,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 11734
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "shtwt/overdosetwt\n想要和同类互动互fo...\n我很喜欢装熟如果冒犯到我先跪了or2",
+        "id": "1827754267551395840",
+        "name": "_(:3」∠)_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 139,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 273
+        },
+        "username": "MosaicIceRoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965374515497886182",
+    "created_at": "2025-09-10T04:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965632816844341674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672989064985714695",
+          "start": 0,
+          "username": "kokomiovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965632816844341674",
+    "in_reply_to_user_id": "1672989064985714695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965374515497886182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokomiovo33 我以前也是想著女朋友的，可是關係變成沒關係TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965374515497886182",
+        "created_at": "2025-09-10T04:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965632816844341674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672989064985714695",
+              "start": 0,
+              "username": "kokomiovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965632816844341674",
+        "in_reply_to_user_id": "1672989064985714695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965374515497886182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokomiovo33 我以前也是想著女朋友的，可是關係變成沒關係TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672989064985714695",
+        "conversation_id": "1965374515497886182",
+        "created_at": "2025-09-09T11:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965374515497886182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965374515497886182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12521,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没招了，我真是个老实本分的小女生，我手冲都是想着我男朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 724,
+          "like_count": 37097,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 9437
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T15:24:28.000Z",
+        "description": "主页男朋友含量极高/小号：@kokomi_orz ‼️‼️不玩电报‼️‼️‼️置顶推广自辨‼️‼️‼️自用vpn：https://t.co/XmALWSICVr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "kokomi_orz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 80,
+                "expanded_url": "https://so.sulink.life/#/register?code=10G6JBh5",
+                "start": 57,
+                "url": "https://t.co/XmALWSICVr"
+              }
+            ]
+          }
+        },
+        "id": "1672989064985714695",
+        "location": "有对象 不过门槛，不拍黄图，除了互关宝宝，不加联系方式",
+        "name": "小睡补药睡",
+        "pinned_tweet_id": "1963967669310500922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888008977717383168/KgIFaKDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38329,
+          "following_count": 146,
+          "like_count": 4062,
+          "listed_count": 63,
+          "media_count": 63,
+          "tweet_count": 2942
+        },
+        "username": "kokomiovo33",
+        "verified": false
+      }
+    ]
+  }
+}

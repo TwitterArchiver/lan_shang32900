@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2042924799052386420",
+    "created_at": "2026-04-11T13:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042957185265938895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571735057332592640",
+          "start": 0,
+          "username": "wormvirus812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042957185265938895",
+    "in_reply_to_user_id": "1571735057332592640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042956374901166255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wormvirus812 也太萌了……我为什么紫色掉色出来就是黄的绿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2042924799052386420",
+        "created_at": "2026-04-11T13:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042957185265938895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571735057332592640",
+              "start": 0,
+              "username": "wormvirus812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042957185265938895",
+        "in_reply_to_user_id": "1571735057332592640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042956374901166255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wormvirus812 也太萌了……我为什么紫色掉色出来就是黄的绿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571735057332592640",
+        "conversation_id": "2042924799052386420",
+        "created_at": "2026-04-11T13:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042956374901166255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042956374901166255",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042956094461587567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 应该是紫色掉色掉出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 799,
+          "like_count": 43439,
+          "listed_count": 3,
+          "media_count": 778,
+          "tweet_count": 10953
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "我是柏一 /我妈妈在此:@d3vilsadvocate3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "d3vilsadvocate3"
+              }
+            ]
+          }
+        },
+        "id": "1571735057332592640",
+        "location": "我的饭呢",
+        "name": "百亿补贴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609754581991424/YVFb0G9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 480,
+          "like_count": 8484,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 5377
+        },
+        "username": "wormvirus812",
+        "verified": false
+      }
+    ]
+  }
+}

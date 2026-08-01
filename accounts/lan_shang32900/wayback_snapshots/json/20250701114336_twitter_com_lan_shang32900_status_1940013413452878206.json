@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939957594476494848",
+        "3_1939957594820378625",
+        "3_1939957595164258304",
+        "3_1939957595202101248"
+      ],
+      "media_source_tweet_id": [
+        "1939957603750003033",
+        "1939957603750003033",
+        "1939957603750003033",
+        "1939957603750003033"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "1940013413452878206",
+    "created_at": "2025-07-01T11:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940013413452878206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1725932482858827776",
+          "start": 3,
+          "username": "DEATH_zero_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7vcYAGTmQ",
+          "end": 109,
+          "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+          "media_key": "3_1939957594476494848",
+          "start": 86,
+          "url": "https://t.co/J7vcYAGTmQ"
+        },
+        {
+          "display_url": "pic.x.com/J7vcYAGTmQ",
+          "end": 109,
+          "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+          "media_key": "3_1939957594820378625",
+          "start": 86,
+          "url": "https://t.co/J7vcYAGTmQ"
+        },
+        {
+          "display_url": "pic.x.com/J7vcYAGTmQ",
+          "end": 109,
+          "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+          "media_key": "3_1939957595164258304",
+          "start": 86,
+          "url": "https://t.co/J7vcYAGTmQ"
+        },
+        {
+          "display_url": "pic.x.com/J7vcYAGTmQ",
+          "end": 109,
+          "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+          "media_key": "3_1939957595202101248",
+          "start": 86,
+          "url": "https://t.co/J7vcYAGTmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940013413452878206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939957603750003033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEATH_zero_: 如果可以麻烦请支援我的生活...\np4本人，本人♂\n没有门槛，有需要可以可以约我的第五人格陪玩或者对我绘画作品感兴趣也可以约我的绘画约稿 https://t.co/J7vcYAGTmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_1939957594476494848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwdJ2IXwAA769-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 999,
+        "media_key": "3_1939957594820378625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwdJ3aXAAE0MOr.jpg",
+        "width": 1120
+      },
+      {
+        "height": 356,
+        "media_key": "3_1939957595164258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwdJ4sWMAAfsLE.jpg",
+        "width": 245
+      },
+      {
+        "height": 1032,
+        "media_key": "3_1939957595202101248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwdJ41XoAAg_IL.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939957594476494848",
+            "3_1939957594820378625",
+            "3_1939957595164258304",
+            "3_1939957595202101248"
+          ],
+          "media_source_tweet_id": [
+            "1939957603750003033",
+            "1939957603750003033",
+            "1939957603750003033",
+            "1939957603750003033"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1940013413452878206",
+        "created_at": "2025-07-01T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940013413452878206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1725932482858827776",
+              "start": 3,
+              "username": "DEATH_zero_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 109,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957594476494848",
+              "start": 86,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 109,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957594820378625",
+              "start": 86,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 109,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957595164258304",
+              "start": 86,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 109,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957595202101248",
+              "start": 86,
+              "url": "https://t.co/J7vcYAGTmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940013413452878206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939957603750003033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEATH_zero_: 如果可以麻烦请支援我的生活...\np4本人，本人♂\n没有门槛，有需要可以可以约我的第五人格陪玩或者对我绘画作品感兴趣也可以约我的绘画约稿 https://t.co/J7vcYAGTmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939957594476494848",
+            "3_1939957594820378625",
+            "3_1939957595164258304",
+            "3_1939957595202101248"
+          ]
+        },
+        "author_id": "1725932482858827776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1939957603750003033",
+        "created_at": "2025-07-01T08:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939957603750003033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 92,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957594476494848",
+              "start": 69,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 92,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957594820378625",
+              "start": 69,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 92,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957595164258304",
+              "start": 69,
+              "url": "https://t.co/J7vcYAGTmQ"
+            },
+            {
+              "display_url": "pic.x.com/J7vcYAGTmQ",
+              "end": 92,
+              "expanded_url": "https://x.com/DEATH_zero_/status/1939957603750003033/photo/1",
+              "media_key": "3_1939957595202101248",
+              "start": 69,
+              "url": "https://t.co/J7vcYAGTmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939957603750003033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果可以麻烦请支援我的生活...\np4本人，本人♂\n没有门槛，有需要可以可以约我的第五人格陪玩或者对我绘画作品感兴趣也可以约我的绘画约稿 https://t.co/J7vcYAGTmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 657,
+          "like_count": 32521,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 7753
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T17:42:35.000Z",
+        "description": "SULA。\n卖号：自带价私信来",
+        "id": "1725932482858827776",
+        "location": "RAT_SLAVE",
+        "name": "鼠_奴",
+        "pinned_tweet_id": "1939957603750003033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928765477414907905/RxuFIc5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 175,
+          "like_count": 9913,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2694
+        },
+        "username": "DEATH_zero_",
+        "verified": false
+      }
+    ]
+  }
+}

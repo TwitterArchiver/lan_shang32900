@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920737482196611072"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920737485396533530",
+    "created_at": "2025-05-09T07:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920737485396533530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pg6ggOpOf",
+          "end": 34,
+          "expanded_url": "https://x.com/lan_shang32900/status/1920737485396533530/photo/1",
+          "media_key": "3_1920737482196611072",
+          "start": 11,
+          "url": "https://t.co/6pg6ggOpOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920737485396533530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说怎么脖子上暖暖的 https://t.co/6pg6ggOpOf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920737485396533530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920737485396533530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920737485396533530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920737482196611072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfUkEUbcAAnKTe.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 649,
+          "like_count": 31413,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 7265
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

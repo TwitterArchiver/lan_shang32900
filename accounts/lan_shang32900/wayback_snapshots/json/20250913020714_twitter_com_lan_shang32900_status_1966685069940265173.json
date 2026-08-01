@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966502236789297267",
+    "created_at": "2025-09-13T02:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966685069940265173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707366440117084160",
+          "start": 0,
+          "username": "liu_ju50515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966685069940265173",
+    "in_reply_to_user_id": "1707366440117084160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966502236789297267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_ju50515 饭包吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1966502227524403200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0prW2GbQAA7PE8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966502227541123072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0prW2KaYAA984l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966502236789297267",
+        "created_at": "2025-09-13T02:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966685069940265173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707366440117084160",
+              "start": 0,
+              "username": "liu_ju50515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966685069940265173",
+        "in_reply_to_user_id": "1707366440117084160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966502236789297267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_ju50515 饭包吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966502227524403200",
+            "3_1966502227541123072"
+          ]
+        },
+        "author_id": "1707366440117084160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966502236789297267",
+        "created_at": "2025-09-12T14:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966502236789297267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pl2lcMuc1M",
+              "end": 30,
+              "expanded_url": "https://x.com/liu_ju50515/status/1966502236789297267/photo/1",
+              "media_key": "3_1966502227524403200",
+              "start": 7,
+              "url": "https://t.co/pl2lcMuc1M"
+            },
+            {
+              "display_url": "pic.x.com/pl2lcMuc1M",
+              "end": 30,
+              "expanded_url": "https://x.com/liu_ju50515/status/1966502236789297267/photo/1",
+              "media_key": "3_1966502227541123072",
+              "start": 7,
+              "url": "https://t.co/pl2lcMuc1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966502236789297267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级难吃。。 https://t.co/pl2lcMuc1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 731,
+          "like_count": 37544,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9592
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T12:07:59.000Z",
+        "description": "仿佛寂静黑夜里闪耀的星，无论我们身在何处都能认出彼此",
+        "id": "1707366440117084160",
+        "location": "05/坐標上海/双向/重度焦慮/od/自殘/歡迎互關入門檻",
+        "name": "橘瑠衣",
+        "pinned_tweet_id": "1802888628089352279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931281724153221120/oZ-FiDgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 448,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1282
+        },
+        "username": "liu_ju50515",
+        "verified": false
+      }
+    ]
+  }
+}

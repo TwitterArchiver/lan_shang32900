@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959595001870258552",
+    "created_at": "2025-08-25T06:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959865021741285379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1649048255219769344",
+          "start": 0,
+          "username": "Shi_Jie_Hui_Mie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959865021741285379",
+    "in_reply_to_user_id": "1649048255219769344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959595001870258552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shi_Jie_Hui_Mie 不会的，一定还有其他办法的宝宝……\n(つД`)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959595001870258552",
+        "created_at": "2025-08-25T06:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959865021741285379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649048255219769344",
+              "start": 0,
+              "username": "Shi_Jie_Hui_Mie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959865021741285379",
+        "in_reply_to_user_id": "1649048255219769344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959595001870258552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shi_Jie_Hui_Mie 不会的，一定还有其他办法的宝宝……\n(つД`)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649048255219769344",
+        "conversation_id": "1959595001870258552",
+        "created_at": "2025-08-24T12:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959595001870258552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959595001870258552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结果只有我死了才是解决方案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 704,
+          "like_count": 35604,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 8918
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T13:52:05.000Z",
+        "description": "There should be a religion for those who suffered but never stopped trying to love…🧬Confessional🧬↓ (中/en/fr)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_shouten_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_shouten_",
+                "start": 0,
+                "url": "https://t.co/TgMDlTxOCx"
+              }
+            ]
+          }
+        },
+        "id": "1649048255219769344",
+        "location": "天使飞越那无尽宇宙",
+        "name": "✝超天教法区主教✝",
+        "pinned_tweet_id": "1805151057334473111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805135526653001728/Pf-5qglG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 370,
+          "like_count": 28759,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 4793
+        },
+        "url": "https://t.co/TgMDlTxOCx",
+        "username": "Shi_Jie_Hui_Mie",
+        "verified": false
+      }
+    ]
+  }
+}

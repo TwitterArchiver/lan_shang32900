@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937101795056378125",
+    "created_at": "2025-06-25T03:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937715074548007206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678401663797714949",
+          "start": 0,
+          "username": "kumi_kumi_0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937715074548007206",
+    "in_reply_to_user_id": "1678401663797714949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937463652434739448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumi_kumi_0_0 好！谢谢你宝宝呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937101795056378125",
+        "created_at": "2025-06-25T03:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937715074548007206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678401663797714949",
+              "start": 0,
+              "username": "kumi_kumi_0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937715074548007206",
+        "in_reply_to_user_id": "1678401663797714949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937463652434739448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumi_kumi_0_0 好！谢谢你宝宝呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678401663797714949",
+        "conversation_id": "1937101795056378125",
+        "created_at": "2025-06-24T10:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937463652434739448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937463652434739448",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937101795056378125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 抱一個！會變好的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 647,
+          "like_count": 32071,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 7632
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T13:52:08.000Z",
+        "description": "這裡是くみ！想要在這裡認識很多萌妹紙( o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ) 純綠 ○ 座標📍台北、新北 (ू•‧̫•ू⑅) ⑅ 聊天皆需付費 門檻500 僅提供詢問 門檻不退 抖內當自願贈與",
+        "id": "1678401663797714949",
+        "location": "新北市, 台灣",
+        "name": "くみ。",
+        "pinned_tweet_id": "1915400743814906335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930944534399344640/3hiHpZPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 79,
+          "like_count": 3458,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1012
+        },
+        "username": "kumi_kumi_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992146827538497536"
+      ],
+      "media_source_tweet_id": [
+        "1992146834656207030"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1994963478260715539",
+    "created_at": "2025-11-30T02:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994963478260715539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YPMJnwF3LU",
+          "end": 48,
+          "expanded_url": "https://x.com/kanakosama0223f/status/1992146834656207030/photo/1",
+          "media_key": "3_1992146827538497536",
+          "start": 25,
+          "url": "https://t.co/YPMJnwF3LU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994963478260715539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992146834656207030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 和tt https://t.co/YPMJnwF3LU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1992146827538497536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WG_BvagAAxc4S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992146827538497536"
+          ],
+          "media_source_tweet_id": [
+            "1992146834656207030"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1994963478260715539",
+        "created_at": "2025-11-30T02:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994963478260715539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPMJnwF3LU",
+              "end": 48,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992146834656207030/photo/1",
+              "media_key": "3_1992146827538497536",
+              "start": 25,
+              "url": "https://t.co/YPMJnwF3LU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994963478260715539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992146834656207030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 和tt https://t.co/YPMJnwF3LU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992146827538497536"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "1992146834656207030",
+        "created_at": "2025-11-22T08:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992146834656207030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPMJnwF3LU",
+              "end": 27,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992146834656207030/photo/1",
+              "media_key": "3_1992146827538497536",
+              "start": 4,
+              "url": "https://t.co/YPMJnwF3LU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992146834656207030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5401,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和tt https://t.co/YPMJnwF3LU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 760,
+          "like_count": 39274,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 10132
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "kanako0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984204969285939200/35wL_0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14336,
+          "following_count": 96,
+          "like_count": 6215,
+          "listed_count": 19,
+          "media_count": 662,
+          "tweet_count": 4144
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946115774223106213",
+    "created_at": "2025-07-18T07:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T08:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946115774223106213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861945502935474176",
+          "start": 3,
+          "username": "LuenbyVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946115774223106213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945643136711364675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuenbyVA: 废物才用斐济杯，我们真男人都是用绞肉机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946115774223106213",
+        "created_at": "2025-07-18T07:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946115774223106213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861945502935474176",
+              "start": 3,
+              "username": "LuenbyVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946115774223106213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945643136711364675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuenbyVA: 废物才用斐济杯，我们真男人都是用绞肉机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861945502935474176",
+        "conversation_id": "1945643136711364675",
+        "created_at": "2025-07-17T00:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T01:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945643136711364675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945643136711364675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 96720,
+          "like_count": 1028,
+          "quote_count": 20,
+          "reply_count": 213,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "废物才用斐济杯，我们真男人都是用绞肉机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 662,
+          "like_count": 33437,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 8079
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:29:44.000Z",
+        "description": "05/当qq空间刷/清水/恶心人的别来沾边/中文/English/1i略大于4i/无性/又当又立/无性/有时左右脑互搏\n\nI LOVE ryo Yamada💙💙💙\n\n互fo",
+        "id": "1861945502935474176",
+        "location": "With Ryo Yamada",
+        "name": "7",
+        "pinned_tweet_id": "1945914152440218104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942998492277878784/lqqk2IXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 332,
+          "like_count": 4009,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 496
+        },
+        "username": "LuenbyVA",
+        "verified": false
+      }
+    ]
+  }
+}

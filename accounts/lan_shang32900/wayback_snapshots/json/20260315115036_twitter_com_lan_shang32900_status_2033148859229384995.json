@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2033131268716855804",
+    "created_at": "2026-03-15T11:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033148859229384995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "Chihuahua0202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033148859229384995",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033131268716855804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihuahua0202 いい子に見える(ˆ꜆ .  ̫ . )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2033131259560677376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDciG8vbUAAmKCw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2033131268716855804",
+        "created_at": "2026-03-15T11:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033148859229384995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "Chihuahua0202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033148859229384995",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033131268716855804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihuahua0202 いい子に見える(ˆ꜆ .  ̫ . )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033131259560677376"
+          ]
+        },
+        "author_id": "1750134402464788481",
+        "conversation_id": "2033131268716855804",
+        "created_at": "2026-03-15T10:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033131268716855804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPSrobLI6m",
+              "end": 38,
+              "expanded_url": "https://x.com/Chihuahua0202/status/2033131268716855804/photo/1",
+              "media_key": "3_2033131259560677376",
+              "start": 15,
+              "url": "https://t.co/WPSrobLI6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033131268716855804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顔ぶニュってなってるのかわち https://t.co/WPSrobLI6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 758,
+          "like_count": 39285,
+          "listed_count": 3,
+          "media_count": 740,
+          "tweet_count": 10204
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "チワワ🔞♂ 裏@necodog2222 🎮アークナイツエンドフィールド バウンティラッシュ zeta マシュマロhttps://t.co/0UO0Fdini1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "necodog2222"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "end": 79,
+                "expanded_url": "https://marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "start": 56,
+                "url": "https://t.co/0UO0Fdini1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeta-ai.io/@MistyLinen506…",
+                "end": 23,
+                "expanded_url": "https://zeta-ai.io/@MistyLinen5069?share_id=3gyfayra",
+                "start": 0,
+                "url": "https://t.co/vkGyf8l4IF"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "ゴミ箱",
+        "name": "チワワ",
+        "pinned_tweet_id": "2011762211161850151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025763806409101312/Qkr4WwDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1113,
+          "like_count": 134044,
+          "listed_count": 1,
+          "media_count": 2707,
+          "tweet_count": 59976
+        },
+        "url": "https://t.co/vkGyf8l4IF",
+        "username": "Chihuahua0202",
+        "verified": false
+      }
+    ]
+  }
+}

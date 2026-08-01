@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904778921159385089",
+        "3_1904778919754244096"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1904778925169139915",
+    "created_at": "2025-03-26T06:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T07:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904778925169139915"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "男娘"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ra9bawDo2i",
+          "end": 46,
+          "expanded_url": "https://x.com/lan_shang32900/status/1904778925169139915/photo/1",
+          "media_key": "3_1904778921159385089",
+          "start": 23,
+          "url": "https://t.co/Ra9bawDo2i"
+        },
+        {
+          "display_url": "pic.x.com/Ra9bawDo2i",
+          "end": 46,
+          "expanded_url": "https://x.com/lan_shang32900/status/1904778925169139915/photo/1",
+          "media_key": "3_1904778919754244096",
+          "start": 23,
+          "url": "https://t.co/Ra9bawDo2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904778925169139915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听说你从十岁就开始跨性别？ #男娘  ＃门槛 https://t.co/Ra9bawDo2i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904778925169139915].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904778925169139915",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904778925169139915"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1904778921159385089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8iVjtbYAEml4A.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904778919754244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8iVeeaoAAkNvR.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 661,
+          "like_count": 31445,
+          "listed_count": 0,
+          "media_count": 526,
+          "tweet_count": 7108
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

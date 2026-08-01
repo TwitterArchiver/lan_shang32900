@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960025126671417375",
+    "created_at": "2025-08-26T07:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T08:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960239403684773912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960239403684773912",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960025126671417375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 乖死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5371,
+        "height": 720,
+        "media_key": "13_1960025062003949569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960025062003949569/img/FDA5DsNl0ghGjUt6.jpg",
+        "public_metrics": {
+          "view_count": 144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960025062003949569/vid/avc1/480x270/mvQ1kK75PPRyEB39.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960025062003949569/vid/avc1/640x360/tGn2Z2PSzKBdQN4T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960025062003949569/vid/avc1/1280x720/00HilOz0PAWYAMHy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960025062003949569/pl/jg5A5VYSTGmgkhEt.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960025126671417375",
+        "created_at": "2025-08-26T07:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960239403684773912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960239403684773912",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960025126671417375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 乖死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960025062003949569"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "1960025126671417375",
+        "created_at": "2025-08-25T17:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960025126671417375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqYg0Cdc8v",
+              "end": 28,
+              "expanded_url": "https://x.com/Glagagapot/status/1960025126671417375/video/1",
+              "media_key": "13_1960025062003949569",
+              "start": 5,
+              "url": "https://t.co/wqYg0Cdc8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960025126671417375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鼠标小鸟 https://t.co/wqYg0Cdc8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 703,
+          "like_count": 35703,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 8958
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎生物｜讲话猎奇恶俗请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "🇨🇦嘎国嘎窝",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936371039803752450/lRRmVBIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1100,
+          "like_count": 68485,
+          "listed_count": 6,
+          "media_count": 1856,
+          "tweet_count": 22705
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

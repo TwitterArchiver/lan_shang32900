@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937934818870014433",
+    "created_at": "2025-06-26T07:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938142722399129810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938142722399129810",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937934818870014433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 这个泪滴尤其完美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1937934808816226309",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTtcOVbEAUt2zq.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1937934812930838530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTtcdqbEAIzmRh.jpg",
+        "width": 631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937934818870014433",
+        "created_at": "2025-06-26T07:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938142722399129810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938142722399129810",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937934818870014433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 这个泪滴尤其完美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937934808816226309",
+            "3_1937934812930838530"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1937934818870014433",
+        "created_at": "2025-06-25T18:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T19:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937934818870014433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5A810RN7j",
+              "end": 23,
+              "expanded_url": "https://x.com/yusanyyy8/status/1937934818870014433/photo/1",
+              "media_key": "3_1937934808816226309",
+              "start": 0,
+              "url": "https://t.co/z5A810RN7j"
+            },
+            {
+              "display_url": "pic.x.com/z5A810RN7j",
+              "end": 23,
+              "expanded_url": "https://x.com/yusanyyy8/status/1937934818870014433/photo/1",
+              "media_key": "3_1937934812930838530",
+              "start": 0,
+              "url": "https://t.co/z5A810RN7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937934818870014433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 662,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z5A810RN7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 651,
+          "like_count": 32127,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 7667
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "自恋心🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "南🍄",
+        "pinned_tweet_id": "1925361316891681221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 62,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

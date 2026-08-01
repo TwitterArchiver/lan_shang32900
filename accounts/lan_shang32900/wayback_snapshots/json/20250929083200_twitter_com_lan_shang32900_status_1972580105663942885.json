@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969463323323506688"
+      ],
+      "media_source_tweet_id": [
+        "1969463339421221365"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1972580105663942885",
+    "created_at": "2025-09-29T08:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T09:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972580105663942885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SAFHNd4kS",
+          "end": 107,
+          "expanded_url": "https://x.com/Uni_btt/status/1969463339421221365/photo/1",
+          "media_key": "3_1969463323323506688",
+          "start": 84,
+          "url": "https://t.co/6SAFHNd4kS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972580105663942885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969463339421221365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: 重庆纯绿爸爸活妈妈活150r/h\n不可进入酒店/民宿等封闭区域\n可以陪逛街等，期间车费购物等由你买单。需要先付定金以免逃单。\n需要提前预约。 https://t.co/6SAFHNd4kS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969463323323506688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TwdTjboAAxyOT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969463323323506688"
+          ],
+          "media_source_tweet_id": [
+            "1969463339421221365"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1972580105663942885",
+        "created_at": "2025-09-29T08:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972580105663942885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SAFHNd4kS",
+              "end": 107,
+              "expanded_url": "https://x.com/Uni_btt/status/1969463339421221365/photo/1",
+              "media_key": "3_1969463323323506688",
+              "start": 84,
+              "url": "https://t.co/6SAFHNd4kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972580105663942885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969463339421221365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: 重庆纯绿爸爸活妈妈活150r/h\n不可进入酒店/民宿等封闭区域\n可以陪逛街等，期间车费购物等由你买单。需要先付定金以免逃单。\n需要提前预约。 https://t.co/6SAFHNd4kS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969463323323506688"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "1969463339421221365",
+        "created_at": "2025-09-20T18:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969463339421221365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SAFHNd4kS",
+              "end": 94,
+              "expanded_url": "https://x.com/Uni_btt/status/1969463339421221365/photo/1",
+              "media_key": "3_1969463323323506688",
+              "start": 71,
+              "url": "https://t.co/6SAFHNd4kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969463339421221365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10550,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "重庆纯绿爸爸活妈妈活150r/h\n不可进入酒店/民宿等封闭区域\n可以陪逛街等，期间车费购物等由你买单。需要先付定金以免逃单。\n需要提前预约。 https://t.co/6SAFHNd4kS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 753,
+          "like_count": 38719,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 9927
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年/🚪100 / 妈妈   @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972287715543764992/45L4397V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10640,
+          "following_count": 514,
+          "like_count": 11867,
+          "listed_count": 16,
+          "media_count": 1509,
+          "tweet_count": 11337
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922323340473082320",
+    "created_at": "2025-05-14T15:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922673987743584430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571735057332592640",
+          "start": 0,
+          "username": "rchngbngd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922673987743584430",
+    "in_reply_to_user_id": "1571735057332592640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922323340473082320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rchngbngd1 妈妈长得好完美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1922322097868574720",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gq11w1tXEAAvhfy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gq11w1tXEAAvhfy.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922323340473082320",
+        "created_at": "2025-05-14T15:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922673987743584430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571735057332592640",
+              "start": 0,
+              "username": "rchngbngd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922673987743584430",
+        "in_reply_to_user_id": "1571735057332592640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922323340473082320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rchngbngd1 妈妈长得好完美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1922322097868574720"
+          ]
+        },
+        "author_id": "1571735057332592640",
+        "conversation_id": "1922323340473082320",
+        "created_at": "2025-05-13T16:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T17:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922323340473082320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xvR4x6541l",
+              "end": 38,
+              "expanded_url": "https://x.com/rchngbngd1/status/1922323340473082320/photo/1",
+              "media_key": "16_1922322097868574720",
+              "start": 15,
+              "url": "https://t.co/xvR4x6541l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922323340473082320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 866,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐等穿孔师扎的时候就这个表情 https://t.co/xvR4x6541l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 652,
+          "like_count": 31619,
+          "listed_count": 0,
+          "media_count": 560,
+          "tweet_count": 7324
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "我是柏一/小号@asllsxexo520(互关可来玩(^  / 我妈妈在此@d3vilsadvocate3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "asllsxexo520"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "d3vilsadvocate3"
+              }
+            ]
+          }
+        },
+        "id": "1571735057332592640",
+        "location": "我的饭呢",
+        "name": "放松下",
+        "pinned_tweet_id": "1907806848998322655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922531479134879744/uea4Oapc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 433,
+          "like_count": 3596,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 1689
+        },
+        "username": "rchngbngd1",
+        "verified": false
+      }
+    ]
+  }
+}

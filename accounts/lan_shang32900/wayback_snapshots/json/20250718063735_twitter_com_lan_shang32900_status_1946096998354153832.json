@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945837156930654209",
+        "3_1945837157446230016"
+      ],
+      "media_source_tweet_id": [
+        "1945837166333923751",
+        "1945837166333923751"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946096998354153832",
+    "created_at": "2025-07-18T06:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946096998354153832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1057694024843182081",
+          "start": 3,
+          "username": "Alenia0715"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpa3BCljQn",
+          "end": 100,
+          "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+          "media_key": "3_1945837156930654209",
+          "start": 77,
+          "url": "https://t.co/tpa3BCljQn"
+        },
+        {
+          "display_url": "pic.x.com/tpa3BCljQn",
+          "end": 100,
+          "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+          "media_key": "3_1945837157446230016",
+          "start": 77,
+          "url": "https://t.co/tpa3BCljQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946096998354153832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945837166333923751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alenia0715: ようこそ私のホームページへ✨\n \n私はアレニアです🍬\n電子ゲームが好きで、自撮りをシェアするのが好きな普通の女の子です🎮 https://t.co/tpa3BCljQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1945837156930654209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEAlbGbkAE4kQZ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1945837157446230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEAldBWoAARwDj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945837156930654209",
+            "3_1945837157446230016"
+          ],
+          "media_source_tweet_id": [
+            "1945837166333923751",
+            "1945837166333923751"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946096998354153832",
+        "created_at": "2025-07-18T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946096998354153832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1057694024843182081",
+              "start": 3,
+              "username": "Alenia0715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpa3BCljQn",
+              "end": 100,
+              "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+              "media_key": "3_1945837156930654209",
+              "start": 77,
+              "url": "https://t.co/tpa3BCljQn"
+            },
+            {
+              "display_url": "pic.x.com/tpa3BCljQn",
+              "end": 100,
+              "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+              "media_key": "3_1945837157446230016",
+              "start": 77,
+              "url": "https://t.co/tpa3BCljQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946096998354153832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945837166333923751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alenia0715: ようこそ私のホームページへ✨\n \n私はアレニアです🍬\n電子ゲームが好きで、自撮りをシェアするのが好きな普通の女の子です🎮 https://t.co/tpa3BCljQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945837156930654209",
+            "3_1945837157446230016"
+          ]
+        },
+        "author_id": "1057694024843182081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945837166333923751",
+        "created_at": "2025-07-17T13:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945837166333923751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpa3BCljQn",
+              "end": 84,
+              "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+              "media_key": "3_1945837156930654209",
+              "start": 61,
+              "url": "https://t.co/tpa3BCljQn"
+            },
+            {
+              "display_url": "pic.x.com/tpa3BCljQn",
+              "end": 84,
+              "expanded_url": "https://x.com/Alenia0715/status/1945837166333923751/photo/1",
+              "media_key": "3_1945837157446230016",
+              "start": 61,
+              "url": "https://t.co/tpa3BCljQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945837166333923751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ようこそ私のホームページへ✨\n \n私はアレニアです🍬\n電子ゲームが好きで、自撮りをシェアするのが好きな普通の女の子です🎮 https://t.co/tpa3BCljQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 662,
+          "like_count": 33423,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 8072
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T18:01:21.000Z",
+        "description": "中文/日本語を勉強しています🍬\n私は重度のゲームオタク女子です🎮\n友好DMは大歓迎です\n名字翻译是阿莱妮亚",
+        "id": "1057694024843182081",
+        "location": "Meteor（Valefor）",
+        "name": "✟アレニア✟",
+        "pinned_tweet_id": "1945837166333923751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946005027232854017/9C66oaK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 89,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 131
+        },
+        "username": "Alenia0715",
+        "verified": false
+      }
+    ]
+  }
+}

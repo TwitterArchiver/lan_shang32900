@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960184371232600237",
+    "created_at": "2025-08-27T02:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960523277845086630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545811359656546305",
+          "start": 0,
+          "username": "Loyalty_21g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960523277845086630",
+    "in_reply_to_user_id": "1545811359656546305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960184371232600237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loyalty_21g 好厉害！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_1960184205859778560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzP5JlSacAA-xi8.jpg",
+        "width": 548
+      },
+      {
+        "height": 462,
+        "media_key": "3_1960184159990919168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzP5G6abMAAP3I7.jpg",
+        "width": 462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960184371232600237",
+        "created_at": "2025-08-27T02:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960523277845086630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545811359656546305",
+              "start": 0,
+              "username": "Loyalty_21g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960523277845086630",
+        "in_reply_to_user_id": "1545811359656546305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960184371232600237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loyalty_21g 好厉害！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960184205859778560",
+            "3_1960184159990919168"
+          ]
+        },
+        "author_id": "1545811359656546305",
+        "conversation_id": "1960184371232600237",
+        "created_at": "2025-08-26T03:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960184371232600237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8t4b2mNHg",
+              "end": 48,
+              "expanded_url": "https://x.com/Loyalty_21g/status/1960184371232600237/photo/1",
+              "media_key": "3_1960184205859778560",
+              "start": 25,
+              "url": "https://t.co/K8t4b2mNHg"
+            },
+            {
+              "display_url": "pic.x.com/K8t4b2mNHg",
+              "end": 48,
+              "expanded_url": "https://x.com/Loyalty_21g/status/1960184371232600237/photo/1",
+              "media_key": "3_1960184159990919168",
+              "start": 25,
+              "url": "https://t.co/K8t4b2mNHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960184371232600237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 332,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "157cm，42公斤，腰围对应的是55cm，嘻嘻 https://t.co/K8t4b2mNHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 704,
+          "like_count": 35845,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9009
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T16:45:35.000Z",
+        "description": "Abandon all hope, ye who enter here",
+        "id": "1545811359656546305",
+        "location": "天蓝色的彼岸",
+        "name": "在昼犹昏",
+        "pinned_tweet_id": "1957661638028677422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707076799228690432/-j09VqSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 95,
+          "like_count": 4454,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 3634
+        },
+        "username": "Loyalty_21g",
+        "verified": false
+      }
+    ]
+  }
+}

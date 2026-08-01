@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1942161271513870703",
+    "created_at": "2025-07-08T05:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T06:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942451742332919906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1640801817142624257",
+          "start": 0,
+          "username": "caicai4_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942451742332919906",
+    "in_reply_to_user_id": "1640801817142624257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942161271513870703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai4_0 辛苦了、抱紧紧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942161248600387584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPxXZda8AAJjG_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1942161271513870703",
+        "created_at": "2025-07-08T05:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942451742332919906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640801817142624257",
+              "start": 0,
+              "username": "caicai4_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942451742332919906",
+        "in_reply_to_user_id": "1640801817142624257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942161271513870703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai4_0 辛苦了、抱紧紧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942161248600387584"
+          ]
+        },
+        "author_id": "1640801817142624257",
+        "conversation_id": "1942161271513870703",
+        "created_at": "2025-07-07T09:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942161271513870703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPwVc4QNhi",
+              "end": 31,
+              "expanded_url": "https://x.com/caicai4_0/status/1942161271513870703/photo/1",
+              "media_key": "3_1942161248600387584",
+              "start": 8,
+              "url": "https://t.co/HPwVc4QNhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942161271513870703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第三次自杀失败 https://t.co/HPwVc4QNhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 655,
+          "like_count": 32861,
+          "listed_count": 0,
+          "media_count": 618,
+          "tweet_count": 7887
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T19:43:33.000Z",
+        "description": "我是一具尸体 小号@caicai5_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "caicai5_0"
+              }
+            ]
+          }
+        },
+        "id": "1640801817142624257",
+        "name": "菜菜4.0",
+        "pinned_tweet_id": "1707585740790501740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644893260362711040/JFGmDGaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 236,
+          "like_count": 1183,
+          "listed_count": 9,
+          "media_count": 306,
+          "tweet_count": 1770
+        },
+        "username": "caicai4_0",
+        "verified": false
+      }
+    ]
+  }
+}

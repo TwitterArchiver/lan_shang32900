@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909653460263616514"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1909653464382357776",
+    "created_at": "2025-04-08T17:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T18:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909653464382357776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ldV8I44LzX",
+          "end": 85,
+          "expanded_url": "https://x.com/lan_shang32900/status/1909653464382357776/photo/1",
+          "media_key": "3_1909653460263616514",
+          "start": 62,
+          "url": "https://t.co/ldV8I44LzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909653464382357776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起自己这种超过三个人以上的现实群体和网络群体就不会再发言超过三句话就招笑……噢甚至超过两个人我就不会频繁发言😭超绝边缘人 https://t.co/ldV8I44LzX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909653464382357776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909653464382357776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909653464382357776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 531,
+        "media_key": "3_1909653460263616514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBztE8bwAIgpUX.jpg",
+        "width": 693
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 656,
+          "like_count": 31566,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 7160
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

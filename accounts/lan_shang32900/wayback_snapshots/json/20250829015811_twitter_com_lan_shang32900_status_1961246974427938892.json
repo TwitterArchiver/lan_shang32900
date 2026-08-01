@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961096447375601665"
+      ],
+      "media_source_tweet_id": [
+        "1961096479239778650"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1961246974427938892",
+    "created_at": "2025-08-29T01:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T02:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961246974427938892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860340732340633604",
+          "start": 3,
+          "username": "doki_yeol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzGKgd4Mnz",
+          "end": 57,
+          "expanded_url": "https://x.com/doki_yeol/status/1961096479239778650/photo/1",
+          "media_key": "3_1961096447375601665",
+          "start": 34,
+          "url": "https://t.co/wzGKgd4Mnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961246974427938892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961096479239778650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doki_yeol: 第一个七夕正在恋爱\n（1/999+） https://t.co/wzGKgd4Mnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961096447375601665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzc21BwacAE24fH.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961096447375601665"
+          ],
+          "media_source_tweet_id": [
+            "1961096479239778650"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1961246974427938892",
+        "created_at": "2025-08-29T01:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961246974427938892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860340732340633604",
+              "start": 3,
+              "username": "doki_yeol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzGKgd4Mnz",
+              "end": 57,
+              "expanded_url": "https://x.com/doki_yeol/status/1961096479239778650/photo/1",
+              "media_key": "3_1961096447375601665",
+              "start": 34,
+              "url": "https://t.co/wzGKgd4Mnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961246974427938892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961096479239778650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doki_yeol: 第一个七夕正在恋爱\n（1/999+） https://t.co/wzGKgd4Mnz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961096447375601665"
+          ]
+        },
+        "author_id": "1860340732340633604",
+        "conversation_id": "1961096479239778650",
+        "created_at": "2025-08-28T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961096479239778650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzGKgd4Mnz",
+              "end": 42,
+              "expanded_url": "https://x.com/doki_yeol/status/1961096479239778650/photo/1",
+              "media_key": "3_1961096447375601665",
+              "start": 19,
+              "url": "https://t.co/wzGKgd4Mnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961096479239778650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "第一个七夕正在恋爱\n（1/999+） https://t.co/wzGKgd4Mnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 707,
+          "like_count": 35985,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9072
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T15:12:58.000Z",
+        "description": "Yeol @YEOL_LiSu 和南宫 @nankyuseiichi 的恋爱记录bot。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "YEOL_LiSu"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "nankyuseiichi"
+              }
+            ]
+          }
+        },
+        "id": "1860340732340633604",
+        "name": "南宫耶哦恋爱Bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890749400957480961/H65GU3rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 19
+        },
+        "username": "doki_yeol",
+        "verified": false
+      }
+    ]
+  }
+}

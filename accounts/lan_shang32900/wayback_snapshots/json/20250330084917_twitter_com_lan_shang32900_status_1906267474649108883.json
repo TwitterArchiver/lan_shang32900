@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906267429917122560",
+        "3_1906267431099944961"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1906267474649108883",
+    "created_at": "2025-03-30T08:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T09:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906267474649108883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DXBrZ5P9H",
+          "end": 140,
+          "expanded_url": "https://x.com/lan_shang32900/status/1906267474649108883/photo/1",
+          "media_key": "3_1906267429917122560",
+          "start": 117,
+          "url": "https://t.co/8DXBrZ5P9H"
+        },
+        {
+          "display_url": "pic.x.com/8DXBrZ5P9H",
+          "end": 140,
+          "expanded_url": "https://x.com/lan_shang32900/status/1906267474649108883/photo/1",
+          "media_key": "3_1906267431099944961",
+          "start": 117,
+          "url": "https://t.co/8DXBrZ5P9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906267474649108883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想你了，你要记得熬夜，黑眼圈多了不要怕，出去玩不要带手机，以免联系到别人，坐公交车手机记得被偷，开车的时候记得闯红灯，下楼梯一定不要怕摔倒，最好6格6格的下，多吃辣条，少吃青菜，多喝冰水，记住不要把饭煮熟，生病的时候记得吃点老鼠药 https://t.co/8DXBrZ5P9H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906267474649108883].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906267474649108883",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906267474649108883"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906267429917122560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnRsIK8bYAAVL5q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906267431099944961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnRsIPWb0AElG5c.jpg",
+        "width": 2046
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 656,
+          "like_count": 31526,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 7123
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

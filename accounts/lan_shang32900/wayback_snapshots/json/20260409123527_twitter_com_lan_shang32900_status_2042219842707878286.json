@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041892732894114088",
+    "created_at": "2026-04-09T12:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042219842707878286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425554931860209666",
+          "start": 0,
+          "username": "Artemis_moon_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042219842707878286",
+    "in_reply_to_user_id": "1425554931860209666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041892732894114088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis_moon_12 来左右互法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041892732894114088",
+        "created_at": "2026-04-09T12:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042219842707878286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425554931860209666",
+              "start": 0,
+              "username": "Artemis_moon_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042219842707878286",
+        "in_reply_to_user_id": "1425554931860209666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041892732894114088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis_moon_12 来左右互法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425554931860209666",
+        "conversation_id": "2041892732894114088",
+        "created_at": "2026-04-08T14:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041892732894114088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041892732894114088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3083,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们所有人都被我法了🖕🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 794,
+          "like_count": 43027,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 10885
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T20:29:28.000Z",
+        "description": "脆皮软心糖 🚪1314 爱发电投喂地址⬇️ 付费tg个人频道🚪88（私信只回口令红包）tg聊天群https://t.co/hSMbmBJ6lj ins@aphrodite_moon_12 发疯小号@Aphrodite_mis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "Aphrodite_mis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+9pEh0_LdYagyZ…",
+                "end": 71,
+                "expanded_url": "https://t.me/+9pEh0_LdYagyZmZl",
+                "start": 48,
+                "url": "https://t.co/hSMbmBJ6lj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/aphrodite24",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/aphrodite24",
+                "start": 0,
+                "url": "https://t.co/1Iodi2kFsy"
+              }
+            ]
+          }
+        },
+        "id": "1425554931860209666",
+        "name": "阿芙洛狄忒",
+        "pinned_tweet_id": "1899872926364819925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038651805983465475/rr1X0iZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73743,
+          "following_count": 191,
+          "like_count": 23408,
+          "listed_count": 205,
+          "media_count": 404,
+          "tweet_count": 8691
+        },
+        "url": "https://t.co/1Iodi2kFsy",
+        "username": "Artemis_moon_12",
+        "verified": false
+      }
+    ]
+  }
+}

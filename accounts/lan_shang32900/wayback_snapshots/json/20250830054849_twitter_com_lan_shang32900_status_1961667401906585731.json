@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1951267000962965554",
+    "created_at": "2025-08-30T05:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T06:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961667401906585731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680978321834938375",
+          "start": 0,
+          "username": "Kisaragi_Karasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961667401906585731",
+    "in_reply_to_user_id": "1680978321834938375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951267000962965554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Karasi 情诗到底是怎么样的👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1951267000962965554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951267000962965554",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1951267000962965554"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1951267000962965554",
+        "created_at": "2025-08-30T05:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T06:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961667401906585731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680978321834938375",
+              "start": 0,
+              "username": "Kisaragi_Karasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961667401906585731",
+        "in_reply_to_user_id": "1680978321834938375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951267000962965554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Karasi 情诗到底是怎么样的👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 707,
+          "like_count": 36101,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 9109
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T16:30:46.000Z",
+        "description": "✩︎‧₊ 病み垢丨自傷丨不互fo不交友 陌生人請勿打擾",
+        "id": "1680978321834938375",
+        "location": "誰也不在的地方",
+        "name": "꒰ঌ如月辛子໒꒱2.0",
+        "pinned_tweet_id": "1728882485327720476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923688591613403137/lizkpVm9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 194,
+          "like_count": 23184,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 3302
+        },
+        "username": "Kisaragi_Karasi",
+        "verified": false
+      }
+    ]
+  }
+}

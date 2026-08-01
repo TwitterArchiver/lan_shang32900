@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1950988844259746306",
+    "created_at": "2025-08-01T09:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951218480344342663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688252804958498816",
+          "start": 0,
+          "username": "umichen0502324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951218480344342663",
+    "in_reply_to_user_id": "1688252804958498816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950988844259746306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umichen0502324 医嘱吗，一般对病人是只能清淡饮食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1950988844259746306",
+        "created_at": "2025-08-01T09:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951218480344342663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688252804958498816",
+              "start": 0,
+              "username": "umichen0502324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951218480344342663",
+        "in_reply_to_user_id": "1688252804958498816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950988844259746306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umichen0502324 医嘱吗，一般对病人是只能清淡饮食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688252804958498816",
+        "conversation_id": "1950988844259746306",
+        "created_at": "2025-07-31T18:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T19:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950988844259746306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950988844259746306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不能吃辛辣的食物，不能吃酱油或者带有黑色素红色素的东西…那我还能吃些什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 674,
+          "like_count": 34326,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 8432
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T18:16:59.000Z",
+        "description": "嗨，你可以叫我豚鼠，以及其他无恶意的名字。我想要变得更幸福，\n💚好朋友 @sysjf0                                                               我的心情会时不时变得很糟糕，对不起，请谅解。\n如果我有让你感到不舒服，我很抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "sysjf0"
+              }
+            ]
+          }
+        },
+        "id": "1688252804958498816",
+        "location": "乌托邦",
+        "name": "✩带着蝴蝶结的魔法豚鼠₊⁺",
+        "pinned_tweet_id": "1771623930198995011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868922547032801280/Lad0rBg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 452,
+          "like_count": 6076,
+          "listed_count": 4,
+          "media_count": 381,
+          "tweet_count": 4863
+        },
+        "username": "umichen0502324",
+        "verified": false
+      }
+    ]
+  }
+}

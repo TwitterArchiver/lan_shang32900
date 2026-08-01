@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888476384189992960",
+        "3_1888476389390864384"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1888476392133963856",
+    "created_at": "2025-02-09T06:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T07:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888476392133963856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1A1xwwfd5b",
+          "end": 70,
+          "expanded_url": "https://x.com/lan_shang32900/status/1888476392133963856/photo/1",
+          "media_key": "3_1888476384189992960",
+          "start": 47,
+          "url": "https://t.co/1A1xwwfd5b"
+        },
+        {
+          "display_url": "pic.x.com/1A1xwwfd5b",
+          "end": 70,
+          "expanded_url": "https://x.com/lan_shang32900/status/1888476392133963856/photo/1",
+          "media_key": "3_1888476389390864384",
+          "start": 47,
+          "url": "https://t.co/1A1xwwfd5b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888476392133963856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大哥你误会了，嫂子说你家衣柜坏了，我只是过来帮忙修一下，衣柜里太热了我就把衣服脱了，真误会了 https://t.co/1A1xwwfd5b"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888476392133963856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888476392133963856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888476392133963856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1888476384189992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjU3RA5b0AAvMAT.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1708,
+        "media_key": "3_1888476389390864384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjU3RURa0AAG2VD.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 645,
+          "like_count": 29558,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 6620
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

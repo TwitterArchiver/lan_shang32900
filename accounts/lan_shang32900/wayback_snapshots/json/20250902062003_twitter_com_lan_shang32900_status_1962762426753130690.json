@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962755292376207482",
+    "created_at": "2025-09-02T06:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962762426753130690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962762426753130690",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962755292376207482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最新消息，糯米糍怎么也找不到我把零食藏在哪里觉得解密真是太麻烦了索性全部干稀碎，使用了龙卷风摧毁停车场技能（（）\n是不是小时候给你们补充的DHA不够多啊，总感觉不是很聪明……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962755292376207482",
+        "created_at": "2025-09-02T06:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962762426753130690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962762426753130690",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962755292376207482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新消息，糯米糍怎么也找不到我把零食藏在哪里觉得解密真是太麻烦了索性全部干稀碎，使用了龙卷风摧毁停车场技能（（）\n是不是小时候给你们补充的DHA不够多啊，总感觉不是很聪明……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962755292376207482",
+        "created_at": "2025-09-02T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962755292376207482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962755292376207482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，又给小老鼠们做了个鸡蛋盒小玩具……希望他们会喜欢吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 708,
+          "like_count": 36325,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9170
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

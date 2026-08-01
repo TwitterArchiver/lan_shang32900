@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974483914334117888"
+      ],
+      "media_source_tweet_id": [
+        "1974483923829944684"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1974494531501584475",
+    "created_at": "2025-10-04T15:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974494531501584475"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "天使の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1532936624643792898",
+          "start": 3,
+          "username": "mattari_suru_go"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBKQHKdQAm",
+          "end": 56,
+          "expanded_url": "https://x.com/mattari_suru_go/status/1974483923829944684/photo/1",
+          "media_key": "3_1974483914334117888",
+          "start": 33,
+          "url": "https://t.co/cBKQHKdQAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974494531501584475",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974483923829944684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mattari_suru_go: (⩌⩊⩌)\n#天使の日 https://t.co/cBKQHKdQAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2202,
+        "media_key": "3_1974483914334117888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bGqKiboAAx5oV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974483914334117888"
+          ],
+          "media_source_tweet_id": [
+            "1974483923829944684"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1974494531501584475",
+        "created_at": "2025-10-04T15:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974494531501584475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "天使の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1532936624643792898",
+              "start": 3,
+              "username": "mattari_suru_go"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBKQHKdQAm",
+              "end": 56,
+              "expanded_url": "https://x.com/mattari_suru_go/status/1974483923829944684/photo/1",
+              "media_key": "3_1974483914334117888",
+              "start": 33,
+              "url": "https://t.co/cBKQHKdQAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974494531501584475",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974483923829944684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mattari_suru_go: (⩌⩊⩌)\n#天使の日 https://t.co/cBKQHKdQAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974483914334117888"
+          ]
+        },
+        "author_id": "1532936624643792898",
+        "conversation_id": "1974483923829944684",
+        "created_at": "2025-10-04T14:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974483923829944684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "天使の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBKQHKdQAm",
+              "end": 35,
+              "expanded_url": "https://x.com/mattari_suru_go/status/1974483923829944684/photo/1",
+              "media_key": "3_1974483914334117888",
+              "start": 12,
+              "url": "https://t.co/cBKQHKdQAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974483923829944684",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2163,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "(⩌⩊⩌)\n#天使の日 https://t.co/cBKQHKdQAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 758,
+          "like_count": 38903,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 9983
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T04:05:57.000Z",
+        "description": "🎀illustration🎀 無断転載禁止 RP非表示推奨 #タナカぁ〜と commission❌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "タナカぁ〜と"
+              }
+            ]
+          }
+        },
+        "id": "1532936624643792898",
+        "location": "えちかわふともも",
+        "name": "物陰",
+        "pinned_tweet_id": "1972963802254803006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937832146682720256/3KRbsIUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17039,
+          "following_count": 597,
+          "like_count": 15658,
+          "listed_count": 157,
+          "media_count": 154,
+          "tweet_count": 12967
+        },
+        "username": "mattari_suru_go",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1888842698804862976"
+      ],
+      "media_source_tweet_id": [
+        "1888842720900211050"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1888914860752138309",
+    "created_at": "2025-02-10T11:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T12:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888914860752138309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1400921726104571914",
+          "start": 3,
+          "username": "gorgeousdeath06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmbY3XIfTF",
+          "end": 50,
+          "expanded_url": "https://x.com/gorgeousdeath06/status/1888842720900211050/video/1",
+          "media_key": "7_1888842698804862976",
+          "start": 27,
+          "url": "https://t.co/GmbY3XIfTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888914860752138309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888842720900211050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorgeousdeath06: QQ弹弹🍮 https://t.co/GmbY3XIfTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10433,
+        "height": 960,
+        "media_key": "7_1888842698804862976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1888842698804862976/pu/img/eY7YLDQyf77nYaQc.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842698804862976/pu/vid/avc1/320x426/sIld-VnWRY6ysBWa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842698804862976/pu/vid/avc1/480x640/5ytIRY3c4rCAauwe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842698804862976/pu/vid/avc1/720x960/s-bA34ssygYkjXIz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1888842698804862976/pu/pl/asvFHwEPWOhnjdFa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888842698804862976"
+          ],
+          "media_source_tweet_id": [
+            "1888842720900211050"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1888914860752138309",
+        "created_at": "2025-02-10T11:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888914860752138309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1400921726104571914",
+              "start": 3,
+              "username": "gorgeousdeath06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmbY3XIfTF",
+              "end": 50,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1888842720900211050/video/1",
+              "media_key": "7_1888842698804862976",
+              "start": 27,
+              "url": "https://t.co/GmbY3XIfTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888914860752138309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888842720900211050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gorgeousdeath06: QQ弹弹🍮 https://t.co/GmbY3XIfTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888842698804862976"
+          ]
+        },
+        "author_id": "1400921726104571914",
+        "conversation_id": "1888842720900211050",
+        "created_at": "2025-02-10T06:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888842720900211050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmbY3XIfTF",
+              "end": 29,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1888842720900211050/video/1",
+              "media_key": "7_1888842698804862976",
+              "start": 6,
+              "url": "https://t.co/GmbY3XIfTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888842720900211050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "QQ弹弹🍮 https://t.co/GmbY3XIfTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 649,
+          "like_count": 29545,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 6634
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T21:05:49.000Z",
+        "description": "我是生气的小红鸟〔5.0重生版〕之前账号被盗了，4.0被封号了 希望可以找回之前的大家\n这里是个发疯的小号／持续吐黑水 大量阴暗发言‖自残行为 负能注意⚠️",
+        "id": "1400921726104571914",
+        "name": "〔5.0重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1884538895171498054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884537515455180801/twFAKlI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 192,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 49
+        },
+        "username": "gorgeousdeath06",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1964137294342000985",
+    "created_at": "2025-09-06T01:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964137294342000985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "464973118",
+          "start": 3,
+          "username": "kinoko525525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964137294342000985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963920197561061562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kinoko525525: 我真的很想找小宝宝们互fo一起玩，我真的很需要朋友，我不知道我开学了该怎么办，求你们了，跟我一起玩吧，跟我互fo吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1964137294342000985",
+        "created_at": "2025-09-06T01:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964137294342000985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "464973118",
+              "start": 3,
+              "username": "kinoko525525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964137294342000985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963920197561061562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kinoko525525: 我真的很想找小宝宝们互fo一起玩，我真的很需要朋友，我不知道我开学了该怎么办，求你们了，跟我一起玩吧，跟我互fo吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "464973118",
+        "conversation_id": "1963920197561061562",
+        "created_at": "2025-09-05T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963920197561061562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963920197561061562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想找小宝宝们互fo一起玩，我真的很需要朋友，我不知道我开学了该怎么办，求你们了，跟我一起玩吧，跟我互fo吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 715,
+          "like_count": 36746,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9327
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "我想交朋友",
+        "id": "464973118",
+        "name": "思诺思",
+        "pinned_tweet_id": "1955664800777916923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955662763533156352/NPpjYBNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 25,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 49
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

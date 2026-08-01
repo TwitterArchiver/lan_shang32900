@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2052565666004398288",
+    "created_at": "2026-05-08T03:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052596633276395852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022371961503092736",
+          "start": 0,
+          "username": "asusu593407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052596633276395852",
+    "in_reply_to_user_id": "2022371961503092736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052565666004398288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asusu593407 加油哇、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2052565666004398288",
+        "created_at": "2026-05-08T03:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052596633276395852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022371961503092736",
+              "start": 0,
+              "username": "asusu593407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052596633276395852",
+        "in_reply_to_user_id": "2022371961503092736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052565666004398288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asusu593407 加油哇、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022371961503092736",
+        "conversation_id": "2052565666004398288",
+        "created_at": "2026-05-08T01:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052565666004398288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052565666004398288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当下最焦虑的事情是毕业答辩和找工作😵😵😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 800,
+          "like_count": 48960,
+          "listed_count": 5,
+          "media_count": 802,
+          "tweet_count": 11998
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡总之祝你天天开心！  \n ｜双相｜重焦｜强迫型｜回避型｜完美主义｜厌食｜餐券｜od｜绘画｜Cosplay｜亚文化｜无性恋｜\n温良老鼠不键政，不吵架，不参与任何争议性话题，只会悄悄看着你。\n｜私信随时欢迎♡(◜ω◝)♡\n｜梦想是成为一个温暖的、幸福的人。",
+        "id": "2022371961503092736",
+        "location": "鼠窝",
+        "name": "Asu@老鼠碎碎念bot",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035314095755264/5gFUd47P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 255,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 392
+        },
+        "username": "asusu593407",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945019428229283840"
+      ],
+      "media_source_tweet_id": [
+        "1945019431371071788"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1949042135107551476",
+    "created_at": "2025-07-26T09:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949042135107551476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911539885892116480",
+          "start": 3,
+          "username": "xiaowenwenmiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixnXiLexYT",
+          "end": 75,
+          "expanded_url": "https://x.com/xiaowenwenmiao/status/1945019431371071788/photo/1",
+          "media_key": "3_1945019428229283840",
+          "start": 52,
+          "url": "https://t.co/ixnXiLexYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949042135107551476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945019431371071788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaowenwenmiao: 我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀。 https://t.co/ixnXiLexYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1945019428229283840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4Y3WTXAAAwQ6w.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945019428229283840"
+          ],
+          "media_source_tweet_id": [
+            "1945019431371071788"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1949042135107551476",
+        "created_at": "2025-07-26T09:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949042135107551476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1911539885892116480",
+              "start": 3,
+              "username": "xiaowenwenmiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixnXiLexYT",
+              "end": 75,
+              "expanded_url": "https://x.com/xiaowenwenmiao/status/1945019431371071788/photo/1",
+              "media_key": "3_1945019428229283840",
+              "start": 52,
+              "url": "https://t.co/ixnXiLexYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949042135107551476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945019431371071788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaowenwenmiao: 我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀。 https://t.co/ixnXiLexYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945019428229283840"
+          ]
+        },
+        "author_id": "1911539885892116480",
+        "conversation_id": "1945019431371071788",
+        "created_at": "2025-07-15T07:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T08:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945019431371071788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixnXiLexYT",
+              "end": 55,
+              "expanded_url": "https://x.com/xiaowenwenmiao/status/1945019431371071788/photo/1",
+              "media_key": "3_1945019428229283840",
+              "start": 32,
+              "url": "https://t.co/ixnXiLexYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945019431371071788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀。 https://t.co/ixnXiLexYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 672,
+          "like_count": 34086,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 8335
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T22:00:38.000Z",
+        "description": "@wenwenwenjiang 大号被盗了别信。@wenwenwenjiang2 (存图小号?仅互关和过🚪可关注) 试图重开。嘴臭，含骂人推文，介意勿来。希望能找回以前的宝宝们。未婚带八娃。不关注不回复私信。(只回礼貌的消息)不闲聊，喜欢我就打钱。(女宝除外)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "wenwenwenjiang"
+              },
+              {
+                "end": 40,
+                "start": 24,
+                "username": "wenwenwenjiang2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wenwen19708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wenwen19708",
+                "start": 0,
+                "url": "https://t.co/yKXaFqc1qQ"
+              }
+            ]
+          }
+        },
+        "id": "1911539885892116480",
+        "location": "匿名提问:",
+        "name": "我素温温喵",
+        "pinned_tweet_id": "1924661782465151303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927070975188664321/WvoJe9mS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 128,
+          "like_count": 1872,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/yKXaFqc1qQ",
+        "username": "xiaowenwenmiao",
+        "verified": false
+      }
+    ]
+  }
+}

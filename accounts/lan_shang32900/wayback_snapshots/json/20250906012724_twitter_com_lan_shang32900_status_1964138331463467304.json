@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964037268559319044",
+        "3_1964037271734407173"
+      ],
+      "media_source_tweet_id": [
+        "1964037273856688142",
+        "1964037273856688142"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1964138331463467304",
+    "created_at": "2025-09-06T01:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964138331463467304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845050264170135552",
+          "start": 3,
+          "username": "Xuanzexing89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhbDKbt4Ly",
+          "end": 48,
+          "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+          "media_key": "3_1964037268559319044",
+          "start": 25,
+          "url": "https://t.co/BhbDKbt4Ly"
+        },
+        {
+          "display_url": "pic.x.com/BhbDKbt4Ly",
+          "end": 48,
+          "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+          "media_key": "3_1964037271734407173",
+          "start": 25,
+          "url": "https://t.co/BhbDKbt4Ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964138331463467304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964037273856688142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuanzexing89: 关于🔝3.5 https://t.co/BhbDKbt4Ly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1964037268559319044",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GpfWYbUAQyL7S.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1964037271734407173",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GpfiNbUAUs5Xq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964037268559319044",
+            "3_1964037271734407173"
+          ],
+          "media_source_tweet_id": [
+            "1964037273856688142",
+            "1964037273856688142"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1964138331463467304",
+        "created_at": "2025-09-06T01:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964138331463467304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845050264170135552",
+              "start": 3,
+              "username": "Xuanzexing89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhbDKbt4Ly",
+              "end": 48,
+              "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+              "media_key": "3_1964037268559319044",
+              "start": 25,
+              "url": "https://t.co/BhbDKbt4Ly"
+            },
+            {
+              "display_url": "pic.x.com/BhbDKbt4Ly",
+              "end": 48,
+              "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+              "media_key": "3_1964037271734407173",
+              "start": 25,
+              "url": "https://t.co/BhbDKbt4Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964138331463467304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964037273856688142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuanzexing89: 关于🔝3.5 https://t.co/BhbDKbt4Ly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964037268559319044",
+            "3_1964037271734407173"
+          ]
+        },
+        "author_id": "1845050264170135552",
+        "conversation_id": "1964037273856688142",
+        "created_at": "2025-09-05T18:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T19:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964037273856688142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhbDKbt4Ly",
+              "end": 30,
+              "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+              "media_key": "3_1964037268559319044",
+              "start": 7,
+              "url": "https://t.co/BhbDKbt4Ly"
+            },
+            {
+              "display_url": "pic.x.com/BhbDKbt4Ly",
+              "end": 30,
+              "expanded_url": "https://x.com/Xuanzexing89/status/1964037273856688142/photo/1",
+              "media_key": "3_1964037271734407173",
+              "start": 7,
+              "url": "https://t.co/BhbDKbt4Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964037273856688142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于🔝3.5 https://t.co/BhbDKbt4Ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 715,
+          "like_count": 36765,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9331
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:35:17.000Z",
+        "description": "靠近我 是不是靠近了痛苦 远离我 有远离幸福吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianjiaojiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianjiaojiao",
+                "start": 0,
+                "url": "https://t.co/qsvMB5iG3X"
+              }
+            ]
+          }
+        },
+        "id": "1845050264170135552",
+        "location": "纯绿 坐标广东",
+        "name": "选择性吞咽",
+        "pinned_tweet_id": "1964037273856688142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957530177736716288/SOlpSQHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 39,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/qsvMB5iG3X",
+        "username": "Xuanzexing89",
+        "verified": false
+      }
+    ]
+  }
+}

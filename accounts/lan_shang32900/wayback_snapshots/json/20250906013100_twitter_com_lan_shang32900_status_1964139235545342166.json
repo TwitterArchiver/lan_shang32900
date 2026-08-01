@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963562027554935011",
+    "created_at": "2025-09-06T01:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964139235545342166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799110455467950080",
+          "start": 0,
+          "username": "lwzcrosy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964139235545342166",
+    "in_reply_to_user_id": "1799110455467950080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963562027554935011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwzcrosy 三只猫都养一个花色，是真的豹猫忠实爱好者了😻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963562020487446528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_5QRWaQAAW1ne.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963562027554935011",
+        "created_at": "2025-09-06T01:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964139235545342166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799110455467950080",
+              "start": 0,
+              "username": "lwzcrosy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964139235545342166",
+        "in_reply_to_user_id": "1799110455467950080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963562027554935011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwzcrosy 三只猫都养一个花色，是真的豹猫忠实爱好者了😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963562020487446528"
+          ]
+        },
+        "author_id": "1799110455467950080",
+        "conversation_id": "1963562027554935011",
+        "created_at": "2025-09-04T11:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963562027554935011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pKYbUUDI8",
+              "end": 30,
+              "expanded_url": "https://x.com/lwzcrosy/status/1963562027554935011/photo/1",
+              "media_key": "3_1963562020487446528",
+              "start": 7,
+              "url": "https://t.co/0pKYbUUDI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963562027554935011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 81708,
+          "like_count": 496,
+          "quote_count": 1,
+          "reply_count": 90,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请问我坐哪？ https://t.co/0pKYbUUDI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 715,
+          "like_count": 36776,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9333
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T16:05:46.000Z",
+        "description": "一半",
+        "id": "1799110455467950080",
+        "location": "布吉岛",
+        "name": "ti ti",
+        "pinned_tweet_id": "1935260284953993423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877274378595086338/qomRrKI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 30,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 820
+        },
+        "username": "lwzcrosy",
+        "verified": false
+      }
+    ]
+  }
+}

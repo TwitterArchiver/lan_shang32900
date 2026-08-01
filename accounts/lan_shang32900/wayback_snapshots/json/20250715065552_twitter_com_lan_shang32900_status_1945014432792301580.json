@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1945014432792301580",
+    "created_at": "2025-07-15T06:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T07:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945014432792301580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 52,
+          "id": "868831876315848705",
+          "start": 43,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性价值观测试",
+          "display_url": "idrlabs.com/cn/sex-values/…",
+          "end": 39,
+          "expanded_url": "https://www.idrlabs.com/cn/sex-values/14.29-37.5-58.33-50-43.75/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1945014476127813632/c_Qub_l7?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1945014476127813632/c_Qub_l7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "性价值观测试：我的性价值观分数",
+          "unwound_url": "https://www.idrlabs.com/cn/sex-values/14.29-37.5-58.33-50-43.75/result.php",
+          "url": "https://t.co/t1tST9K72l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945014432792301580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 92,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性价值观测试：我的性价值观分数 https://t.co/t1tST9K72l 通过 @idr_labs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945014432792301580].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945014432792301580",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945014432792301580"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 659,
+          "like_count": 33253,
+          "listed_count": 0,
+          "media_count": 628,
+          "tweet_count": 8010
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9820,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 19,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

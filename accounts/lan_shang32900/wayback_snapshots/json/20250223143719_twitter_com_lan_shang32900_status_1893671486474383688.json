@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1893671486474383688",
+    "created_at": "2025-02-23T14:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T15:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893671486474383688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akui1121/statu…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/akui1121/status/1893596565908160763",
+          "start": 112,
+          "url": "https://t.co/QwSCVa233j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893671486474383688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893596565908160763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实援交一开始是奔着解决性欲约炮去的，想了想感觉一点钱都不愿意花的本身质量也不会高到哪里去吧，就干脆收钱了，结果收的越高，遇到的男生反而越有礼貌质量越好，然后就开始了援交的不归路，然后援了两次遇到了现在的男朋友，成功上岸🫶 https://t.co/QwSCVa233j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_1893596549139013632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdoB1tWIAA1-6p.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1893671486474383688",
+        "created_at": "2025-02-23T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893671486474383688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/akui1121/status/1893596565908160763",
+              "start": 112,
+              "url": "https://t.co/QwSCVa233j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893671486474383688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893596565908160763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实援交一开始是奔着解决性欲约炮去的，想了想感觉一点钱都不愿意花的本身质量也不会高到哪里去吧，就干脆收钱了，结果收的越高，遇到的男生反而越有礼貌质量越好，然后就开始了援交的不归路，然后援了两次遇到了现在的男朋友，成功上岸🫶 https://t.co/QwSCVa233j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893596549139013632"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1893596565908160763",
+        "created_at": "2025-02-23T09:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893596565908160763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGug3gFcMj",
+              "end": 135,
+              "expanded_url": "https://x.com/akui1121/status/1893596565908160763/photo/1",
+              "media_key": "3_1893596549139013632",
+              "start": 112,
+              "url": "https://t.co/OGug3gFcMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893596565908160763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2800,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实援交一开始是奔着解决性欲约炮去的，想了想感觉一点钱都不愿意花的本身质量也不会高到哪里去吧，就干脆收钱了，结果收的越高，遇到的男生反而越有礼貌质量越好，然后就开始了援交的不归路，然后援了两次遇到了现在的男朋友，成功上岸🫶 https://t.co/OGug3gFcMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "画性恋"
+              },
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 648,
+          "like_count": 29867,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 6690
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "jiangshi1121"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889166341321666560/aEGq71T4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14814,
+          "following_count": 849,
+          "like_count": 14061,
+          "listed_count": 42,
+          "media_count": 445,
+          "tweet_count": 6183
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910714498060869636",
+        "3_1910714497242988544",
+        "3_1910714498421604352",
+        "3_1910714498119589888"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1910714515223961942",
+    "created_at": "2025-04-11T15:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T16:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910714515223961942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l27NPC64Pj",
+          "end": 180,
+          "expanded_url": "https://x.com/lan_shang32900/status/1910714515223961942/photo/1",
+          "media_key": "3_1910714498060869636",
+          "start": 157,
+          "url": "https://t.co/l27NPC64Pj"
+        },
+        {
+          "display_url": "pic.x.com/l27NPC64Pj",
+          "end": 180,
+          "expanded_url": "https://x.com/lan_shang32900/status/1910714515223961942/photo/1",
+          "media_key": "3_1910714497242988544",
+          "start": 157,
+          "url": "https://t.co/l27NPC64Pj"
+        },
+        {
+          "display_url": "pic.x.com/l27NPC64Pj",
+          "end": 180,
+          "expanded_url": "https://x.com/lan_shang32900/status/1910714515223961942/photo/1",
+          "media_key": "3_1910714498421604352",
+          "start": 157,
+          "url": "https://t.co/l27NPC64Pj"
+        },
+        {
+          "display_url": "pic.x.com/l27NPC64Pj",
+          "end": 180,
+          "expanded_url": "https://x.com/lan_shang32900/status/1910714515223961942/photo/1",
+          "media_key": "3_1910714498119589888",
+          "start": 157,
+          "url": "https://t.co/l27NPC64Pj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910714515223961942",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "╭◜◝ ͡ ◜◝╮         ╭◜◝ ͡ ◜◝╮. ҉\n( •‿•。        ) ☆  ( •‿•。       )☆ ♡\n╰◟◞ ͜  ◟◞╭◜◝ ͡ ◜◝╮ ͜  ◟◞╯☆ ҉\n. ҉☆ ҉          ( •‿•。       )☆ ♡\n♡ 　        ╰◟◞ ͜ ◟◞╯ . ҉☆ https://t.co/l27NPC64Pj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910714515223961942].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910714515223961942",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910714515223961942"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2067,
+        "media_key": "3_1910714498060869636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQ4tmwbYAQcJ7h.jpg",
+        "width": 1551
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910714497242988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQ4tjtbgAAUkfx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910714498421604352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQ4toGbwAAR0VF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 691,
+        "media_key": "3_1910714498119589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQ4tm-bYAAbV6n.jpg",
+        "width": 691
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 650,
+          "like_count": 31521,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 7168
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

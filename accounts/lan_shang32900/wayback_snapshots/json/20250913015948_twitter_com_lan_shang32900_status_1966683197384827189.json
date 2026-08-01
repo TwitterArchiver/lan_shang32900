@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966302919751241728"
+      ],
+      "media_source_tweet_id": [
+        "1966302921936486692"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966683197384827189",
+    "created_at": "2025-09-13T01:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T02:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966683197384827189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "901299158669180931",
+          "start": 3,
+          "username": "ShoBeiYong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3aqFDgxjk5",
+          "end": 58,
+          "expanded_url": "https://x.com/ShoBeiYong/status/1966302921936486692/photo/1",
+          "media_key": "3_1966302919751241728",
+          "start": 35,
+          "url": "https://t.co/3aqFDgxjk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966683197384827189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966302921936486692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShoBeiYong: 希望所有本子作者都可以謹記這個鐵律😡 https://t.co/3aqFDgxjk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_1966302919751241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0m2FmyWEAA6lv_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966302919751241728"
+          ],
+          "media_source_tweet_id": [
+            "1966302921936486692"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1966683197384827189",
+        "created_at": "2025-09-13T01:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T02:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966683197384827189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "901299158669180931",
+              "start": 3,
+              "username": "ShoBeiYong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aqFDgxjk5",
+              "end": 58,
+              "expanded_url": "https://x.com/ShoBeiYong/status/1966302921936486692/photo/1",
+              "media_key": "3_1966302919751241728",
+              "start": 35,
+              "url": "https://t.co/3aqFDgxjk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966683197384827189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966302921936486692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShoBeiYong: 希望所有本子作者都可以謹記這個鐵律😡 https://t.co/3aqFDgxjk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966302919751241728"
+          ]
+        },
+        "author_id": "901299158669180931",
+        "conversation_id": "1966302921936486692",
+        "created_at": "2025-09-12T00:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T01:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966302921936486692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aqFDgxjk5",
+              "end": 42,
+              "expanded_url": "https://x.com/ShoBeiYong/status/1966302921936486692/photo/1",
+              "media_key": "3_1966302919751241728",
+              "start": 19,
+              "url": "https://t.co/3aqFDgxjk5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "127021a2772dbff7"
+        },
+        "id": "1966302921936486692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 20329,
+          "like_count": 647,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "希望所有本子作者都可以謹記這個鐵律😡 https://t.co/3aqFDgxjk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 731,
+          "like_count": 37534,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9589
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "如果你无法控制思想，那便叫思想把你控制吧。淡推中。",
+        "id": "901299158669180931",
+        "location": "往生堂 焚化爐",
+        "name": "魈✟ ❂☭",
+        "pinned_tweet_id": "1949150352256753907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 302,
+          "like_count": 9852,
+          "listed_count": 9,
+          "media_count": 647,
+          "tweet_count": 6101
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

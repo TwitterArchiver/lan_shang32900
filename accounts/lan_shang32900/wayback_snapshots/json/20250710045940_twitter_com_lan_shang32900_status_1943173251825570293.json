@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942375457694846979",
+        "3_1942375457665536000"
+      ],
+      "media_source_tweet_id": [
+        "1942375471838347680",
+        "1942375471838347680"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943173251825570293",
+    "created_at": "2025-07-10T04:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T05:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943173251825570293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835167474410831879",
+          "start": 3,
+          "username": "yuduki99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWxGVXuqfW",
+          "end": 80,
+          "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+          "media_key": "3_1942375457694846979",
+          "start": 57,
+          "url": "https://t.co/mWxGVXuqfW"
+        },
+        {
+          "display_url": "pic.x.com/mWxGVXuqfW",
+          "end": 80,
+          "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+          "media_key": "3_1942375457665536000",
+          "start": 57,
+          "url": "https://t.co/mWxGVXuqfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943173251825570293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942375471838347680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuduki99: hi我重生回来法人了呗 我说什么 \n点赞转发这条抽288*1\n188*2 \n52*3 https://t.co/mWxGVXuqfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_1942375457694846979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS0MAhWkAMcGJf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1078,
+        "media_key": "3_1942375457665536000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS0MAaXUAAGiS2.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942375457694846979",
+            "3_1942375457665536000"
+          ],
+          "media_source_tweet_id": [
+            "1942375471838347680",
+            "1942375471838347680"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943173251825570293",
+        "created_at": "2025-07-10T04:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T05:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943173251825570293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835167474410831879",
+              "start": 3,
+              "username": "yuduki99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWxGVXuqfW",
+              "end": 80,
+              "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+              "media_key": "3_1942375457694846979",
+              "start": 57,
+              "url": "https://t.co/mWxGVXuqfW"
+            },
+            {
+              "display_url": "pic.x.com/mWxGVXuqfW",
+              "end": 80,
+              "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+              "media_key": "3_1942375457665536000",
+              "start": 57,
+              "url": "https://t.co/mWxGVXuqfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943173251825570293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942375471838347680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuduki99: hi我重生回来法人了呗 我说什么 \n点赞转发这条抽288*1\n188*2 \n52*3 https://t.co/mWxGVXuqfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942375457694846979",
+            "3_1942375457665536000"
+          ]
+        },
+        "author_id": "1835167474410831879",
+        "conversation_id": "1942375471838347680",
+        "created_at": "2025-07-08T00:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942375471838347680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWxGVXuqfW",
+              "end": 66,
+              "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+              "media_key": "3_1942375457694846979",
+              "start": 43,
+              "url": "https://t.co/mWxGVXuqfW"
+            },
+            {
+              "display_url": "pic.x.com/mWxGVXuqfW",
+              "end": 66,
+              "expanded_url": "https://x.com/yuduki99/status/1942375471838347680/photo/1",
+              "media_key": "3_1942375457665536000",
+              "start": 43,
+              "url": "https://t.co/mWxGVXuqfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942375471838347680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4771,
+          "like_count": 40,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "hi我重生回来法人了呗 我说什么 \n点赞转发这条抽288*1\n188*2 \n52*3 https://t.co/mWxGVXuqfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 656,
+          "like_count": 32910,
+          "listed_count": 0,
+          "media_count": 620,
+          "tweet_count": 7910
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T04:03:24.000Z",
+        "description": "反派角色",
+        "id": "1835167474410831879",
+        "name": "你的痛苦我都截图转发两三遍",
+        "pinned_tweet_id": "1942375471838347680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942360863593357312/a8Wcp37P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "yuduki99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939619559868383352",
+    "created_at": "2025-06-30T09:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939619559868383352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939619559868383352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪吒终于要下映了，播了153天延期了半年，就这还只是冲到票房第五，还以为真的要延一年冲全球前三呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939619559868383352",
+        "created_at": "2025-06-30T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939619559868383352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939619559868383352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒终于要下映了，播了153天延期了半年，就这还只是冲到票房第五，还以为真的要延一年冲全球前三呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 654,
+          "like_count": 32398,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7715
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

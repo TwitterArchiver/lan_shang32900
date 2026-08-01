@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1999810628601684448",
+    "created_at": "2025-12-14T04:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000057717759865299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388424521028304900",
+          "start": 0,
+          "username": "BbN5cD7eCAAqb7L"
+        },
+        {
+          "end": 26,
+          "id": "1828008363273388032",
+          "start": 17,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000057717759865299",
+    "in_reply_to_user_id": "1388424521028304900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999831141927559439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbN5cD7eCAAqb7L @akui1121 好玩的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1999810628601684448",
+        "created_at": "2025-12-14T04:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000057717759865299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1388424521028304900",
+              "start": 0,
+              "username": "BbN5cD7eCAAqb7L"
+            },
+            {
+              "end": 26,
+              "id": "1828008363273388032",
+              "start": 17,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000057717759865299",
+        "in_reply_to_user_id": "1388424521028304900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999831141927559439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbN5cD7eCAAqb7L @akui1121 好玩的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388424521028304900",
+        "conversation_id": "1999810628601684448",
+        "created_at": "2025-12-13T13:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999831141927559439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            },
+            {
+              "end": 25,
+              "id": "1828008363273388032",
+              "start": 16,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999831141927559439",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999823793494405463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 @akui1121 好玩嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 769,
+          "like_count": 39126,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 10156
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T09:26:28.000Z",
+        "description": "你放不下的人和事，岁月都会替你轻描淡写，哦,还有死亡呢",
+        "id": "1388424521028304900",
+        "name": "你头发乱了哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924895800599166976/tBOqunZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 329,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 146
+        },
+        "username": "BbN5cD7eCAAqb7L",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！你知道乌托邦吗，是存在的🥰 🚪80不接推广，致歉，纯享推 @jiangshi1121  咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "1965chich"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1998982042378449019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997506009804484608/nMyIZz-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28762,
+          "following_count": 1237,
+          "like_count": 19607,
+          "listed_count": 75,
+          "media_count": 1056,
+          "tweet_count": 13410
+        },
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

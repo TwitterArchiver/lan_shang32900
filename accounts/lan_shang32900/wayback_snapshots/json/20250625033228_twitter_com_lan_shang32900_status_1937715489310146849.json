@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937715489310146849",
+    "created_at": "2025-06-25T03:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937715489310146849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527308255927492609",
+          "start": 3,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937715489310146849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937447875530883360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love1027w: 打算过几天注销账号离开推特了。\n人没死，病也没好，不是偷偷自杀了也不是过现充生活去了，就是觉得很疲惫，我不喜欢这里，不想接触互联网的一切，也没有精力和太多人说话。\n但是不管怎么样，我爱你们，谢谢你们的陪伴，谢谢缘分让我遇见了你们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937715489310146849",
+        "created_at": "2025-06-25T03:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937715489310146849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527308255927492609",
+              "start": 3,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937715489310146849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937447875530883360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love1027w: 打算过几天注销账号离开推特了。\n人没死，病也没好，不是偷偷自杀了也不是过现充生活去了，就是觉得很疲惫，我不喜欢这里，不想接触互联网的一切，也没有精力和太多人说话。\n但是不管怎么样，我爱你们，谢谢你们的陪伴，谢谢缘分让我遇见了你们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527308255927492609",
+        "conversation_id": "1937447875530883360",
+        "created_at": "2025-06-24T09:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937447875530883360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937447875530883360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10068,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "打算过几天注销账号离开推特了。\n人没死，病也没好，不是偷偷自杀了也不是过现充生活去了，就是觉得很疲惫，我不喜欢这里，不想接触互联网的一切，也没有精力和太多人说话。\n但是不管怎么样，我爱你们，谢谢你们的陪伴，谢谢缘分让我遇见了你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 647,
+          "like_count": 32076,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 7637
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922067490928226304/fx0nM_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11752,
+          "following_count": 444,
+          "like_count": 41842,
+          "listed_count": 12,
+          "media_count": 1685,
+          "tweet_count": 24255
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

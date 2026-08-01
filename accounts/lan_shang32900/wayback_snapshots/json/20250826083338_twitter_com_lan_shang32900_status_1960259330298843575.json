@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960259330298843575",
+    "created_at": "2025-08-26T08:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960259330298843575"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960259330298843575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真不知道自己骗什么了，我确实是没钱啊，别人帮付才买的车票去找朋友玩\n\n我确实是不知道你在群聊里说了什么，因为我前段时间状态很差根本不看群消息\n这里舞萌就是一块钱一局，定价我又决定不了\n之前没回复因为你根本没有问我，你有任何意见任何问题都是在自己心里酝酿根本没有问过实际上到底怎么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960259330298843575",
+        "created_at": "2025-08-26T08:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960259330298843575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960259330298843575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不知道自己骗什么了，我确实是没钱啊，别人帮付才买的车票去找朋友玩\n\n我确实是不知道你在群聊里说了什么，因为我前段时间状态很差根本不看群消息\n这里舞萌就是一块钱一局，定价我又决定不了\n之前没回复因为你根本没有问我，你有任何意见任何问题都是在自己心里酝酿根本没有问过实际上到底怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 703,
+          "like_count": 35724,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 8968
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

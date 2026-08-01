@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004106371164422144"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004106375006408897",
+    "created_at": "2025-12-25T08:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T09:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004106375006408897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0LMjYFDE7",
+          "end": 32,
+          "expanded_url": "https://x.com/lan_shang32900/status/2004106375006408897/photo/1",
+          "media_key": "3_2004106371164422144",
+          "start": 9,
+          "url": "https://t.co/j0LMjYFDE7"
+        },
+        {
+          "display_url": "x.com/lan_shang32900…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/lan_shang32900/status/2003782401923936349",
+          "start": 33,
+          "url": "https://t.co/e273P4Ib9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004106375006408897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003782401923936349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天也遇到了、、 https://t.co/j0LMjYFDE7 https://t.co/e273P4Ib9n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004106375006408897].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004106375006408897",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004106375006408897"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004106371164422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AEIFlaQAAGgos.jpg",
+        "width": 1517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2003782401923936349",
+        "created_at": "2025-12-24T10:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003782401923936349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003782401923936349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😱😱喷喷打工有人开挂、、第一局八百多个蛋，第二局六百多个，计数器一直在响（（）队友别冒蛋了我害怕，蛋数比鲑鱼数都多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 772,
+          "like_count": 39187,
+          "listed_count": 2,
+          "media_count": 736,
+          "tweet_count": 10159
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

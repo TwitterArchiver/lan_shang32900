@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1898677726904713411",
+    "created_at": "2025-03-09T10:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T11:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898677726904713411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_Y/status/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/8964_Y/status/1898230834030952846",
+          "start": 37,
+          "url": "https://t.co/4xGNHxu4lb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898677726904713411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898230834030952846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超天酱头像➕mtf➕咱➕发了一万次尝试自杀的推文，这种是不是什么邪教组织 https://t.co/4xGNHxu4lb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1898677726904713411",
+        "created_at": "2025-03-09T10:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898677726904713411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/8964_Y/status/1898230834030952846",
+              "start": 37,
+              "url": "https://t.co/4xGNHxu4lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898677726904713411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898230834030952846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超天酱头像➕mtf➕咱➕发了一万次尝试自杀的推文，这种是不是什么邪教组织 https://t.co/4xGNHxu4lb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898230834030952846",
+        "created_at": "2025-03-08T04:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898230834030952846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898230834030952846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7934,
+          "like_count": 209,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "超天酱头像➕mtf➕咱➕发了一万次尝试自杀的推文，这种是不是什么邪教组织"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（量子纠缠版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 656,
+          "like_count": 30797,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 6919
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898627811382091776/Xg7B_cyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4889,
+          "following_count": 919,
+          "like_count": 10285,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 7916
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

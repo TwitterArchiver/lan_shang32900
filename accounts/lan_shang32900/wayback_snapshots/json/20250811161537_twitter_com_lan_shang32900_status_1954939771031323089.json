@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1954792131362447528",
+    "created_at": "2025-08-11T16:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T17:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954939771031323089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "xEndlEssyAm1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954939771031323089",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954792131362447528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xEndlEssyAm1x ！！好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1954792114866548736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDRElBa8AAZB0t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1954792131362447528",
+        "created_at": "2025-08-11T16:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954939771031323089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "xEndlEssyAm1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954939771031323089",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954792131362447528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xEndlEssyAm1x ！！好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954792114866548736"
+          ]
+        },
+        "author_id": "1821916949456285696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954792131362447528",
+        "created_at": "2025-08-11T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954792131362447528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNqYtzlFxZ",
+              "end": 35,
+              "expanded_url": "https://x.com/xEndlEssyAm1x/status/1954792131362447528/photo/1",
+              "media_key": "3_1954792114866548736",
+              "start": 12,
+              "url": "https://t.co/mNqYtzlFxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954792131362447528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "rating上10了！ https://t.co/mNqYtzlFxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 687,
+          "like_count": 34733,
+          "listed_count": 3,
+          "media_count": 662,
+          "tweet_count": 8624
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "连/连接︱OD/自傷︱無言フォロー︱絵垢@xsA1sE1x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "xsA1sE1x"
+              }
+            ]
+          }
+        },
+        "id": "1821916949456285696",
+        "location": "为什么要看我？",
+        "name": "笑（）笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 558
+        },
+        "username": "xEndlEssyAm1x",
+        "verified": false
+      }
+    ]
+  }
+}

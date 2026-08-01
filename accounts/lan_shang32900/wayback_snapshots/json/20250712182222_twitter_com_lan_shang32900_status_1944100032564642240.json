@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944100030052274176"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943993557288988755",
+    "created_at": "2025-07-12T18:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T19:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944100032564642240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zaWmfiJbPW",
+          "end": 43,
+          "expanded_url": "https://x.com/lan_shang32900/status/1944100032564642240/photo/1",
+          "media_key": "3_1944100030052274176",
+          "start": 20,
+          "url": "https://t.co/zaWmfiJbPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944100032564642240",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943993557288988755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 人权主义 https://t.co/zaWmfiJbPW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944100032564642240].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944100032564642240",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944100032564642240"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944100030052274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvrUrVMXkAATmOr.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943993546568347649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvpz1LTbsAEjlql.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943993546568347649"
+          ]
+        },
+        "author_id": "1639894055948816387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943993557288988755",
+        "created_at": "2025-07-12T11:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943993557288988755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+              "display_url": "politiscales.party",
+              "end": 23,
+              "expanded_url": "http://politiscales.party",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1943288042284101632/j62xJRM7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1943288042284101632/j62xJRM7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "PolitiScales - The political test",
+              "unwound_url": "https://politiscales.party/",
+              "url": "https://t.co/R4ZG9mopIu"
+            },
+            {
+              "display_url": "pic.x.com/x4fIg1HoU7",
+              "end": 50,
+              "expanded_url": "https://x.com/sakumamutsuki/status/1943993557288988755/photo/1",
+              "media_key": "3_1943993546568347649",
+              "start": 27,
+              "url": "https://t.co/x4fIg1HoU7"
+            },
+            {
+              "display_url": "x.com/Tsukishima_han…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Tsukishima_hane/status/1943973648832115189",
+              "start": 51,
+              "url": "https://t.co/eJQDKSIDCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943993557288988755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943973648832115189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/R4ZG9mopIu\n這我 https://t.co/x4fIg1HoU7 https://t.co/eJQDKSIDCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 657,
+          "like_count": 33103,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 7967
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "不稱職的神明｜備考dse期間可能暫時死掉/精神不穩講怪話請見諒丨最萌小夜@lonelyxiaoye丨全能小希露@shirumesu丨最溫柔的姊姊@8964_xy11丨國服第一地雷王@Tsukishima_hane",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "lonelyxiaoye"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "shirumesu"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "8964_xy11"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "Tsukishima_hane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2ozaI"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "kayo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 1585,
+          "like_count": 22762,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 6628
+        },
+        "url": "https://t.co/sZHlu2ozaI",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

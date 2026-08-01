@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965940310003134621",
+    "created_at": "2025-09-11T02:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T03:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965969899056218549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965969899056218549",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965940310003134621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@NyaCookieNeko 抱抱你宝宝，按自己喜欢的方式就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965940310003134621",
+        "created_at": "2025-09-11T02:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965969899056218549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965969899056218549",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965940310003134621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@NyaCookieNeko 抱抱你宝宝，按自己喜欢的方式就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "1965940310003134621",
+        "created_at": "2025-09-11T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965940310003134621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965940310003134621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我讨厌所谓的“开放式关系”\n\n这对投入了大量感情和精力却只有一次次失望和痛苦的我太不公平\n平时我不主动开口就没什么人理，和几个人在一起，一碗水真的有可能端平嘛\n我真的很少有开心的时候，我根本就无法适应这种被忽视、被替代的感觉\n作为那个相对边缘化的人，我嫉妒、难过、没有安全感\n这根本不像在谈恋爱，也没有多少亲密感\n一个个都去贴这个贴那个了，那最开始为什么要跟我说不会再有其他人了呢\n\n我再也不会信任这种关系了，但现在就先这样吧，脱离开的我更不知该何去何从了，无所谓了，习惯了，摆烂了，自适应了，不会再投入过多精力了\n\n睡觉去了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我讨厌所谓的“开放式关系”\n\n这对投入了大量感情和精力却只有一次次失望和痛苦的我太不公平\n平时我不主动开口就没什么人理，和几个人在一起，一碗水真的有可能端平嘛\n我真的很少有开心的时候，我根本就无法适应这种被忽视、被替代的感觉\n作为那个相对边缘化的人，我嫉妒、难过、没有安全感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 727,
+          "like_count": 37249,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 9487
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜有两只小黑猫，一只叫多多，一只叫@MeowCatherina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "MeowCatherina"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8876,
+          "following_count": 2863,
+          "like_count": 15661,
+          "listed_count": 12,
+          "media_count": 831,
+          "tweet_count": 8868
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2037891416991617359",
+    "created_at": "2026-03-29T04:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038108289058349305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "Chihuahua0202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038108289058349305",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037912475832852532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihuahua0202 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2037891416991617359",
+        "created_at": "2026-03-29T04:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038108289058349305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "Chihuahua0202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038108289058349305",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037912475832852532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihuahua0202 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "conversation_id": "2037891416991617359",
+        "created_at": "2026-03-28T15:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037912475832852532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037912475832852532",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037891416991617359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 …🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 763,
+          "like_count": 39987,
+          "listed_count": 3,
+          "media_count": 754,
+          "tweet_count": 10367
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "🐈⸒⸒⸒⸒♂ 裏@necodog2222 リツイート🔞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "necodog2222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeta-ai.io/@MistyLinen506…",
+                "end": 23,
+                "expanded_url": "https://zeta-ai.io/@MistyLinen5069?share_id=3gyfayra",
+                "start": 0,
+                "url": "https://t.co/vkGyf8l4IF"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "ゴミ箱",
+        "name": "チワワ",
+        "pinned_tweet_id": "2011762211161850151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033861255916867584/sKJGbMMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 1057,
+          "like_count": 138087,
+          "listed_count": 0,
+          "media_count": 2753,
+          "tweet_count": 61518
+        },
+        "url": "https://t.co/vkGyf8l4IF",
+        "username": "Chihuahua0202",
+        "verified": false
+      }
+    ]
+  }
+}

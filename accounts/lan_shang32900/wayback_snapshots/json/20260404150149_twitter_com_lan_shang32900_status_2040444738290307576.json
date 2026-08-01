@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2040430136470942017",
+    "created_at": "2026-04-04T15:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040444738290307576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013251360901287936",
+          "start": 0,
+          "username": "knk0223ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040444738290307576",
+    "in_reply_to_user_id": "2013251360901287936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040430136470942017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knk0223ff 好好笑（（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14905,
+        "height": 1280,
+        "media_key": "13_2040430053360857088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040430053360857088/img/ze5gTwB2ezrcMZO4.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040430053360857088/vid/avc1/320x568/CImynwSGjO-ULRLx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040430053360857088/vid/avc1/480x852/c1fuBbP5Xe97wqtz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040430053360857088/vid/avc1/720x1280/ioNh3Mkusx2smK93.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040430053360857088/pl/CNzOCCXk3-PKp4tK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2040430136470942017",
+        "created_at": "2026-04-04T15:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040444738290307576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013251360901287936",
+              "start": 0,
+              "username": "knk0223ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040444738290307576",
+        "in_reply_to_user_id": "2013251360901287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040430136470942017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knk0223ff 好好笑（（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040430053360857088"
+          ]
+        },
+        "author_id": "2013251360901287936",
+        "conversation_id": "2040430136470942017",
+        "created_at": "2026-04-04T14:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040430136470942017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzkcRWUDgY",
+              "end": 29,
+              "expanded_url": "https://x.com/knk0223ff/status/2040430136470942017/video/1",
+              "media_key": "13_2040430053360857088",
+              "start": 6,
+              "url": "https://t.co/bzkcRWUDgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040430136470942017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wwwww https://t.co/bzkcRWUDgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 792,
+          "like_count": 42123,
+          "listed_count": 3,
+          "media_count": 763,
+          "tweet_count": 10700
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:05:09.000Z",
+        "description": "我有精神病/07/intp/🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2013251360901287936",
+        "location": "地狱",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2037947148038549608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033560847952523264/S4YtVLzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 42,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 254
+        },
+        "username": "knk0223ff",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1984692013149929661",
+    "created_at": "2025-11-02T10:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984937906159714682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "x4n1m0s1t1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984937906159714682",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984692013149929661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4n1m0s1t1x 我也是（）感觉区别不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1984692013149929661",
+        "created_at": "2025-11-02T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984937906159714682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "x4n1m0s1t1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984937906159714682",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984692013149929661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4n1m0s1t1x 我也是（）感觉区别不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1984692013149929661",
+        "created_at": "2025-11-01T18:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984692013149929661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984692013149929661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我整了很多个收货信息但是最后都得寄到小区驿站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 769,
+          "like_count": 39282,
+          "listed_count": 4,
+          "media_count": 733,
+          "tweet_count": 10114
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "🤔",
+        "id": "1821916949456285696",
+        "name": "笑（）笑",
+        "pinned_tweet_id": "1958082309854491067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982519940163751936/5i5x6A5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 73,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1577
+        },
+        "username": "x4n1m0s1t1x",
+        "verified": false
+      }
+    ]
+  }
+}

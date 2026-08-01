@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2049092738419654794",
+    "created_at": "2026-04-28T12:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049106671209963608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049106671209963608",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049092738419654794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 谁和我去吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049092703619817472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_W9RcaoAAN6uS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049092703489552385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_W9Q9W8AETFNN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 720,
+        "media_key": "3_2049092703628267520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_W9RebkAAZY2b.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049092706669117440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_W9czbQAAH4lN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2049092738419654794",
+        "created_at": "2026-04-28T12:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049106671209963608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049106671209963608",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049092738419654794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 谁和我去吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049092703619817472",
+            "3_2049092703489552385",
+            "3_2049092703628267520",
+            "3_2049092706669117440"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049092738419654794",
+        "created_at": "2026-04-28T11:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049092738419654794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWy4Yh9a7g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2049092738419654794/photo/1",
+              "media_key": "3_2049092703619817472",
+              "start": 3,
+              "url": "https://t.co/tWy4Yh9a7g"
+            },
+            {
+              "display_url": "pic.x.com/tWy4Yh9a7g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2049092738419654794/photo/1",
+              "media_key": "3_2049092703489552385",
+              "start": 3,
+              "url": "https://t.co/tWy4Yh9a7g"
+            },
+            {
+              "display_url": "pic.x.com/tWy4Yh9a7g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2049092738419654794/photo/1",
+              "media_key": "3_2049092703628267520",
+              "start": 3,
+              "url": "https://t.co/tWy4Yh9a7g"
+            },
+            {
+              "display_url": "pic.x.com/tWy4Yh9a7g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2049092738419654794/photo/1",
+              "media_key": "3_2049092706669117440",
+              "start": 3,
+              "url": "https://t.co/tWy4Yh9a7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049092738419654794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不错 https://t.co/tWy4Yh9a7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 795,
+          "like_count": 47593,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 11744
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18121,
+          "following_count": 1923,
+          "like_count": 54982,
+          "listed_count": 23,
+          "media_count": 6606,
+          "tweet_count": 23158
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

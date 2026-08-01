@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946047572323504544",
+    "created_at": "2025-07-18T03:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T04:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946048739397058888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946048739397058888",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946047572323504544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只知道和他们只能用「不熟」来形容，十三岁前「爸爸妈妈」只是一个名称代词，我唯一会让我感到特殊温暖的是我的宠物们。真的会因为担心宠物的安危从远方迫不及待赶回来，宠物是我自己选择的家人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946047572323504544",
+        "created_at": "2025-07-18T03:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946048739397058888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946048739397058888",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946047572323504544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只知道和他们只能用「不熟」来形容，十三岁前「爸爸妈妈」只是一个名称代词，我唯一会让我感到特殊温暖的是我的宠物们。真的会因为担心宠物的安危从远方迫不及待赶回来，宠物是我自己选择的家人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946047572323504544",
+        "created_at": "2025-07-18T03:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946047572323504544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946047572323504544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家是什么样的，离家的孤独是什么样的，以后会感觉到吗？吃百家饭长大的孩子还会有家吗？我不知道「家」应该是什么概念，很多人会迫不及待思乡归家节假日赶春运……其实我也有去别人家做客的时候看到大致看到他们的家庭，但总有种不真实的感觉，因为我家也会在来客的时候装很好客人走了就暴露本性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 661,
+          "like_count": 33417,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 8068
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1953439078541873528",
+    "created_at": "2025-08-07T13:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T14:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953449228648190253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953449228648190253",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953439078541873528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 加油咪、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1953439078541873528",
+        "created_at": "2025-08-07T13:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953449228648190253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953449228648190253",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953439078541873528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 加油咪、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1953439078541873528",
+        "created_at": "2025-08-07T12:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953439078541873528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953439078541873528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近一个月陷在重度抑郁里，想到什么说什么吧。。。\n\n我是不会去看南京照相馆的，至少我不觉得这是一部会对我人生产生正面影响的电影。反战题材的不少，影响都不太一样。我其实也不太懂为什么要花钱去看南京照相馆，因为这种需要我的情绪价值为他人所用的场合应该倒贴给我钱才对，我有这个钱为什么不去买几捆豆橛子？现在山东豆橛子下来了，豆橛子真好吃啊，清清脆脆的，凉拌做汤炒肉都很好吃；再买点面买点西红柿，砸几个鸡蛋，想了想感觉家国情怀的宏大叙事落在我头上的部分其实重量还不如花时间做个豆橛子炒肉和西红柿鸡蛋疙瘩汤，生活的太痛苦了，说真的痛苦得有点不知如何是好了。太痛苦了导致实感也没了，在家里洗漱起床都做不到，没有时间观念也没有动力，马上还有一个周又要回日本了，\n我不想回日本啊！！！！！！\n好难受 要想方设法赚钱 要学习 没有精力学习也没有精力学习 和别人说话的精力也没有 每天只想一个人躺在床上 接受的正反馈和负反馈都太多了 啊啊啊啊没有钱啊 好需要钱啊 我现在不知道要不要接非绿线下了 实在是需要钱 十一月的eju也完全不知道要怎么办 为什么没有死去呢 为什么要活下来呢 我有不得不活下去的理由吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一个月陷在重度抑郁里，想到什么说什么吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 679,
+          "like_count": 34485,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 8545
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シ マタ智慧モ無シ      🚪198/520/1314需要你的一点爱意😢",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34678,
+          "following_count": 770,
+          "like_count": 6957,
+          "listed_count": 44,
+          "media_count": 235,
+          "tweet_count": 2504
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

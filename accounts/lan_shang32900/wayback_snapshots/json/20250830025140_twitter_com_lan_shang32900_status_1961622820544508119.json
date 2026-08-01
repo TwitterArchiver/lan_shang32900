@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1961361798265016846",
+    "created_at": "2025-08-30T02:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T03:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961622820544508119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923948098532831232",
+          "start": 0,
+          "username": "xSN0WFALLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961622820544508119",
+    "in_reply_to_user_id": "1923948098532831232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961361798265016846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xSN0WFALLx 是这样的，正常，因为我就是这样的（）但「是这样的」频率一般会比「正常」这个词常用一点，因为「正常」听上去会有一种觉得任何情况都没有那么严重，别人的反应都是在大惊小怪一样的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1961361798265016846",
+        "created_at": "2025-08-30T02:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T03:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961622820544508119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923948098532831232",
+              "start": 0,
+              "username": "xSN0WFALLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961622820544508119",
+        "in_reply_to_user_id": "1923948098532831232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961361798265016846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xSN0WFALLx 是这样的，正常，因为我就是这样的（）但「是这样的」频率一般会比「正常」这个词常用一点，因为「正常」听上去会有一种觉得任何情况都没有那么严重，别人的反应都是在大惊小怪一样的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923948098532831232",
+        "conversation_id": "1961361798265016846",
+        "created_at": "2025-08-29T09:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961361798265016846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961361798265016846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 30586,
+          "like_count": 358,
+          "quote_count": 9,
+          "reply_count": 80,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我发现有一种正常型人格 不管你说什么他都回答正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 707,
+          "like_count": 36078,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 9101
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T03:46:15.000Z",
+        "description": "烦",
+        "id": "1923948098532831232",
+        "name": "SN0W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953433477501845504/xPReBpzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 91,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "xSN0WFALLx",
+        "verified": false
+      }
+    ]
+  }
+}

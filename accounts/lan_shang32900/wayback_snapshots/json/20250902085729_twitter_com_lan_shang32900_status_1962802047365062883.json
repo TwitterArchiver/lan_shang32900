@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962786692328546335",
+    "created_at": "2025-09-02T08:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962802047365062883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "dogneco2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962802047365062883",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962786692328546335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogneco2020 かわいいですね……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962786692328546335",
+        "created_at": "2025-09-02T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962802047365062883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "dogneco2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962802047365062883",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962786692328546335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogneco2020 かわいいですね……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1402679060111581192",
+              "name": "Kura Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400491899006246920",
+              "name": "Food industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402679060111581192",
+              "name": "Kura Sushi"
+            }
+          }
+        ],
+        "conversation_id": "1962786692328546335",
+        "created_at": "2025-09-02T07:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962786692328546335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "か行に犯したいをつけると色々とやばい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962786692328546335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#か行に犯したいをつけると色々とやばい\n可愛い犯したい\n木犯したい\nくら寿司犯したい\n犬犯したい\n子犯したい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 711,
+          "like_count": 36387,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 9197
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "チワワだよ2歳⬆️♂裏@necodog2222 #バウンティ 即リプ https://t.co/0UO0Fdini1 バウンティ名前 社畜 チワワ★",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "バウンティ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "necodog2222"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "end": 58,
+                "expanded_url": "https://marshmallow-qa.com/7pcqxd3u7v6ips4",
+                "start": 35,
+                "url": "https://t.co/0UO0Fdini1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dogneco2020/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dogneco2020/",
+                "start": 0,
+                "url": "https://t.co/qJyjyuc3u9"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "オンボロ犬小屋18年住み",
+        "name": "チワァ",
+        "pinned_tweet_id": "1948005849898815517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145461832216576/t-ztIkjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 831,
+          "like_count": 105148,
+          "listed_count": 2,
+          "media_count": 2390,
+          "tweet_count": 45583
+        },
+        "url": "https://t.co/qJyjyuc3u9",
+        "username": "dogneco2020",
+        "verified": false
+      }
+    ]
+  }
+}

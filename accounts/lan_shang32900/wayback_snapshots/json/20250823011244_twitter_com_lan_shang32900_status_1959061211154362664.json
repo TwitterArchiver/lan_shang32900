@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1958780033855856950",
+    "created_at": "2025-08-23T01:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T02:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959061211154362664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "860527956950634496",
+          "start": 0,
+          "username": "h1z1Mystery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959061211154362664",
+    "in_reply_to_user_id": "860527956950634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958911941944254531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1z1Mystery 😭😭越长越丑怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1958780033855856950",
+        "created_at": "2025-08-23T01:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T02:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959061211154362664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "860527956950634496",
+              "start": 0,
+              "username": "h1z1Mystery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959061211154362664",
+        "in_reply_to_user_id": "860527956950634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958911941944254531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1z1Mystery 😭😭越长越丑怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860527956950634496",
+        "conversation_id": "1958780033855856950",
+        "created_at": "2025-08-22T15:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958911941944254531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958911941944254531",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958894998130130956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 4年前更好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 701,
+          "like_count": 35377,
+          "listed_count": 4,
+          "media_count": 673,
+          "tweet_count": 8848
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-05T16:13:47.000Z",
+        "description": "遊戲 電子競技",
+        "id": "860527956950634496",
+        "name": "诸葛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/860961628040314880/I6w6Kxyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1818,
+          "like_count": 3240,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1581
+        },
+        "username": "h1z1Mystery",
+        "verified": false
+      }
+    ]
+  }
+}

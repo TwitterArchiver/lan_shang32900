@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1961247651086934164",
+    "created_at": "2025-08-29T02:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T03:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961247651086934164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961247651086934164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960968307235791000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofumofuyewo: 刷到过一些地雷女说自己经济困难没钱吃饭 但是几千的日牌照买、宠物照养；你但凡只说个经济困难呢…在我眼里吃饭是永远第一位的，没钱吃饭对我来说是一级戒备的、非常非常严重的事，和生存直接关联。坦诚点说自己没钱买小裙子了不好吗。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1961247651086934164",
+        "created_at": "2025-08-29T02:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961247651086934164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961247651086934164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960968307235791000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofumofuyewo: 刷到过一些地雷女说自己经济困难没钱吃饭 但是几千的日牌照买、宠物照养；你但凡只说个经济困难呢…在我眼里吃饭是永远第一位的，没钱吃饭对我来说是一级戒备的、非常非常严重的事，和生存直接关联。坦诚点说自己没钱买小裙子了不好吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "1960968307235791000",
+        "created_at": "2025-08-28T07:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960968307235791000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960968307235791000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刷到过一些地雷女说自己经济困难没钱吃饭 但是几千的日牌照买、宠物照养；你但凡只说个经济困难呢…在我眼里吃饭是永远第一位的，没钱吃饭对我来说是一级戒备的、非常非常严重的事，和生存直接关联。坦诚点说自己没钱买小裙子了不好吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 707,
+          "like_count": 35991,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9075
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜晓迷支加的分身｜那你喜欢这样的我吗😁",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1883144822237860206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 423,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 402
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

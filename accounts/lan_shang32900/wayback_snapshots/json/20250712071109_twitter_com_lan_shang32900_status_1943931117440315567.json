@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943917800529314230",
+    "created_at": "2025-07-12T07:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T08:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943931117440315567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1453076731783368706",
+          "start": 0,
+          "username": "abei233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943931117440315567",
+    "in_reply_to_user_id": "1453076731783368706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943917800529314230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abei233 如果影响日常生活太严重就服用一些抗焦虑药物吧，抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943917800529314230",
+        "created_at": "2025-07-12T07:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943931117440315567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1453076731783368706",
+              "start": 0,
+              "username": "abei233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943931117440315567",
+        "in_reply_to_user_id": "1453076731783368706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943917800529314230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abei233 如果影响日常生活太严重就服用一些抗焦虑药物吧，抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453076731783368706",
+        "conversation_id": "1943917800529314230",
+        "created_at": "2025-07-12T06:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943917800529314230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943917800529314230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "视频还有画画也是，一直处在焦虑状态 完全做不好、我是完全受情绪影响的人……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 656,
+          "like_count": 33071,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 7960
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T19:11:13.000Z",
+        "description": "我喜欢芮克酱和逆转的大家，無言フォロー失礼します…",
+        "id": "1453076731783368706",
+        "name": "杯…",
+        "pinned_tweet_id": "1895755177833218534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943457345167675392/Q8i3uI0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 262,
+          "like_count": 19195,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3035
+        },
+        "username": "abei233",
+        "verified": false
+      }
+    ]
+  }
+}

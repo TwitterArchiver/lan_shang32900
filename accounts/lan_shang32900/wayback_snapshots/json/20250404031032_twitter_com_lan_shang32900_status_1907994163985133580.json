@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907994140698402816",
+        "3_1907994142929727489"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1907994163985133580",
+    "created_at": "2025-04-04T03:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T04:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907994163985133580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hSBjChH1aX",
+          "end": 49,
+          "expanded_url": "https://x.com/lan_shang32900/status/1907994163985133580/photo/1",
+          "media_key": "3_1907994140698402816",
+          "start": 26,
+          "url": "https://t.co/hSBjChH1aX"
+        },
+        {
+          "display_url": "pic.x.com/hSBjChH1aX",
+          "end": 49,
+          "expanded_url": "https://x.com/lan_shang32900/status/1907994163985133580/photo/1",
+          "media_key": "3_1907994142929727489",
+          "start": 26,
+          "url": "https://t.co/hSBjChH1aX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907994163985133580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "觉得自己真是活得太可笑了，我可是别人的快乐源泉啊！ https://t.co/hSBjChH1aX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907994163985133580].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907994163985133580",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907994163985133580"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907994140698402816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnqOj93a4AAQFkp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907994142929727489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnqOkGLaMAEy_Kg.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 656,
+          "like_count": 31559,
+          "listed_count": 0,
+          "media_count": 534,
+          "tweet_count": 7152
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

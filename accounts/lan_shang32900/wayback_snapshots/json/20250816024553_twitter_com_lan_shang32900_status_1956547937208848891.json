@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956322711518740878",
+    "created_at": "2025-08-16T02:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T03:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956547937208848891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956547937208848891",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956322711518740878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 抱抱被窩、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956322697807597568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZBIOzbEAA0DhB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956322697849556992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZBIO9bUAAuvJV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956322697820147712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZBIO2akAAgdyO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956322697807585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZBIOza4AAHzeH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956322711518740878",
+        "created_at": "2025-08-16T02:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956547937208848891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956547937208848891",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956322711518740878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 抱抱被窩、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956322697807597568",
+            "3_1956322697849556992",
+            "3_1956322697820147712",
+            "3_1956322697807585280"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956322711518740878",
+        "created_at": "2025-08-15T11:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956322711518740878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZ2dzLPMM0",
+              "end": 167,
+              "expanded_url": "https://x.com/admi_n123456/status/1956322711518740878/photo/1",
+              "media_key": "3_1956322697807597568",
+              "start": 144,
+              "url": "https://t.co/yZ2dzLPMM0"
+            },
+            {
+              "display_url": "pic.x.com/yZ2dzLPMM0",
+              "end": 167,
+              "expanded_url": "https://x.com/admi_n123456/status/1956322711518740878/photo/1",
+              "media_key": "3_1956322697849556992",
+              "start": 144,
+              "url": "https://t.co/yZ2dzLPMM0"
+            },
+            {
+              "display_url": "pic.x.com/yZ2dzLPMM0",
+              "end": 167,
+              "expanded_url": "https://x.com/admi_n123456/status/1956322711518740878/photo/1",
+              "media_key": "3_1956322697820147712",
+              "start": 144,
+              "url": "https://t.co/yZ2dzLPMM0"
+            },
+            {
+              "display_url": "pic.x.com/yZ2dzLPMM0",
+              "end": 167,
+              "expanded_url": "https://x.com/admi_n123456/status/1956322711518740878/photo/1",
+              "media_key": "3_1956322697807585280",
+              "start": 144,
+              "url": "https://t.co/yZ2dzLPMM0"
+            },
+            {
+              "display_url": "x.com/admi_n123456/s…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/admi_n123456/status/1956244308836933889",
+              "start": 168,
+              "url": "https://t.co/iXEiAUgpQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956322711518740878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956244308836933889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掉了五个粉丝 我不喜欢他他真的很傻逼 我是单纯想蹭他的海底捞我才出门的再加上不断缠着我 好友也是今天才加上的一晚没睡出门只是头脑一热因为我们离得特别特别近我真不行了 他一直在说我在和他约会我在这里郑重的辟谣我们只是日夜海底捞关系 手机没有给我就给我另外买了电影票和喝的 我会继续屏蔽他的 https://t.co/yZ2dzLPMM0 https://t.co/iXEiAUgpQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 694,
+          "like_count": 34993,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8715
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "150/45kg 🚪52 双相混合型 ADHD",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 996,
+          "like_count": 14475,
+          "listed_count": 4,
+          "media_count": 1283,
+          "tweet_count": 8772
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

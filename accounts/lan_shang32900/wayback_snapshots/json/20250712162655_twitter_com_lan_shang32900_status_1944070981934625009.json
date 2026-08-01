@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944070978532786176",
+        "3_1944070978637537280"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1944070981934625009",
+    "created_at": "2025-07-12T16:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944070981934625009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pnTMAJCnMg",
+          "end": 39,
+          "expanded_url": "https://x.com/lan_shang32900/status/1944070981934625009/photo/1",
+          "media_key": "3_1944070978532786176",
+          "start": 16,
+          "url": "https://t.co/pnTMAJCnMg"
+        },
+        {
+          "display_url": "pic.x.com/pnTMAJCnMg",
+          "end": 39,
+          "expanded_url": "https://x.com/lan_shang32900/status/1944070981934625009/photo/1",
+          "media_key": "3_1944070978637537280",
+          "start": 16,
+          "url": "https://t.co/pnTMAJCnMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944070981934625009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来贡献每日不必要的社交能量了 https://t.co/pnTMAJCnMg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944070981934625009].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944070981934625009",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944070981934625009"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944070978532786176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq6QT2XwAA7iA5.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944070978637537280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq6QUPWIAA6LMn.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 656,
+          "like_count": 33072,
+          "listed_count": 0,
+          "media_count": 623,
+          "tweet_count": 7963
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

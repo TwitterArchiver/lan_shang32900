@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1924890776380809382",
+    "created_at": "2025-05-20T18:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T19:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924890776380809382"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924890776380809382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实感觉按地缘而言的关系随着时间变化会越来越弱吧，听到有人把某种现象归类为哪里哪里的归属总是一股后脊发凉的不适感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1924890776380809382",
+        "created_at": "2025-05-20T18:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T19:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924890776380809382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924890776380809382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实感觉按地缘而言的关系随着时间变化会越来越弱吧，听到有人把某种现象归类为哪里哪里的归属总是一股后脊发凉的不适感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 653,
+          "like_count": 31965,
+          "listed_count": 0,
+          "media_count": 569,
+          "tweet_count": 7407
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

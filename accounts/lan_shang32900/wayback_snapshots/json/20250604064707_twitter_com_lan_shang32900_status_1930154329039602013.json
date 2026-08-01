@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1930041389875904795",
+    "created_at": "2025-06-04T06:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T07:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930154329039602013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        },
+        {
+          "end": 22,
+          "id": "1587693577588846592",
+          "start": 11,
+          "username": "qishnlng20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930154329039602013",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930044193650704707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c @qishnlng20 是真的啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1930041389875904795",
+        "created_at": "2025-06-04T06:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930154329039602013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            },
+            {
+              "end": 22,
+              "id": "1587693577588846592",
+              "start": 11,
+              "username": "qishnlng20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930154329039602013",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930044193650704707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c @qishnlng20 是真的啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1930041389875904795",
+        "created_at": "2025-06-03T23:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T00:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930044193650704707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1587693577588846592",
+              "start": 0,
+              "username": "qishnlng20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930044193650704707",
+        "in_reply_to_user_id": "1587693577588846592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930041389875904795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qishnlng20 每次吃这个喝甜饮料也是苦的\n救命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 645,
+          "like_count": 32264,
+          "listed_count": 0,
+          "media_count": 586,
+          "tweet_count": 7515
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3031,
+          "like_count": 23359,
+          "listed_count": 3,
+          "media_count": 1434,
+          "tweet_count": 22362
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:30:28.000Z",
+        "description": "神所創造的世界,毎天看起来都是同様的風景。\n\n                自由意志左派/FPS苦手/Galgame高手/薬物使用/日常推\n另一面@9MbDisk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "9MbDisk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mb999999999",
+                "end": 23,
+                "expanded_url": "http://t.me/mb999999999",
+                "start": 0,
+                "url": "https://t.co/6lag6MaQr4"
+              }
+            ]
+          }
+        },
+        "id": "1587693577588846592",
+        "location": "16h 29m 24s、−26° 25′ 55″",
+        "name": "Lapin9",
+        "pinned_tweet_id": "1929390185747304490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920455257399640064/rWY29MF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 54,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/6lag6MaQr4",
+        "username": "qishnlng20",
+        "verified": false
+      }
+    ]
+  }
+}

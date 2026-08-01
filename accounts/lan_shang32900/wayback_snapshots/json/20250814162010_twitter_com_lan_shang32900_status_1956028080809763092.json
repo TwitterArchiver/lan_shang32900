@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956020589904453917",
+    "created_at": "2025-08-14T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956028080809763092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956028080809763092",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956020589904453917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 11111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1956020580601438208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUuWsgaIAA7H9v.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956020589904453917",
+        "created_at": "2025-08-14T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956028080809763092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956028080809763092",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956020589904453917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 11111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956020580601438208"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "conversation_id": "1956020589904453917",
+        "created_at": "2025-08-14T15:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956020589904453917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaZNldhpVt",
+              "end": 23,
+              "expanded_url": "https://x.com/admi_n123456/status/1956020589904453917/photo/1",
+              "media_key": "3_1956020580601438208",
+              "start": 0,
+              "url": "https://t.co/DaZNldhpVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956020589904453917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DaZNldhpVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 691,
+          "like_count": 35019,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8704
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "150/45kg 🚪52 双相混合型 ADHD",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 995,
+          "like_count": 14463,
+          "listed_count": 4,
+          "media_count": 1279,
+          "tweet_count": 8763
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

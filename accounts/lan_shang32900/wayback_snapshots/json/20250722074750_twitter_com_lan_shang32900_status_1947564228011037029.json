@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1947205518344204744",
+    "created_at": "2025-07-22T07:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T08:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947564228011037029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        },
+        {
+          "end": 25,
+          "id": "1219243736984473600",
+          "start": 14,
+          "username": "SuanSuan39"
+        },
+        {
+          "end": 42,
+          "id": "1592189823892295680",
+          "start": 26,
+          "username": "MaplesyrupMagic"
+        },
+        {
+          "end": 57,
+          "id": "1847153221900685312",
+          "start": 43,
+          "username": "weiheyaokanwo"
+        },
+        {
+          "end": 73,
+          "id": "1530699087133421568",
+          "start": 58,
+          "username": "SpicyspacEmk16"
+        },
+        {
+          "end": 89,
+          "id": "1557839863151337473",
+          "start": 74,
+          "username": "scutigera_8964"
+        },
+        {
+          "end": 104,
+          "id": "1341766476609462274",
+          "start": 90,
+          "username": "mentallychels"
+        },
+        {
+          "end": 115,
+          "id": "1754795826713686016",
+          "start": 105,
+          "username": "xxxxinTvT"
+        },
+        {
+          "end": 126,
+          "id": "1850566498412318720",
+          "start": 116,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947564228011037029",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947205518344204744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 @SuanSuan39 @MaplesyrupMagic @weiheyaokanwo @SpicyspacEmk16 @scutigera_8964 @mentallychels @xxxxinTvT @luobo4444 我也想玩咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1947205496131219456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXdFP2W8AA1TCC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1947205518344204744",
+        "created_at": "2025-07-22T07:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T08:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947564228011037029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            },
+            {
+              "end": 25,
+              "id": "1219243736984473600",
+              "start": 14,
+              "username": "SuanSuan39"
+            },
+            {
+              "end": 42,
+              "id": "1592189823892295680",
+              "start": 26,
+              "username": "MaplesyrupMagic"
+            },
+            {
+              "end": 57,
+              "id": "1847153221900685312",
+              "start": 43,
+              "username": "weiheyaokanwo"
+            },
+            {
+              "end": 73,
+              "id": "1530699087133421568",
+              "start": 58,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 89,
+              "id": "1557839863151337473",
+              "start": 74,
+              "username": "scutigera_8964"
+            },
+            {
+              "end": 104,
+              "id": "1341766476609462274",
+              "start": 90,
+              "username": "mentallychels"
+            },
+            {
+              "end": 115,
+              "id": "1754795826713686016",
+              "start": 105,
+              "username": "xxxxinTvT"
+            },
+            {
+              "end": 126,
+              "id": "1850566498412318720",
+              "start": 116,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947564228011037029",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947205518344204744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 @SuanSuan39 @MaplesyrupMagic @weiheyaokanwo @SpicyspacEmk16 @scutigera_8964 @mentallychels @xxxxinTvT @luobo4444 我也想玩咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947205496131219456"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947205518344204744",
+        "created_at": "2025-07-21T08:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T09:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947205518344204744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1219243736984473600",
+              "start": 3,
+              "username": "SuanSuan39"
+            },
+            {
+              "end": 31,
+              "id": "1592189823892295680",
+              "start": 15,
+              "username": "MaplesyrupMagic"
+            },
+            {
+              "end": 46,
+              "id": "1847153221900685312",
+              "start": 32,
+              "username": "weiheyaokanwo"
+            },
+            {
+              "end": 62,
+              "id": "1530699087133421568",
+              "start": 47,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 78,
+              "id": "1557839863151337473",
+              "start": 63,
+              "username": "scutigera_8964"
+            },
+            {
+              "end": 93,
+              "id": "1341766476609462274",
+              "start": 79,
+              "username": "mentallychels"
+            },
+            {
+              "end": 104,
+              "id": "1754795826713686016",
+              "start": 94,
+              "username": "xxxxinTvT"
+            },
+            {
+              "end": 115,
+              "id": "1850566498412318720",
+              "start": 105,
+              "username": "luobo4444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65cPlnhXNk",
+              "end": 139,
+              "expanded_url": "https://x.com/admi_n123456/status/1947205518344204744/photo/1",
+              "media_key": "3_1947205496131219456",
+              "start": 116,
+              "url": "https://t.co/65cPlnhXNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947205518344204744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3005,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大聚会@SuanSuan39 @MaplesyrupMagic @weiheyaokanwo @SpicyspacEmk16 @scutigera_8964 @mentallychels @xxxxinTvT @luobo4444 https://t.co/65cPlnhXNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 667,
+          "like_count": 33662,
+          "listed_count": 0,
+          "media_count": 638,
+          "tweet_count": 8183
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "ゆめみ 雙相混合 150/42kg 我一直在哭 不要視奸我 特別喜歡交朋友 擅長熱暴力 非二元 我一直在哭 fa～buk 自殘 幻覺 升天 解離 我需要很多錢 正在瞭解合理用藥知識 java 數碼控 政治 b 不回 fo 喜歡和萌妹子交朋友（我關注了你說明你真的特別特別萌）歡迎找我聊天我是客服",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1933667339884691663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1300,
+          "like_count": 14160,
+          "listed_count": 4,
+          "media_count": 1222,
+          "tweet_count": 8535
+        },
+        "username": "admi_n123456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T13:02:34.000Z",
+        "description": "👁️  👁️",
+        "id": "1219243736984473600",
+        "location": "スバラシヰ世界",
+        "name": "蒜蒜",
+        "pinned_tweet_id": "1934831384889364707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806434822916587520/i4M10QTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 3093,
+          "like_count": 14792,
+          "listed_count": 10,
+          "media_count": 28,
+          "tweet_count": 4785
+        },
+        "username": "SuanSuan39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "抽烟 喝酒 overdose\n完全中立\n主鼓手，电吉他，贝斯，键盘都会一点点",
+        "id": "1592189823892295680",
+        "location": "上海 浦东新区",
+        "name": "Magic枫糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937444677961285634/oZLqCZ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 591,
+          "like_count": 4502,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 945
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ 剥离表达欲中/提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 42,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 19,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "location": "门槛188/520纯绿",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 421,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1791
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 1280,
+          "like_count": 87890,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 7785
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "♂/お幸せに/無言フォローすいません/dm大歓迎/我的一生从头到尾写满了失败",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1945378719742444007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942869238462517248/n6B-64Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4199,
+          "following_count": 3203,
+          "like_count": 32746,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 7999
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜很久沒有更新就應該是死掉了  🚪200",
+        "id": "1341766476609462274",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 165,
+          "like_count": 903,
+          "listed_count": 21,
+          "media_count": 226,
+          "tweet_count": 892
+        },
+        "username": "mentallychels",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "location": "🚪50",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1754800304498024517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3543,
+          "following_count": 704,
+          "like_count": 19904,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 8118
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜INFP｜ ♏️｜高中生｜日本語学习中｜乌蒙dx｜随缘fo｜想认识我给我打钱｜188｜388｜520｜1314｜5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUSGw"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1944027746025525316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7299,
+          "following_count": 434,
+          "like_count": 3265,
+          "listed_count": 8,
+          "media_count": 402,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/6Vz4UqUSGw",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

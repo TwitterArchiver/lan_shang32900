@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1942318975574237469",
+    "created_at": "2025-07-08T05:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T06:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942449812487455147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942449812487455147",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942318975574237469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 太坏了、、这种朋友还是远离些好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1942318975574237469",
+        "created_at": "2025-07-08T05:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942449812487455147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942449812487455147",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942318975574237469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 太坏了、、这种朋友还是远离些好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1942318975574237469",
+        "created_at": "2025-07-07T20:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T21:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942318975574237469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942318975574237469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是那个冤大头，哈哈，闻为了把她两叫出来聚餐我说我请客，花我的钱，她们就会出来了。\n来我家也是饮料雪糕随便喝\n说实话，但凡不是她说出那句话，我都能理解，但是我们认识了七八年，我们甚至住在同一栋小区。\n知道我有心理问题就这么着急疏远我吗？\n那个三人群里我从来没有散播过我的负能量，我的负能量一直以来都是写在推特，我并不是那种需要别人关心的人，而她们学习情感出现问题之后，最担心的人总是我，我总是那个安慰人的一方。\n对我有什么不满意的直接说出来不行吗，非要三人群两个人情侣头像，想表达什么呢？\n哦，你们私底下聊天就好了……\n其实我一直觉得我没什么软肋，\n后来才发现友谊竟是我的软肋，\n好吧，好吧，既然这么说了，那也不必要聊下去了，是吗？是吧？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是那个冤大头，哈哈，闻为了把她两叫出来聚餐我说我请客，花我的钱，她们就会出来了。\n来我家也是饮料雪糕随便喝\n说实话，但凡不是她说出那句话，我都能理解，但是我们认识了七八年，我们甚至住在同一栋小区。\n知道我有心理问题就这么着急疏远我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 655,
+          "like_count": 32830,
+          "listed_count": 0,
+          "media_count": 618,
+          "tweet_count": 7882
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀我是爱礼/是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨嘤鹉：@SENDOH214丨 是自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 76,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 53,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1934928449745063976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40860,
+          "following_count": 1073,
+          "like_count": 23451,
+          "listed_count": 48,
+          "media_count": 2453,
+          "tweet_count": 28586
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

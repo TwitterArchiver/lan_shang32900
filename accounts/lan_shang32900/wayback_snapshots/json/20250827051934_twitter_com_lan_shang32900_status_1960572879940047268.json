@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959761022996365365",
+    "created_at": "2025-08-27T05:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960572879940047268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        },
+        {
+          "end": 27,
+          "id": "1780620789211152384",
+          "start": 15,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960572879940047268",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960536158599000500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan @maque478728 好吃的好吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959761022996365365",
+        "created_at": "2025-08-27T05:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960572879940047268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 27,
+              "id": "1780620789211152384",
+              "start": 15,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960572879940047268",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960536158599000500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @maque478728 好吃的好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1959761022996365365",
+        "created_at": "2025-08-27T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960536158599000500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780620789211152384",
+              "start": 0,
+              "username": "maque478728"
+            },
+            {
+              "end": 49,
+              "id": "1749719755119071232",
+              "start": 34,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960536158599000500",
+        "in_reply_to_user_id": "1780620789211152384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959761022996365365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maque478728 我们这里有非常好阿根廷板腱牛排可以做给你吃@lan_shang32900 可以作证有多好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 704,
+          "like_count": 35865,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9018
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 549,
+          "like_count": 24836,
+          "listed_count": 2,
+          "media_count": 1074,
+          "tweet_count": 9810
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "可以称呼我为小麻雀.目前在计划自杀当然也不一定会真的自杀只是不太想活着罢了.🚪价位是168/368/520/1314...一阶门槛解锁视频/语音全天陪聊入门后可加福利群不定时发送群主色图入二阶门槛可时不时找博主裸聊",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "pinned_tweet_id": "1956801182896468264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3189,
+          "following_count": 103,
+          "like_count": 506,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 1223
+        },
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

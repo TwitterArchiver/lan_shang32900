@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922307884035059926",
+    "created_at": "2025-05-15T11:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T12:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922985305256108246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891721793452548096",
+          "start": 0,
+          "username": "Yulialing01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922985305256108246",
+    "in_reply_to_user_id": "1891721793452548096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922307884035059926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yulialing01 实际上只是睡着了吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922307884035059926",
+        "created_at": "2025-05-15T11:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922985305256108246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891721793452548096",
+              "start": 0,
+              "username": "Yulialing01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922985305256108246",
+        "in_reply_to_user_id": "1891721793452548096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922307884035059926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yulialing01 实际上只是睡着了吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891721793452548096",
+        "conversation_id": "1922307884035059926",
+        "created_at": "2025-05-13T15:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922307884035059926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922307884035059926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 287328,
+          "like_count": 971,
+          "quote_count": 16,
+          "reply_count": 319,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "做完爱是应该先清理还是先安抚？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 651,
+          "like_count": 31731,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 7349
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:30:09.000Z",
+        "description": "睡个好觉",
+        "id": "1891721793452548096",
+        "name": "Yulia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891724772691554304/sRb76K2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5142,
+          "following_count": 131,
+          "like_count": 27391,
+          "listed_count": 13,
+          "media_count": 273,
+          "tweet_count": 8730
+        },
+        "username": "Yulialing01",
+        "verified": false
+      }
+    ]
+  }
+}

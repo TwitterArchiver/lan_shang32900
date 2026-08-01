@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1954554418181140682",
+    "created_at": "2025-08-11T02:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T03:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954734192618860995"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "明明",
+          "probability": 0.4986,
+          "start": 7,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1506688431833104384",
+          "start": 0,
+          "username": "XUWPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954734192618860995",
+    "in_reply_to_user_id": "1506688431833104384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954554418181140682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUWPM 明明很萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1954554406898425857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_44J1a4AEIrza.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1954554418181140682",
+        "created_at": "2025-08-11T02:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954734192618860995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "明明",
+              "probability": 0.4986,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1506688431833104384",
+              "start": 0,
+              "username": "XUWPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954734192618860995",
+        "in_reply_to_user_id": "1506688431833104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954554418181140682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUWPM 明明很萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954554406898425857"
+          ]
+        },
+        "author_id": "1506688431833104384",
+        "conversation_id": "1954554418181140682",
+        "created_at": "2025-08-10T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954554418181140682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoteIhtxOa",
+              "end": 32,
+              "expanded_url": "https://x.com/XUWPM/status/1954554418181140682/photo/1",
+              "media_key": "3_1954554406898425857",
+              "start": 9,
+              "url": "https://t.co/ZoteIhtxOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954554418181140682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子手丑的没边了 https://t.co/ZoteIhtxOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 686,
+          "like_count": 34683,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 8602
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T17:45:02.000Z",
+        "description": "",
+        "id": "1506688431833104384",
+        "name": "胃痛",
+        "pinned_tweet_id": "1584569580290453505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697713115818000384/OgNn_ZlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7928,
+          "following_count": 304,
+          "like_count": 6448,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 4454
+        },
+        "username": "XUWPM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1944213998213509356",
+    "created_at": "2025-07-13T01:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T02:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944213998213509356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944213998213509356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于霸凌行为的主角到底能不能磕CP……很多人觉得霸凌本身就是社会问题，能磕起来的都是没被霸凌过的。霸凌这种事确实只有当事人自己清楚吧，但能否原谅也是当事人自己的课题，有人可以有人不行都是正常的，但我们不能替他人原谅。至少在角色塑造上章鱼p比较立体一些，两人纠缠的感情双方故事还在继续"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1944213998213509356",
+        "created_at": "2025-07-13T01:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T02:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944213998213509356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944213998213509356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于霸凌行为的主角到底能不能磕CP……很多人觉得霸凌本身就是社会问题，能磕起来的都是没被霸凌过的。霸凌这种事确实只有当事人自己清楚吧，但能否原谅也是当事人自己的课题，有人可以有人不行都是正常的，但我们不能替他人原谅。至少在角色塑造上章鱼p比较立体一些，两人纠缠的感情双方故事还在继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 657,
+          "like_count": 33125,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 7972
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

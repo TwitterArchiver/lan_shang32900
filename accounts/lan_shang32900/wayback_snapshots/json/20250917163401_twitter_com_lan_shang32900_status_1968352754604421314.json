@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1968291034359841012",
+    "created_at": "2025-09-17T16:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T17:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968352754604421314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924364001267576832",
+          "start": 0,
+          "username": "Meow_Bellaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968352754604421314",
+    "in_reply_to_user_id": "1924364001267576832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968291034359841012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow_Bellaaa 其实我水果削皮也是这样🥲说我削完皮水果几乎只剩核了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_1968291024977190912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DGQj5a4AAtYhP.jpg",
+        "width": 995
+      },
+      {
+        "height": 1132,
+        "media_key": "3_1968291024985612288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DGQj7bYAAzuk6.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1968291034359841012",
+        "created_at": "2025-09-17T16:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968352754604421314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924364001267576832",
+              "start": 0,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968352754604421314",
+        "in_reply_to_user_id": "1924364001267576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968291034359841012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Bellaaa 其实我水果削皮也是这样🥲说我削完皮水果几乎只剩核了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968291024977190912",
+            "3_1968291024985612288"
+          ]
+        },
+        "author_id": "1924364001267576832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968291034359841012",
+        "created_at": "2025-09-17T12:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968291034359841012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 90,
+              "tag": "第一次切丝瓜好难"
+            },
+            {
+              "end": 109,
+              "start": 100,
+              "tag": "三个字是十五分钟"
+            },
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "十五分钟是四个字"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFWmyo3mbO",
+              "end": 143,
+              "expanded_url": "https://x.com/Meow_Bellaaa/status/1968291034359841012/photo/1",
+              "media_key": "3_1968291024977190912",
+              "start": 120,
+              "url": "https://t.co/FFWmyo3mbO"
+            },
+            {
+              "display_url": "pic.x.com/FFWmyo3mbO",
+              "end": 143,
+              "expanded_url": "https://x.com/Meow_Bellaaa/status/1968291034359841012/photo/1",
+              "media_key": "3_1968291024985612288",
+              "start": 120,
+              "url": "https://t.co/FFWmyo3mbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968291034359841012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息\n舍友姐姐今天煲汤给我喝\n我们要喝很丰富的promax版丝瓜汤\n\n坏消息\n小咪下厨经验几乎为0\n也就是不会用刀\n也就是两根丝瓜最后只剩差不多一根的量了\n（目移）（小猫没错）\n#第一次切丝瓜好难 #三个字是十五分钟 #十五分钟是四个字 https://t.co/FFWmyo3mbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 744,
+          "like_count": 38119,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 9766
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T07:18:42.000Z",
+        "description": "ENFJ-A天秤日记本📓｜活人感🧩掉落｜随你怎么说 也请随我怎么说🤫｜世界就是个巨大的心想事成 只想追求内心的平静｜不要给我分类和贴标签 惹我会触发愤怒咪请三思｜可以叫我小咪 谢谢你关注我🫶🏻｜咪有一个岁月静好的社群｜Brain Is The New Sexy.🧠",
+        "id": "1924364001267576832",
+        "location": "咪之幸福乌托邦",
+        "name": "小咪殿下萬歲萬歲萬萬歲",
+        "pinned_tweet_id": "1925852097314001194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967238990878461952/e0w_WQXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 143,
+          "like_count": 12199,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 3762
+        },
+        "username": "Meow_Bellaaa",
+        "verified": false
+      }
+    ]
+  }
+}

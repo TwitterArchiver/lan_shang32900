@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963953677653467136"
+      ],
+      "media_source_tweet_id": [
+        "1963953681310839187"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1964142387283857470",
+    "created_at": "2025-09-06T01:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964142387283857470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878356855975723008",
+          "start": 3,
+          "username": "ugglasquest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o4uWclncrW",
+          "end": 69,
+          "expanded_url": "https://x.com/ugglasquest/status/1963953681310839187/photo/1",
+          "media_key": "3_1963953677653467136",
+          "start": 46,
+          "url": "https://t.co/o4uWclncrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964142387283857470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963953681310839187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ugglasquest: 这个人想接稿(இωஇ )我擅长画小女孩，有接稿意向请私信 https://t.co/o4uWclncrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1963953677653467136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Fddt_bYAADhg9.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963953677653467136"
+          ],
+          "media_source_tweet_id": [
+            "1963953681310839187"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1964142387283857470",
+        "created_at": "2025-09-06T01:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964142387283857470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878356855975723008",
+              "start": 3,
+              "username": "ugglasquest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4uWclncrW",
+              "end": 69,
+              "expanded_url": "https://x.com/ugglasquest/status/1963953681310839187/photo/1",
+              "media_key": "3_1963953677653467136",
+              "start": 46,
+              "url": "https://t.co/o4uWclncrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964142387283857470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963953681310839187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ugglasquest: 这个人想接稿(இωஇ )我擅长画小女孩，有接稿意向请私信 https://t.co/o4uWclncrW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963953677653467136"
+          ]
+        },
+        "author_id": "1878356855975723008",
+        "conversation_id": "1963953681310839187",
+        "created_at": "2025-09-05T13:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963953681310839187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4uWclncrW",
+              "end": 52,
+              "expanded_url": "https://x.com/ugglasquest/status/1963953681310839187/photo/1",
+              "media_key": "3_1963953677653467136",
+              "start": 29,
+              "url": "https://t.co/o4uWclncrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963953681310839187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人想接稿(இωஇ )我擅长画小女孩，有接稿意向请私信 https://t.co/o4uWclncrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 715,
+          "like_count": 36818,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 9339
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  08  流血推预警 ‼️ 偶尔会发一些自己的绘画作品   抑郁/强迫/焦虑障碍/人际交往障碍/适应障碍/边缘型人格障碍/依赖型人格障碍  ₍˄·͈༝·͈˄*₎◞ ̑̑我是女同性恋https://t.co/BS4jLUCdNb匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ugras2",
+                "end": 134,
+                "expanded_url": "https://ngl.link/ugras2",
+                "start": 111,
+                "url": "https://t.co/BS4jLUCdNb"
+              }
+            ]
+          }
+        },
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928290700430561281/EJVIkXmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 55,
+          "like_count": 12501,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 1755
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

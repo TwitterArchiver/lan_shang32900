@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1921554516719120707",
+    "created_at": "2025-05-11T13:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T14:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921554516719120707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921554516719120707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然这样说很可能被骂但是总感觉性别意识觉醒是在身心经济都健全的情况下才能进行的。强迫别人接受自己的观点本身就很奇怪，但思想冲撞也是个挺有意思的过程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1921554516719120707",
+        "created_at": "2025-05-11T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921554516719120707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921554516719120707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然这样说很可能被骂但是总感觉性别意识觉醒是在身心经济都健全的情况下才能进行的。强迫别人接受自己的观点本身就很奇怪，但思想冲撞也是个挺有意思的过程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 652,
+          "like_count": 31499,
+          "listed_count": 0,
+          "media_count": 557,
+          "tweet_count": 7294
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

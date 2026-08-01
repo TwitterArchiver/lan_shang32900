@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1903383945397277157",
+    "created_at": "2025-03-22T09:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T10:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903383945397277157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lan_shang32900…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/lan_shang32900/status/1903349503253532770",
+          "start": 27,
+          "url": "https://t.co/LsnPdfxp4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903383945397277157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903349503253532770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认真的谁给我钱……( i꒳i  )一个过门的都没有 https://t.co/LsnPdfxp4m"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1903349503253532770].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903349503253532770",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903349503253532770"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1903383945397277157",
+        "created_at": "2025-03-22T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903383945397277157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lan_shang32900…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/lan_shang32900/status/1903349503253532770",
+              "start": 27,
+              "url": "https://t.co/LsnPdfxp4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903383945397277157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903349503253532770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认真的谁给我钱……( i꒳i  )一个过门的都没有 https://t.co/LsnPdfxp4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 661,
+          "like_count": 31454,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 7086
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

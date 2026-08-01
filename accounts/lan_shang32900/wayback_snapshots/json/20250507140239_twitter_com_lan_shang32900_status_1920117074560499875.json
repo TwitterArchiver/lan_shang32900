@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920117074560499875",
+    "created_at": "2025-05-07T14:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920117074560499875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920117074560499875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤔家庭对我做的最坚持的事情就是不让我和我妹依赖任何人或事物，包括他们自己（家庭本身以及任何社会关系）目前也没有办法对任何产生连接，但是也并非虚无，只是适当的解离并观察着。\n\n不是任何定义也可以成为任何定义，对吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920117074560499875",
+        "created_at": "2025-05-07T14:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920117074560499875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920117074560499875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔家庭对我做的最坚持的事情就是不让我和我妹依赖任何人或事物，包括他们自己（家庭本身以及任何社会关系）目前也没有办法对任何产生连接，但是也并非虚无，只是适当的解离并观察着。\n\n不是任何定义也可以成为任何定义，对吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 649,
+          "like_count": 31383,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 7248
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

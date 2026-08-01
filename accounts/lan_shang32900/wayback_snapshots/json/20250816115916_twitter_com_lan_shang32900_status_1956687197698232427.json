@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956687197698232427",
+    "created_at": "2025-08-16T11:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956687197698232427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956687197698232427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暈死了，為什麼這個抗焦慮藥藥板是單數，怎麼吃都不對勁、、複習不進去要暈倒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956687197698232427",
+        "created_at": "2025-08-16T11:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956687197698232427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956687197698232427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暈死了，為什麼這個抗焦慮藥藥板是單數，怎麼吃都不對勁、、複習不進去要暈倒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 696,
+          "like_count": 35075,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 8732
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

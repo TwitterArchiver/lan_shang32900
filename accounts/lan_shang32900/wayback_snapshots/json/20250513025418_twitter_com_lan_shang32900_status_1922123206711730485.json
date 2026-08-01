@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1922123206711730485",
+    "created_at": "2025-05-13T02:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922123206711730485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/damatte8964/status/1921852071520637416",
+          "start": 95,
+          "url": "https://t.co/7Q0A0rL50K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922123206711730485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921852071520637416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人能好好活着都是因为我，所有人都要感谢我。因为我精神病发的时候没有杀人、所以人才能好好的享受生活感受幸福。如果我去报复社会的话他们全都会成为冷冷的尸体，但是我没有这么做。这就是我伟大的慈悲 https://t.co/7Q0A0rL50K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1922123206711730485",
+        "created_at": "2025-05-13T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922123206711730485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/damatte8964/status/1921852071520637416",
+              "start": 95,
+              "url": "https://t.co/7Q0A0rL50K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922123206711730485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921852071520637416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人能好好活着都是因为我，所有人都要感谢我。因为我精神病发的时候没有杀人、所以人才能好好的享受生活感受幸福。如果我去报复社会的话他们全都会成为冷冷的尸体，但是我没有这么做。这就是我伟大的慈悲 https://t.co/7Q0A0rL50K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1921852071520637416",
+        "created_at": "2025-05-12T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921852071520637416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921852071520637416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2452,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人能好好活着都是因为我，所有人都要感谢我。因为我精神病发的时候没有杀人、所以人才能好好的享受生活感受幸福。如果我去报复社会的话他们全都会成为冷冷的尸体，但是我没有这么做。这就是我伟大的慈悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 652,
+          "like_count": 31574,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 7308
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我是真有精神病。社会边缘人。我在东京，可以找我来交朋友。。。",
+        "id": "1747931023277502465",
+        "location": "🚪99聊天 让我圈点",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31637,
+          "following_count": 675,
+          "like_count": 6023,
+          "listed_count": 37,
+          "media_count": 127,
+          "tweet_count": 1902
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

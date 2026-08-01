@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939844385245733092",
+    "created_at": "2025-07-01T11:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940013186171941308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734571748635652096",
+          "start": 0,
+          "username": "jpxy120764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940013186171941308",
+    "in_reply_to_user_id": "1734571748635652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939995003713196194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jpxy120764 天呐是不是压到了、一般湿度或者酒精刺激会变红哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939844385245733092",
+        "created_at": "2025-07-01T11:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940013186171941308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734571748635652096",
+              "start": 0,
+              "username": "jpxy120764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940013186171941308",
+        "in_reply_to_user_id": "1734571748635652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939995003713196194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpxy120764 天呐是不是压到了、一般湿度或者酒精刺激会变红哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734571748635652096",
+        "conversation_id": "1939844385245733092",
+        "created_at": "2025-07-01T10:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939995003713196194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939995003713196194",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939919959066648804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 卧槽本来淡淡的紫紫的我一觉睡醒突然变得特别红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 657,
+          "like_count": 32521,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 7752
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T13:52:20.000Z",
+        "description": "edtwt | shtwt | od | 负能 | 欢迎互fo | 女生除外私信只回口令相关 过门聊线下",
+        "id": "1734571748635652096",
+        "location": "🚪88 纯绿",
+        "name": "番茄炒拉面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906941734468403200/66gaOv0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 148,
+          "like_count": 21746,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2401
+        },
+        "username": "jpxy120764",
+        "verified": false
+      }
+    ]
+  }
+}

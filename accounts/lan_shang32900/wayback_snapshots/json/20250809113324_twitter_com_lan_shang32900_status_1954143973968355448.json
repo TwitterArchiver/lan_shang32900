@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954137495840677888",
+        "7_1954137500148273152"
+      ],
+      "media_source_tweet_id": [
+        "1954137570432180561",
+        "1954137570432180561"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954143973968355448",
+    "created_at": "2025-08-09T11:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954143973968355448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 3,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5R04p1oLjE",
+          "end": 38,
+          "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+          "media_key": "7_1954137495840677888",
+          "start": 15,
+          "url": "https://t.co/5R04p1oLjE"
+        },
+        {
+          "display_url": "pic.x.com/5R04p1oLjE",
+          "end": 38,
+          "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+          "media_key": "7_1954137500148273152",
+          "start": 15,
+          "url": "https://t.co/5R04p1oLjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954143973968355448",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954137570432180561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusanyyy8: https://t.co/5R04p1oLjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2487,
+        "height": 720,
+        "media_key": "7_1954137495840677888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954137495840677888/pu/img/Sw0sg05mRsAFKOeK.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137495840677888/pu/vid/avc1/360x270/mswyyf135iZn4nD8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137495840677888/pu/vid/avc1/480x360/mREnJZyud0a1NdFH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137495840677888/pu/vid/avc1/960x720/_lmq85WWMcytCBZ7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954137495840677888/pu/pl/KC_Q601z7pacB3_K.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 3122,
+        "height": 960,
+        "media_key": "7_1954137500148273152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954137500148273152/pu/img/lE5GWk1LZjyYDRG5.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137500148273152/pu/vid/avc1/320x426/6QqySPUWRUJmORtn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137500148273152/pu/vid/avc1/480x640/CHwkLNFpgYje1uKr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954137500148273152/pu/vid/avc1/720x960/_g_50SJJrkjDoPM6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954137500148273152/pu/pl/ytjzIdee0Hy1vp-m.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954137495840677888",
+            "7_1954137500148273152"
+          ],
+          "media_source_tweet_id": [
+            "1954137570432180561",
+            "1954137570432180561"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954143973968355448",
+        "created_at": "2025-08-09T11:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954143973968355448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 3,
+              "username": "yusanyyy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5R04p1oLjE",
+              "end": 38,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+              "media_key": "7_1954137495840677888",
+              "start": 15,
+              "url": "https://t.co/5R04p1oLjE"
+            },
+            {
+              "display_url": "pic.x.com/5R04p1oLjE",
+              "end": 38,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+              "media_key": "7_1954137500148273152",
+              "start": 15,
+              "url": "https://t.co/5R04p1oLjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954143973968355448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954137570432180561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusanyyy8: https://t.co/5R04p1oLjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954137495840677888",
+            "7_1954137500148273152"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1954137570432180561",
+        "created_at": "2025-08-09T11:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954137570432180561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5R04p1oLjE",
+              "end": 23,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+              "media_key": "7_1954137495840677888",
+              "start": 0,
+              "url": "https://t.co/5R04p1oLjE"
+            },
+            {
+              "display_url": "pic.x.com/5R04p1oLjE",
+              "end": 23,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954137570432180561/video/1",
+              "media_key": "7_1954137500148273152",
+              "start": 0,
+              "url": "https://t.co/5R04p1oLjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954137570432180561",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5R04p1oLjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 679,
+          "like_count": 34525,
+          "listed_count": 2,
+          "media_count": 658,
+          "tweet_count": 8553
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "我是南酱小南南老师，不知名领域带师，科幻迷，数学专业苦手，喜欢做饭二次元发自拍做手工，下面是我的博客网站↘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "location": "⌯ᐢᗜᐢ⌯ಣ",
+        "name": "南🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 73,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

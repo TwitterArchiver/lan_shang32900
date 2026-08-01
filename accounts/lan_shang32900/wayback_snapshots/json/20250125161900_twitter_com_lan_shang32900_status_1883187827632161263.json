@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880690956997107712"
+      ],
+      "media_source_tweet_id": [
+        "1880690959811543337"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1883187827632161263",
+    "created_at": "2025-01-25T16:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883187827632161263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761106331896033283",
+          "start": 3,
+          "username": "nemurikamisama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgJzZhark0",
+          "end": 50,
+          "expanded_url": "https://x.com/nemurikamisama/status/1880690959811543337/photo/1",
+          "media_key": "3_1880690956997107712",
+          "start": 27,
+          "url": "https://t.co/DgJzZhark0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883187827632161263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880690959811543337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemurikamisama: 我又買了一個 https://t.co/DgJzZhark0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1880690956997107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmOdggaIAAJvLp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880690956997107712"
+          ],
+          "media_source_tweet_id": [
+            "1880690959811543337"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1883187827632161263",
+        "created_at": "2025-01-25T16:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883187827632161263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761106331896033283",
+              "start": 3,
+              "username": "nemurikamisama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgJzZhark0",
+              "end": 50,
+              "expanded_url": "https://x.com/nemurikamisama/status/1880690959811543337/photo/1",
+              "media_key": "3_1880690956997107712",
+              "start": 27,
+              "url": "https://t.co/DgJzZhark0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883187827632161263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880690959811543337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemurikamisama: 我又買了一個 https://t.co/DgJzZhark0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880690956997107712"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1880690959811543337",
+        "created_at": "2025-01-18T18:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T19:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880690959811543337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgJzZhark0",
+              "end": 30,
+              "expanded_url": "https://x.com/nemurikamisama/status/1880690959811543337/photo/1",
+              "media_key": "3_1880690956997107712",
+              "start": 7,
+              "url": "https://t.co/DgJzZhark0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880690959811543337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2632,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我又買了一個 https://t.co/DgJzZhark0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 638,
+          "like_count": 29514,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 6569
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n\n@kanakosama0223☜雙胞胎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "kanakosama0223"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "眠大人🪦",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8480,
+          "following_count": 25,
+          "like_count": 3352,
+          "listed_count": 10,
+          "media_count": 253,
+          "tweet_count": 1706
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

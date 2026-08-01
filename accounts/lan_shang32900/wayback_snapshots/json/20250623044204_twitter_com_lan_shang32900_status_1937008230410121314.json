@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937008230410121314",
+    "created_at": "2025-06-23T04:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T05:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937008230410121314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1774858357381140480",
+          "start": 3,
+          "username": "_moremoreKona"
+        },
+        {
+          "end": 34,
+          "id": "1557839863151337473",
+          "start": 19,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937008230410121314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936718381778186580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_moremoreKona: @scutigera_8964 人家家里有钱一边上学一边请假od割手 想想自己荒废学业有父母在背后给你当靠山吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937008230410121314",
+        "created_at": "2025-06-23T04:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937008230410121314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1774858357381140480",
+              "start": 3,
+              "username": "_moremoreKona"
+            },
+            {
+              "end": 34,
+              "id": "1557839863151337473",
+              "start": 19,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937008230410121314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936718381778186580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_moremoreKona: @scutigera_8964 人家家里有钱一边上学一边请假od割手 想想自己荒废学业有父母在背后给你当靠山吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774858357381140480",
+        "conversation_id": "1936677227162431804",
+        "created_at": "2025-06-22T09:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936718381778186580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936718381778186580",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1426,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936677227162431804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 人家家里有钱一边上学一边请假od割手 想想自己荒废学业有父母在背后给你当靠山吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 649,
+          "like_count": 32266,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 7635
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T17:56:29.000Z",
+        "description": "100%承認欲求雌竞女｜接收私信→@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "skk_minii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sankaku_nyan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sankaku_nyan",
+                "start": 0,
+                "url": "https://t.co/enZvQnWjaP"
+              }
+            ]
+          }
+        },
+        "id": "1774858357381140480",
+        "location": "我的命運線",
+        "name": "三角可麗餅",
+        "pinned_tweet_id": "1934595624223363493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454130128080896/t46mHRZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8450,
+          "following_count": 141,
+          "like_count": 1667,
+          "listed_count": 16,
+          "media_count": 208,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/enZvQnWjaP",
+        "username": "_moremoreKona",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "お幸せに。無言フォローすいません😞我精神病od自残中央空调不要对我有太大期待",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1930926127478186026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929099614915047424/aurGnrYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 3012,
+          "like_count": 31677,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 7276
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

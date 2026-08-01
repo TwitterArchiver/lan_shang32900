@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1974482675542241531",
+    "created_at": "2025-10-04T15:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974500507692716226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664566285022416896",
+          "start": 0,
+          "username": "J110777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974500507692716226",
+    "in_reply_to_user_id": "1664566285022416896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974496302575800769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J110777777 天呐怎么这样😭😭、、好糟糕……要去邻居家借热水吗、我超级害怕洗头遇到这种情况（（（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1974482675542241531",
+        "created_at": "2025-10-04T15:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974500507692716226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664566285022416896",
+              "start": 0,
+              "username": "J110777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974500507692716226",
+        "in_reply_to_user_id": "1664566285022416896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974496302575800769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J110777777 天呐怎么这样😭😭、、好糟糕……要去邻居家借热水吗、我超级害怕洗头遇到这种情况（（（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664566285022416896",
+        "conversation_id": "1974482675542241531",
+        "created_at": "2025-10-04T15:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974496302575800769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974496302575800769",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974494505790587114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 😭头发泡沫都没冲干净就被我妈赶出来了好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 759,
+          "like_count": 38927,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 9984
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T09:35:14.000Z",
+        "description": "纯废话账号",
+        "id": "1664566285022416896",
+        "location": "？",
+        "name": "我讨厌的人都去死",
+        "pinned_tweet_id": "1838553360951120279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894027864548286464/Xrg9_f6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 673,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 6931
+        },
+        "username": "J110777777",
+        "verified": false
+      }
+    ]
+  }
+}

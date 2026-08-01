@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1956625310205591688",
+    "created_at": "2025-08-17T07:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T08:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956979433551905132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "x4n1m0s1t1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956979433551905132",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956625310205591688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4n1m0s1t1x 薄花桜和紺青色！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1956625310205591688",
+        "created_at": "2025-08-17T07:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956979433551905132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "x4n1m0s1t1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956979433551905132",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956625310205591688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4n1m0s1t1x 薄花桜和紺青色！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033357768",
+              "name": "Extant"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1956625310205591688",
+        "created_at": "2025-08-16T07:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956625310205591688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arcaea_jp/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/arcaea_jp/status/1956506196506239083",
+              "start": 23,
+              "url": "https://t.co/4w7ClBsRqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956625310205591688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956506196506239083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常它十分蓝它真的很蓝它真真真真真真真真真蓝 https://t.co/4w7ClBsRqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 695,
+          "like_count": 35175,
+          "listed_count": 3,
+          "media_count": 668,
+          "tweet_count": 8769
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "アポフェニア",
+        "id": "1821916949456285696",
+        "name": "笑（）笑",
+        "pinned_tweet_id": "1956362527689810126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 76,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 637
+        },
+        "username": "x4n1m0s1t1x",
+        "verified": false
+      }
+    ]
+  }
+}

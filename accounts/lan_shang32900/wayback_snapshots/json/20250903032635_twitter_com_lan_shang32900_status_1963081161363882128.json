@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1962889795010535613",
+    "created_at": "2025-09-03T03:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963081161363882128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956493742602584064",
+          "start": 0,
+          "username": "nya_korii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963081161363882128",
+    "in_reply_to_user_id": "1956493742602584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963077814980317531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_korii uu（）感觉追星女孩都好厉害好有活力，自己像死尸一样在角落偷偷的羡慕偷偷的喜欢……好像很上不了台面呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1962889795010535613",
+        "created_at": "2025-09-03T03:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963081161363882128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956493742602584064",
+              "start": 0,
+              "username": "nya_korii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963081161363882128",
+        "in_reply_to_user_id": "1956493742602584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963077814980317531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_korii uu（）感觉追星女孩都好厉害好有活力，自己像死尸一样在角落偷偷的羡慕偷偷的喜欢……好像很上不了台面呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956493742602584064",
+        "conversation_id": "1962889795010535613",
+        "created_at": "2025-09-03T03:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963077814980317531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963077814980317531",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963077534066856124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 买小卡去演唱会（）不过我就是纯纯的隐退干不出这种事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 712,
+          "like_count": 36484,
+          "listed_count": 4,
+          "media_count": 684,
+          "tweet_count": 9229
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T23:10:41.000Z",
+        "description": "可以叫我言。🫀@nya_souta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "nya_souta"
+              }
+            ]
+          }
+        },
+        "id": "1956493742602584064",
+        "location": "奈落",
+        "name": "霧霧狐狐冰❄️",
+        "pinned_tweet_id": "1962446454120669363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962031549068533761/wzzvMQbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 133,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 198
+        },
+        "username": "nya_korii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1903805180782784689",
+    "created_at": "2025-03-23T13:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T14:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903805180782784689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/damatte8964/status/1903780752090665183",
+          "start": 116,
+          "url": "https://t.co/OHOfUoD0bg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903805180782784689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903780752090665183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为啥墙国人开始流行“把我当日本人整”这句话了，日本有调休吗？日本有996吗？日本有早六晚十吗？日本有大小周吗？日本的学业压力有这么大吗？日本有严格的言论管控吗？日本的学生食堂频繁出现问题吗？\n你不会真以为日本人过得比中国人惨吧？？ https://t.co/OHOfUoD0bg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1903805180782784689",
+        "created_at": "2025-03-23T13:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T14:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903805180782784689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/damatte8964/status/1903780752090665183",
+              "start": 116,
+              "url": "https://t.co/OHOfUoD0bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903805180782784689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903780752090665183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥墙国人开始流行“把我当日本人整”这句话了，日本有调休吗？日本有996吗？日本有早六晚十吗？日本有大小周吗？日本的学业压力有这么大吗？日本有严格的言论管控吗？日本的学生食堂频繁出现问题吗？\n你不会真以为日本人过得比中国人惨吧？？ https://t.co/OHOfUoD0bg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1903780752090665183",
+        "created_at": "2025-03-23T12:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903780752090665183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903780752090665183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1814,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥墙国人开始流行“把我当日本人整”这句话了，日本有调休吗？日本有996吗？日本有早六晚十吗？日本有大小周吗？日本的学业压力有这么大吗？日本有严格的言论管控吗？日本的学生食堂频繁出现问题吗？\n你不会真以为日本人过得比中国人惨吧？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 661,
+          "like_count": 31491,
+          "listed_count": 0,
+          "media_count": 523,
+          "tweet_count": 7097
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我系小咪呀｜ACG｜ボカロ｜感谢你来看我OwO｜不喜欢我的话请隐藏我…！抱歉打扰到你",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿（挂着防骚扰）",
+        "name": "风情万种的张宝君",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31695,
+          "following_count": 654,
+          "like_count": 4998,
+          "listed_count": 37,
+          "media_count": 99,
+          "tweet_count": 1678
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

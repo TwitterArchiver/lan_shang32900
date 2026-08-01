@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1903498840420028416"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1903498865833357489",
+    "created_at": "2025-03-22T17:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T18:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903498865833357489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5Ko7uBgJ7",
+          "end": 30,
+          "expanded_url": "https://x.com/lan_shang32900/status/1903498865833357489/video/1",
+          "media_key": "7_1903498840420028416",
+          "start": 7,
+          "url": "https://t.co/l5Ko7uBgJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903498865833357489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫虫QwQ https://t.co/l5Ko7uBgJ7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903498865833357489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903498865833357489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903498865833357489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3343,
+        "height": 1280,
+        "media_key": "7_1903498840420028416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903498840420028416/pu/img/Z-z5VrEj4eeY9GAg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903498840420028416/pu/vid/avc1/320x568/MHjn4f2_hlA63R2q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903498840420028416/pu/vid/avc1/480x852/jO3Uhyzvih2PxEEr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903498840420028416/pu/vid/avc1/720x1280/EUuizOiYxqSZaPWE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903498840420028416/pu/pl/nK6ilQe7cN5bgcar.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 661,
+          "like_count": 31484,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 7093
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

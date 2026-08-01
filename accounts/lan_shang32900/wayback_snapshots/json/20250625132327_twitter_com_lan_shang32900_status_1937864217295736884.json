@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937833009295802587",
+    "created_at": "2025-06-25T13:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T14:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937864217295736884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937864217295736884",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937833009295802587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 零食做饭大法是最偉く的发明"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2190,
+        "height": 720,
+        "media_key": "7_1937832978677465088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937832978677465088/pu/img/X7jmagfYpbG3Bcxf.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832978677465088/pu/vid/avc1/360x270/oq55UKOMRfeSD8Jn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832978677465088/pu/vid/avc1/480x360/agkA3MnIBXzT3_Fe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832978677465088/pu/vid/avc1/960x720/bwqsZ3uEjv-Lsxp6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937832978677465088/pu/pl/uJ0P2RyOc-GUiekc.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 4867,
+        "height": 1280,
+        "media_key": "7_1937832982393634816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937832982393634816/pu/img/TIsr1l6l8PuyGL2c.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832982393634816/pu/vid/avc1/320x568/0CmJaky2N1iCiKmZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832982393634816/pu/vid/avc1/480x852/5HEA76HP9f-Q1fAa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937832982393634816/pu/vid/avc1/720x1280/q3wxGUfAjcQkMVvX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937832982393634816/pu/pl/e8Xvj2H73rfQCENO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937833009295802587",
+        "created_at": "2025-06-25T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937864217295736884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937864217295736884",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937833009295802587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 零食做饭大法是最偉く的发明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937832978677465088",
+            "7_1937832982393634816"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1937833009295802587",
+        "created_at": "2025-06-25T11:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937833009295802587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hu65nfDhkW",
+              "end": 53,
+              "expanded_url": "https://x.com/yusanyyy8/status/1937833009295802587/video/1",
+              "media_key": "7_1937832978677465088",
+              "start": 30,
+              "url": "https://t.co/Hu65nfDhkW"
+            },
+            {
+              "display_url": "pic.x.com/Hu65nfDhkW",
+              "end": 53,
+              "expanded_url": "https://x.com/yusanyyy8/status/1937833009295802587/video/1",
+              "media_key": "7_1937832982393634816",
+              "start": 30,
+              "url": "https://t.co/Hu65nfDhkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937833009295802587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人就是这样买了一瓶柠檬汁和魔芋爽就做了一顿酸菜牛肉火锅🌚 https://t.co/Hu65nfDhkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 651,
+          "like_count": 32100,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 7654
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "自恋心🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "南🍄",
+        "pinned_tweet_id": "1925361316891681221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 62,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

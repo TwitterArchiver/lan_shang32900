@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944668475630456833"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1944668484186833176",
+    "created_at": "2025-07-14T08:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944668484186833176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qiY8Vq9R5q",
+          "end": 71,
+          "expanded_url": "https://x.com/lan_shang32900/status/1944668484186833176/photo/1",
+          "media_key": "3_1944668475630456833",
+          "start": 48,
+          "url": "https://t.co/qiY8Vq9R5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944668484186833176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还真的遇到不少这种老师，感觉每一条都至少对应符合一个人，国内教育能这么拉绝对少不了他们的手笔 https://t.co/qiY8Vq9R5q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944668484186833176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944668484186833176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944668484186833176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_1944668475630456833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzZrN_akAEobHT.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 656,
+          "like_count": 33175,
+          "listed_count": 0,
+          "media_count": 626,
+          "tweet_count": 7996
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

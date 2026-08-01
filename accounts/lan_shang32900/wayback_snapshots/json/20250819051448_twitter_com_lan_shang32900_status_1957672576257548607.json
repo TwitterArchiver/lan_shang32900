@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1957663942555365605",
+    "created_at": "2025-08-19T05:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957672576257548607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "x4n1m0s1t1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957672576257548607",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957663942555365605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4n1m0s1t1x 漏看哪集了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1957663942555365605",
+        "created_at": "2025-08-19T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957672576257548607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "x4n1m0s1t1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957672576257548607",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957663942555365605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4n1m0s1t1x 漏看哪集了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1957663942555365605",
+        "created_at": "2025-08-19T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957663942555365605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957663942555365605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "guy小时候回家要爬100步楼梯，搬家之后小区装电梯了\nGuy小时候家里穷，只有自行车上学，Guy母对它说：我们那时哪有这条件啊。Guy完成学业后Guy母立刻买了辆奔驰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 697,
+          "like_count": 35285,
+          "listed_count": 4,
+          "media_count": 670,
+          "tweet_count": 8813
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "アポフェニア",
+        "id": "1821916949456285696",
+        "name": "笑（）笑",
+        "pinned_tweet_id": "1956362527689810126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 76,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 704
+        },
+        "username": "x4n1m0s1t1x",
+        "verified": false
+      }
+    ]
+  }
+}

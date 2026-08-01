@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041441453982056521",
+    "created_at": "2026-04-07T09:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041442572841943177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041442572841943177",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041441453982056521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家没有网络也极少用电器，老人家都在想办法找地方种菜，没有电梯的高层楼房地上堆满了发芽的粮食，附近拼好饭和网络买菜都需要去很远的地方自提，其实不明白住在那里意义是什么，但是那个唯一的房子也要被卖了。无所谓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041441453982056521",
+        "created_at": "2026-04-07T09:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041442572841943177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041442572841943177",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041441453982056521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家没有网络也极少用电器，老人家都在想办法找地方种菜，没有电梯的高层楼房地上堆满了发芽的粮食，附近拼好饭和网络买菜都需要去很远的地方自提，其实不明白住在那里意义是什么，但是那个唯一的房子也要被卖了。无所谓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041441453982056521",
+        "created_at": "2026-04-07T09:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041441453982056521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041441453982056521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家就是没有上报的贫困户呵呵为什么他们不要这个钱也不认这个命，又贫穷又非要有骨气，然后户口也改到城市永远住在边缘的城中村里，把所有福利都完美抛开自己打拼，我没有这份勇气和能力，我没办法做到那样在现代社会完全脱离电器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 796,
+          "like_count": 42774,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 10833
+        },
+        "username": "lan_shang32900",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 796,
+          "like_count": 42774,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 10833
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

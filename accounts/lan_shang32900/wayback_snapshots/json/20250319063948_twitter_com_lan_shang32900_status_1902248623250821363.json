@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902058734354100225"
+      ],
+      "media_source_tweet_id": [
+        "1902058737827013081"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1902248623250821363",
+    "created_at": "2025-03-19T06:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T07:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902248623250821363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1822652017241886720",
+          "start": 3,
+          "username": "dooropenatnight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WaCYV4DtOY",
+          "end": 57,
+          "expanded_url": "https://x.com/dooropenatnight/status/1902058737827013081/photo/1",
+          "media_key": "3_1902058734354100225",
+          "start": 34,
+          "url": "https://t.co/WaCYV4DtOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902248623250821363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902058737827013081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dooropenatnight: remember me? https://t.co/WaCYV4DtOY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902248623250821363].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902248623250821363",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902248623250821363"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902058734354100225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmV4V2Ma8AE_H4K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902058734354100225"
+          ]
+        },
+        "author_id": "1822652017241886720",
+        "conversation_id": "1902058737827013081",
+        "created_at": "2025-03-18T18:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T19:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902058737827013081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaCYV4DtOY",
+              "end": 36,
+              "expanded_url": "https://x.com/dooropenatnight/status/1902058737827013081/photo/1",
+              "media_key": "3_1902058734354100225",
+              "start": 13,
+              "url": "https://t.co/WaCYV4DtOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902058737827013081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 805,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "remember me? https://t.co/WaCYV4DtOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 660,
+          "like_count": 31381,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 7066
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T15:11:43.000Z",
+        "description": "我是银",
+        "id": "1822652017241886720",
+        "name": "金属制廉价银河",
+        "pinned_tweet_id": "1895088378670100968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902050706816991232/WBAMaA_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 100,
+          "like_count": 2182,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 333
+        },
+        "username": "dooropenatnight",
+        "verified": false
+      }
+    ]
+  }
+}

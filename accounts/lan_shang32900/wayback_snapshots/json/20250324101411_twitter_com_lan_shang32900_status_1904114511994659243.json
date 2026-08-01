@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1904114511994659243",
+    "created_at": "2025-03-24T10:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T11:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904114511994659243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/damatte8964/status/1903819395442335945",
+          "start": 19,
+          "url": "https://t.co/dp9ltkQsyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904114511994659243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903819395442335945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们到底有什么好的啊？你也看看我吧？ https://t.co/dp9ltkQsyQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1904114511994659243",
+        "created_at": "2025-03-24T10:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904114511994659243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/damatte8964/status/1903819395442335945",
+              "start": 19,
+              "url": "https://t.co/dp9ltkQsyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904114511994659243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903819395442335945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们到底有什么好的啊？你也看看我吧？ https://t.co/dp9ltkQsyQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1903819395442335945",
+        "created_at": "2025-03-23T14:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903819395442335945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903819395442335945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2980,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们到底有什么好的啊？你也看看我吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 662,
+          "like_count": 31498,
+          "listed_count": 0,
+          "media_count": 524,
+          "tweet_count": 7107
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我系小咪呀｜ACG｜ボカロ｜感谢你来看我OwO｜不喜欢我的话请隐藏我…！抱歉打扰到你",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿（挂着防骚扰）",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31675,
+          "following_count": 659,
+          "like_count": 5066,
+          "listed_count": 37,
+          "media_count": 102,
+          "tweet_count": 1703
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

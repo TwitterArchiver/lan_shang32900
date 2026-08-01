@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1953382018185593293",
+    "created_at": "2025-08-07T11:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953419838455795919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672120275205525504",
+          "start": 0,
+          "username": "Like_Rosemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953419838455795919",
+    "in_reply_to_user_id": "1672120275205525504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953382018185593293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Like_Rosemi 摸摸你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1953382018185593293",
+        "created_at": "2025-08-07T11:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953419838455795919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672120275205525504",
+              "start": 0,
+              "username": "Like_Rosemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953419838455795919",
+        "in_reply_to_user_id": "1672120275205525504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953382018185593293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Like_Rosemi 摸摸你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672120275205525504",
+        "conversation_id": "1953382018185593293",
+        "created_at": "2025-08-07T09:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953382018185593293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953382018185593293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对不起宝宝们有人给我发了个链接我点进去看了一下结果我不知道会自动发短信 被打扰的宝宝对不起 我没有被盗号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 679,
+          "like_count": 34439,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 8531
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T05:52:09.000Z",
+        "description": "🚪88纯绿｜150半｜接伤口定制（技术不精dbq）｜查成分回fo｜od紫餐精神病｜可以叫我鱼鱼｜infp💤｜负能｜小号@LikeRosemi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "LikeRosemi"
+              }
+            ]
+          }
+        },
+        "id": "1672120275205525504",
+        "location": "Kilmarnock, Scotland",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "1939323399484088432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921580753227317248/PtlXMbOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 583,
+          "like_count": 4144,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1189
+        },
+        "username": "Like_Rosemi",
+        "verified": false
+      }
+    ]
+  }
+}

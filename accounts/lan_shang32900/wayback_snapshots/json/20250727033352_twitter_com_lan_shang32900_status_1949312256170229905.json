@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1949127688683430185",
+    "created_at": "2025-07-27T03:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T04:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949312256170229905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597268805226442758",
+          "start": 0,
+          "username": "catbai_0catbai0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949312256170229905",
+    "in_reply_to_user_id": "1597268805226442758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949127688683430185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catbai_0catbai0 像香薰蠟燭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1949127684115820544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyxTUGacAAal6k.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1949127688683430185",
+        "created_at": "2025-07-27T03:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949312256170229905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597268805226442758",
+              "start": 0,
+              "username": "catbai_0catbai0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949312256170229905",
+        "in_reply_to_user_id": "1597268805226442758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949127688683430185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catbai_0catbai0 像香薰蠟燭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949127684115820544"
+          ]
+        },
+        "author_id": "1597268805226442758",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949127688683430185",
+        "created_at": "2025-07-26T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949127688683430185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjC0jmh10Y",
+              "end": 41,
+              "expanded_url": "https://x.com/catbai_0catbai0/status/1949127688683430185/photo/1",
+              "media_key": "3_1949127684115820544",
+              "start": 18,
+              "url": "https://t.co/VjC0jmh10Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949127688683430185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看起来有点奇怪的小饮料（bushi https://t.co/VjC0jmh10Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 671,
+          "like_count": 34143,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 8343
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T16:39:05.000Z",
+        "description": "好麻烦......\n为什么还活着........",
+        "id": "1597268805226442758",
+        "name": "0猫白0🏳‍⚧",
+        "pinned_tweet_id": "1769817451569582493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769832594127179776/0MoRUrJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 210,
+          "like_count": 1164,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1083
+        },
+        "username": "catbai_0catbai0",
+        "verified": false
+      }
+    ]
+  }
+}

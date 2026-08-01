@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967181536802775040",
+        "3_1967181536920301568"
+      ],
+      "media_source_tweet_id": [
+        "1967181540703519026",
+        "1967181540703519026"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967182411206377634",
+    "created_at": "2025-09-14T11:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967182411206377634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314390982771666944",
+          "start": 3,
+          "username": "ddlcyuribot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NZTpzPwZL",
+          "end": 40,
+          "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+          "media_key": "3_1967181536802775040",
+          "start": 17,
+          "url": "https://t.co/3NZTpzPwZL"
+        },
+        {
+          "display_url": "pic.x.com/3NZTpzPwZL",
+          "end": 40,
+          "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+          "media_key": "3_1967181536920301568",
+          "start": 17,
+          "url": "https://t.co/3NZTpzPwZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967182411206377634",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967181540703519026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ddlcyuribot: https://t.co/3NZTpzPwZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1967181536802775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zVL2XWIAACtMn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 256,
+        "media_key": "3_1967181536920301568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zVL2zXcAALdce.jpg",
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967181536802775040",
+            "3_1967181536920301568"
+          ],
+          "media_source_tweet_id": [
+            "1967181540703519026",
+            "1967181540703519026"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967182411206377634",
+        "created_at": "2025-09-14T11:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967182411206377634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314390982771666944",
+              "start": 3,
+              "username": "ddlcyuribot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NZTpzPwZL",
+              "end": 40,
+              "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+              "media_key": "3_1967181536802775040",
+              "start": 17,
+              "url": "https://t.co/3NZTpzPwZL"
+            },
+            {
+              "display_url": "pic.x.com/3NZTpzPwZL",
+              "end": 40,
+              "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+              "media_key": "3_1967181536920301568",
+              "start": 17,
+              "url": "https://t.co/3NZTpzPwZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967182411206377634",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967181540703519026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ddlcyuribot: https://t.co/3NZTpzPwZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967181536802775040",
+            "3_1967181536920301568"
+          ]
+        },
+        "author_id": "1314390982771666944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967181540703519026",
+        "created_at": "2025-09-14T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967181540703519026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NZTpzPwZL",
+              "end": 23,
+              "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+              "media_key": "3_1967181536802775040",
+              "start": 0,
+              "url": "https://t.co/3NZTpzPwZL"
+            },
+            {
+              "display_url": "pic.x.com/3NZTpzPwZL",
+              "end": 23,
+              "expanded_url": "https://x.com/ddlcyuribot/status/1967181540703519026/photo/1",
+              "media_key": "3_1967181536920301568",
+              "start": 0,
+              "url": "https://t.co/3NZTpzPwZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967181540703519026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3NZTpzPwZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 735,
+          "like_count": 37789,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 9680
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:23:47.000Z",
+        "description": "automated content of yuri.chr from DDLC. made w/ @GimmickBots 🌷 contains spoilers + potentially disturbing imagery \n「@sayoribot @monikagfbot」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "GimmickBots"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "sayoribot"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "monikagfbot"
+              }
+            ]
+          }
+        },
+        "id": "1314390982771666944",
+        "name": "hourly yuri ✦",
+        "pinned_tweet_id": "1947791699281121425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871725742586793984/t8jTg4-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8486,
+          "following_count": 16,
+          "like_count": 1275,
+          "listed_count": 17,
+          "media_count": 4044,
+          "tweet_count": 18529
+        },
+        "username": "ddlcyuribot",
+        "verified": false
+      }
+    ]
+  }
+}

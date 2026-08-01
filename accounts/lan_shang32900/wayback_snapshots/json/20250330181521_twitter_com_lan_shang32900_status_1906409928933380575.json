@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906409926433685504",
+        "3_1906409896335298560"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1906409928933380575",
+    "created_at": "2025-03-30T18:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T19:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906409928933380575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxY2otZqFJ",
+          "end": 52,
+          "expanded_url": "https://x.com/lan_shang32900/status/1906409928933380575/photo/1",
+          "media_key": "3_1906409926433685504",
+          "start": 29,
+          "url": "https://t.co/uxY2otZqFJ"
+        },
+        {
+          "display_url": "pic.x.com/uxY2otZqFJ",
+          "end": 52,
+          "expanded_url": "https://x.com/lan_shang32900/status/1906409928933380575/photo/1",
+          "media_key": "3_1906409896335298560",
+          "start": 29,
+          "url": "https://t.co/uxY2otZqFJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906409928933380575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鹏u你们抽象不要玩我头上啊这些都正经不的我想赚个钱而已啊 https://t.co/uxY2otZqFJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906409928933380575].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906409928933380575",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906409928933380575"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_1906409926433685504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTtuj1bwAAENZO.jpg",
+        "width": 800
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906409896335298560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTtszta0AA3IfK.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 657,
+          "like_count": 31533,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 7128
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

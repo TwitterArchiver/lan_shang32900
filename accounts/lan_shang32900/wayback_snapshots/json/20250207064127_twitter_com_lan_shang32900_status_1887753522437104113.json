@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887753507840925696",
+        "3_1887753507866136576"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1887753522437104113",
+    "created_at": "2025-02-07T06:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887753522437104113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KqaPpbdg94",
+          "end": 140,
+          "expanded_url": "https://x.com/lan_shang32900/status/1887753522437104113/photo/1",
+          "media_key": "3_1887753507840925696",
+          "start": 117,
+          "url": "https://t.co/KqaPpbdg94"
+        },
+        {
+          "display_url": "pic.x.com/KqaPpbdg94",
+          "end": 140,
+          "expanded_url": "https://x.com/lan_shang32900/status/1887753522437104113/photo/1",
+          "media_key": "3_1887753507866136576",
+          "start": 117,
+          "url": "https://t.co/KqaPpbdg94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887753522437104113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们眼中的地雷妹，在我眼里是宝藏，我愿意做饭，陪她出cos，真的喜欢病态的爱 因为我缺少陪伴。我是真喜欢地雷妹，我也想和她分享彼此的爱意，可以陪她喝酒，夸她的穿搭，在她心情不好时安慰她，不是钓鱼，我是太渴望爱了，就算是病态的爱也行。 https://t.co/KqaPpbdg94"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887753522437104113].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887753522437104113",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887753522437104113"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_1887753507840925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKl0EpbIAA_A4H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2178,
+        "media_key": "3_1887753507866136576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKl0Evb0AATUxb.jpg",
+        "width": 1731
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 643,
+          "like_count": 29561,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 6614
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

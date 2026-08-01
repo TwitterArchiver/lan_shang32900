@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971077553743069189"
+      ],
+      "media_source_tweet_id": [
+        "1971077561078915368"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1971465857336475830",
+    "created_at": "2025-09-26T06:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971465857336475830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1584328759552843776",
+          "start": 3,
+          "username": "tyatyaumai29"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4fGQJD08Ko",
+          "end": 49,
+          "expanded_url": "https://x.com/tyatyaumai29/status/1971077561078915368/photo/1",
+          "media_key": "3_1971077553743069189",
+          "start": 26,
+          "url": "https://t.co/4fGQJD08Ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971465857336475830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971077561078915368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyatyaumai29: 没  エーフィ https://t.co/4fGQJD08Ko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971077553743069189",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qsl4eaAAUvIJA.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971077553743069189"
+          ],
+          "media_source_tweet_id": [
+            "1971077561078915368"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1971465857336475830",
+        "created_at": "2025-09-26T06:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971465857336475830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1584328759552843776",
+              "start": 3,
+              "username": "tyatyaumai29"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fGQJD08Ko",
+              "end": 49,
+              "expanded_url": "https://x.com/tyatyaumai29/status/1971077561078915368/photo/1",
+              "media_key": "3_1971077553743069189",
+              "start": 26,
+              "url": "https://t.co/4fGQJD08Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971465857336475830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971077561078915368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyatyaumai29: 没  エーフィ https://t.co/4fGQJD08Ko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971077553743069189"
+          ]
+        },
+        "author_id": "1584328759552843776",
+        "conversation_id": "1971077561078915368",
+        "created_at": "2025-09-25T05:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971077561078915368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fGQJD08Ko",
+              "end": 31,
+              "expanded_url": "https://x.com/tyatyaumai29/status/1971077561078915368/photo/1",
+              "media_key": "3_1971077553743069189",
+              "start": 8,
+              "url": "https://t.co/4fGQJD08Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971077561078915368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 8095,
+          "like_count": 688,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "没  エーフィ https://t.co/4fGQJD08Ko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 748,
+          "like_count": 38510,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 9887
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T23:40:06.000Z",
+        "description": "好きなもの好きなだけ🫶 スケブ⇒https://t.co/nopXCDudeW サブ垢→@menndako807 低浮上気味(無断転載AI学習禁止❌)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "menndako807"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tyatyaumai29",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@tyatyaumai29",
+                "start": 16,
+                "url": "https://t.co/nopXCDudeW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9rmzv410zngee3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9rmzv410zngee34?t=hMLg1S&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/QiS57ot59B"
+              }
+            ]
+          }
+        },
+        "id": "1584328759552843776",
+        "location": "ポケモンリクエストはマシュマロで↓↓↓  ",
+        "name": "メンダコ🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859082649815621632/EAu2Zq2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 115,
+          "like_count": 19093,
+          "listed_count": 16,
+          "media_count": 538,
+          "tweet_count": 3711
+        },
+        "url": "https://t.co/QiS57ot59B",
+        "username": "tyatyaumai29",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1911323430387171662",
+    "created_at": "2025-04-13T07:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T08:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911323430387171662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911323430387171662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在真能说自己有神经问题了，癫痫像被点了穴抽抽两天，驮着过两年只能坐轮椅的身体出门复健结果回来痛到下不了床，打开手机一看评论说自己是小众姐这是小概率事件天塌了，吃个胶囊卡喉咙呕了点胆汁跪下来求身体别吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1911323430387171662",
+        "created_at": "2025-04-13T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911323430387171662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911323430387171662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在真能说自己有神经问题了，癫痫像被点了穴抽抽两天，驮着过两年只能坐轮椅的身体出门复健结果回来痛到下不了床，打开手机一看评论说自己是小众姐这是小概率事件天塌了，吃个胶囊卡喉咙呕了点胆汁跪下来求身体别吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 648,
+          "like_count": 31517,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 7169
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

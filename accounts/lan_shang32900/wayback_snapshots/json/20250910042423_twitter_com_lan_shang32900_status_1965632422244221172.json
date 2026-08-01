@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965407349335883864",
+    "created_at": "2025-09-10T04:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965632422244221172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850074319734636544",
+          "start": 0,
+          "username": "diudiujiang74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965632422244221172",
+    "in_reply_to_user_id": "1850074319734636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965407349335883864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diudiujiang74 我也喜欢一点点！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965407271632183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aHgBibIAAefZq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1965407271648993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aHgBmboAAbmeH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1965407271640555520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aHgBka4AAPRMo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965407271640571904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aHgBkbIAAcyJG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965407349335883864",
+        "created_at": "2025-09-10T04:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965632422244221172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850074319734636544",
+              "start": 0,
+              "username": "diudiujiang74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965632422244221172",
+        "in_reply_to_user_id": "1850074319734636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965407349335883864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diudiujiang74 我也喜欢一点点！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965407271632183296",
+            "3_1965407271648993280",
+            "3_1965407271640555520",
+            "3_1965407271640571904"
+          ]
+        },
+        "author_id": "1850074319734636544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965407349335883864",
+        "created_at": "2025-09-09T13:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965407349335883864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyjhzoF0B8",
+              "end": 29,
+              "expanded_url": "https://x.com/diudiujiang74/status/1965407349335883864/photo/1",
+              "media_key": "3_1965407271632183296",
+              "start": 6,
+              "url": "https://t.co/PyjhzoF0B8"
+            },
+            {
+              "display_url": "pic.x.com/PyjhzoF0B8",
+              "end": 29,
+              "expanded_url": "https://x.com/diudiujiang74/status/1965407349335883864/photo/1",
+              "media_key": "3_1965407271648993280",
+              "start": 6,
+              "url": "https://t.co/PyjhzoF0B8"
+            },
+            {
+              "display_url": "pic.x.com/PyjhzoF0B8",
+              "end": 29,
+              "expanded_url": "https://x.com/diudiujiang74/status/1965407349335883864/photo/1",
+              "media_key": "3_1965407271640555520",
+              "start": 6,
+              "url": "https://t.co/PyjhzoF0B8"
+            },
+            {
+              "display_url": "pic.x.com/PyjhzoF0B8",
+              "end": 29,
+              "expanded_url": "https://x.com/diudiujiang74/status/1965407349335883864/photo/1",
+              "media_key": "3_1965407271640571904",
+              "start": 6,
+              "url": "https://t.co/PyjhzoF0B8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965407349335883864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃喝美甲💅 https://t.co/PyjhzoF0B8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 724,
+          "like_count": 37093,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 9436
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:17:55.000Z",
+        "description": "",
+        "id": "1850074319734636544",
+        "name": "Akio46🩸",
+        "pinned_tweet_id": "1957071053819367883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961011294913630208/W26s-j9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 412,
+          "like_count": 15770,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1382
+        },
+        "username": "diudiujiang74",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923418115737804800"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1923418123299967112",
+    "created_at": "2025-05-16T16:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T17:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923418123299967112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAX90JQGZT",
+          "end": 45,
+          "expanded_url": "https://x.com/lan_shang32900/status/1923418123299967112/photo/1",
+          "media_key": "3_1923418115737804800",
+          "start": 22,
+          "url": "https://t.co/mAX90JQGZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923418123299967112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将脱离粉爪加入粉力保健这个更加权威的圈子 https://t.co/mAX90JQGZT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923418123299967112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923418123299967112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923418123299967112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1923418115737804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrFalecaYAAMDba.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 652,
+          "like_count": 31746,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 7357
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

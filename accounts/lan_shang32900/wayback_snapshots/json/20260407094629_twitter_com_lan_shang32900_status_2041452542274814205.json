@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2041439111085732290",
+    "created_at": "2026-04-07T09:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041452542274814205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825953229567569920",
+          "start": 0,
+          "username": "DaCapoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041452542274814205",
+    "in_reply_to_user_id": "1825953229567569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041445604556243425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaCapoooo 最喜欢的歌手！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2041439111085732290",
+        "created_at": "2026-04-07T09:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041452542274814205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825953229567569920",
+              "start": 0,
+              "username": "DaCapoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041452542274814205",
+        "in_reply_to_user_id": "1825953229567569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041445604556243425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaCapoooo 最喜欢的歌手！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825953229567569920",
+        "conversation_id": "2041439111085732290",
+        "created_at": "2026-04-07T09:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041445604556243425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041445604556243425",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041439111085732290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 mili耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 796,
+          "like_count": 42807,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 10835
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T17:49:20.000Z",
+        "description": "厭世",
+        "id": "1825953229567569920",
+        "location": "白紙的五線譜",
+        "name": "脳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025525225753096192/E4zgNUUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 478,
+          "like_count": 2858,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 895
+        },
+        "username": "DaCapoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T17:49:20.000Z",
+        "description": "厭世",
+        "id": "1825953229567569920",
+        "location": "白紙的五線譜",
+        "name": "脳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025525225753096192/E4zgNUUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 478,
+          "like_count": 2858,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "DaCapoooo",
+        "verified": false
+      }
+    ]
+  }
+}

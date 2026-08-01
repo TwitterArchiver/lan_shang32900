@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965735254523875435",
+    "created_at": "2025-09-11T03:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T04:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965976158597787666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807459157131296768",
+          "start": 0,
+          "username": "angeIstarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965976158597787666",
+    "in_reply_to_user_id": "1807459157131296768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965735254523875435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angeIstarz hug……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 246,
+        "media_key": "16_1965735248697716736",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0exyzUXcAAiWxG.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0exyzUXcAAiWxG.mp4"
+          }
+        ],
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965735254523875435",
+        "created_at": "2025-09-11T03:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965976158597787666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807459157131296768",
+              "start": 0,
+              "username": "angeIstarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965976158597787666",
+        "in_reply_to_user_id": "1807459157131296768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965735254523875435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angeIstarz hug……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1965735248697716736"
+          ]
+        },
+        "author_id": "1807459157131296768",
+        "conversation_id": "1965735254523875435",
+        "created_at": "2025-09-10T11:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T12:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965735254523875435"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "TRYINT2",
+              "probability": 0.8611,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "SLEFIEZ",
+              "probability": 0.5716,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCAZqfXzca",
+              "end": 84,
+              "expanded_url": "https://x.com/angeIstarz/status/1965735254523875435/photo/1",
+              "media_key": "16_1965735248697716736",
+              "start": 61,
+              "url": "https://t.co/zCAZqfXzca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965735254523875435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TRYINT2 TAKE SLEFIEZ BUT THEY ALL LOOK SO BADUUEEUUUUUGGHHHH https://t.co/zCAZqfXzca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 728,
+          "like_count": 37289,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 9505
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T17:00:44.000Z",
+        "description": "minerva ♥︎ ed & sh ^_^ 15 yrs old ౨ৎ ifb !! dnf if ure under 14 please",
+        "id": "1807459157131296768",
+        "location": " (๑˃̵ᴗ˂̵)",
+        "name": "minnie !!",
+        "pinned_tweet_id": "1808304185848336658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956135324939067399/HPiZno1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 106,
+          "like_count": 2593,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 1514
+        },
+        "username": "angeIstarz",
+        "verified": false
+      }
+    ]
+  }
+}

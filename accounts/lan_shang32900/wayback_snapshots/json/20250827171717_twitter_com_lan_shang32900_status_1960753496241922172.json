@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1960753496241922172",
+    "created_at": "2025-08-27T17:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T18:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960753496241922172"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960753496241922172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我肯定是因为自己什么都意识不到，所以早就产生的问题才会越堆越大……如果有任何对我的不满和意见都请当面表达出来好吗，我好像天生对这些感悟没有能力……我不希望这样的问题再出现在和任何人的相处身上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1960753496241922172",
+        "created_at": "2025-08-27T17:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T18:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960753496241922172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960753496241922172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我肯定是因为自己什么都意识不到，所以早就产生的问题才会越堆越大……如果有任何对我的不满和意见都请当面表达出来好吗，我好像天生对这些感悟没有能力……我不希望这样的问题再出现在和任何人的相处身上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 705,
+          "like_count": 35890,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9032
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

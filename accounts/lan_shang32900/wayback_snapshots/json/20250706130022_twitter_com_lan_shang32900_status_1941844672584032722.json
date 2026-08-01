@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1941734971179483445",
+    "created_at": "2025-07-06T13:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941844672584032722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633466645078511619",
+          "start": 0,
+          "username": "bitch_two_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941844672584032722",
+    "in_reply_to_user_id": "1633466645078511619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941734971179483445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitch_two_ 这是饮食剥夺……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941734971179483445].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941734971179483445",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941734971179483445"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1941734971179483445",
+        "created_at": "2025-07-06T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941844672584032722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633466645078511619",
+              "start": 0,
+              "username": "bitch_two_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941844672584032722",
+        "in_reply_to_user_id": "1633466645078511619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941734971179483445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitch_two_ 这是饮食剥夺……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 656,
+          "like_count": 32797,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 7868
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T13:56:31.000Z",
+        "description": "🇹🇼 |sh |od |Vkei |地雷系 |互fo",
+        "id": "1633466645078511619",
+        "location": "幻夢裡的烏托邦♡",
+        "name": "😚",
+        "pinned_tweet_id": "1845341239887253941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937692984952455168/g___puCq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 485,
+          "like_count": 15415,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 4297
+        },
+        "username": "bitch_two_",
+        "verified": false
+      }
+    ]
+  }
+}

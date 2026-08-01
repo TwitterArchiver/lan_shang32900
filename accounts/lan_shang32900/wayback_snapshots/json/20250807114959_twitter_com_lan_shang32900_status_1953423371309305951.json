@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1953279417154978124",
+    "created_at": "2025-08-07T11:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953423371309305951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953423371309305951",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953279417154978124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 生日快乐🎉🎉🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1953279417154978124",
+        "created_at": "2025-08-07T11:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953423371309305951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953423371309305951",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953279417154978124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 生日快乐🎉🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226849579951243266",
+        "conversation_id": "1953279417154978124",
+        "created_at": "2025-08-07T02:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953279417154978124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maplesyrupmagi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/maplesyrupmagic/status/1953131653012054519",
+              "start": 7,
+              "url": "https://t.co/1fCrNMJph0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953279417154978124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953131653012054519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐 https://t.co/1fCrNMJph0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 679,
+          "like_count": 34468,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 8537
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "ゆめみ 雙相混合 150/42kg 🚪52 我一直在哭 不要視奸我 特別喜歡交朋友 擅長熱暴力 非二元 我一直在哭 fa～buk 自殘 幻覺 升天 解離 我需要很多錢 正在瞭解合理用藥知識 java 數碼控 政治 b 不回 fo 喜歡和萌妹子交朋友（我關注了你說明你真的特別特別萌）歡迎找我聊天我是客服",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 991,
+          "like_count": 14289,
+          "listed_count": 3,
+          "media_count": 1259,
+          "tweet_count": 8660
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

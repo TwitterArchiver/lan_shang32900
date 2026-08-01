@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1957672360951357731",
+    "created_at": "2025-08-19T05:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957672360951357731"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957672360951357731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为自己感到迷茫感到痛苦而开心，因为至少我确实意识到了自己的感受。不想成为待宰的羔羊，不想成为一昧等待救赎的公主，不想再将迷惘的痛苦无端继续延伸，我认为自己原地被动的姿态已经够久了，仅此而已。无论是何种面对方式，还请一直看着我吧。\n\n人类绝不止停歇一种状态，我是这样认为的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1957672360951357731",
+        "created_at": "2025-08-19T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957672360951357731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957672360951357731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为自己感到迷茫感到痛苦而开心，因为至少我确实意识到了自己的感受。不想成为待宰的羔羊，不想成为一昧等待救赎的公主，不想再将迷惘的痛苦无端继续延伸，我认为自己原地被动的姿态已经够久了，仅此而已。无论是何种面对方式，还请一直看着我吧。\n\n人类绝不止停歇一种状态，我是这样认为的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 697,
+          "like_count": 35284,
+          "listed_count": 4,
+          "media_count": 670,
+          "tweet_count": 8812
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

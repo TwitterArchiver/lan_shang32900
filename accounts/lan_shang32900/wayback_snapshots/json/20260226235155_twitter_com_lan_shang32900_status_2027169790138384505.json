@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2027169790138384505",
+    "created_at": "2026-02-26T23:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027169790138384505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027169790138384505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又梦到那些不堪的事情了，潜意识就是很害怕，我无数次试图去想万一是我误解了呢，万一大家其实都是善意的，万一这样其实有人觉得很温暖幸福呢，万一那些人只是在我面前很坏呢，万一其实是我自己的原因……可是没有尽头。我每一次接纳都是对自我的背叛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2027169790138384505",
+        "created_at": "2026-02-26T23:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027169790138384505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027169790138384505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又梦到那些不堪的事情了，潜意识就是很害怕，我无数次试图去想万一是我误解了呢，万一大家其实都是善意的，万一这样其实有人觉得很温暖幸福呢，万一那些人只是在我面前很坏呢，万一其实是我自己的原因……可是没有尽头。我每一次接纳都是对自我的背叛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 759,
+          "like_count": 38862,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 10161
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

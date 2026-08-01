@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1954832116514250817",
+    "created_at": "2025-08-11T09:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T10:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954832116514250817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/admi_n123456/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/admi_n123456/status/1954807106537681156",
+          "start": 15,
+          "url": "https://t.co/dMsJJMUppR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954832116514250817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954807106537681156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会努力整成我p图里的样子的 https://t.co/dMsJJMUppR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1954832116514250817",
+        "created_at": "2025-08-11T09:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954832116514250817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/admi_n123456/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/admi_n123456/status/1954807106537681156",
+              "start": 15,
+              "url": "https://t.co/dMsJJMUppR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954832116514250817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954807106537681156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会努力整成我p图里的样子的 https://t.co/dMsJJMUppR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226849579951243266",
+        "conversation_id": "1954807106537681156",
+        "created_at": "2025-08-11T07:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954807106537681156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiheyaokanwo/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/weiheyaokanwo/status/1954792899960287710",
+              "start": 15,
+              "url": "https://t.co/r288Qi0tSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954807106537681156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954792899960287710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会努力整成我p图里的样子的 https://t.co/r288Qi0tSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 686,
+          "like_count": 34703,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 8611
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "150/45kg 🚪52 双相混合型",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 992,
+          "like_count": 14405,
+          "listed_count": 4,
+          "media_count": 1270,
+          "tweet_count": 8727
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

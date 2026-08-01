@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946880638587429246",
+    "created_at": "2025-07-20T11:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946893746794356781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627206611617058816",
+          "start": 0,
+          "username": "zhg492979261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946893746794356781",
+    "in_reply_to_user_id": "1627206611617058816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946880638587429246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhg492979261 針王蘋果回來了！ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1946880616277983232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS1mwFXwAAzd1N.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946880622829379584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS1nIfWIAAPOUQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946880628789518336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS1nesWoAABfNy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946880635391430656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS1n3SX0AA__G1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946880638587429246",
+        "created_at": "2025-07-20T11:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946893746794356781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627206611617058816",
+              "start": 0,
+              "username": "zhg492979261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946893746794356781",
+        "in_reply_to_user_id": "1627206611617058816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946880638587429246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhg492979261 針王蘋果回來了！ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946880616277983232",
+            "3_1946880622829379584",
+            "3_1946880628789518336",
+            "3_1946880635391430656"
+          ]
+        },
+        "author_id": "1627206611617058816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946880638587429246",
+        "created_at": "2025-07-20T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946880638587429246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UMocVzG4R",
+              "end": 38,
+              "expanded_url": "https://x.com/zhg492979261/status/1946880638587429246/photo/1",
+              "media_key": "3_1946880616277983232",
+              "start": 15,
+              "url": "https://t.co/4UMocVzG4R"
+            },
+            {
+              "display_url": "pic.x.com/4UMocVzG4R",
+              "end": 38,
+              "expanded_url": "https://x.com/zhg492979261/status/1946880638587429246/photo/1",
+              "media_key": "3_1946880622829379584",
+              "start": 15,
+              "url": "https://t.co/4UMocVzG4R"
+            },
+            {
+              "display_url": "pic.x.com/4UMocVzG4R",
+              "end": 38,
+              "expanded_url": "https://x.com/zhg492979261/status/1946880638587429246/photo/1",
+              "media_key": "3_1946880628789518336",
+              "start": 15,
+              "url": "https://t.co/4UMocVzG4R"
+            },
+            {
+              "display_url": "pic.x.com/4UMocVzG4R",
+              "end": 38,
+              "expanded_url": "https://x.com/zhg492979261/status/1946880638587429246/photo/1",
+              "media_key": "3_1946880635391430656",
+              "start": 15,
+              "url": "https://t.co/4UMocVzG4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946880638587429246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又出门玩啦૮₍˃̶ꇴ˂̶₎ა https://t.co/4UMocVzG4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 664,
+          "like_count": 33557,
+          "listed_count": 0,
+          "media_count": 637,
+          "tweet_count": 8127
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T07:21:33.000Z",
+        "description": "叫我枳子或者桎梏都可以\n\n06女高/中抑中焦/被害妄想症倾向/杂圈/热爱有生命力的绘画和文字/傻逼蝻给我润出去 /日常推（偶尔血图不预警）\n\n防爆小号@ZhiZi5655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ZhiZi5655"
+              }
+            ]
+          }
+        },
+        "id": "1627206611617058816",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "桎梏🦋🕸",
+        "pinned_tweet_id": "1755643466250678589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873763177537970176/HmYHy3Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 395,
+          "like_count": 22495,
+          "listed_count": 5,
+          "media_count": 890,
+          "tweet_count": 8215
+        },
+        "username": "zhg492979261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1961999795129868537",
+    "created_at": "2025-08-31T03:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T04:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962001149311304094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962001149311304094",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961999795129868537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我什么都做不好但是我从来不会对动物发脾气，小狗也是每次在家里知道我要od了会从我手里把胶囊扒拉掉，我很清楚以自己的能力可能照顾不好宠物们也试着给别人照顾，但是我发现他们根本只是把动物当畜生根本没有照顾好还满身跳蚤我就气得顺风车三百公里把猫接回来自己照顾了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1961999795129868537",
+        "created_at": "2025-08-31T03:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962001149311304094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962001149311304094",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961999795129868537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么都做不好但是我从来不会对动物发脾气，小狗也是每次在家里知道我要od了会从我手里把胶囊扒拉掉，我很清楚以自己的能力可能照顾不好宠物们也试着给别人照顾，但是我发现他们根本只是把动物当畜生根本没有照顾好还满身跳蚤我就气得顺风车三百公里把猫接回来自己照顾了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1961999795129868537",
+        "created_at": "2025-08-31T03:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961999795129868537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961999795129868537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就是一个多愁善感又对动物圣母得要死的人啊，每次拜神家里都要杀点鲜活的贡品，我也不知道为什么非要从乡下把鸡带进城里又搬了好几楼在家里半夜现杀弄得满屋子血……那些鸡在待宰前一晚非常焦虑不安，但是我安慰说没事的，下辈子不要当鸡了，然后摸摸它它就会安定下来拿头蹭我，我好难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 707,
+          "like_count": 36124,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 9119
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

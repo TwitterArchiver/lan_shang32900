@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941768634000637952",
+        "3_1941768633941999616",
+        "3_1941768634122096640"
+      ],
+      "media_source_tweet_id": [
+        "1941768643290988734",
+        "1941768643290988734",
+        "1941768643290988734"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1941810275134677303",
+    "created_at": "2025-07-06T10:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T11:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941810275134677303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779579060370522112",
+          "start": 3,
+          "username": "amekami011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5y1cW85UV",
+          "end": 108,
+          "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+          "media_key": "3_1941768634000637952",
+          "start": 85,
+          "url": "https://t.co/a5y1cW85UV"
+        },
+        {
+          "display_url": "pic.x.com/a5y1cW85UV",
+          "end": 108,
+          "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+          "media_key": "3_1941768633941999616",
+          "start": 85,
+          "url": "https://t.co/a5y1cW85UV"
+        },
+        {
+          "display_url": "pic.x.com/a5y1cW85UV",
+          "end": 108,
+          "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+          "media_key": "3_1941768634122096640",
+          "start": 85,
+          "url": "https://t.co/a5y1cW85UV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941810275134677303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941768643290988734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amekami011: 1kfo抽奖~\n抽两个52一个门槛一个半绿\n之前的号炸了我还想和大家成为好朋友😿\n拜托大家转转~\n顺便江浙沪接爸爸活妈妈活\n价格私信我哦 https://t.co/a5y1cW85UV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1941768634000637952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKMSOGagAA9jbh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941768633941999616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKMSN4bwAAiDou.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941768634122096640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKMSOjX0AAkwHh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941768634000637952",
+            "3_1941768633941999616",
+            "3_1941768634122096640"
+          ],
+          "media_source_tweet_id": [
+            "1941768643290988734",
+            "1941768643290988734",
+            "1941768643290988734"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941810275134677303",
+        "created_at": "2025-07-06T10:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941810275134677303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779579060370522112",
+              "start": 3,
+              "username": "amekami011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 108,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768634000637952",
+              "start": 85,
+              "url": "https://t.co/a5y1cW85UV"
+            },
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 108,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768633941999616",
+              "start": 85,
+              "url": "https://t.co/a5y1cW85UV"
+            },
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 108,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768634122096640",
+              "start": 85,
+              "url": "https://t.co/a5y1cW85UV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941810275134677303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941768643290988734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amekami011: 1kfo抽奖~\n抽两个52一个门槛一个半绿\n之前的号炸了我还想和大家成为好朋友😿\n拜托大家转转~\n顺便江浙沪接爸爸活妈妈活\n价格私信我哦 https://t.co/a5y1cW85UV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941768634000637952",
+            "3_1941768633941999616",
+            "3_1941768634122096640"
+          ]
+        },
+        "author_id": "1779579060370522112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941768643290988734",
+        "created_at": "2025-07-06T07:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941768643290988734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 92,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768634000637952",
+              "start": 69,
+              "url": "https://t.co/a5y1cW85UV"
+            },
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 92,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768633941999616",
+              "start": 69,
+              "url": "https://t.co/a5y1cW85UV"
+            },
+            {
+              "display_url": "pic.x.com/a5y1cW85UV",
+              "end": 92,
+              "expanded_url": "https://x.com/amekami011/status/1941768643290988734/photo/1",
+              "media_key": "3_1941768634122096640",
+              "start": 69,
+              "url": "https://t.co/a5y1cW85UV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941768643290988734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5653,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo抽奖~\n抽两个52一个门槛一个半绿\n之前的号炸了我还想和大家成为好朋友😿\n拜托大家转转~\n顺便江浙沪接爸爸活妈妈活\n价格私信我哦 https://t.co/a5y1cW85UV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 656,
+          "like_count": 32775,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 7860
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T18:35:05.000Z",
+        "description": "总之就是这个女孩重生第五次了吧。 @amedesu8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amedesu8964"
+              }
+            ]
+          }
+        },
+        "id": "1779579060370522112",
+        "location": "🚪199/288/388/5201314/5200",
+        "name": "急支血浆重生五代目",
+        "pinned_tweet_id": "1941768643290988734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938256866318192640/E8fU8Yx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 100,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 108
+        },
+        "username": "amekami011",
+        "verified": false
+      }
+    ]
+  }
+}

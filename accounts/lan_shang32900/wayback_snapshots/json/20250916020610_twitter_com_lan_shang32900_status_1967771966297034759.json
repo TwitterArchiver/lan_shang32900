@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967529956692336640"
+      ],
+      "media_source_tweet_id": [
+        "1967529967761424881"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1967771966297034759",
+    "created_at": "2025-09-16T02:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T03:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967771966297034759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920880545908879366",
+          "start": 3,
+          "username": "aiyingyiny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVbur7sdBI",
+          "end": 52,
+          "expanded_url": "https://x.com/aiyingyiny/status/1967529967761424881/photo/1",
+          "media_key": "3_1967529956692336640",
+          "start": 29,
+          "url": "https://t.co/MVbur7sdBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967771966297034759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967529967761424881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiyingyiny: 我的脊柱侧弯好像有点严重 https://t.co/MVbur7sdBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967529956692336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04SEjmWIAAXuLe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967529956692336640"
+          ],
+          "media_source_tweet_id": [
+            "1967529967761424881"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "1967771966297034759",
+        "created_at": "2025-09-16T02:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967771966297034759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920880545908879366",
+              "start": 3,
+              "username": "aiyingyiny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVbur7sdBI",
+              "end": 52,
+              "expanded_url": "https://x.com/aiyingyiny/status/1967529967761424881/photo/1",
+              "media_key": "3_1967529956692336640",
+              "start": 29,
+              "url": "https://t.co/MVbur7sdBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967771966297034759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967529967761424881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiyingyiny: 我的脊柱侧弯好像有点严重 https://t.co/MVbur7sdBI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967529956692336640"
+          ]
+        },
+        "author_id": "1920880545908879366",
+        "conversation_id": "1967529967761424881",
+        "created_at": "2025-09-15T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967529967761424881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVbur7sdBI",
+              "end": 36,
+              "expanded_url": "https://x.com/aiyingyiny/status/1967529967761424881/photo/1",
+              "media_key": "3_1967529956692336640",
+              "start": 13,
+              "url": "https://t.co/MVbur7sdBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967529967761424881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 80100,
+          "like_count": 701,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我的脊柱侧弯好像有点严重 https://t.co/MVbur7sdBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 740,
+          "like_count": 37866,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 9700
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T16:36:43.000Z",
+        "description": "碎碎念日记薄/推广自辨",
+        "id": "1920880545908879366",
+        "name": "1122",
+        "pinned_tweet_id": "1967098224810033218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961040605758324736/HyauYw27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6389,
+          "following_count": 98,
+          "like_count": 11705,
+          "listed_count": 14,
+          "media_count": 139,
+          "tweet_count": 3174
+        },
+        "username": "aiyingyiny",
+        "verified": false
+      }
+    ]
+  }
+}

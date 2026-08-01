@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2052659033224704323",
+    "created_at": "2026-05-08T09:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052675688591990874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052675688591990874",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052659033224704323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 我看着也像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2052659033224704323",
+        "created_at": "2026-05-08T09:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052675688591990874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052675688591990874",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659033224704323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 我看着也像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2052659033224704323",
+        "created_at": "2026-05-08T07:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052659033224704323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sweet_xst/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/sweet_xst/status/2052635167634960826",
+              "start": 28,
+              "url": "https://t.co/uyprCZqVhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052659033224704323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635167634960826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的理解是交往一周的时候其实同时和三个人保持着联系（） https://t.co/uyprCZqVhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 794,
+          "like_count": 48987,
+          "listed_count": 5,
+          "media_count": 802,
+          "tweet_count": 12006
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "要らない記憶を排除して重たい荷物投げ出して\nそこに残されたものは弱い自分だけ",
+        "id": "2015509801846046721",
+        "name": "NamidAme",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040843782309253120/VeSj22F-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 530,
+          "like_count": 11113,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 641
+        },
+        "username": "fffalsum",
+        "verified": false
+      }
+    ]
+  }
+}

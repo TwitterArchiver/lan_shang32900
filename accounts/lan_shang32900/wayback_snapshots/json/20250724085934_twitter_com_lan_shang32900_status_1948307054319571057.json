@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1948307054319571057",
+    "created_at": "2025-07-24T08:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948307054319571057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824394555904626689",
+          "start": 3,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948307054319571057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948224301632774157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxun2007: 我遇到对我好的人会一直在想他是不是对其他人也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1948307054319571057",
+        "created_at": "2025-07-24T08:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948307054319571057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824394555904626689",
+              "start": 3,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948307054319571057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948224301632774157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxun2007: 我遇到对我好的人会一直在想他是不是对其他人也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824394555904626689",
+        "conversation_id": "1948224301632774157",
+        "created_at": "2025-07-24T03:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T04:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948224301632774157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948224301632774157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到对我好的人会一直在想他是不是对其他人也这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 667,
+          "like_count": 33885,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 8260
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "特别穷一宅女，爱好galgame/穿孔／美学电影／亚文化／cult片／显化。 来小抖音找我玩！:1378307674xun",
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1945873634914115743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 292,
+          "like_count": 2187,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1358
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

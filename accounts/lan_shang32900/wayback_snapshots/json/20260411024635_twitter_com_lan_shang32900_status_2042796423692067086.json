@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2042796423692067086",
+    "created_at": "2026-04-11T02:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042796423692067086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yi30744/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yi30744/status/2042446577395229142",
+          "start": 7,
+          "url": "https://t.co/lf3CoS1SqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042796423692067086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042446577395229142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么这样啊啊 https://t.co/lf3CoS1SqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 874,
+        "media_key": "3_2042446575092580356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg6VrUbQAQ3tVr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1001,
+        "media_key": "3_2042446575059025922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg6VrMbQAIFNki.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2042796423692067086",
+        "created_at": "2026-04-11T02:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042796423692067086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi30744/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yi30744/status/2042446577395229142",
+              "start": 7,
+              "url": "https://t.co/lf3CoS1SqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042796423692067086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042446577395229142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么这样啊啊 https://t.co/lf3CoS1SqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042446575092580356",
+            "3_2042446575059025922"
+          ]
+        },
+        "author_id": "1701591779999612928",
+        "conversation_id": "2042446577395229142",
+        "created_at": "2026-04-10T03:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042446577395229142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgPPsdzzCu",
+              "end": 37,
+              "expanded_url": "https://x.com/yi30744/status/2042446577395229142/photo/1",
+              "media_key": "3_2042446575092580356",
+              "start": 14,
+              "url": "https://t.co/OgPPsdzzCu"
+            },
+            {
+              "display_url": "pic.x.com/OgPPsdzzCu",
+              "end": 37,
+              "expanded_url": "https://x.com/yi30744/status/2042446577395229142/photo/1",
+              "media_key": "3_2042446575059025922",
+              "start": 14,
+              "url": "https://t.co/OgPPsdzzCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042446577395229142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2316,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去死吧，我第二個賬號都沒了 https://t.co/OgPPsdzzCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 798,
+          "like_count": 43257,
+          "listed_count": 3,
+          "media_count": 776,
+          "tweet_count": 10924
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T13:41:20.000Z",
+        "description": "是的我3.0了，前世 @bai347312，備用@hui04210524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "bai347312"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "hui04210524"
+              }
+            ]
+          }
+        },
+        "id": "1701591779999612928",
+        "name": "遺灰3.0",
+        "pinned_tweet_id": "2042453796752932905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042452792657494016/M34MuTiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 316,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "yi30744",
+        "verified": false
+      }
+    ]
+  }
+}

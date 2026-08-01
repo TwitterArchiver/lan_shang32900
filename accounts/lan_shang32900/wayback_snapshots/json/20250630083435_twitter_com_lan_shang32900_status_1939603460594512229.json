@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1939603460594512229",
+    "created_at": "2025-06-30T08:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939603460594512229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ahe_Ovi/status…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Ahe_Ovi/status/1939342178398159330",
+          "start": 110,
+          "url": "https://t.co/QjKnQ7Q9MI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939603460594512229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939342178398159330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在禁止任何女生跟我聊天 因为你想一下 我的智商也很高 我的情商也很高 我品味也很好 因为女生通常都比较单纯 假如她要没谈过恋爱的话 你跟我聊几句话 我这个人又很神秘 两三天直接就爱上我了 那我怎么办 我到时候怎么办 https://t.co/QjKnQ7Q9MI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1939603460594512229",
+        "created_at": "2025-06-30T08:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939603460594512229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ahe_Ovi/status…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Ahe_Ovi/status/1939342178398159330",
+              "start": 110,
+              "url": "https://t.co/QjKnQ7Q9MI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939603460594512229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939342178398159330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在禁止任何女生跟我聊天 因为你想一下 我的智商也很高 我的情商也很高 我品味也很好 因为女生通常都比较单纯 假如她要没谈过恋爱的话 你跟我聊几句话 我这个人又很神秘 两三天直接就爱上我了 那我怎么办 我到时候怎么办 https://t.co/QjKnQ7Q9MI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728310366038568960",
+        "conversation_id": "1939342178398159330",
+        "created_at": "2025-06-29T15:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939342178398159330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939342178398159330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在禁止任何女生跟我聊天 因为你想一下 我的智商也很高 我的情商也很高 我品味也很好 因为女生通常都比较单纯 假如她要没谈过恋爱的话 你跟我聊几句话 我这个人又很神秘 两三天直接就爱上我了 那我怎么办 我到时候怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 654,
+          "like_count": 32380,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 7713
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T07:11:24.000Z",
+        "description": "看我不爽你就去死^^ \n有🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=AlfU4I3K",
+                "start": 0,
+                "url": "https://t.co/KHvYv0lH3X"
+              }
+            ]
+          }
+        },
+        "id": "1728310366038568960",
+        "location": "自用蜂鸟VPN:",
+        "name": "Nieeee^",
+        "pinned_tweet_id": "1902996541402656835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902991515892453377/YhyTxiIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 669,
+          "like_count": 27725,
+          "listed_count": 8,
+          "media_count": 475,
+          "tweet_count": 7267
+        },
+        "url": "https://t.co/KHvYv0lH3X",
+        "username": "Ahe_Ovi",
+        "verified": false
+      }
+    ]
+  }
+}

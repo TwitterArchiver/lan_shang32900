@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954485544760774656"
+      ],
+      "media_source_tweet_id": [
+        "1954485554168619091"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1954733640874856506",
+    "created_at": "2025-08-11T02:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T03:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954733640874856506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsUMj55zBQ",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/1954485554168619091/photo/1",
+          "media_key": "3_1954485544760774656",
+          "start": 15,
+          "url": "https://t.co/tsUMj55zBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954733640874856506",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954485554168619091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/tsUMj55zBQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954733640874856506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954733640874856506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954733640874856506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_1954485544760774656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-6P2YaEAAy8PP.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954485544760774656"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1954485554168619091",
+        "created_at": "2025-08-10T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954485554168619091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsUMj55zBQ",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/1954485554168619091/photo/1",
+              "media_key": "3_1954485544760774656",
+              "start": 0,
+              "url": "https://t.co/tsUMj55zBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954485554168619091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4833,
+          "like_count": 425,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tsUMj55zBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 686,
+          "like_count": 34668,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 8601
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "",
+        "id": "1893209290921672704",
+        "location": "288/520/1888🚪口令",
+        "name": "瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14783,
+          "following_count": 17,
+          "like_count": 433,
+          "listed_count": 38,
+          "media_count": 28,
+          "tweet_count": 54
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1941365098746085572",
+    "created_at": "2025-07-05T05:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T06:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941374065752801682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843650037882183680",
+          "start": 0,
+          "username": "q5JhDwTDwN73660"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941374065752801682",
+    "in_reply_to_user_id": "1843650037882183680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941373612822495583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q5JhDwTDwN73660 🤔有机会试试……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1941365098746085572",
+        "created_at": "2025-07-05T05:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941374065752801682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843650037882183680",
+              "start": 0,
+              "username": "q5JhDwTDwN73660"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941374065752801682",
+        "in_reply_to_user_id": "1843650037882183680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941373612822495583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q5JhDwTDwN73660 🤔有机会试试……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843650037882183680",
+        "conversation_id": "1941365098746085572",
+        "created_at": "2025-07-05T05:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941373612822495583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941373612822495583",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941373172881949157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 但事实就是这样的呀，感觉好喝，但是又有点难喝૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 655,
+          "like_count": 32715,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 7838
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T13:50:11.000Z",
+        "description": "誰も気にしません…",
+        "id": "1843650037882183680",
+        "location": "虚空です",
+        "name": "人間です",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863924319002476544/ioSmFm7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "q5JhDwTDwN73660",
+        "verified": false
+      }
+    ]
+  }
+}

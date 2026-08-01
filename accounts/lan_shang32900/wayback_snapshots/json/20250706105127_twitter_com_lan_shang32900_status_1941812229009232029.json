@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1941732341107523751",
+    "created_at": "2025-07-06T10:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T11:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941812229009232029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643472294956904448",
+          "start": 0,
+          "username": "k12101224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941812229009232029",
+    "in_reply_to_user_id": "1643472294956904448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941732341107523751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k12101224 欢迎回来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1941732341107523751",
+        "created_at": "2025-07-06T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941812229009232029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643472294956904448",
+              "start": 0,
+              "username": "k12101224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941812229009232029",
+        "in_reply_to_user_id": "1643472294956904448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941732341107523751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k12101224 欢迎回来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643472294956904448",
+        "conversation_id": "1941732341107523751",
+        "created_at": "2025-07-06T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941732341107523751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941732341107523751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久沒上線這裡⋯等一個人關心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 656,
+          "like_count": 32793,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 7866
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T04:35:11.000Z",
+        "description": "一個普通的有病女孩子｜憂鬱症專業戶｜INFJ-T｜泛性戀｜重鬱重焦｜自殘｜大量碎碎唸+轉推｜互fo請私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hQzjwv5CD5",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hQzjwv5CD5",
+                "start": 0,
+                "url": "https://t.co/qSyWLJme07"
+              }
+            ]
+          }
+        },
+        "id": "1643472294956904448",
+        "location": "歡迎加入DC(◍ ´꒳` ◍)",
+        "name": "玖月",
+        "pinned_tweet_id": "1896815629677801702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741759337381654529/NkZCOfZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 243,
+          "like_count": 25813,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 4677
+        },
+        "url": "https://t.co/qSyWLJme07",
+        "username": "k12101224",
+        "verified": false
+      }
+    ]
+  }
+}

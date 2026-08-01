@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1972271170969059718",
+    "created_at": "2025-09-29T08:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T09:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972575772868247585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585942498253238273",
+          "start": 0,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972575772868247585",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972271170969059718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1972271103461793792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17qHnqboAA5jNs.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1566,
+        "media_key": "3_1972271167756222464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17qLXLawAAYArz.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1972271170969059718",
+        "created_at": "2025-09-29T08:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972575772868247585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972575772868247585",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972271170969059718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972271103461793792",
+            "3_1972271167756222464"
+          ]
+        },
+        "author_id": "1585942498253238273",
+        "conversation_id": "1972271170969059718",
+        "created_at": "2025-09-28T12:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972271170969059718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9MZpLRVRY",
+              "end": 41,
+              "expanded_url": "https://x.com/AliceEslight/status/1972271170969059718/photo/1",
+              "media_key": "3_1972271103461793792",
+              "start": 18,
+              "url": "https://t.co/C9MZpLRVRY"
+            },
+            {
+              "display_url": "pic.x.com/C9MZpLRVRY",
+              "end": 41,
+              "expanded_url": "https://x.com/AliceEslight/status/1972271170969059718/photo/1",
+              "media_key": "3_1972271167756222464",
+              "start": 18,
+              "url": "https://t.co/C9MZpLRVRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972271170969059718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 69811,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很神奇，但过于神奇所以感觉不靠谱。 https://t.co/C9MZpLRVRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 749,
+          "like_count": 38692,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 9925
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "于睡梦中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "不可思议",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 77,
+          "like_count": 27093,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 9663
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

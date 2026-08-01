@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905546053308534784",
+        "3_1905546052205510660"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1905546068122841445",
+    "created_at": "2025-03-28T09:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T10:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905546068122841445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vNrH29rBy",
+          "end": 52,
+          "expanded_url": "https://x.com/lan_shang32900/status/1905546068122841445/photo/1",
+          "media_key": "3_1905546053308534784",
+          "start": 29,
+          "url": "https://t.co/2vNrH29rBy"
+        },
+        {
+          "display_url": "pic.x.com/2vNrH29rBy",
+          "end": 52,
+          "expanded_url": "https://x.com/lan_shang32900/status/1905546068122841445/photo/1",
+          "media_key": "3_1905546052205510660",
+          "start": 29,
+          "url": "https://t.co/2vNrH29rBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905546068122841445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自从知道3p是什么意思之后就对720p和1080p很恐惧 https://t.co/2vNrH29rBy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905546068122841445].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905546068122841445",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905546068122841445"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905546053308534784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHcChqaUAARgFk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 622,
+        "media_key": "3_1905546052205510660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHcCdjbgAQsBrm.jpg",
+        "width": 1180
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（柏枝凪斗版）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896907242190036992/vASfVn_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 658,
+          "like_count": 31490,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 7117
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

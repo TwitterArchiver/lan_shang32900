@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1974479329326465268",
+    "created_at": "2025-10-04T14:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974479329326465268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974479329326465268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其實非常歡迎有禮貌的昆蟲，要是有昆蟲先生願意敲敲門並詢問是否能來家裡做客，我是非常歡迎的\n\n我討厭大搖大擺不請自來出現在我的衣服、我的餐桌、甚至突然爬上我的手的昆蟲，這也太冒昧了！！非常過分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1974479329326465268",
+        "created_at": "2025-10-04T14:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974479329326465268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974479329326465268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其實非常歡迎有禮貌的昆蟲，要是有昆蟲先生願意敲敲門並詢問是否能來家裡做客，我是非常歡迎的\n\n我討厭大搖大擺不請自來出現在我的衣服、我的餐桌、甚至突然爬上我的手的昆蟲，這也太冒昧了！！非常過分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 756,
+          "like_count": 38857,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 9969
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

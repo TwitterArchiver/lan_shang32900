@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1959677167476031511",
+    "created_at": "2025-08-25T06:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959860873322967126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1044534914060709888",
+          "start": 0,
+          "username": "fgxgfdxgbfxhhgh"
+        },
+        {
+          "end": 29,
+          "id": "1747931023277502465",
+          "start": 17,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959860873322967126",
+    "in_reply_to_user_id": "1044534914060709888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959695740051292579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fgxgfdxgbfxhhgh @damatte8964 不是我想不正常的华人也是这样做的吧，此处不正常的定义是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1959677167476031511",
+        "created_at": "2025-08-25T06:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959860873322967126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1044534914060709888",
+              "start": 0,
+              "username": "fgxgfdxgbfxhhgh"
+            },
+            {
+              "end": 29,
+              "id": "1747931023277502465",
+              "start": 17,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959860873322967126",
+        "in_reply_to_user_id": "1044534914060709888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959695740051292579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fgxgfdxgbfxhhgh @damatte8964 不是我想不正常的华人也是这样做的吧，此处不正常的定义是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1044534914060709888",
+        "conversation_id": "1959677167476031511",
+        "created_at": "2025-08-24T19:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959695740051292579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959695740051292579",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959677167476031511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 可能正常的在日华人都在努力变成在日日人或者在日有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 704,
+          "like_count": 35581,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 8908
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-25T10:31:44.000Z",
+        "description": "If you see anything mean I posted, I copied.",
+        "id": "1044534914060709888",
+        "name": "GFH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849698562424307716/GCWAG2NO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 891,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 231
+        },
+        "username": "fgxgfdxgbfxhhgh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*目前的身份是日本小瘤/オタク/精神障害者/无耻的门槛鸡，我需要钱所以🚪99/198/520谢谢你 我可以给你唱歌画画。 也在东京接纯绿线下，我有艾滋和梅毒所以不要想和我做爱的事情。",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34511,
+          "following_count": 771,
+          "like_count": 7104,
+          "listed_count": 42,
+          "media_count": 230,
+          "tweet_count": 2506
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

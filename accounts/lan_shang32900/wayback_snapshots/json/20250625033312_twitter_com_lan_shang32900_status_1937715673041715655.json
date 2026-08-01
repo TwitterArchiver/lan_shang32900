@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1937460044112756832",
+    "created_at": "2025-06-25T03:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937715673041715655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937715673041715655",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937460044112756832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 😭😭小心消毒……这两天先不要碰水了、手指部分伤口超容易刺激的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937460035225047040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9ow4a0AAt2Hk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937460035254386690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9ow_agAI9Kzv.jpg",
+        "width": 1144
+      },
+      {
+        "height": 1335,
+        "media_key": "3_1937460035187277826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9owvagAIH6Bf.jpg",
+        "width": 1895
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1937460035204055041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9owzagAEVcm3.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1937460044112756832",
+        "created_at": "2025-06-25T03:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937715673041715655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937715673041715655",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937460044112756832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 😭😭小心消毒……这两天先不要碰水了、手指部分伤口超容易刺激的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937460035225047040",
+            "3_1937460035254386690",
+            "3_1937460035187277826",
+            "3_1937460035204055041"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937460044112756832",
+        "created_at": "2025-06-24T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937460044112756832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOrE4aDq9Y",
+              "end": 41,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+              "media_key": "3_1937460035225047040",
+              "start": 18,
+              "url": "https://t.co/MOrE4aDq9Y"
+            },
+            {
+              "display_url": "pic.x.com/MOrE4aDq9Y",
+              "end": 41,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+              "media_key": "3_1937460035254386690",
+              "start": 18,
+              "url": "https://t.co/MOrE4aDq9Y"
+            },
+            {
+              "display_url": "pic.x.com/MOrE4aDq9Y",
+              "end": 41,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+              "media_key": "3_1937460035187277826",
+              "start": 18,
+              "url": "https://t.co/MOrE4aDq9Y"
+            },
+            {
+              "display_url": "pic.x.com/MOrE4aDq9Y",
+              "end": 41,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+              "media_key": "3_1937460035204055041",
+              "start": 18,
+              "url": "https://t.co/MOrE4aDq9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937460044112756832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#sh \n哈哈，no不小心切到手了 https://t.co/MOrE4aDq9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 647,
+          "like_count": 32076,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 7638
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3025,
+          "like_count": 23585,
+          "listed_count": 3,
+          "media_count": 1458,
+          "tweet_count": 22544
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

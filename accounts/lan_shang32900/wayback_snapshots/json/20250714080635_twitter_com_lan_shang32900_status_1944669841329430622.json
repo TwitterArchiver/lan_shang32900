@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891837819188019203",
+        "3_1891837819284541440"
+      ],
+      "media_source_tweet_id": [
+        "1891837827073159339",
+        "1891837827073159339"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1944669841329430622",
+    "created_at": "2025-07-14T08:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944669841329430622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860596848781873152",
+          "start": 3,
+          "username": "jiangshi1121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hlKClPXZj",
+          "end": 80,
+          "expanded_url": "https://x.com/jiangshi1121/status/1891837827073159339/photo/1",
+          "media_key": "3_1891837819188019203",
+          "start": 57,
+          "url": "https://t.co/2hlKClPXZj"
+        },
+        {
+          "display_url": "pic.x.com/2hlKClPXZj",
+          "end": 80,
+          "expanded_url": "https://x.com/jiangshi1121/status/1891837827073159339/photo/1",
+          "media_key": "3_1891837819284541440",
+          "start": 57,
+          "url": "https://t.co/2hlKClPXZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944669841329430622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891837827073159339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiangshi1121: 因为邮箱忘掉了，所以备用账号启动！因为在幻觉状态不知道说什么，所以！mua！ https://t.co/2hlKClPXZj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944669841329430622].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944669841329430622",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944669841329430622"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1891837819188019203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEoeSFaAAMi_d4.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891837819284541440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEoeSca0AAxFva.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891837819188019203",
+            "3_1891837819284541440"
+          ]
+        },
+        "author_id": "1860596848781873152",
+        "conversation_id": "1891837827073159339",
+        "created_at": "2025-02-18T13:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T14:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891837827073159339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hlKClPXZj",
+              "end": 62,
+              "expanded_url": "https://x.com/jiangshi1121/status/1891837827073159339/photo/1",
+              "media_key": "3_1891837819188019203",
+              "start": 39,
+              "url": "https://t.co/2hlKClPXZj"
+            },
+            {
+              "display_url": "pic.x.com/2hlKClPXZj",
+              "end": 62,
+              "expanded_url": "https://x.com/jiangshi1121/status/1891837827073159339/photo/1",
+              "media_key": "3_1891837819284541440",
+              "start": 39,
+              "url": "https://t.co/2hlKClPXZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891837827073159339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 60247,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "因为邮箱忘掉了，所以备用账号启动！因为在幻觉状态不知道说什么，所以！mua！ https://t.co/2hlKClPXZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 657,
+          "like_count": 33195,
+          "listed_count": 0,
+          "media_count": 626,
+          "tweet_count": 8001
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T08:10:40.000Z",
+        "description": "你喜欢听鬼故事嘛？无论死掉多少次都会回来的鬼故事。 @akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "akui1121"
+              }
+            ]
+          }
+        },
+        "id": "1860596848781873152",
+        "name": "千媿夜",
+        "pinned_tweet_id": "1891837827073159339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891837411870883840/J3NLgEX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 41,
+          "like_count": 12,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 27
+        },
+        "username": "jiangshi1121",
+        "verified": false
+      }
+    ]
+  }
+}

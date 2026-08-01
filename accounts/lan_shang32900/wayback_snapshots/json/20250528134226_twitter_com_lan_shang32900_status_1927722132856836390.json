@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1927587635570282625",
+    "created_at": "2025-05-28T13:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T14:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927722132856836390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1265616516759687170",
+          "start": 0,
+          "username": "nya_korii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927722132856836390",
+    "in_reply_to_user_id": "1265616516759687170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927589495286751618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_korii 谢谢你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1927587635570282625",
+        "created_at": "2025-05-28T13:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927722132856836390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265616516759687170",
+              "start": 0,
+              "username": "nya_korii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927722132856836390",
+        "in_reply_to_user_id": "1265616516759687170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927589495286751618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_korii 谢谢你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265616516759687170",
+        "conversation_id": "1927587635570282625",
+        "created_at": "2025-05-28T04:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T05:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927589495286751618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927589495286751618",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927587635570282625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 647,
+          "like_count": 32211,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 7479
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-27T12:11:18.000Z",
+        "description": "💉💊🩸🧬. 𝗵𝗶𝗺/𝘁𝗵𝗲𝘆｜𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 @nya_souta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "nya_souta"
+              }
+            ]
+          }
+        },
+        "id": "1265616516759687170",
+        "location": "奈落",
+        "name": "桐言大王🦊❄️",
+        "pinned_tweet_id": "1818490356411121861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926669502831345664/V4g00DPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 351,
+          "like_count": 47449,
+          "listed_count": 3,
+          "media_count": 631,
+          "tweet_count": 13107
+        },
+        "username": "nya_korii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919758904239783936",
+        "3_1919758909063233538"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1919759094799323207",
+    "created_at": "2025-05-06T14:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919759094799323207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CcTcUHYxu0",
+          "end": 51,
+          "expanded_url": "https://x.com/lan_shang32900/status/1919759094799323207/photo/1",
+          "media_key": "3_1919758904239783936",
+          "start": 28,
+          "url": "https://t.co/CcTcUHYxu0"
+        },
+        {
+          "display_url": "pic.x.com/CcTcUHYxu0",
+          "end": 51,
+          "expanded_url": "https://x.com/lan_shang32900/status/1919759094799323207/photo/1",
+          "media_key": "3_1919758909063233538",
+          "start": 28,
+          "url": "https://t.co/CcTcUHYxu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919759094799323207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被爱后疯狂长出血肉的赶紧去医院看看吧，不会是尖锐湿疣吧 https://t.co/CcTcUHYxu0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919759094799323207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919759094799323207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919759094799323207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919758904239783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRajVWbAAAM4IL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1708,
+        "media_key": "3_1919758909063233538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRajnUbAAICFXO.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 648,
+          "like_count": 31314,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 7231
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

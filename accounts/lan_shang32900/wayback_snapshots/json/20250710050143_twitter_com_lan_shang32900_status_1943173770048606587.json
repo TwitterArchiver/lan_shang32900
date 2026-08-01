@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1942859295932178566",
+    "created_at": "2025-07-10T05:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T06:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943173770048606587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943173770048606587",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942859295932178566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_8964 对不起我要笑死了抱抱你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1942859295932178566",
+        "created_at": "2025-07-10T05:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943173770048606587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943173770048606587",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942859295932178566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 对不起我要笑死了抱抱你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1942859295932178566",
+        "created_at": "2025-07-09T08:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942859295932178566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuduki99/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yuduki99/status/1942395423894999145",
+              "start": 12,
+              "url": "https://t.co/p6o0vdp7k8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942859295932178566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1730,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942395423894999145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在吗为什么这也能骂着我 https://t.co/p6o0vdp7k8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 656,
+          "like_count": 32916,
+          "listed_count": 0,
+          "media_count": 620,
+          "tweet_count": 7911
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "♂/お幸せに/無言フォローすいません/dm大歓迎/我的一生从头到尾写满了失败",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1939112903824810030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942869238462517248/n6B-64Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 3140,
+          "like_count": 32424,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 7771
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

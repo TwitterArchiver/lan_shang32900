@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1920490145561661602",
+    "created_at": "2025-05-09T07:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920740921915715904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920740921915715904",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920490145561661602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 新的方法:把胃切了然后药物二手出，包永久戒断不反复（再吃了也没效果只会呕力呕力）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1920490131607216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbzmXkXYAAmAa7.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1920490145561661602",
+        "created_at": "2025-05-09T07:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920740921915715904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920740921915715904",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920490145561661602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 新的方法:把胃切了然后药物二手出，包永久戒断不反复（再吃了也没效果只会呕力呕力）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920490131607216128"
+          ]
+        },
+        "author_id": "1865636851643744257",
+        "conversation_id": "1920490145561661602",
+        "created_at": "2025-05-08T14:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920490145561661602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7v7wmzZiK",
+              "end": 31,
+              "expanded_url": "https://x.com/akanenene19/status/1920490145561661602/photo/1",
+              "media_key": "3_1920490131607216128",
+              "start": 8,
+              "url": "https://t.co/B7v7wmzZiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920490145561661602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1001,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这又是谁的家长 https://t.co/B7v7wmzZiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（门槛好友位）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 650,
+          "like_count": 31439,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 7272
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "我是小茜あかね/🚺/18/INFJ/推特当朋友圈发/EJU備考中/🚬🔪💊/最好的詭祕&第二人格：@Tsukishima_hane",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "Tsukishima_hane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 0,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1920382439890784751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899753285944520704/PP8tXtzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 128,
+          "like_count": 8391,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/IqQ2zRy2gf",
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

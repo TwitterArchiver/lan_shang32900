@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963264866174509097",
+    "created_at": "2025-09-03T16:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963272098530664922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "minami886886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963272098530664922",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963271587316318325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minami886886 无论是声音还是画面的情景触发，大家也只是觉得我想象力比较丰富，我也完全明白我所看到的和现实中的世界是有区别的，可以自我调控并不影响日常生活，所以我不认为这是需要介入治疗的，这是独属于我自己的特异功能或者超能力吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963264866174509097",
+        "created_at": "2025-09-03T16:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963272098530664922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "minami886886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963272098530664922",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963271587316318325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minami886886 无论是声音还是画面的情景触发，大家也只是觉得我想象力比较丰富，我也完全明白我所看到的和现实中的世界是有区别的，可以自我调控并不影响日常生活，所以我不认为这是需要介入治疗的，这是独属于我自己的特异功能或者超能力吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963264866174509097",
+        "created_at": "2025-09-03T16:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963271587316318325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "minami886886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963271587316318325",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963264866174509097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minami886886 我也从小就有这种毛病啊，初中的时候最严重吧但是也没去看过家人只是觉得我一个劲演看我能演多久（）我经常场景触发看到很多并不存在的画面，甚至可以全息一样触摸到，我还拉着手和朋友一起旋转跳舞……在我意识到家里并不存在我幻想中的家庭成员后我开始尝试去控制，目前完全是可控状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 711,
+          "like_count": 36460,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 9235
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "安卓人住安卓房间吃安卓早饭喝安卓饮料用安卓手机玩安卓电脑发安卓帖子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/OXuM4vbTaK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "🍀南南南南南南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930924029378252800/VEZez0fN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 931,
+          "like_count": 56172,
+          "listed_count": 6,
+          "media_count": 557,
+          "tweet_count": 11975
+        },
+        "url": "https://t.co/OXuM4vbTaK",
+        "username": "minami886886",
+        "verified": false
+      }
+    ]
+  }
+}

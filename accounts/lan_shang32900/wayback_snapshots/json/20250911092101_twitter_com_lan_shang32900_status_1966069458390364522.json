@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1965820376484925841",
+    "created_at": "2025-09-11T09:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T10:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966069458390364522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966069458390364522",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965820376484925841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 不应该很善良温柔吗，我遇到的讨厌老师全是中年已婚妇女TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1965820376484925841",
+        "created_at": "2025-09-11T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966069458390364522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966069458390364522",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965820376484925841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 不应该很善良温柔吗，我遇到的讨厌老师全是中年已婚妇女TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741091789879308288",
+        "conversation_id": "1965820376484925841",
+        "created_at": "2025-09-10T16:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T17:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965820376484925841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965820376484925841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2461,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你大学遇到刚工作的未婚女辅导员，那么大学期间你会非常痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 728,
+          "like_count": 37335,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 9518
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一个杂鱼填充物，中推第一锦依卫\ncoser/kiger/せいふくコン/写真撮影\n想和娃娃们贴贴\n欢迎大家扩列",
+        "id": "1741091789879308288",
+        "location": "上海 闵行区",
+        "name": "あずにゃん",
+        "pinned_tweet_id": "1947996301037334601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946796000896565248/ml-OsKJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4943,
+          "following_count": 1812,
+          "like_count": 11712,
+          "listed_count": 13,
+          "media_count": 205,
+          "tweet_count": 2601
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

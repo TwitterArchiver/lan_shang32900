@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1921894098161602895",
+    "created_at": "2025-05-13T03:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922135854308315526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922135854308315526",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921894098161602895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 我也是，又好笑又尴尬，在班上也是一模一样的存在（根本不存在）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1921894090435633152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvwfhxWoAAFLy7.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1921894098161602895",
+        "created_at": "2025-05-13T03:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922135854308315526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922135854308315526",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921894098161602895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 我也是，又好笑又尴尬，在班上也是一模一样的存在（根本不存在）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921894090435633152"
+          ]
+        },
+        "author_id": "1627413864756424704",
+        "conversation_id": "1921894098161602895",
+        "created_at": "2025-05-12T11:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921894098161602895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kydRO60FIQ",
+              "end": 64,
+              "expanded_url": "https://x.com/Aphrodite_mis/status/1921894098161602895/photo/1",
+              "media_key": "3_1921894090435633152",
+              "start": 41,
+              "url": "https://t.co/kydRO60FIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921894098161602895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀我真的就是这个样子的 生活状态 形象 身体素质 行为举止都跟这个黑木智子一样 https://t.co/kydRO60FIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 652,
+          "like_count": 31612,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 7320
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "戰鬥蘿莉鵝🔱",
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1920720031005950316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916757982727340032/Q_uFTwY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17812,
+          "following_count": 594,
+          "like_count": 190192,
+          "listed_count": 36,
+          "media_count": 2723,
+          "tweet_count": 46979
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

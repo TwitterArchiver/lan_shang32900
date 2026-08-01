@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1999529620958593347",
+    "created_at": "2025-12-13T03:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T04:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999679307036397748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709928872920469504",
+          "start": 0,
+          "username": "mahoshojopikapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999679307036397748",
+    "in_reply_to_user_id": "1709928872920469504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999529620958593347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahoshojopikapi 🙌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1999529620958593347",
+        "created_at": "2025-12-13T03:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999679307036397748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709928872920469504",
+              "start": 0,
+              "username": "mahoshojopikapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999679307036397748",
+        "in_reply_to_user_id": "1709928872920469504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999529620958593347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahoshojopikapi 🙌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709928872920469504",
+        "conversation_id": "1999529620958593347",
+        "created_at": "2025-12-12T17:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999529620958593347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999529620958593347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互關誰想加我微信qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 769,
+          "like_count": 39085,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 10151
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:49:57.000Z",
+        "description": "互fo私信 會查成分 成分相似會回fo 盜圖4000+ 🚪199/288/520/1314/5200 都是台幣 不開非綠",
+        "id": "1709928872920469504",
+        "location": "天國",
+        "name": "✞︎ 魔法少女淺淺 ✞︎",
+        "pinned_tweet_id": "1989132784909336785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744442846533603329/SEKrTqv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 504,
+          "like_count": 2414,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1942
+        },
+        "username": "mahoshojopikapi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1963273309975351743",
+    "created_at": "2025-09-03T16:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963275231142748617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963275231142748617",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963273309975351743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家所在争取的追求的意义多半是身为人类的价值感，在群体中所发挥的作用，好像只要一旦不合群就被视为异类推向舞台中间当笑柄。\n我不认为自己的特质是病态，现代学科仍在不停发展中，我所拥有的或许只是学界未被定义的领域。但我有生之年可能等不到了，生活仍在继续，我和自己的一切和平共处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963273309975351743",
+        "created_at": "2025-09-03T16:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963275231142748617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963275231142748617",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963273309975351743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家所在争取的追求的意义多半是身为人类的价值感，在群体中所发挥的作用，好像只要一旦不合群就被视为异类推向舞台中间当笑柄。\n我不认为自己的特质是病态，现代学科仍在不停发展中，我所拥有的或许只是学界未被定义的领域。但我有生之年可能等不到了，生活仍在继续，我和自己的一切和平共处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1963273309975351743",
+        "created_at": "2025-09-03T16:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963273309975351743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963273309975351743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就明白自己是和周围人不一样的，所有人和我之间都互相有排异感。我有很多大众所认为怪异、认为不可思议的与生俱来的部分，但其实很多人都会有。\n发现某种现象后人们只是取一个公约数把多数人规定为正常的，剩下就是病理，是需要隔离开的非人权试验品。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 711,
+          "like_count": 36461,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 9238
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

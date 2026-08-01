@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2047307709851291776",
+    "created_at": "2026-04-23T13:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047307709851291776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuashwe/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/yuashwe/status/2046888350452502962",
+          "start": 62,
+          "url": "https://t.co/v7A2XnQxbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047307709851291776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046888350452502962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说什么来着！！这个扣就是一个活扣我草还要手动挡控制大小，重力一旦施加这个绳扣马上滑脱，没有比这个更安全的绳扣了🤗纯折磨人 https://t.co/v7A2XnQxbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14444,
+        "height": 1920,
+        "media_key": "7_2046888313441898496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046888313441898496/pu/img/XJ2IjKR0R85Yz7c9.jpg",
+        "public_metrics": {
+          "view_count": 37302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/320x568/RN5EYYQ-nkpD7nSH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/480x852/JWqsjb-A4EtFGkic.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/720x1280/uY60ayklYzDrIhLo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/1080x1920/4zqWdePu-_rPt42r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/pl/J8HSFEUGnQqZA4p3.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2047307709851291776",
+        "created_at": "2026-04-23T13:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047307709851291776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuashwe/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/yuashwe/status/2046888350452502962",
+              "start": 62,
+              "url": "https://t.co/v7A2XnQxbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047307709851291776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046888350452502962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说什么来着！！这个扣就是一个活扣我草还要手动挡控制大小，重力一旦施加这个绳扣马上滑脱，没有比这个更安全的绳扣了🤗纯折磨人 https://t.co/v7A2XnQxbH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046888313441898496"
+          ]
+        },
+        "author_id": "1207132508040523776",
+        "conversation_id": "2046888350452502962",
+        "created_at": "2026-04-22T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046888350452502962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5RvUEDy3X",
+              "end": 31,
+              "expanded_url": "https://x.com/yuashwe/status/2046888350452502962/video/1",
+              "media_key": "7_2046888313441898496",
+              "start": 8,
+              "url": "https://t.co/A5RvUEDy3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046888350452502962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 106932,
+          "like_count": 1071,
+          "quote_count": 19,
+          "reply_count": 126,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "生活终极小窍门 https://t.co/A5RvUEDy3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 791,
+          "like_count": 46551,
+          "listed_count": 3,
+          "media_count": 791,
+          "tweet_count": 11554
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-18T02:56:40.000Z",
+        "description": "我所有的推文你都可以当成反话听，如果你的智商不足以分辨的话，你就都当成阴阳怪气好了，总之没有正经的。凡是到推上找真相的、寻营养的、求破案的、觅真理的，都你妈屄给我滚远点儿，老子这儿没有这些。我是来寻开心的，不是来哄你丫玩儿的",
+        "id": "1207132508040523776",
+        "location": "Macau",
+        "name": "老多",
+        "pinned_tweet_id": "1952428095408889943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548061646043590658/9ErxBsRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106902,
+          "following_count": 286,
+          "like_count": 633420,
+          "listed_count": 311,
+          "media_count": 8570,
+          "tweet_count": 58963
+        },
+        "username": "yuashwe",
+        "verified": true
+      }
+    ]
+  }
+}

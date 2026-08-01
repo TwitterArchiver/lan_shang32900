@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2037073603896992251",
+    "created_at": "2026-03-26T16:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037210002289819771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585452233964982272",
+          "start": 0,
+          "username": "rainIcicles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037210002289819771",
+    "in_reply_to_user_id": "1585452233964982272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037207797054705977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainIcicles 🙀怎么这样坏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037207797054705977].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037207797054705977",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037207797054705977"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2037073603896992251",
+        "created_at": "2026-03-26T16:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037210002289819771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585452233964982272",
+              "start": 0,
+              "username": "rainIcicles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037210002289819771",
+        "in_reply_to_user_id": "1585452233964982272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037207797054705977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainIcicles 🙀怎么这样坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 757,
+          "like_count": 40008,
+          "listed_count": 3,
+          "media_count": 751,
+          "tweet_count": 10314
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T02:04:33.000Z",
+        "description": "蚊子 | 18↑ | 自言自语bot | 视奸爱好者 | 我爱嗑药皮肤好好 | 情绪不稳定⚠️疑似精神病⚠️ | 关注我就多看看我 | 觉得我好吵建议赶紧ban了不要犹豫喵 | 双取代表我不喜欢时间线有你的推文对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TiramisuDaisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/TiramisuDaisuki",
+                "start": 0,
+                "url": "https://t.co/YJGDVi7njQ"
+              }
+            ]
+          }
+        },
+        "id": "1585452233964982272",
+        "location": "徐汇区宛平南路600号",
+        "name": "蚊子",
+        "pinned_tweet_id": "1903278636872110512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997641435013603328/XC8PA3gc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 127,
+          "like_count": 97999,
+          "listed_count": 3,
+          "media_count": 3343,
+          "tweet_count": 22840
+        },
+        "url": "https://t.co/YJGDVi7njQ",
+        "username": "rainIcicles",
+        "verified": false
+      }
+    ]
+  }
+}

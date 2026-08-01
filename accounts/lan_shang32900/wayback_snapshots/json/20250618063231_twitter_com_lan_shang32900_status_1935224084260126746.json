@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1934854925382766659",
+    "created_at": "2025-06-18T06:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T07:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935224084260126746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779196176992194560",
+          "start": 0,
+          "username": "xiok310274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935224084260126746",
+    "in_reply_to_user_id": "1779196176992194560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934999170089419088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiok310274 是的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1934854925382766659",
+        "created_at": "2025-06-18T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935224084260126746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779196176992194560",
+              "start": 0,
+              "username": "xiok310274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935224084260126746",
+        "in_reply_to_user_id": "1779196176992194560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934999170089419088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiok310274 是的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779196176992194560",
+        "conversation_id": "1934854925382766659",
+        "created_at": "2025-06-17T15:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934999170089419088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934999170089419088",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934867688410763522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 🫂吵架让人感觉很不好……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（抑郁急性发作期）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 647,
+          "like_count": 32029,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 7590
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T17:13:26.000Z",
+        "description": "🤍🤍🤍",
+        "id": "1779196176992194560",
+        "name": "绝望的理想主义者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922867447750651904/IuYeEuXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 176,
+          "like_count": 1878,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 900
+        },
+        "username": "xiok310274",
+        "verified": false
+      }
+    ]
+  }
+}

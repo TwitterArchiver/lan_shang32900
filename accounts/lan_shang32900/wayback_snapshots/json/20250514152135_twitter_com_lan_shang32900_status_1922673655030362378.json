@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922673650014334976",
+        "3_1922673651259756544"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1922673655030362378",
+    "created_at": "2025-05-14T15:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922673655030362378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKQUz481gD",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1922673655030362378/photo/1",
+          "media_key": "3_1922673650014334976",
+          "start": 0,
+          "url": "https://t.co/MKQUz481gD"
+        },
+        {
+          "display_url": "pic.x.com/MKQUz481gD",
+          "end": 23,
+          "expanded_url": "https://x.com/lan_shang32900/status/1922673655030362378/photo/1",
+          "media_key": "3_1922673651259756544",
+          "start": 0,
+          "url": "https://t.co/MKQUz481gD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922673655030362378",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MKQUz481gD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922673655030362378].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922673655030362378",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922673655030362378"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_1922673650014334976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq61f3gbsAAIwf5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1708,
+        "media_key": "3_1922673651259756544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq61f8JXUAAm7Qf.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 652,
+          "like_count": 31614,
+          "listed_count": 0,
+          "media_count": 560,
+          "tweet_count": 7323
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

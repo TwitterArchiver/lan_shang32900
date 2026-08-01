@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2043235176189505809",
+    "created_at": "2026-04-12T07:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043235176189505809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lan_shang32900…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/lan_shang32900/status/2042953249775587355",
+          "start": 53,
+          "url": "https://t.co/xZSh6mz4u3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043235176189505809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042953249775587355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这漫画主角家每个人都很卑劣，女生中目前最喜欢八木家瞳仁大大黑黑的女儿，结果连名字都没有说，不推荐👎🏻（） https://t.co/xZSh6mz4u3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042953245908451329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoHJzMawAEucV5.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2043235176189505809",
+        "created_at": "2026-04-12T07:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043235176189505809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lan_shang32900…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/lan_shang32900/status/2042953249775587355",
+              "start": 53,
+              "url": "https://t.co/xZSh6mz4u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043235176189505809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042953249775587355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这漫画主角家每个人都很卑劣，女生中目前最喜欢八木家瞳仁大大黑黑的女儿，结果连名字都没有说，不推荐👎🏻（） https://t.co/xZSh6mz4u3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042953245908451329"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2042953249775587355",
+        "created_at": "2026-04-11T13:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042953249775587355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dl7RMzXFBd",
+              "end": 71,
+              "expanded_url": "https://x.com/lan_shang32900/status/2042953249775587355/photo/1",
+              "media_key": "3_2042953245908451329",
+              "start": 48,
+              "url": "https://t.co/dl7RMzXFBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042953249775587355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中的自我介绍的时候我也是说梦想是这个、、大家还都知道呃呃呃然后我撒完谎大家都一片起哄嘲笑（） https://t.co/dl7RMzXFBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 786,
+          "like_count": 43520,
+          "listed_count": 3,
+          "media_count": 778,
+          "tweet_count": 10975
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

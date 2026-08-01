@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "2045131322352603495",
+    "created_at": "2026-04-18T00:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045298875469304137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "Chihuahua0202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045298875469304137",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045180069757501460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihuahua0202 (՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷᷄⸝⸝՞)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2045131322352603495",
+        "created_at": "2026-04-18T00:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045298875469304137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "Chihuahua0202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045298875469304137",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045180069757501460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihuahua0202 (՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷᷄⸝⸝՞)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "conversation_id": "2045131322352603495",
+        "created_at": "2026-04-17T16:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045180069757501460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045180069757501460",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045131322352603495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 It's painful to be disliked without realizing it because you don't understand the reason..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 799,
+          "like_count": 45481,
+          "listed_count": 3,
+          "media_count": 787,
+          "tweet_count": 11385
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "🐈⸒⸒⸒⸒♂ 裏@necodog2222 リツイート🔞\nケモケいくよ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "necodog2222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeta-ai.io/@MistyLinen506…",
+                "end": 23,
+                "expanded_url": "https://zeta-ai.io/@MistyLinen5069?share_id=3gyfayra",
+                "start": 0,
+                "url": "https://t.co/vkGyf8l4IF"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "ゴミ箱",
+        "name": "チワワ",
+        "pinned_tweet_id": "2011762211161850151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033861255916867584/sKJGbMMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1084,
+          "like_count": 142603,
+          "listed_count": 0,
+          "media_count": 2789,
+          "tweet_count": 63545
+        },
+        "url": "https://t.co/vkGyf8l4IF",
+        "username": "Chihuahua0202",
+        "verified": false
+      }
+    ]
+  }
+}

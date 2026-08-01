@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1957313525149561040",
+    "created_at": "2025-08-19T04:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T05:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957656769259532529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957656769259532529",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957313525149561040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 大部分时候更喜欢有话直说的朋友，自己也想努力成为这样的人。当然不分场合说话的除外……希望自己没有引起别人反感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1957313525149561040",
+        "created_at": "2025-08-19T04:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957656769259532529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957656769259532529",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957313525149561040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 大部分时候更喜欢有话直说的朋友，自己也想努力成为这样的人。当然不分场合说话的除外……希望自己没有引起别人反感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1957313525149561040",
+        "created_at": "2025-08-18T05:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957313525149561040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957313525149561040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别的不说，就我之前去云南那14天里，精挑细选了很多好看的视频首饰特产之类的，很多很多，一共两百多块三百多，都送给我两个前朋友了。\n打最终幻想14，她入坑的时候我也是想要啥给啥，属于像喂饭到嘴里，有什么不会的语音手把手教，副本排不到我就用奶t陪她排。\n其实在我眼中，她们地位真的很高很高很高，是常人无法理解的。\n我承认我有些事情做的不妥，但是你就不能当场说出来吗，这很难吗，非得秋后算账，你当时哪怕说一句你不舒服不开心，我都会道歉然后转变话题，你说了吗？\n没有，你什么也没说，你把事情憋在自己心里，然后等爆发的那一刻给我下死罪令。\n我知道内向自卑的人怎么样，我知道，因为我曾经就是那种走路都要低头别人找我讲话都害怕的人，正所以是这样娃才处处照顾她情绪，既然决定撕破脸。\n那我就戳你痛处而就又没办法反\n\n题外话：本来这件事我都忘了，结果今天划聊天记录不小心划到她的头像，以及和我决裂的小作文。\n讽刺，无比讽刺。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别的不说，就我之前去云南那14天里，精挑细选了很多好看的视频首饰特产之类的，很多很多，一共两百多块三百多，都送给我两个前朋友了。\n打最终幻想14，她入坑的时候我也是想要啥给啥，属于像喂饭到嘴里，有什么不会的语音手把手教，副本排不到我就用奶t陪她排。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 697,
+          "like_count": 35270,
+          "listed_count": 4,
+          "media_count": 670,
+          "tweet_count": 8807
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨嘤鹉：@SENDOH214丨🚪55r 丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 48,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1954923240574652614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41992,
+          "following_count": 1081,
+          "like_count": 23623,
+          "listed_count": 48,
+          "media_count": 2576,
+          "tweet_count": 29707
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

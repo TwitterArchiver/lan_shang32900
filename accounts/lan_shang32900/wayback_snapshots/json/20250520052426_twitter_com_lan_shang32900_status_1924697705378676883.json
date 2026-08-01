@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924697701788368896"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1924697705378676883",
+    "created_at": "2025-05-20T05:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T06:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924697705378676883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vionwu6mSU",
+          "end": 36,
+          "expanded_url": "https://x.com/lan_shang32900/status/1924697705378676883/photo/1",
+          "media_key": "3_1924697701788368896",
+          "start": 13,
+          "url": "https://t.co/Vionwu6mSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924697705378676883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝你真的很喜欢这件衣服 https://t.co/Vionwu6mSU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924697705378676883].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924697705378676883",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924697705378676883"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1924697701788368896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXmXL8bQAAxhf0.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 653,
+          "like_count": 31921,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 7399
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

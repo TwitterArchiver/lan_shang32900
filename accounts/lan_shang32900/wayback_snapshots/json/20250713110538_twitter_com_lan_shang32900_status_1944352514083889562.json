@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1943974749073477669",
+    "created_at": "2025-07-13T11:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T12:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944352514083889562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944352514083889562",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943974749073477669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 以前可以不只生一个，也可以不固定配偶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1943974740672360449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvpiuh4bsAEYXW8.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1943974749073477669",
+        "created_at": "2025-07-13T11:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944352514083889562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944352514083889562",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943974749073477669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 以前可以不只生一个，也可以不固定配偶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943974740672360449"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1943974749073477669",
+        "created_at": "2025-07-12T10:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943974749073477669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqAKPU8DRa",
+              "end": 25,
+              "expanded_url": "https://x.com/codyhunk/status/1943974749073477669/photo/1",
+              "media_key": "3_1943974740672360449",
+              "start": 2,
+              "url": "https://t.co/JqAKPU8DRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943974749073477669",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 216779,
+          "like_count": 1492,
+          "quote_count": 7,
+          "reply_count": 103,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/JqAKPU8DRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 657,
+          "like_count": 33132,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 7977
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo",
+        "pinned_tweet_id": "1941707554859499537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7466,
+          "following_count": 1641,
+          "like_count": 2886,
+          "listed_count": 12,
+          "media_count": 2713,
+          "tweet_count": 2954
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

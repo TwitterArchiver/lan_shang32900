@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966365857938026499"
+      ],
+      "media_source_tweet_id": [
+        "1966365862241382614"
+      ]
+    },
+    "author_id": "1749719755119071232",
+    "conversation_id": "1966434551548280889",
+    "created_at": "2025-09-12T09:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T10:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966434551548280889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1692136120027320320",
+          "start": 3,
+          "username": "AlbertIsCypress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ChQcZBITAU",
+          "end": 78,
+          "expanded_url": "https://x.com/AlbertIsCypress/status/1966365862241382614/photo/1",
+          "media_key": "3_1966365857938026499",
+          "start": 55,
+          "url": "https://t.co/ChQcZBITAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966434551548280889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966365862241382614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlbertIsCypress: OK这东西一问世我马上把名字改成讞飝虪饙顟鞻麣钃虋騱鸜騳齺龖韽灪齉 https://t.co/ChQcZBITAU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966434551548280889].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966434551548280889",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966434551548280889"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_1966365857938026499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nvVFzaMAM7QdO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966365857938026499"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1966365862241382614",
+        "created_at": "2025-09-12T04:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966365862241382614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChQcZBITAU",
+              "end": 57,
+              "expanded_url": "https://x.com/AlbertIsCypress/status/1966365862241382614/photo/1",
+              "media_key": "3_1966365857938026499",
+              "start": 34,
+              "url": "https://t.co/ChQcZBITAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966365862241382614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK这东西一问世我马上把名字改成讞飝虪饙顟鞻麣钃虋騱鸜騳齺龖韽灪齉 https://t.co/ChQcZBITAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 727,
+          "like_count": 37367,
+          "listed_count": 4,
+          "media_count": 695,
+          "tweet_count": 9539
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|接伤口定制 请私信@kanbenshiteyo0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "kanbenshiteyo0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1157,
+          "like_count": 31704,
+          "listed_count": 7,
+          "media_count": 1331,
+          "tweet_count": 9251
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

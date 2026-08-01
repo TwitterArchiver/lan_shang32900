@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1894778831753638142",
+    "created_at": "2025-02-26T15:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T16:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894778831753638142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723396647512850432",
+          "start": 3,
+          "username": "Nobuyasuyoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894778831753638142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894675823753335199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nobuyasuyoki: 【转抽三人付邮送蕾服】\n欢迎不嫌弃的喜欢和想尝试地雷系的宝宝来领走，💖转评就好了💖\nP1 mjrt 全新 黑白短袖露肩衬衫\nP2 同品牌 全新 百褶半裙\nP3 地偶界隈衬衫 穿三洗三(国牌)\nP1p2均码，p3 L码\n本人自用无异味破烂泛黄宠…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1894674135126568960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gks8FmVW8AAP895.jpg",
+        "width": 3072
+      },
+      {
+        "height": 864,
+        "media_key": "3_1894674135118237696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gks8FmTX0AAOQqw.jpg",
+        "width": 864
+      },
+      {
+        "height": 433,
+        "media_key": "3_1894674135122321408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gks8FmUWIAADHgX.jpg",
+        "width": 433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1894778831753638142",
+        "created_at": "2025-02-26T15:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T16:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894778831753638142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1723396647512850432",
+              "start": 3,
+              "username": "Nobuyasuyoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894778831753638142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894675823753335199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nobuyasuyoki: 【转抽三人付邮送蕾服】\n欢迎不嫌弃的喜欢和想尝试地雷系的宝宝来领走，💖转评就好了💖\nP1 mjrt 全新 黑白短袖露肩衬衫\nP2 同品牌 全新 百褶半裙\nP3 地偶界隈衬衫 穿三洗三(国牌)\nP1p2均码，p3 L码\n本人自用无异味破烂泛黄宠…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894674135126568960",
+            "3_1894674135118237696",
+            "3_1894674135122321408"
+          ]
+        },
+        "author_id": "1723396647512850432",
+        "conversation_id": "1894675823753335199",
+        "created_at": "2025-02-26T09:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T10:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894675823753335199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1SZz5IgsR",
+              "end": 180,
+              "expanded_url": "https://x.com/Nobuyasuyoki/status/1894675823753335199/photo/1",
+              "media_key": "3_1894674135126568960",
+              "start": 157,
+              "url": "https://t.co/I1SZz5IgsR"
+            },
+            {
+              "display_url": "pic.x.com/I1SZz5IgsR",
+              "end": 180,
+              "expanded_url": "https://x.com/Nobuyasuyoki/status/1894675823753335199/photo/1",
+              "media_key": "3_1894674135118237696",
+              "start": 157,
+              "url": "https://t.co/I1SZz5IgsR"
+            },
+            {
+              "display_url": "pic.x.com/I1SZz5IgsR",
+              "end": 180,
+              "expanded_url": "https://x.com/Nobuyasuyoki/status/1894675823753335199/photo/1",
+              "media_key": "3_1894674135122321408",
+              "start": 157,
+              "url": "https://t.co/I1SZz5IgsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894675823753335199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1508,
+          "like_count": 21,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "【转抽三人付邮送蕾服】\n欢迎不嫌弃的喜欢和想尝试地雷系的宝宝来领走，💖转评就好了💖\nP1 mjrt 全新 黑白短袖露肩衬衫\nP2 同品牌 全新 百褶半裙\nP3 地偶界隈衬衫 穿三洗三(国牌)\nP1p2均码，p3 L码\n本人自用无异味破烂泛黄宠物毛\n⚠️社区送温暖只送经济困难的小女孩，男人的和图占便宜的别来哈⚠️ https://t.co/I1SZz5IgsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #edtwt #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii\n #画性恋 #钱性恋 🚪80‖非二元‖开放式关系 \n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "edtwt"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "自杀"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "躁郁"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "sm"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ddlg"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "traumacore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "babycore"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "ratcore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "画性恋"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "钱性恋"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低潮期）",
+        "pinned_tweet_id": "1881329983781769680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854826963166543874/JSecUOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 651,
+          "like_count": 30266,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 6795
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T17:46:09.000Z",
+        "description": "我系小秋=ᗜωᗜ=\n地雷系女子｜精神病半家桶｜碎碎念博主\n随机付邮送本人自用闲置希望能帮到小女孩\n不接门不聊扫，生理心理雄性都请勿骚扰我\n滴泪妹求你们找我互fo呀💖不互转抱歉",
+        "id": "1723396647512850432",
+        "location": "故事的最后",
+        "name": "☆=ᗜωᗜ=☆",
+        "pinned_tweet_id": "1894676945335439605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894588084617932802/tX-ko2yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 554,
+          "like_count": 837,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1106
+        },
+        "username": "Nobuyasuyoki",
+        "verified": false
+      }
+    ]
+  }
+}

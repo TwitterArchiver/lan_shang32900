@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1946243609420071185",
+    "created_at": "2025-07-18T16:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T17:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946249458221818102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946249458221818102",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 69,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946243609420071185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 魔理沙耶，但是叽里咕噜说什么呢（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946243581997662208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJyOedawAA7xtk.jpg",
+        "width": 1095
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946243582152577024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJyOfCWkAAXDgb.jpg",
+        "width": 1098
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946243582135840769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJyOe-XMAEqcUy.jpg",
+        "width": 1096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946243582131625985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJyOe9W4AExnes.jpg",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1946243609420071185",
+        "created_at": "2025-07-18T16:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946249458221818102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946249458221818102",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946243609420071185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 魔理沙耶，但是叽里咕噜说什么呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946243581997662208",
+            "3_1946243582152577024",
+            "3_1946243582135840769",
+            "3_1946243582131625985"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1946243609420071185",
+        "created_at": "2025-07-18T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946243609420071185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6XaWi9b9Z",
+              "end": 119,
+              "expanded_url": "https://x.com/akui1121/status/1946243609420071185/photo/1",
+              "media_key": "3_1946243581997662208",
+              "start": 96,
+              "url": "https://t.co/G6XaWi9b9Z"
+            },
+            {
+              "display_url": "pic.x.com/G6XaWi9b9Z",
+              "end": 119,
+              "expanded_url": "https://x.com/akui1121/status/1946243609420071185/photo/1",
+              "media_key": "3_1946243582152577024",
+              "start": 96,
+              "url": "https://t.co/G6XaWi9b9Z"
+            },
+            {
+              "display_url": "pic.x.com/G6XaWi9b9Z",
+              "end": 119,
+              "expanded_url": "https://x.com/akui1121/status/1946243609420071185/photo/1",
+              "media_key": "3_1946243582135840769",
+              "start": 96,
+              "url": "https://t.co/G6XaWi9b9Z"
+            },
+            {
+              "display_url": "pic.x.com/G6XaWi9b9Z",
+              "end": 119,
+              "expanded_url": "https://x.com/akui1121/status/1946243609420071185/photo/1",
+              "media_key": "3_1946243582131625985",
+              "start": 96,
+              "url": "https://t.co/G6XaWi9b9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946243609420071185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1564,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是脾气太好了，有些人真的莫名其妙😅，你被你前任甩关我屁事，你是你，我是我，我受到伤害我不能说是吧，除了这点我感觉我前任挺好很有安全感，如果不是发生反复试探这件事我真的幻想过和他一辈子🥲 https://t.co/G6XaWi9b9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 663,
+          "like_count": 33460,
+          "listed_count": 0,
+          "media_count": 632,
+          "tweet_count": 8083
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121  互炒闺蜜@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1943261520902951277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944206812791865345/VxoTQON3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25787,
+          "following_count": 1143,
+          "like_count": 18413,
+          "listed_count": 70,
+          "media_count": 809,
+          "tweet_count": 10707
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

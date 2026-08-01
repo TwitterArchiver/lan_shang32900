@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749719755119071232",
+    "conversation_id": "1924691398261125142",
+    "created_at": "2025-05-20T07:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T08:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924723393301250198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913884832314302464",
+          "start": 0,
+          "username": "x_Evil_S5ra_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924723393301250198",
+    "in_reply_to_user_id": "1913884832314302464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924700460063326235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_Evil_S5ra_x 宝宝我来给你美甲（不是）贴脸蹭蹭呀好开心！和我互动了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "1924691398261125142",
+        "created_at": "2025-05-20T07:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T08:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924723393301250198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913884832314302464",
+              "start": 0,
+              "username": "x_Evil_S5ra_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924723393301250198",
+        "in_reply_to_user_id": "1913884832314302464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924700460063326235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_Evil_S5ra_x 宝宝我来给你美甲（不是）贴脸蹭蹭呀好开心！和我互动了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913884832314302464",
+        "conversation_id": "1924691398261125142",
+        "created_at": "2025-05-20T05:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924700460063326235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924700460063326235",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924691398261125142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 除了美甲抽烟都干了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（紫菜激推人）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 653,
+          "like_count": 31941,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 7401
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:18:25.000Z",
+        "description": "两个邪恶的人，共用账号",
+        "id": "1913884832314302464",
+        "location": "地狱👁️",
+        "name": "小鳥遊 空（邪恶版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919488120191696896/fWgSb93o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "x_Evil_S5ra_x",
+        "verified": false
+      }
+    ]
+  }
+}
